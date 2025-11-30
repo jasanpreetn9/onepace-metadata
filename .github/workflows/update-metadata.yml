@@ -1,0 +1,46 @@
+name: Update Metadata
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # Run every 6 hours
+  workflow_dispatch:        # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Install Chromium for chromedp
+        run: |
+          sudo apt update
+          sudo apt install -y chromium-browser
+
+      - name: Set up Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: "1.22.x"
+
+      - name: Run metadata updater
+        run: go run main.go
+
+      - name: Commit & Push ONLY if metadata changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          if ! git diff --quiet; then
+            echo "Changes found — committing update."
+            git add .
+            git commit -m "Auto-update metadata [$(date -u +"%Y-%m-%dT%H:%M:%SZ")]"
+            git push
+          else
+            echo "No changes detected — skipping commit."
+          fi

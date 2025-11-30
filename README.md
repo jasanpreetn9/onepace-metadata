@@ -107,4 +107,4 @@ episodes.yml
 
 ## 📄 License
 
-MIT License
+GNU GPLv3 License

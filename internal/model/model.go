@@ -63,14 +63,12 @@ type Episode struct {
 // - Extended version
 // - Newer re-release
 type EpisodeFile struct {
+	Version       string `json:"version,omitempty" yaml:"version,omitempty"`
 	CRC32         string `json:"crc32" yaml:"crc32"`
-	CRC32Extended string `json:"crc32_extended,omitempty" yaml:"crc32_extended,omitempty"`
 
 	Length         string `json:"length,omitempty" yaml:"length,omitempty"`
-	LengthExtended string `json:"length_extended,omitempty" yaml:"length_extended,omitempty"`
 
 	URL         string `json:"url,omitempty" yaml:"url,omitempty"`
-	URLExtended string `json:"url_extended,omitempty" yaml:"url_extended,omitempty"`
 }
 
 type EpisodeMeta struct {

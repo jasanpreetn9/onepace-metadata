@@ -390,9 +390,10 @@ func fetchArcEpisodes(spreadsheetID, gid string) ([]model.Episode, error) {
 
 		if crc32 != "" {
 			files = append(files, model.EpisodeFile{
-				CRC32:  crc32,
-				Length: length,
-				URL:    fileUrl,
+				Version: "normal",
+				CRC32:   crc32,
+				Length:  length,
+				URL:     fileUrl,
 			})
 		}
 
@@ -417,9 +418,10 @@ func fetchArcEpisodes(spreadsheetID, gid string) ([]model.Episode, error) {
 
 			if crc32Ext != "" {
 				files = append(files, model.EpisodeFile{
-					CRC32Extended:  crc32Ext,
-					LengthExtended: lengthExt,
-					URLExtended:    urlExt,
+					Version: "extended",
+					CRC32:   crc32Ext,
+					Length:  lengthExt,
+					URL:     urlExt,
 				})
 			}
 		}

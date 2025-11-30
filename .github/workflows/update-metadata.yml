@@ -2,8 +2,8 @@ name: Update Metadata
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # Run every 6 hours
-  workflow_dispatch:        # Manual trigger
+    - cron: "0 */6 * * *"   # run every 6 hours
+  workflow_dispatch:        # allow manual trigger
 
 permissions:
   contents: write
@@ -18,7 +18,7 @@ jobs:
         with:
           persist-credentials: true
 
-      - name: Install Chromium for chromedp
+      - name: Install Chromium
         run: |
           sudo apt update
           sudo apt install -y chromium-browser
@@ -26,7 +26,7 @@ jobs:
       - name: Set up Go
         uses: actions/setup-go@v4
         with:
-          go-version: "1.22.x"
+          go-version: "1.22"
 
       - name: Run metadata updater
         run: go run main.go
@@ -37,10 +37,10 @@ jobs:
           git config --local user.name "github-actions[bot]"
 
           if ! git diff --quiet; then
-            echo "Changes found — committing update."
+            echo "Changes detected — pushing update"
             git add .
-            git commit -m "Auto-update metadata [$(date -u +"%Y-%m-%dT%H:%M:%SZ")]"
+            git commit -m "Auto-update metadata $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
             git push
           else
-            echo "No changes detected — skipping commit."
+            echo "No changes — skipping commit."
           fi

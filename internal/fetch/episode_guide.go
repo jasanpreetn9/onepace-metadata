@@ -22,62 +22,48 @@ import (
 // FetchEpisodeGuideHome parses the main arc list (HTML) + all arc CSVs.
 func FetchEpisodeGuideHome() ([]model.Arc, error) {
 
-	// 1. Fetch arc list from main sheet
 	arcs, err := fetchArcList(config.OnePaceEpisodeGuide)
 	if err != nil {
 		return nil, fmt.Errorf("fetchArcList: %w", err)
 	}
 
-	// 2. Normalize arc numbers (fix decimals like 6.5 → 7)
 	arcs = normalizeArcIDs(arcs)
 
-	// 3. Fetch episodes for each arc
 	for i := range arcs {
-
 		if arcs[i].GID == "" {
 			continue
 		}
-
+		fmt.Printf("Fetching - %d - %s.\n", arcs[i].Arc, arcs[i].Title)
 		episodes, err := fetchArcEpisodes(config.OnePaceEpisodeGuide, arcs[i].GID)
 		if err != nil {
-			fmt.Printf("Warning: failed to fetch episodes for arc %d (%s): %v\n",
-				arcs[i].Arc, arcs[i].Title, err)
+			fmt.Printf("Warning: failed to fetch episodes for arc %d: %v\n", arcs[i].Arc, err)
 			continue
 		}
 
-		// Assign arc number to each episode
 		for idx := range episodes {
 			episodes[idx].Arc = arcs[i].Arc
 		}
 
-		// Append all episodes to the arc
 		arcs[i].Episodes = append(arcs[i].Episodes, episodes...)
 
-		// Sort episodes by episode number
 		sort.Slice(arcs[i].Episodes, func(a, b int) bool {
 			return arcs[i].Episodes[a].Episode < arcs[i].Episodes[b].Episode
 		})
 	}
 
-	// 4. Merge titles + descriptions
+	// Merge descriptions
 	desc, err := FetchEpisodeDescriptions()
-	if err != nil {
-		fmt.Println("WARN: Could not fetch episode descriptions:", err)
-	} else {
+	if err == nil {
 		for i := range arcs {
-
-			arcName := arcs[i].Title
-			epDescSet, ok := desc[arcName]
+			set, ok := desc[arcs[i].Title]
 			if !ok {
 				continue
 			}
-
 			for idx := range arcs[i].Episodes {
-				epNum := arcs[i].Episodes[idx].Episode
-
-				if meta, ok := epDescSet[epNum]; ok {
-					arcs[i].Episodes[idx].Title = meta.Title
-					arcs[i].Episodes[idx].Description = meta.Description
+				ep := &arcs[i].Episodes[idx]
+				if meta, ok := set[ep.Episode]; ok {
+					ep.Title = meta.Title
+					ep.Description = meta.Description
 				}
 			}
 		}
@@ -376,53 +362,58 @@ func fetchArcEpisodes(spreadsheetID, gid string) ([]model.Episode, error) {
 		releaseDate := convertDate(cleanText(cells.Eq(4).Text()))
 		length := cleanText(cells.Eq(5).Text())
 
-		// ===== NORMAL CRC32 =====
-		var crc32, fileUrl string
+		var files model.EpisodeFileVariants
+		var hasExtended bool
+
+		// ─────────────────────────────────────
+		// NORMAL VERSION
+		// ─────────────────────────────────────
+		var crc32 string
+		var url string
 
 		cells.Eq(6).Find("a").Each(func(_ int, a *goquery.Selection) {
 			crc32 = cleanText(a.Text())
 			if href, ok := a.Attr("href"); ok {
-				fileUrl = extractURLFromHref(href)
+				url = extractURLFromHref(href)
 			}
 		})
 
-		files := []model.EpisodeFile{}
-
 		if crc32 != "" {
-			files = append(files, model.EpisodeFile{
+			files.Normal = &model.EpisodeFile{
 				Version: "normal",
 				CRC32:   crc32,
 				Length:  length,
-				URL:     fileUrl,
-			})
+				URL:     url,
+			}
 		}
 
-		// ===== EXTENDED VERSION =====
-		// Column 7 exists → extended CRC exists
+		// ─────────────────────────────────────
+		// EXTENDED VERSION
+		// ─────────────────────────────────────
 		if cells.Length() >= 8 {
 
-			var crc32Ext, urlExt string
+			var crcExt, urlExt string
+			extLength := ""
 
 			cells.Eq(7).Find("a").Each(func(_ int, a *goquery.Selection) {
-				crc32Ext = cleanText(a.Text())
+				crcExt = cleanText(a.Text())
 				if href, ok := a.Attr("href"); ok {
 					urlExt = extractURLFromHref(href)
 				}
 			})
 
-			// Column 8 → extended length (optional)
-			var lengthExt string
 			if cells.Length() >= 9 {
-				lengthExt = cleanText(cells.Eq(8).Text())
+				extLength = cleanText(cells.Eq(8).Text())
 			}
 
-			if crc32Ext != "" {
-				files = append(files, model.EpisodeFile{
+			if crcExt != "" {
+				hasExtended = true
+				files.Extended = &model.EpisodeFile{
 					Version: "extended",
-					CRC32:   crc32Ext,
-					Length:  lengthExt,
+					CRC32:   crcExt,
+					Length:  extLength,
 					URL:     urlExt,
-				})
+				}
 			}
 		}
 
@@ -432,7 +423,7 @@ func fetchArcEpisodes(spreadsheetID, gid string) ([]model.Episode, error) {
 			Chapters:    chapters,
 			AnimeEps:    animeEps,
 			Released:    releaseDate,
-			Description: "",
+			HasExtended: hasExtended,
 			Files:       files,
 		})
 	})

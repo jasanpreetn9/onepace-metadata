@@ -5,31 +5,28 @@ import (
 	"os"
 	"time"
 
+	"gopkg.in/yaml.v3"
+
 	"metadata-service/internal/model"
 	"metadata-service/internal/util"
-
-	"gopkg.in/yaml.v3"
 )
 
-// Archive entry — ONE entry per CRC32
+// Archive stored as:
+// { "<CRC32>": EpisodeArchiveEntry }
+type EpisodesArchive map[string]model.EpisodeArchiveEntry
 
-type EpisodesArchive map[string]model.EpisodeArchiveEntry // keyed by CRC32
-
-// ExportMetadata writes:
-// arcs.json, arcs.yml
-// episodes.json, episodes.yml (append-only, never delete keys)
-// status.json
 func ExportMetadata(arcs []model.Arc, outDir string) error {
 
-	// Ensure directory exists
+	// Ensure output directory exists
 	if err := util.EnsureDir(outDir); err != nil {
 		return err
 	}
 
 	// ========================================================
-	// 1) EXPORT ARCS (FULL OVERWRITE)
+	// 1) EXPORT ARCS (modern structure)
 	// ========================================================
 
+	// --- arcs.json ---
 	arcsJSON, err := json.MarshalIndent(arcs, "", "  ")
 	if err != nil {
 		return err
@@ -40,6 +37,7 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 		}
 	}
 
+	// --- arcs.yml ---
 	arcsYAML, err := yaml.Marshal(arcs)
 	if err != nil {
 		return err
@@ -54,70 +52,87 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 	// 2) LOAD EXISTING EPISODE ARCHIVE (append-only)
 	// ========================================================
 
-	episodesPath := outDir + "/episodes.json"
-	existingEpisodes := EpisodesArchive{}
+	archive := EpisodesArchive{}
+	archivePath := outDir + "/episodes.json"
 
-	if util.FileExists(episodesPath) {
-		raw, _ := os.ReadFile(episodesPath)
-		_ = json.Unmarshal(raw, &existingEpisodes)
+	if util.FileExists(archivePath) {
+		raw, _ := os.ReadFile(archivePath)
+		_ = json.Unmarshal(raw, &archive)
 	}
 
 	// ========================================================
-	// 3) MERGE NEW EPISODE DATA (append-only)
+	// 3) MERGE NEW EPISODES — ALWAYS APPEND, NEVER REMOVE
 	// ========================================================
 
 	for _, arc := range arcs {
 		for _, ep := range arc.Episodes {
 
-			for _, file := range ep.Files {
+			// ---- NORMAL FILE ----
+			if ep.Files.Normal != nil {
+				key := ep.Files.Normal.CRC32
+				if key != "" {
 
-				key := file.CRC32
-				if key == "" {
-					continue
+					if _, exists := archive[key]; !exists {
+
+						archive[key] = model.EpisodeArchiveEntry{
+							Arc:         ep.Arc,
+							Episode:     ep.Episode,
+							Title:       ep.Title,
+							Description: ep.Description,
+							Chapters:    ep.Chapters,
+							AnimeEps:    ep.AnimeEps,
+							Released:    ep.Released,
+							File:        *ep.Files.Normal,
+						}
+					}
 				}
+			}
 
-				// Skip if already archived
-				if _, exists := existingEpisodes[key]; exists {
-					continue
+			// ---- EXTENDED FILE ----
+			if ep.Files.Extended != nil {
+				key := ep.Files.Extended.CRC32
+				if key != "" {
+
+					if _, exists := archive[key]; !exists {
+
+						archive[key] = model.EpisodeArchiveEntry{
+							Arc:         ep.Arc,
+							Episode:     ep.Episode,
+							Title:       ep.Title,
+							Description: ep.Description,
+							Chapters:    ep.Chapters,
+							AnimeEps:    ep.AnimeEps,
+							Released:    ep.Released,
+							File:        *ep.Files.Extended,
+						}
+					}
 				}
-
-				// Convert into archive entry containing ONLY this file variant
-				entry := model.EpisodeArchiveEntry{
-					Arc:         ep.Arc,
-					Episode:     ep.Episode,
-					Title:       ep.Title,
-					Description: ep.Description,
-					Chapters:    ep.Chapters,
-					AnimeEps:    ep.AnimeEps,
-					Released:    ep.Released,
-					File:        file, // only this specific variant
-				}
-
-				existingEpisodes[key] = entry
 			}
 		}
 	}
 
 	// ========================================================
-	// 4) WRITE EPISODES ARCHIVE
+	// 4) WRITE EPISODE ARCHIVE (legacy format)
 	// ========================================================
 
-	episodesJSON, err := json.MarshalIndent(existingEpisodes, "", "  ")
+	// --- episodes.json ---
+	archiveJSON, err := json.MarshalIndent(archive, "", "  ")
 	if err != nil {
 		return err
 	}
-	if !util.FileUnchanged(outDir+"/episodes.json", episodesJSON) {
-		if err := os.WriteFile(outDir+"/episodes.json", episodesJSON, 0644); err != nil {
+	if !util.FileUnchanged(archivePath, archiveJSON) {
+		if err := os.WriteFile(archivePath, archiveJSON, 0644); err != nil {
 			return err
 		}
 	}
 
-	episodesYAML, err := yaml.Marshal(existingEpisodes)
+	// --- episodes.yml ---
+	archiveYAML, err := yaml.Marshal(archive)
 	if err != nil {
 		return err
 	}
-	if !util.FileUnchanged(outDir+"/episodes.yml", episodesYAML) {
-		if err := os.WriteFile(outDir+"/episodes.yml", episodesYAML, 0644); err != nil {
+	if !util.FileUnchanged(outDir+"/episodes.yml", archiveYAML) {
+		if err := os.WriteFile(outDir+"/episodes.yml", archiveYAML, 0644); err != nil {
 			return err
 		}
 	}
@@ -129,7 +144,7 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 	status := map[string]any{
 		"updated_at": time.Now().UTC().Format(time.RFC3339),
 		"arcs":       len(arcs),
-		"episodes":   len(existingEpisodes),
+		"episodes":   len(archive),
 	}
 
 	statusJSON, err := json.MarshalIndent(status, "", "  ")

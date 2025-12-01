@@ -5,17 +5,20 @@ import (
 	"os"
 	"time"
 
-	"gopkg.in/yaml.v3"
 	"metadata-service/internal/model"
 	"metadata-service/internal/util"
+
+	"gopkg.in/yaml.v3"
 )
 
-type EpisodesArchive map[string]model.Episode // keyed by CRC32
+// Archive entry — ONE entry per CRC32
+
+type EpisodesArchive map[string]model.EpisodeArchiveEntry // keyed by CRC32
 
 // ExportMetadata writes:
-//   arcs.json, arcs.yml
-//   episodes.json, episodes.yml (append-only, never delete keys)
-//   status.json
+// arcs.json, arcs.yml
+// episodes.json, episodes.yml (append-only, never delete keys)
+// status.json
 func ExportMetadata(arcs []model.Arc, outDir string) error {
 
 	// Ensure directory exists
@@ -24,10 +27,9 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 	}
 
 	// ========================================================
-	// 1) EXPORT ARCS (ALWAYS FULL OVERWRITE)
+	// 1) EXPORT ARCS (FULL OVERWRITE)
 	// ========================================================
 
-	// ---- arcs.json ----
 	arcsJSON, err := json.MarshalIndent(arcs, "", "  ")
 	if err != nil {
 		return err
@@ -38,7 +40,6 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 		}
 	}
 
-	// ---- arcs.yml ----
 	arcsYAML, err := yaml.Marshal(arcs)
 	if err != nil {
 		return err
@@ -50,20 +51,21 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 	}
 
 	// ========================================================
-	// 2) BUILD / LOAD EPISODE ARCHIVE (APPEND-ONLY)
+	// 2) LOAD EXISTING EPISODE ARCHIVE (append-only)
 	// ========================================================
 
+	episodesPath := outDir + "/episodes.json"
 	existingEpisodes := EpisodesArchive{}
 
-	episodesJSONPath := outDir + "/episodes.json"
-
-	// If existing archive exists, load it
-	if util.FileExists(episodesJSONPath) {
-		raw, _ := os.ReadFile(episodesJSONPath)
+	if util.FileExists(episodesPath) {
+		raw, _ := os.ReadFile(episodesPath)
 		_ = json.Unmarshal(raw, &existingEpisodes)
 	}
 
-	// Merge new episodes — append only, never remove old keys
+	// ========================================================
+	// 3) MERGE NEW EPISODE DATA (append-only)
+	// ========================================================
+
 	for _, arc := range arcs {
 		for _, ep := range arc.Episodes {
 
@@ -74,19 +76,32 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 					continue
 				}
 
-				if _, exists := existingEpisodes[key]; !exists {
-					// Add full episode metadata under CRC32
-					existingEpisodes[key] = ep
+				// Skip if already archived
+				if _, exists := existingEpisodes[key]; exists {
+					continue
 				}
+
+				// Convert into archive entry containing ONLY this file variant
+				entry := model.EpisodeArchiveEntry{
+					Arc:         ep.Arc,
+					Episode:     ep.Episode,
+					Title:       ep.Title,
+					Description: ep.Description,
+					Chapters:    ep.Chapters,
+					AnimeEps:    ep.AnimeEps,
+					Released:    ep.Released,
+					File:        file, // only this specific variant
+				}
+
+				existingEpisodes[key] = entry
 			}
 		}
 	}
 
 	// ========================================================
-	// 3) WRITE EPISODES ARCHIVE (append-only)
+	// 4) WRITE EPISODES ARCHIVE
 	// ========================================================
 
-	// ---- episodes.json ----
 	episodesJSON, err := json.MarshalIndent(existingEpisodes, "", "  ")
 	if err != nil {
 		return err
@@ -97,7 +112,6 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 		}
 	}
 
-	// ---- episodes.yml ----
 	episodesYAML, err := yaml.Marshal(existingEpisodes)
 	if err != nil {
 		return err
@@ -109,7 +123,7 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 	}
 
 	// ========================================================
-	// 4) WRITE STATUS FILE
+	// 5) WRITE STATUS FILE
 	// ========================================================
 
 	status := map[string]any{

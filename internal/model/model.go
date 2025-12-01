@@ -63,15 +63,28 @@ type Episode struct {
 // - Extended version
 // - Newer re-release
 type EpisodeFile struct {
-	Version       string `json:"version,omitempty" yaml:"version,omitempty"`
-	CRC32         string `json:"crc32" yaml:"crc32"`
+	Version string `json:"version,omitempty" yaml:"version,omitempty"`
+	CRC32   string `json:"crc32" yaml:"crc32"`
 
-	Length         string `json:"length,omitempty" yaml:"length,omitempty"`
+	Length string `json:"length,omitempty" yaml:"length,omitempty"`
 
-	URL         string `json:"url,omitempty" yaml:"url,omitempty"`
+	URL string `json:"url,omitempty" yaml:"url,omitempty"`
 }
 
 type EpisodeMeta struct {
 	Title       string `json:"title" yaml:"title"`
 	Description string `json:"description" yaml:"description"`
+}
+
+type EpisodeArchiveEntry struct {
+	Arc         int    `json:"arc" yaml:"arc"`
+	Episode     int    `json:"episode" yaml:"episode"`
+	Title       string `json:"title" yaml:"title"`
+	Description string `json:"description" yaml:"description"`
+	Chapters    string `json:"chapters" yaml:"chapters"`
+	AnimeEps    string `json:"episodes" yaml:"episodes"`
+	Released    string `json:"released" yaml:"released"`
+
+	// Only the single file variant for this CRC
+	File EpisodeFile `json:"file" yaml:"file"`
 }

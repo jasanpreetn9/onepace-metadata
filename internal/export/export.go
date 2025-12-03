@@ -21,7 +21,7 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 	if err := util.EnsureDir(outDir); err != nil {
 		return err
 	}
-
+	metadataChanged := false
 	// ========================================================
 	// 1) EXPORT ARCS (modern structure)
 	// ========================================================
@@ -35,6 +35,7 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 		if err := os.WriteFile(outDir+"/arcs.json", arcsJSON, 0644); err != nil {
 			return err
 		}
+		metadataChanged = true
 	}
 
 	// --- arcs.yml ---
@@ -46,6 +47,7 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 		if err := os.WriteFile(outDir+"/arcs.yml", arcsYAML, 0644); err != nil {
 			return err
 		}
+		metadataChanged = true
 	}
 
 	// ========================================================
@@ -84,6 +86,7 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 							Released:    ep.Released,
 							File:        *ep.Files.Normal,
 						}
+						metadataChanged = true
 					}
 				}
 			}
@@ -105,6 +108,7 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 							Released:    ep.Released,
 							File:        *ep.Files.Extended,
 						}
+						metadataChanged = true
 					}
 				}
 			}
@@ -141,18 +145,20 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 	// 5) WRITE STATUS FILE
 	// ========================================================
 
-	status := map[string]any{
-		"updated_at": time.Now().UTC().Format(time.RFC3339),
-		"arcs":       len(arcs),
-		"episodes":   len(archive),
-	}
+	if metadataChanged {
+		status := map[string]any{
+			"updated_at": time.Now().UTC().Format(time.RFC3339),
+			"arcs":       len(arcs),
+			"episodes":   len(archive),
+		}
 
-	statusJSON, err := json.MarshalIndent(status, "", "  ")
-	if err != nil {
-		return err
-	}
-	if err := os.WriteFile(outDir+"/status.json", statusJSON, 0644); err != nil {
-		return err
+		statusJSON, err := json.MarshalIndent(status, "", "  ")
+		if err != nil {
+			return err
+		}
+		if err := os.WriteFile(outDir+"/status.json", statusJSON, 0644); err != nil {
+			return err
+		}
 	}
 
 	return nil

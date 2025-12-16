@@ -5743,10 +5743,10 @@
   episodes:
     - arc: 35
       episode: 0
-      title: Wano 56 Forward
+      title: Wano 57 Forward
       description: ""
-      chapters: Ch. 1001-1057
-      episodes: Ep. 1016-1085
+      chapters: Ch. 1003-1057
+      episodes: Ep. 1018-1085
       released: To Be Released
       has_extended: false
       files: {}
@@ -6535,6 +6535,20 @@
             crc32: 425F93B9
             length: "22:35"
             url: https://nyaa.si/view/2024715
+    - arc: 35
+      episode: 56
+      title: The Battle of Monsters on Onigashima
+      description: It's a fight to remember! Five members from the Worst Generation—Monkey D. Luffy, Eustass "Captain" Kid, Trafalgar Law, Roronoa Zoro, and Killer—facing off against two Emperors—Kaido, "King of the Beasts," and Charlotte Linlin, a.k.a. Big Mom!
+      chapters: Ch. 1001-1002
+      episodes: Ep. 1016-1017
+      released: "2025-12-14"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: E58B9A11
+            length: "25:13"
+            url: https://nyaa.si/view/2054252
   gid: "1926352856"
 - arc: 36
   title: Egghead

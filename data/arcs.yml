@@ -1185,7 +1185,119 @@
   subtitle_languages: Eng, Es, Fr
   resolution: 1080p
   status: ""
-  episodes: []
+  episodes:
+    - arc: 15
+      episode: 1
+      title: Why the Log Pose Is Spherical
+      description: When a galleon-size ship falls from the sky and Nami's log pose begins to point straight up, the Straw Hats sense a new adventure on the horizon. Right after a mysterious map is pulled from the wreckage, a group of salvagers come to claim the fallen ship.
+      chapters: Ch. 218-220
+      episodes: Ep.143-144
+      released: "2023-01-28"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 2BBCD106
+            length: "21:03"
+            url: https://nyaa.si/view/1630902
+    - arc: 15
+      episode: 2
+      title: Never Dream
+      description: Mock Town on western Jaya openly welcomes pirates, but that fact is accompanied by constant danger. While asking about the sky island, Luffy and Zoro have a run-in with the loud pirate Bellamy the Hyena who ridicules their dreams.
+      chapters: Ch. 221-224
+      episodes: Ep.145-146
+      released: "2023-02-10"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 6DAB82A3
+            length: "32:35"
+            url: https://nyaa.si/view/1636106
+    - arc: 15
+      episode: 3
+      title: People's Dreams
+      description: After a one-sided brawl with Bellamy, the Straw Hats meet a black-haired pirate outside the bar who reaffirms their dreams and insists the sky island is real. As they depart for the other side of Jaya, another salvager of the Saruyama Alliance appears.
+      chapters: Ch. 225-226
+      episodes: Ep.147
+      released: "2023-03-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: B4950266
+            length: "20:06"
+            url: https://nyaa.si/view/1647787
+    - arc: 15
+      episode: 4
+      title: Noland the Liar
+      description: The Straw Hats meet Montblanc Cricket, whose descendant was none other than Montblanc Noland, an infamous "liar" who told of a city of gold on Jaya. Cast out for looking for artifacts from the fabled city, he may just know a way to get to Skypiea.
+      chapters: Ch. 227-228
+      episodes: Ep.148
+      released: "2023-08-12"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 86DC8F38
+            length: "20:03"
+            url: https://nyaa.si/?q=0ee092c2048a597a5e14cbc7c41f3d0696d9821a
+    - arc: 15
+      episode: 5
+      title: Let's Eat
+      description: Cricket explains how the Straw Hats can ride a dangerous vertical sea current to get to Skypiea. However, they must first catch a south bird to steer them toward the point where the stream will erupt from the ocean.
+      chapters: Ch. 229-230
+      episodes: Ep.149
+      released: "2023-08-20"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: E468A31D
+            length: "21:37"
+            url: https://nyaa.si/view/1705712
+    - arc: 15
+      episode: 6
+      title: The Hundred Million Man
+      description: While the Straw Hats are in the forest attempting to catch a south bird, Bellamy and his crew attack Masira, Shoujou, and Cricket and steal every gold artifact they had collected over the years from the salvage work of the Saruyama Alliance.
+      chapters: Ch. 231-232
+      episodes: Ep.150
+      released: "2023-09-08"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 8783E1B0
+            length: "17:14"
+            url: https://nyaa.si/view/1714616
+    - arc: 15
+      episode: 7
+      title: The Highest Authority in the World
+      description: The duel between Bellamy and Luffy shocks all who look on. More shocking are the movements of fearsome pirates on the Grand Line and the machinations of the Blackbeard Pirates, as their captain vies for a position as a Warlord.
+      chapters: Ch. 232-234
+      episodes: Ep.145,151
+      released: "2023-09-16"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 580A0C3B
+            length: "24:41"
+            url: https://nyaa.si/?q=2f0b8368eb300acc4863283dbb5f21054a81adbe
+    - arc: 15
+      episode: 8
+      title: The Knock-Up Stream
+      description: Luffy returns victorious from his showdown with Bellamy, and the Going Merry has been refit by the Saruyama Alliance to handle its upcoming upward flight. The Straw Hats follow their captive south bird and steel themselves for their journey to the sky.
+      chapters: Ch. 235-236
+      episodes: Ep.152
+      released: "2023-09-30"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: FA2E5ADD
+            length: "19:06"
+            url: https://nyaa.si/?q=abb69044f4a1806092b9a213669c5edb4f0bb92a
   gid: "1386602210"
 - arc: 16
   title: Skypiea

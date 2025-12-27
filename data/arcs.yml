@@ -663,21 +663,7 @@
   subtitle_languages: Eng, Fr, Es
   resolution: 1080p
   status: ""
-  episodes:
-    - arc: 11
-      episode: 0
-      title: The Trials of Koby-Meppo
-      description: ""
-      chapters: Ch. 83-119
-      episodes: Ep. 68-69
-      released: "2023-06-05"
-      has_extended: false
-      files:
-        normal:
-            version: normal
-            crc32: 4B56844F
-            length: "15:11"
-            url: https://nyaa.si/view/1679185
+  episodes: []
   gid: "187728198"
 - arc: 12
   title: Little Garden

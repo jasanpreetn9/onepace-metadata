@@ -89,7 +89,62 @@
     "subtitle_languages": "Eng,Es,Fr,Ar,Pt,De",
     "resolution": "1080p",
     "status": "",
-    "episodes": null,
+    "episodes": [
+      {
+        "arc": 2,
+        "episode": 1,
+        "title": "Enter: Nami",
+        "description": "Nami, a street-smart girl who loves money and tangerines, makes Luffy's acquaintance. To save herself and steal a map to the Grand Line, she tricks Luffy into allowing her to turn him over to the infamous pirate Buggy the Clown.",
+        "chapters": "Ch. 8-11",
+        "episodes": "Ep. 4-6",
+        "released": "2025-04-11",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "C23AC8D3",
+            "length": "28:36",
+            "url": "https://nyaa.si/view/1958602"
+          }
+        }
+      },
+      {
+        "arc": 2,
+        "episode": 2,
+        "title": "Treasure",
+        "description": "Luffy meets a small dog guarding his late master’s store. Meanwhile, Beast Tamer Mohji, Cabaji the Acrobat, and the lion Richie show up in the streets of Orange Town to get revenge for Captain Buggy's humiliating loss.",
+        "chapters": "Ch. 12-19",
+        "episodes": "Ep. 6-7",
+        "released": "2025-04-25",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "D7327225",
+            "length": "36:55",
+            "url": "https://nyaa.si/view/1964132"
+          }
+        }
+      },
+      {
+        "arc": 2,
+        "episode": 3,
+        "title": "Pirate Buggy \"the Clown\"",
+        "description": "Shockingly, it turns out Captain Buggy and Red-Haired Shanks share a common history. When the bombastic clown rips Shanks' straw hat, Luffy's rage knows no bounds.",
+        "chapters": "Ch. 19-21",
+        "episodes": "Ep. 8",
+        "released": "2025-05-09",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "1809DA8A",
+            "length": "22:42",
+            "url": "https://nyaa.si/view/1969560"
+          }
+        }
+      }
+    ],
     "gid": "928032798"
   },
   {
@@ -99,7 +154,134 @@
     "subtitle_languages": "Eng,Es,Fr,De",
     "resolution": "1080p",
     "status": "",
-    "episodes": null,
+    "episodes": [
+      {
+        "arc": 3,
+        "episode": 1,
+        "title": "Captain Usopp",
+        "description": "With Nami joining as Luffy's navigator (though not as an actual member of the crew), they arrive at Syrup Village in search of a proper ship. There they meet a man claiming to be a pirate captain who also seems to have ties to Red-Haired Shanks.",
+        "chapters": "Ch. 23-25",
+        "episodes": "Ep. 9-10",
+        "released": "2025-05-23",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "A6DDEC2C",
+            "length": "30:02",
+            "url": "https://nyaa.si/view/1974749"
+          }
+        }
+      },
+      {
+        "arc": 3,
+        "episode": 2,
+        "title": "Captain Kuro",
+        "description": "After uncovering a devious plot, Usopp warns the village and Kaya, but finds his years of lying make it difficult to convince people of the truth.",
+        "chapters": "Ch. 26-27",
+        "episodes": "Ep. 10-11",
+        "released": "2025-06-06",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "0433686D",
+            "length": "23:27",
+            "url": "https://nyaa.si/view/1979543"
+          }
+        }
+      },
+      {
+        "arc": 3,
+        "episode": 3,
+        "title": "The Slope",
+        "description": "Usopp resolves that if he is to keep the peace, the town must continue to believe he is a liar, which means he cannot let Captain Kuro’s men up the slope to the village! Luffy, Zoro, and Nami aid Usopp in his plan to keep the Black Cat Pirates at bay.",
+        "chapters": "Ch. 28-30",
+        "episodes": "Ep. 12-13",
+        "released": "2025-06-20",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "35E9CFA6",
+            "length": "25:35",
+            "url": "https://nyaa.si/view/1984624"
+          }
+        }
+      },
+      {
+        "arc": 3,
+        "episode": 4,
+        "title": "The Silent Man",
+        "description": "Captain Kuro makes his appearance, and with Zoro too injured to fight, Luffy incapacitated, and Usopp and Nami too weak to make a stand, the situation is desperate. However, Kaya herself arrives, intent on bargaining with Kuro.",
+        "chapters": "Ch. 31-34",
+        "episodes": "Ep. 13-14",
+        "released": "2025-07-07",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "89B18321",
+            "length": "31:40",
+            "url": "https://nyaa.si/view/1990296"
+          }
+        }
+      },
+      {
+        "arc": 3,
+        "episode": 5,
+        "title": "The Pirate \"Kuro of a Hundred Plans\"",
+        "description": "While the fight between Luffy and Kuro continues, Jango works to force Kaya to bequeath her family's money to the Black Cat captain. Despite the Usopp Pirates' efforts to stop the hypnotist, it seems as if the transaction is all but inevitable.",
+        "chapters": "Ch. 35-37",
+        "episodes": "Ep. 15-16",
+        "released": "2025-07-12",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "0D3E2158",
+            "length": "23:42",
+            "url": "https://nyaa.si/view/1992016"
+          }
+        }
+      },
+      {
+        "arc": 3,
+        "episode": 6,
+        "title": "For Whom the Bell Tolls",
+        "description": "Kuro's ultimate move attacks everything in the area, friend nor foe notwithstanding, and Luffy becomes enraged by Kuro's lack of regard for his crew.",
+        "chapters": "Ch. 38-39",
+        "episodes": "Ep. 16-17",
+        "released": "2025-07-19",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "D08B41AE",
+            "length": "17:42",
+            "url": "https://nyaa.si/view/1995006"
+          }
+        }
+      },
+      {
+        "arc": 3,
+        "episode": 7,
+        "title": "To the Sea",
+        "description": "The island is saved without any villagers ever knowing what almost befell their home. Kaya, grateful to the Straw Hats for what they did, gifts them something invaluable for sailing the high seas. Meanwhile, one more person joins Luffy's crew.",
+        "chapters": "Ch. 40-41",
+        "episodes": "Ep. 17",
+        "released": "2025-07-12",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "D0A51040",
+            "length": "19:17",
+            "url": "https://nyaa.si/view/1992015"
+          }
+        }
+      }
+    ],
     "gid": "1568594768"
   },
   {
@@ -109,7 +291,26 @@
     "subtitle_languages": "Eng,Es,Fr, De",
     "resolution": "1080p",
     "status": "",
-    "episodes": null,
+    "episodes": [
+      {
+        "arc": 4,
+        "episode": 1,
+        "title": "You're the Rare Breed",
+        "description": "With Usopp now on the crew and their new ship, the Going Merry, under their command, the Straw Hats head to an island said to hold a fabled treasure. There they encounter a strange man stuck in a box who has been looking for the same treasure.",
+        "chapters": "Ch. 42,22",
+        "episodes": "Ep. 18",
+        "released": "2023-01-28",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "0C2DBF75",
+            "length": "20:35",
+            "url": "https://nyaa.si/view/1630907"
+          }
+        }
+      }
+    ],
     "gid": "217544397"
   },
   {

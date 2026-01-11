@@ -6120,6 +6120,19 @@ FC2376A1:
         crc32: FC2376A1
         length: "31:12"
         url: https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d
+FCF6BA63:
+    arc: 6
+    episode: 6
+    title: OK, LET'S STAND UP
+    description: Nami's audible sorrows have reached the ears of a certain Straw Hat captain, and he and his crew rise to action. The villagers look on in awe as the Straw Hats boldly enter Arlong Park to face the fishmen.
+    chapters: Ch. 82-84
+    episodes: Ep. 38-39
+    released: "2020-09-12"
+    file:
+        version: normal
+        crc32: FCF6BA63
+        length: "25:59"
+        url: https://nyaa.si/view/2062715
 FCF7F7E4:
     arc: 29
     episode: 9

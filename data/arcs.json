@@ -2,8 +2,8 @@
   {
     "arc": 1,
     "title": "Romance Dawn",
-    "audio_languages": "Jpn,Eng,Es, De",
-    "subtitle_languages": "Eng,Es,Fr,De,Ar,Pt,Pl,Eng CC",
+    "audio_languages": "JA, EN, ES, DE",
+    "subtitle_languages": "EN,EN(CC), AR, DE, ES, FR, IT, PL, PT-BR, RU, TR",
     "resolution": "1080p",
     "status": "",
     "episodes": [
@@ -85,8 +85,8 @@
   {
     "arc": 2,
     "title": "Orange Town",
-    "audio_languages": "Jpn,Eng, Es, De",
-    "subtitle_languages": "Eng,Es,Fr,Ar,Pt,De",
+    "audio_languages": "JA, EN, ES, DE",
+    "subtitle_languages": "EN, AR, CS, DE, ES, FR, IT, PL, PT-BR, RU, TR",
     "resolution": "1080p",
     "status": "",
     "episodes": [
@@ -150,8 +150,8 @@
   {
     "arc": 3,
     "title": "Syrup Village",
-    "audio_languages": "Jpn, Eng (1-6), Es (1-6)",
-    "subtitle_languages": "Eng,Es,Fr,De",
+    "audio_languages": "JA, EN, DE",
+    "subtitle_languages": "EN, AR, DE, ES, FR, IT, PL, PT-BR, RU, TR",
     "resolution": "1080p",
     "status": "",
     "episodes": [

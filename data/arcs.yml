@@ -1,6 +1,6 @@
 - arc: 1
   title: Romance Dawn
-  audio_languages: JA, EN, ES, DE
+  audio_languages: JA, EN, ES
   subtitle_languages: EN,EN(CC), AR, DE, ES, FR, IT, PL, PT-BR, RU, TR
   resolution: 1080p
   status: ""
@@ -220,8 +220,8 @@
   gid: "1568594768"
 - arc: 4
   title: Gaimon
-  audio_languages: Jpn,Eng,Es
-  subtitle_languages: Eng,Es,Fr, De
+  audio_languages: JA, EN, ES, DE
+  subtitle_languages: EN, ES, FR, DE, PL, PT-BR, HE
   resolution: 1080p
   status: ""
   episodes:
@@ -231,14 +231,14 @@
       description: With Usopp now on the crew and their new ship, the Going Merry, under their command, the Straw Hats head to an island said to hold a fabled treasure. There they encounter a strange man stuck in a box who has been looking for the same treasure.
       chapters: Ch. 42,22
       episodes: Ep. 18
-      released: "2025-07-27"
+      released: "2026-01-18"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: 9269F40F
+            crc32: F4754074
             length: "21:31"
-            url: https://nyaa.si/view/1999001
+            url: https://nyaa.si/view/2066083
   gid: "217544397"
 - arc: 5
   title: Baratie
@@ -363,7 +363,7 @@
 - arc: 6
   title: Arlong Park
   audio_languages: Jpn,Eng
-  subtitle_languages: Eng,Es, Fr, De (1-5)
+  subtitle_languages: Eng,Es, Fr, De (1-7), AR, IT, RU, TR
   resolution: 480p,1080p
   status: ""
   episodes:
@@ -373,28 +373,28 @@
       description: As they depart the Baratie in pursuit of Nami and the Going Merry, Yosaku warns Luffy and Sanji about the vicious Arlong and his fishman underlings. Meanwhile, Usopp, Johnny, and Zoro make landfall where Nami docked the Merry.
       chapters: Ch. 69-71
       episodes: Ep. 31-32
-      released: "2024-11-23"
+      released: "2025-10-12"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: AD09145D
+            crc32: C269DEF5
             length: "30:47"
-            url: https://nyaa.si/view/1902842
+            url: https://nyaa.si/view/2030687
     - arc: 6
       episode: 2
       title: Monsters of the Grand Line
       description: Usopp, having challenged the fishmen, has been caught. To effectively prove her loyalty to the Arlong Pirates, Nami is left with a morbid choice.
       chapters: Ch. 71-73
       episodes: Ep. 32-33
-      released: "2024-11-23"
+      released: "2025-10-19"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: 432F7EDF
+            crc32: E419D54E
             length: "22:02"
-            url: https://nyaa.si/view/1902851
+            url: https://nyaa.si/view/2033327
     - arc: 6
       episode: 3
       title: Sea Charts and Fishmen
@@ -406,49 +406,49 @@
       files:
         normal:
             version: normal
-            crc32: C060DA73
+            crc32: CC4900AE
             length: "24:35"
-            url: https://nyaa.si/view/1920010
+            url: https://nyaa.si/view/2035983
     - arc: 6
       episode: 4
       title: Bell-mère
       description: Nojiko goes into detail about Nami's childhood and their adoptive mother Bell-mère, a former Marine. Despite being poor and unrelated by blood, they had a happy life on their tangerine orchard.
       chapters: Ch. 77-78
       episodes: Ep. 34-36
-      released: "2025-01-24"
+      released: "2025-11-02"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: DB23E2E6
+            crc32: E4D9E965
             length: "26:57"
-            url: https://nyaa.si/view/1925908
+            url: https://nyaa.si/view/2038517
     - arc: 6
       episode: 5
       title: Live
       description: When a Marine officer under Arlong's pay confiscates all the money Nami accumulated over the years, it becomes clear where Arlong stands on his promise.
       chapters: Ch. 79-81
       episodes: Ep. 36-37
-      released: "2025-02-01"
+      released: "2025-11-09"
       has_extended: true
       files:
         normal:
             version: normal
-            crc32: 1CC0DA84
+            crc32: 5D1CA4A2
             length: "30:32"
-            url: https://nyaa.si/view/1929184
+            url: https://nyaa.si/view/2041111
         extended:
             version: extended
-            crc32: ACD6AA5F
+            crc32: 587689A9
             length: "31:24"
-            url: https://nyaa.si/view/1929185
+            url: https://nyaa.si/view/2043738
     - arc: 6
       episode: 6
       title: OK, LET'S STAND UP
       description: Nami's audible sorrows have reached the ears of a certain Straw Hat captain, and he and his crew rise to action. The villagers look on in awe as the Straw Hats boldly enter Arlong Park to face the fishmen.
       chapters: Ch. 82-84
       episodes: Ep. 38-39
-      released: "2020-09-12"
+      released: "2026-01-10"
       has_extended: false
       files:
         normal:
@@ -460,16 +460,16 @@
       episode: 7
       title: Chivalry vs. Fishman Karate
       description: Luffy’s newest move leaves him incapacitated and at the mercy of the sea while Zoro, Sanji, and Usopp desperately fight off Arlong’s top officers.
-      chapters: Ch. 85-87
+      chapters: Ch. 85-88
       episodes: Ep. 39-40
-      released: "2020-09-12"
+      released: "2026-01-18"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: 9599889C
-            length: "27:56"
-            url: https://nyaa.si/view/1279925
+            crc32: 4DDEFE2B
+            length: "26:59"
+            url: https://nyaa.si/view/2066084
     - arc: 6
       episode: 8
       title: My Turn

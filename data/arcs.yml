@@ -3,6 +3,13 @@
   audio_languages: JP, EN, ES
   subtitle_languages: EN,EN(CC), AR, DE, ES, FR, IT, PL, PT-BR, RU, TR
   resolution: 1080p
+  manga_chapters: 1 - 7
+  number_of_chapters: "7"
+  anime_episodes: 1 - 4, 19
+  episodes_adapted: "5"
+  filler_episodes: ""
+  time_saved_mins: "29"
+  time_saved_percent: 27.62%
   status: ""
   episodes:
     - arc: 1
@@ -67,6 +74,13 @@
   audio_languages: JP, EN, DE, ES
   subtitle_languages: EN, AR, CS, DE, ES, FR, IT, PL, PT-BR, RU, TR
   resolution: 1080p
+  manga_chapters: 8 - 21
+  number_of_chapters: "14"
+  anime_episodes: 4 - 8
+  episodes_adapted: "5"
+  filler_episodes: ""
+  time_saved_mins: "26"
+  time_saved_percent: 24.76%
   status: ""
   episodes:
     - arc: 2
@@ -117,6 +131,13 @@
   audio_languages: JP, EN, DE
   subtitle_languages: EN, AR, DE, ES, FR, IT, PL, PT-BR, RU, TR
   resolution: 1080p
+  manga_chapters: 23 - 41
+  number_of_chapters: "19"
+  anime_episodes: 9 - 17
+  episodes_adapted: "9"
+  filler_episodes: ""
+  time_saved_mins: "38"
+  time_saved_percent: 20.11%
   status: ""
   episodes:
     - arc: 3
@@ -223,6 +244,13 @@
   audio_languages: JP, EN, DE
   subtitle_languages: EN, AR, DE, FI, FR, HE, IT, PL, PT-BR, RU
   resolution: 1080p
+  manga_chapters: 42,22
+  number_of_chapters: "2"
+  anime_episodes: "18"
+  episodes_adapted: "1"
+  filler_episodes: ""
+  time_saved_mins: "2"
+  time_saved_percent: 9.52%
   status: ""
   episodes:
     - arc: 4
@@ -245,6 +273,13 @@
   audio_languages: JP, EN
   subtitle_languages: EN, DE, ES, FR, IT, PL, RU
   resolution: 1080p
+  manga_chapters: 42 - 68
+  number_of_chapters: "27"
+  anime_episodes: 19 - 30
+  episodes_adapted: "12"
+  filler_episodes: ""
+  time_saved_mins: "71"
+  time_saved_percent: 28.17%
   status: ""
   episodes:
     - arc: 5
@@ -365,6 +400,13 @@
   audio_languages: Jpn,Eng
   subtitle_languages: EN, AR, DE (1-7), ES, FR, IT, RU, TR
   resolution: 480p,1080p
+  manga_chapters: 69 - 95
+  number_of_chapters: "27"
+  anime_episodes: 31 - 44
+  episodes_adapted: "14"
+  filler_episodes: ""
+  time_saved_mins: "57"
+  time_saved_percent: 19.39%
   status: ""
   episodes:
     - arc: 6
@@ -518,6 +560,13 @@
   audio_languages: Jpn,Eng
   subtitle_languages: EN, ES, FR
   resolution: 1080p
+  manga_chapters: 35 - 75
+  number_of_chapters: ""
+  anime_episodes: 46 - 47
+  episodes_adapted: "2"
+  filler_episodes: ""
+  time_saved_mins: "22"
+  time_saved_percent: 52.38%
   status: ""
   episodes:
     - arc: 7
@@ -540,6 +589,13 @@
   audio_languages: Jpn,Eng
   subtitle_languages: EN, ES, FR
   resolution: 480p
+  manga_chapters: 96 - 100
+  number_of_chapters: "5"
+  anime_episodes: 45, 48 - 53
+  episodes_adapted: "6"
+  filler_episodes: "51"
+  time_saved_mins: "37"
+  time_saved_percent: 29.37%
   status: ""
   episodes:
     - arc: 8
@@ -590,6 +646,13 @@
   audio_languages: Jpn,Eng
   subtitle_languages: EN, ES , FR
   resolution: 1080p
+  manga_chapters: 101 - 105
+  number_of_chapters: "5"
+  anime_episodes: 55, 61 - 63
+  episodes_adapted: "4"
+  filler_episodes: 56 - 60
+  time_saved_mins: "35"
+  time_saved_percent: 41.67%
   status: ""
   episodes:
     - arc: 9
@@ -626,6 +689,13 @@
   audio_languages: Jpn
   subtitle_languages: EN, ES , FR
   resolution: 480p
+  manga_chapters: 106 - 114
+  number_of_chapters: "9"
+  anime_episodes: 64 - 67
+  episodes_adapted: "4"
+  filler_episodes: ""
+  time_saved_mins: "17"
+  time_saved_percent: 20.24%
   status: TBR
   episodes:
     - arc: 10
@@ -662,6 +732,13 @@
   audio_languages: Jpn,Eng
   subtitle_languages: EN, ES, FR
   resolution: 1080p
+  manga_chapters: 83-119
+  number_of_chapters: ""
+  anime_episodes: 68 - 69
+  episodes_adapted: "2"
+  filler_episodes: ""
+  time_saved_mins: "29"
+  time_saved_percent: 68.75%
   status: ""
   episodes:
     - arc: 11
@@ -684,6 +761,13 @@
   audio_languages: Jpn,Eng
   subtitle_languages: EN, AR, DE, ES, FR, IT
   resolution: 1080p
+  manga_chapters: 115 - 129
+  number_of_chapters: "15"
+  anime_episodes: 70 - 78
+  episodes_adapted: "9"
+  filler_episodes: ""
+  time_saved_mins: "54"
+  time_saved_percent: 28.57%
   status: ""
   episodes:
     - arc: 12
@@ -762,6 +846,13 @@
   audio_languages: Jpn,Eng
   subtitle_languages: Eng,Es,Fr
   resolution: 1080p
+  manga_chapters: 129 - 154
+  number_of_chapters: "26"
+  anime_episodes: 78 - 91
+  episodes_adapted: "14"
+  filler_episodes: ""
+  time_saved_mins: "63"
+  time_saved_percent: 21.43%
   status: ""
   episodes:
     - arc: 13
@@ -882,6 +973,13 @@
   audio_languages: Jpn,Eng
   subtitle_languages: Eng,Es, Fr
   resolution: 1080p
+  manga_chapters: 155 - 217
+  number_of_chapters: "63"
+  anime_episodes: 92 - 130
+  episodes_adapted: "40"
+  filler_episodes: 99, 102
+  time_saved_mins: "285"
+  time_saved_percent: 33.93%
   status: ""
   episodes:
     - arc: 14
@@ -1184,6 +1282,13 @@
   audio_languages: Jpn,Eng
   subtitle_languages: Eng, Es, Fr
   resolution: 1080p
+  manga_chapters: 218 - 236
+  number_of_chapters: "19"
+  anime_episodes: 144 - 152
+  episodes_adapted: "9"
+  filler_episodes: ""
+  time_saved_mins: "28"
+  time_saved_percent: 14.81%
   status: ""
   episodes:
     - arc: 15
@@ -1304,6 +1409,13 @@
   audio_languages: Jpn,Eng
   subtitle_languages: Eng,Es (1-4), Fr, Es (5), De (17-)
   resolution: 1080p
+  manga_chapters: 237 - 303
+  number_of_chapters: "66"
+  anime_episodes: 153 - 195, 203
+  episodes_adapted: "44"
+  filler_episodes: ""
+  time_saved_mins: "280"
+  time_saved_percent: 30.30%
   status: ""
   episodes:
     - arc: 16
@@ -1675,6 +1787,13 @@
   audio_languages: Jpn,Eng
   subtitle_languages: Eng
   resolution: 720p
+  manga_chapters: 304 - 321
+  number_of_chapters: "19"
+  anime_episodes: 207 - 219, 226 - 228
+  episodes_adapted: "14"
+  filler_episodes: 213 - 215
+  time_saved_mins: "140"
+  time_saved_percent: 47.62%
   status: TBR
   episodes:
     - arc: 17
@@ -1781,6 +1900,13 @@
   audio_languages: Jpn,Eng
   subtitle_languages: Eng,Fr
   resolution: 1080p
+  manga_chapters: 322 - 374
+  number_of_chapters: "53"
+  anime_episodes: 229 - 263
+  episodes_adapted: "37"
+  filler_episodes: ""
+  time_saved_mins: "228"
+  time_saved_percent: 29.34%
   status: ""
   episodes:
     - arc: 18
@@ -2069,6 +2195,13 @@
   audio_languages: Jpn,Eng (1-4, 23-25)
   subtitle_languages: Eng, Es , Fr
   resolution: 720p,1080p
+  manga_chapters: 375 - 430
+  number_of_chapters: "56"
+  anime_episodes: 263 - 312
+  episodes_adapted: "45"
+  filler_episodes: 291 - 292, 303
+  time_saved_mins: "354"
+  time_saved_percent: 37.46%
   status: ""
   episodes:
     - arc: 19
@@ -2427,6 +2560,13 @@
   audio_languages: Jpn
   subtitle_languages: Eng
   resolution: 720p
+  manga_chapters: 431 - 441
+  number_of_chapters: "11"
+  anime_episodes: 313 - 325
+  episodes_adapted: "11"
+  filler_episodes: 317 - 318
+  time_saved_mins: "103.5"
+  time_saved_percent: 43.76%
   status: TBR
   episodes:
     - arc: 20
@@ -2505,6 +2645,13 @@
   audio_languages: Jpn
   subtitle_languages: Eng, Es
   resolution: 720p
+  manga_chapters: 442 - 489
+  number_of_chapters: "48"
+  anime_episodes: 337 - 381
+  episodes_adapted: "45"
+  filler_episodes: ""
+  time_saved_mins: "483.5"
+  time_saved_percent: 49.97%
   status: TBR
   episodes:
     - arc: 21
@@ -2821,6 +2968,13 @@
   audio_languages: Jpn
   subtitle_languages: Eng, Es
   resolution: 720p
+  manga_chapters: 490 - 513
+  number_of_chapters: "24"
+  anime_episodes: 385 - 405
+  episodes_adapted: "21"
+  filler_episodes: ""
+  time_saved_mins: "166.5"
+  time_saved_percent: 36.88%
   status: TBR
   episodes:
     - arc: 22
@@ -2983,6 +3137,13 @@
   audio_languages: Jpn
   subtitle_languages: Eng, Es , Fr
   resolution: 720p
+  manga_chapters: 514 - 524
+  number_of_chapters: "11"
+  anime_episodes: 408 - 421
+  episodes_adapted: "14"
+  filler_episodes: ""
+  time_saved_mins: "169"
+  time_saved_percent: 56.15%
   status: TBR
   episodes:
     - arc: 23
@@ -3061,6 +3222,13 @@
   audio_languages: Jpn
   subtitle_languages: Eng,Es
   resolution: 720p
+  manga_chapters: 525 - 548
+  number_of_chapters: "24"
+  anime_episodes: 422 - 452
+  episodes_adapted: "27"
+  filler_episodes: 426 - 429
+  time_saved_mins: "263.5"
+  time_saved_percent: 45.39%
   status: TBR
   episodes:
     - arc: 24
@@ -3209,6 +3377,13 @@
   audio_languages: Eng, Es, Jpn
   subtitle_languages: Eng, Es, Jpn
   resolution: 1080p
+  manga_chapters: 543 - 560
+  number_of_chapters: ""
+  anime_episodes: 453 - 456
+  episodes_adapted: "4"
+  filler_episodes: ""
+  time_saved_mins: "65"
+  time_saved_percent: 75.58%
   status: ""
   episodes:
     - arc: 25
@@ -3231,6 +3406,13 @@
   audio_languages: Jpn
   subtitle_languages: Eng,Es,Fr
   resolution: 720p
+  manga_chapters: 549 - 580
+  number_of_chapters: "32"
+  anime_episodes: 457 - 489
+  episodes_adapted: "33"
+  filler_episodes: ""
+  time_saved_mins: "314.5"
+  time_saved_percent: 44.33%
   status: ""
   episodes:
     - arc: 26
@@ -3477,6 +3659,13 @@
   audio_languages: Jpn,Eng (1-6)
   subtitle_languages: Eng,Es ,Fr
   resolution: 1080p
+  manga_chapters: 581 - 597
+  number_of_chapters: "17"
+  anime_episodes: 490 - 516
+  episodes_adapted: "26"
+  filler_episodes: 492, 499, 506
+  time_saved_mins: "253"
+  time_saved_percent: 45.26%
   status: ""
   episodes:
     - arc: 27
@@ -3597,6 +3786,13 @@
   audio_languages: Jpn,Eng
   subtitle_languages: Eng,Es,Fr,Ar
   resolution: 1080p
+  manga_chapters: 598 - 602
+  number_of_chapters: "5"
+  anime_episodes: 517 - 522
+  episodes_adapted: "6"
+  filler_episodes: ""
+  time_saved_mins: "38"
+  time_saved_percent: 29.46%
   status: ""
   episodes:
     - arc: 28
@@ -3647,6 +3843,13 @@
   audio_languages: Jpn
   subtitle_languages: Eng,Es
   resolution: 720p
+  manga_chapters: 603 - 653
+  number_of_chapters: "51"
+  anime_episodes: 523 - 574
+  episodes_adapted: "51"
+  filler_episodes: "542"
+  time_saved_mins: "386.5"
+  time_saved_percent: 35.25%
   status: TBR
   episodes:
     - arc: 29
@@ -3991,6 +4194,13 @@
   audio_languages: Jpn
   subtitle_languages: Eng,Es
   resolution: 720p
+  manga_chapters: 654 - 699
+  number_of_chapters: "46"
+  anime_episodes: 579 - 626, 628
+  episodes_adapted: "46"
+  filler_episodes: "590"
+  time_saved_mins: "470"
+  time_saved_percent: 47.52%
   status: TBR
   episodes:
     - arc: 30
@@ -4307,6 +4517,13 @@
   audio_languages: Jpn
   subtitle_languages: Eng,Es
   resolution: 720p
+  manga_chapters: 700 - 800
+  number_of_chapters: "101"
+  anime_episodes: 629 - 746
+  episodes_adapted: "118"
+  filler_episodes: ""
+  time_saved_mins: "1331"
+  time_saved_percent: 52.46%
   status: TBR
   episodes:
     - arc: 31
@@ -4987,6 +5204,13 @@
   audio_languages: Jpn
   subtitle_languages: Eng,Es, Fr
   resolution: 720p
+  manga_chapters: 801 - 822
+  number_of_chapters: "22"
+  anime_episodes: 751 - 776
+  episodes_adapted: "28"
+  filler_episodes: "775"
+  time_saved_mins: "327"
+  time_saved_percent: 54.32%
   status: TBR
   episodes:
     - arc: 32
@@ -5135,6 +5359,13 @@
   audio_languages: Jpn
   subtitle_languages: Eng,Es, Fr
   resolution: 720p
+  manga_chapters: 823 - 902
+  number_of_chapters: "80"
+  anime_episodes: 777 - 877
+  episodes_adapted: "95"
+  filler_episodes: 780 - 782
+  time_saved_mins: "829.5"
+  time_saved_percent: 40.61%
   status: ""
   episodes:
     - arc: 33
@@ -5689,6 +5920,13 @@
   audio_languages: Jpn,Eng
   subtitle_languages: Eng,Es,Fr
   resolution: 1080p
+  manga_chapters: 903 - 908
+  number_of_chapters: "6"
+  anime_episodes: 878 - 889
+  episodes_adapted: "12"
+  filler_episodes: ""
+  time_saved_mins: "164"
+  time_saved_percent: 63.57%
   status: ""
   episodes:
     - arc: 34
@@ -5739,6 +5977,13 @@
   audio_languages: Jpn,Eng (1-3, 31-)
   subtitle_languages: Eng,Es ,Fr,Ar, De (44-)
   resolution: 1080p
+  manga_chapters: 909 - 1057
+  number_of_chapters: "149"
+  anime_episodes: 890 - 1085
+  episodes_adapted: "126"
+  filler_episodes: 1029 - 1030, 1084
+  time_saved_mins: "1089"
+  time_saved_percent: 40.20%
   status: WIP
   episodes:
     - arc: 35
@@ -6555,6 +6800,13 @@
   audio_languages: Jpn, Eng
   subtitle_languages: Eng,Fr,De (3-)
   resolution: 1080p
+  manga_chapters: 1058 - 1125
+  number_of_chapters: "68"
+  anime_episodes: 1086 - 1155
+  episodes_adapted: "38"
+  filler_episodes: ""
+  time_saved_mins: "264"
+  time_saved_percent: 33.08%
   status: WIP
   episodes:
     - arc: 36

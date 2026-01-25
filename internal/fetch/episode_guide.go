@@ -176,17 +176,11 @@ func fetchArcList(spreadsheetID string) ([]model.Arc, error) {
 		animeEpisodes := strings.TrimSpace(cells.Eq(5).Text())
 		episodesAdapted := strings.TrimSpace(cells.Eq(6).Text())
 		fillerEpisodes := strings.TrimSpace(cells.Eq(7).Text())
-		paceEpisodes := strings.TrimSpace(cells.Eq(8).Text())
 		timeSavedMins := strings.TrimSpace(cells.Eq(11).Text())
 		timeSavedPercent := strings.TrimSpace(cells.Eq(12).Text())
 		audioLanguages := strings.TrimSpace(cells.Eq(13).Text())
 		subtitleLanguages := strings.TrimSpace(cells.Eq(14).Text())
 		resolution := strings.TrimSpace(cells.Eq(16).Text())
-
-		fmt.Printf(
-			"mangaChapters: %s, numberofChapters: %s, animeEpisodes: %s, episodesAdapted: %s, fillerEpisodes: %s, paceEpisodes: %s, timeSavedMins: %s, timeSavedPercent: %s, audioLanguages: %s, subtitleLanguages: %s, resolution: %s\n",
-			mangaChapters, numberofChapters, animeEpisodes, episodesAdapted, fillerEpisodes, paceEpisodes, timeSavedMins, timeSavedPercent, audioLanguages, subtitleLanguages, resolution,
-		)
 
 		arcs = append(arcs, model.Arc{
 			Arc:               int(arcFloat * 10),

@@ -5974,7 +5974,7 @@
   gid: "1529137639"
 - arc: 35
   title: Wano
-  audio_languages: Jpn,Eng (1-3, 31-)
+  audio_languages: Jpn,Eng (1-4, 31-)
   subtitle_languages: Eng,Es ,Fr,Ar, De (44-)
   resolution: 1080p
   manga_chapters: 909 - 1057
@@ -5982,8 +5982,8 @@
   anime_episodes: 890 - 1085
   episodes_adapted: "126"
   filler_episodes: 1029 - 1030, 1084
-  time_saved_mins: "1089"
-  time_saved_percent: 40.20%
+  time_saved_mins: "1094"
+  time_saved_percent: 40.38%
   status: WIP
   episodes:
     - arc: 35
@@ -6048,14 +6048,14 @@
       description: Luffy and Zoro are stalled by Hawkins, but their fortune looks bright when a woman guides them to a teahouse. There, they find an herbal remedy for the river poison that Otama drank, while old acquaintances look on from a distance.
       chapters: Ch. 913
       episodes: Ep. 898-899
-      released: "2019-10-18"
+      released: "2026-01-25"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: 23CF2FA6
-            length: "25:19"
-            url: https://nyaa.si/view/1236480
+            crc32: E937ED2B
+            length: "20:26"
+            url: https://nyaa.si/view/2069226
     - arc: 35
       episode: 5
       title: Okobore Town

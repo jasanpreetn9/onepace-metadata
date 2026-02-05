@@ -355,7 +355,152 @@
     "time_saved_mins": "71",
     "time_saved_percent": "28.17%",
     "status": "",
-    "episodes": null,
+    "episodes": [
+      {
+        "arc": 5,
+        "episode": 1,
+        "title": "Enter: Sanji",
+        "description": "The Straw Hats happen across Zoro's former partners, Yosaku and Johnny, whose dietary dilemma reminds the pirates they still need a cook on their ship. Thus, they set sail for the sea restaurant Baratie, hoping to snag a chef.",
+        "chapters": "Ch. 42-44",
+        "episodes": "Ep. 19-21",
+        "released": "2025-08-02",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "BE634289",
+            "length": "30:18",
+            "url": "https://nyaa.si/view/2000865"
+          }
+        }
+      },
+      {
+        "arc": 5,
+        "episode": 2,
+        "title": "Pirate Commodore Don Krieg",
+        "description": "Luffy is on hiatus from pirating to work as a cabin boy to pay off the damage done to the Baratie. While he tries to convince Sanji to join his crew, the pirate Gin brings the infamous Don Krieg and his starving forces to the sea restaurant.",
+        "chapters": "Ch. 45-47",
+        "episodes": "Ep. 21-23",
+        "released": "2025-08-10",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "9BD35F80",
+            "length": "31:30",
+            "url": "https://nyaa.si/view/2004227"
+          }
+        }
+      },
+      {
+        "arc": 5,
+        "episode": 3,
+        "title": "The Oath",
+        "description": "As Nami steals the Going Merry, Hawk-Eye Mihawk, known far and wide as the world's greatest swordsman, arrives all the way from the Grand Line to finish off Don Krieg. However, Zoro challenges the deadly Mihawk to a duel in order to achieve his dream.",
+        "chapters": "Ch. 48-52",
+        "episodes": "Ep. 23-24, 29, 135",
+        "released": "2025-08-10",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "E90342F6",
+            "length": "37:58",
+            "url": "https://nyaa.si/view/2004228"
+          }
+        }
+      },
+      {
+        "arc": 5,
+        "episode": 4,
+        "title": "Pearl",
+        "description": "Mihawk departs after defeating Zoro, and Krieg continues his assault on the Baratie. Pearl, one of Krieg's strongest men, goes on the offensive with fiery attacks and multiple shields at his disposal, so Sanji reveals his unique fighting style.",
+        "chapters": "Ch. 53-55",
+        "episodes": "Ep. 25",
+        "released": "2025-08-18",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "792BE789",
+            "length": "20:21",
+            "url": "https://nyaa.si/view/2007905"
+          }
+        }
+      },
+      {
+        "arc": 5,
+        "episode": 5,
+        "title": "Because of a Dream",
+        "description": "Sanji continues to battle Pearl, but Gin cleverly holds Chef Zeff hostage, forcing Sanji an impossible situation. Sanji's childhood memories flood his mind, and he reflects on why Zeff means so much to him.",
+        "chapters": "Ch. 56-59",
+        "episodes": "Ep. 26",
+        "released": "2025-08-23",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "ACEA0537",
+            "length": "21:45",
+            "url": "https://nyaa.si/view/2010309"
+          }
+        }
+      },
+      {
+        "arc": 5,
+        "episode": 6,
+        "title": "MH5",
+        "description": "In a surprising twist, Gin finishes Pearl off himself, claiming Sanji as his own target. Though still wounded, Sanji rises to the challenge and faces off with Gin. As the battle draws to a close, Don Krieg unleashes a deadly toxin into the air.",
+        "chapters": "Ch. 59-63",
+        "episodes": "Ep. 27-28",
+        "released": "2025-09-15",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "1375A4F5",
+            "length": "27:59",
+            "url": "https://nyaa.si/view/2022729"
+          }
+        }
+      },
+      {
+        "arc": 5,
+        "episode": 7,
+        "title": "The Stalwart War Spear",
+        "description": "The struggle with Krieg nears its end. Luffy's fighting spirit is unwavering, even after taking several hits from Krieg's Stalwart War Spear. Straw Hat’s strategy shifts to smashing through Krieg’s defenses and attacking the spear head-on.",
+        "chapters": "Ch. 63-67",
+        "episodes": "Ep. 28-29",
+        "released": "2025-09-21",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "5B161435",
+            "length": "27:47",
+            "url": "https://nyaa.si/view/2022710"
+          }
+        }
+      },
+      {
+        "arc": 5,
+        "episode": 8,
+        "title": "The Fourth",
+        "description": "As the dust of battle settles, the still poisoned Gin decides to go back to the Grand Line with Krieg, and Sanji makes the difficult decision to join Luffy's crew. Suddenly, Yosaku returns with news of where Nami took the Going Merry.",
+        "chapters": "Ch. 67-68",
+        "episodes": "Ep. 30",
+        "released": "2023-09-27",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "A6F61DEE",
+            "length": "18:43",
+            "url": "https://nyaa.si/view/2024713"
+          }
+        }
+      }
+    ],
     "gid": "563366367"
   },
   {
@@ -372,7 +517,194 @@
     "time_saved_mins": "57",
     "time_saved_percent": "19.39%",
     "status": "",
-    "episodes": null,
+    "episodes": [
+      {
+        "arc": 6,
+        "episode": 1,
+        "title": "Arlong Park",
+        "description": "As they depart the Baratie in pursuit of Nami and the Going Merry, Yosaku warns Luffy and Sanji about the vicious Arlong and his fishman underlings. Meanwhile, Usopp, Johnny, and Zoro make landfall where Nami docked the Merry.",
+        "chapters": "Ch. 69-71",
+        "episodes": "Ep. 31-32",
+        "released": "2025-10-12",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "C269DEF5",
+            "length": "30:47",
+            "url": "https://nyaa.si/view/2030687"
+          }
+        }
+      },
+      {
+        "arc": 6,
+        "episode": 2,
+        "title": "Monsters of the Grand Line",
+        "description": "Usopp, having challenged the fishmen, has been caught. To effectively prove her loyalty to the Arlong Pirates, Nami is left with a morbid choice.",
+        "chapters": "Ch. 71-73",
+        "episodes": "Ep. 32-33",
+        "released": "2025-10-19",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "E419D54E",
+            "length": "22:02",
+            "url": "https://nyaa.si/view/2033327"
+          }
+        }
+      },
+      {
+        "arc": 6,
+        "episode": 3,
+        "title": "Sea Charts and Fishmen",
+        "description": "Luffy’s group has reached the island but are met with a shocking revelation. Unmoved by Nami’s apparent actions and her insistence that he leaves, Luffy stubbornly sticks around.",
+        "chapters": "Ch. 74-76",
+        "episodes": "Ep. 33-34",
+        "released": "2025-01-11",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "CC4900AE",
+            "length": "24:35",
+            "url": "https://nyaa.si/view/2035983"
+          }
+        }
+      },
+      {
+        "arc": 6,
+        "episode": 4,
+        "title": "Bell-mère",
+        "description": "Nojiko goes into detail about Nami's childhood and their adoptive mother Bell-mère, a former Marine. Despite being poor and unrelated by blood, they had a happy life on their tangerine orchard.",
+        "chapters": "Ch. 77-78",
+        "episodes": "Ep. 34-36",
+        "released": "2025-11-02",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "E4D9E965",
+            "length": "26:57",
+            "url": "https://nyaa.si/view/2038517"
+          }
+        }
+      },
+      {
+        "arc": 6,
+        "episode": 5,
+        "title": "Live",
+        "description": "When a Marine officer under Arlong's pay confiscates all the money Nami accumulated over the years, it becomes clear where Arlong stands on his promise.",
+        "chapters": "Ch. 79-81",
+        "episodes": "Ep. 36-37",
+        "released": "2025-11-09",
+        "has_extended": true,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "5D1CA4A2",
+            "length": "30:32",
+            "url": "https://nyaa.si/view/2041111"
+          },
+          "extended": {
+            "version": "extended",
+            "crc32": "587689A9",
+            "length": "31:24",
+            "url": "https://nyaa.si/view/2043738"
+          }
+        }
+      },
+      {
+        "arc": 6,
+        "episode": 6,
+        "title": "OK, LET'S STAND UP",
+        "description": "Nami's audible sorrows have reached the ears of a certain Straw Hat captain, and he and his crew rise to action. The villagers look on in awe as the Straw Hats boldly enter Arlong Park to face the fishmen.",
+        "chapters": "Ch. 82-84",
+        "episodes": "Ep. 38-39",
+        "released": "2026-01-10",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "FCF6BA63",
+            "length": "25:59",
+            "url": "https://nyaa.si/view/2062715"
+          }
+        }
+      },
+      {
+        "arc": 6,
+        "episode": 7,
+        "title": "Chivalry vs. Fishman Karate",
+        "description": "Luffy’s newest move leaves him incapacitated and at the mercy of the sea while Zoro, Sanji, and Usopp desperately fight off Arlong’s top officers.",
+        "chapters": "Ch. 85-88",
+        "episodes": "Ep. 39-40",
+        "released": "2026-01-18",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "4DDEFE2B",
+            "length": "26:59",
+            "url": "https://nyaa.si/view/2066084"
+          }
+        }
+      },
+      {
+        "arc": 6,
+        "episode": 8,
+        "title": "My Turn",
+        "description": "The top officers are defeated, but as they currently are, Sanji and Zoro prove to be no match for Arlong. However, with Luffy finally free, he just may just be able to pull it off. Meanwhile, Nami finally gathers the courage to face Arlong.",
+        "chapters": "Ch. 88-90",
+        "episodes": "Ep. 40-42",
+        "released": "2020-09-12",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "83E6D2A7",
+            "length": "25:28",
+            "url": "https://nyaa.si/view/1279925"
+          }
+        }
+      },
+      {
+        "arc": 6,
+        "episode": 9,
+        "title": "Happiness",
+        "description": "Luffy springs into action against Arlong, and their intense struggle commences! Luffy becomes enraged when he discovers how exactly Arlong had been using Nami, and he comes to a quick decision on how to finally free her of her shackles.",
+        "chapters": "Ch. 91-94",
+        "episodes": "Ep. 42-43",
+        "released": "2020-09-12",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "A57211D1",
+            "length": "24:35",
+            "url": "https://nyaa.si/view/1279925"
+          }
+        }
+      },
+      {
+        "arc": 6,
+        "episode": 10,
+        "title": "Spin, Pinwheel, Spin",
+        "description": "Arlong's reign of terror is over, so the island throws a party to celebrate their freedom and to honor their pirate saviors. During the festivities, Nami makes her decision to officially join the Straw Hat Pirates.",
+        "chapters": "Ch. 94-95",
+        "episodes": "Ep. 43-44",
+        "released": "2020-09-12",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "5AF7A9B1",
+            "length": "20:57",
+            "url": "https://nyaa.si/view/1279925"
+          }
+        }
+      }
+    ],
     "gid": "1076173334"
   },
   {
@@ -389,7 +721,26 @@
     "time_saved_mins": "22",
     "time_saved_percent": "52.38%",
     "status": "",
-    "episodes": null,
+    "episodes": [
+      {
+        "arc": 7,
+        "episode": 0,
+        "title": "The Adventures of Buggy's Crew",
+        "description": "",
+        "chapters": "Ch. 35-75",
+        "episodes": "Ep. 46-47",
+        "released": "2023-10-07",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "E75794DB",
+            "length": "22:26",
+            "url": "https://nyaa.si/?q=435e4b1fe0aef5fec8cacc27f92b52ae7868ad7d"
+          }
+        }
+      }
+    ],
     "gid": "1955340365"
   },
   {
@@ -406,7 +757,62 @@
     "time_saved_mins": "37",
     "time_saved_percent": "29.37%",
     "status": "",
-    "episodes": null,
+    "episodes": [
+      {
+        "arc": 8,
+        "episode": 1,
+        "title": "The Town of Beginnings and Endings",
+        "description": "Touting a fresh bounty issued by Marine HQ, Luffy and co. make landfall at Loguetown, the place where Gold Roger was both born and executed. Being the last stop before the Grand Line, the crew stocks up on supplies and sightsees.",
+        "chapters": "Ch. 96-97",
+        "episodes": "Ep. 45,48-49",
+        "released": "2020-09-22",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "4200CE0D",
+            "length": "27:32",
+            "url": "https://nyaa.si/view/1282922"
+          }
+        }
+      },
+      {
+        "arc": 8,
+        "episode": 2,
+        "title": "Parallels",
+        "description": "Usopp manages to anger the brat daughter of bounty hunter Daddy the Father and finds his own life at stake. When Daddy discovers that Usopp is the son of Red Hair Pirate Yasopp, the only man to beat him, he offers him a risky way out.",
+        "chapters": "Ch. 97",
+        "episodes": "Ep. 48, 50",
+        "released": "2020-09-22",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "8E970FD4",
+            "length": "31:24",
+            "url": "https://nyaa.si/view/1282922"
+          }
+        }
+      },
+      {
+        "arc": 8,
+        "episode": 3,
+        "title": "The Legend Has Begun",
+        "description": "Luffy arrives at the execution platform, only to be caught in Buggy and Alvida's trap. Sanji and Zoro rush to stop Buggy from poetically—and flashily—executing Luffy where Roger died.",
+        "chapters": "Ch. 98-100",
+        "episodes": "Ep. 52-53",
+        "released": "2020-09-22",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "23E3E489",
+            "length": "36:13",
+            "url": "https://nyaa.si/view/1282922"
+          }
+        }
+      }
+    ],
     "gid": "702404357"
   },
   {

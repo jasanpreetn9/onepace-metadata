@@ -1,6 +1,6 @@
 - arc: 1
   title: Romance Dawn
-  audio_languages: JP, EN, ES
+  audio_languages: JA, EN, ES
   subtitle_languages: EN,EN(CC), AR, DE, ES, FR, IT, PL, PT-BR, RU, TR
   resolution: 1080p
   manga_chapters: 1 - 7
@@ -71,7 +71,7 @@
   gid: "1122135437"
 - arc: 2
   title: Orange Town
-  audio_languages: JP, EN, DE, ES
+  audio_languages: JA, EN, DE, ES
   subtitle_languages: EN, AR, CS, DE, ES, FR, IT, PL, PT-BR, RU, TR
   resolution: 1080p
   manga_chapters: 8 - 21
@@ -128,7 +128,7 @@
   gid: "928032798"
 - arc: 3
   title: Syrup Village
-  audio_languages: JP, EN, DE
+  audio_languages: JA, EN, DE
   subtitle_languages: EN, AR, DE, ES, FR, IT, PL, PT-BR, RU, TR
   resolution: 1080p
   manga_chapters: 23 - 41
@@ -241,7 +241,7 @@
   gid: "1568594768"
 - arc: 4
   title: Gaimon
-  audio_languages: JP, EN, DE
+  audio_languages: JA, EN, DE
   subtitle_languages: EN, AR, DE, FI, FR, HE, IT, PL, PT-BR, RU
   resolution: 1080p
   manga_chapters: 42,22
@@ -270,7 +270,7 @@
   gid: "217544397"
 - arc: 5
   title: Baratie
-  audio_languages: JP, EN
+  audio_languages: JA,EN
   subtitle_languages: EN, DE, ES, FR, IT, PL, RU
   resolution: 1080p
   manga_chapters: 42 - 68
@@ -397,8 +397,8 @@
   gid: "563366367"
 - arc: 6
   title: Arlong Park
-  audio_languages: Jpn,Eng
-  subtitle_languages: EN, AR, DE (1-7), ES, FR, IT, RU, TR
+  audio_languages: JA,EN
+  subtitle_languages: EN, AR(1-7), DE (1-7), ES, FR, IT, RU, TR(1-7), HE(6-7)
   resolution: 480p,1080p
   manga_chapters: 69 - 95
   number_of_chapters: "27"
@@ -557,7 +557,7 @@
   gid: "1076173334"
 - arc: 7
   title: The Adventures of Buggy's Crew
-  audio_languages: Jpn,Eng
+  audio_languages: JA,EN
   subtitle_languages: EN, ES, FR
   resolution: 1080p
   manga_chapters: 35 - 75
@@ -586,7 +586,7 @@
   gid: "1955340365"
 - arc: 8
   title: Loguetown
-  audio_languages: Jpn,Eng
+  audio_languages: JA,EN
   subtitle_languages: EN, ES, FR
   resolution: 480p
   manga_chapters: 96 - 100
@@ -643,7 +643,7 @@
   gid: "702404357"
 - arc: 9
   title: Reverse Mountain
-  audio_languages: Jpn,Eng
+  audio_languages: JA,EN
   subtitle_languages: EN, ES , FR
   resolution: 1080p
   manga_chapters: 101 - 105
@@ -686,7 +686,7 @@
   gid: "603231379"
 - arc: 10
   title: Whisky Peak
-  audio_languages: Jpn
+  audio_languages: JA
   subtitle_languages: EN, ES , FR
   resolution: 480p
   manga_chapters: 106 - 114
@@ -729,7 +729,7 @@
   gid: "92257054"
 - arc: 11
   title: The Trials of Koby-Meppo
-  audio_languages: Jpn,Eng
+  audio_languages: JA,EN
   subtitle_languages: EN, ES, FR
   resolution: 1080p
   manga_chapters: 83-119
@@ -758,7 +758,7 @@
   gid: "187728198"
 - arc: 12
   title: Little Garden
-  audio_languages: Jpn,Eng
+  audio_languages: JA,EN
   subtitle_languages: EN, AR, DE, ES, FR, IT
   resolution: 1080p
   manga_chapters: 115 - 129
@@ -843,8 +843,8 @@
   gid: "1340008658"
 - arc: 13
   title: Drum Island
-  audio_languages: Jpn,Eng
-  subtitle_languages: Eng,Es,Fr
+  audio_languages: JA,EN
+  subtitle_languages: EN,ES,FR
   resolution: 1080p
   manga_chapters: 129 - 154
   number_of_chapters: "26"
@@ -970,8 +970,8 @@
   gid: "793018827"
 - arc: 14
   title: Alabasta
-  audio_languages: Jpn,Eng
-  subtitle_languages: Eng,Es, Fr
+  audio_languages: JA,EN
+  subtitle_languages: EN,ES,FR
   resolution: 1080p
   manga_chapters: 155 - 217
   number_of_chapters: "63"
@@ -1279,8 +1279,8 @@
   gid: "209591769"
 - arc: 15
   title: Jaya
-  audio_languages: Jpn,Eng
-  subtitle_languages: Eng, Es, Fr
+  audio_languages: JA,EN
+  subtitle_languages: EN,ES,FR
   resolution: 1080p
   manga_chapters: 218 - 236
   number_of_chapters: "19"
@@ -1406,8 +1406,8 @@
   gid: "1386602210"
 - arc: 16
   title: Skypiea
-  audio_languages: Jpn,Eng
-  subtitle_languages: Eng,Es (1-4), Fr, Es (5), De (17-)
+  audio_languages: JA,EN
+  subtitle_languages: EN,ES(1-4),FR,ES(5),DE(17-)
   resolution: 1080p
   manga_chapters: 237 - 303
   number_of_chapters: "66"
@@ -1784,8 +1784,8 @@
   gid: "277573788"
 - arc: 17
   title: Long Ring Long Land
-  audio_languages: Jpn,Eng
-  subtitle_languages: Eng
+  audio_languages: JA,EN
+  subtitle_languages: EN
   resolution: 720p
   manga_chapters: 304 - 321
   number_of_chapters: "19"
@@ -1897,8 +1897,8 @@
   gid: "988886513"
 - arc: 18
   title: Water Seven
-  audio_languages: Jpn,Eng
-  subtitle_languages: Eng,Fr
+  audio_languages: JA,EN
+  subtitle_languages: EN,FR
   resolution: 1080p
   manga_chapters: 322 - 374
   number_of_chapters: "53"
@@ -2192,8 +2192,8 @@
   gid: "709330688"
 - arc: 19
   title: Enies Lobby
-  audio_languages: Jpn,Eng (1-4, 23-25)
-  subtitle_languages: Eng, Es , Fr
+  audio_languages: JA,EN (1-4, 23-25)
+  subtitle_languages: EN,AR(1-4),DE(1-4),ES,FR ,HE(4)
   resolution: 720p,1080p
   manga_chapters: 375 - 430
   number_of_chapters: "56"
@@ -2557,8 +2557,8 @@
   gid: "1348628353"
 - arc: 20
   title: Post-Enies Lobby
-  audio_languages: Jpn
-  subtitle_languages: Eng
+  audio_languages: JA
+  subtitle_languages: EN
   resolution: 720p
   manga_chapters: 431 - 441
   number_of_chapters: "11"
@@ -2642,8 +2642,8 @@
   gid: "437050304"
 - arc: 21
   title: Thriller Bark
-  audio_languages: Jpn
-  subtitle_languages: Eng, Es
+  audio_languages: JA
+  subtitle_languages: EN,ES
   resolution: 720p
   manga_chapters: 442 - 489
   number_of_chapters: "48"
@@ -2965,8 +2965,8 @@
   gid: "836546175"
 - arc: 22
   title: Sabaody Archipelago
-  audio_languages: Jpn
-  subtitle_languages: Eng, Es
+  audio_languages: JA
+  subtitle_languages: EN,ES
   resolution: 720p
   manga_chapters: 490 - 513
   number_of_chapters: "24"
@@ -3134,8 +3134,8 @@
   gid: "401627898"
 - arc: 23
   title: Amazon Lily
-  audio_languages: Jpn
-  subtitle_languages: Eng, Es , Fr
+  audio_languages: JA
+  subtitle_languages: EN,ES,FR
   resolution: 720p
   manga_chapters: 514 - 524
   number_of_chapters: "11"
@@ -3219,8 +3219,8 @@
   gid: "429435711"
 - arc: 24
   title: Impel Down
-  audio_languages: Jpn
-  subtitle_languages: Eng,Es
+  audio_languages: JA
+  subtitle_languages: EN,ES
   resolution: 720p
   manga_chapters: 525 - 548
   number_of_chapters: "24"
@@ -3374,8 +3374,8 @@
   gid: "293688544"
 - arc: 25
   title: The Adventures of the Straw Hats
-  audio_languages: Eng, Es, Jpn
-  subtitle_languages: Eng, Es, Jpn
+  audio_languages: JA,EN,ES
+  subtitle_languages: EN,ES,JA
   resolution: 1080p
   manga_chapters: 543 - 560
   number_of_chapters: ""
@@ -3403,8 +3403,8 @@
   gid: "704086980"
 - arc: 26
   title: Marineford
-  audio_languages: Jpn
-  subtitle_languages: Eng,Es,Fr
+  audio_languages: JA
+  subtitle_languages: EN,ES,FR
   resolution: 720p
   manga_chapters: 549 - 580
   number_of_chapters: "32"
@@ -3656,8 +3656,8 @@
   gid: "1758192000"
 - arc: 27
   title: Post-War
-  audio_languages: Jpn,Eng (1-6)
-  subtitle_languages: Eng,Es ,Fr
+  audio_languages: JA,EN (1-6)
+  subtitle_languages: EN,ES,FR
   resolution: 1080p
   manga_chapters: 581 - 597
   number_of_chapters: "17"
@@ -3783,8 +3783,8 @@
   gid: "1001237700"
 - arc: 28
   title: Return to Sabaody
-  audio_languages: Jpn,Eng
-  subtitle_languages: Eng,Es,Fr,Ar
+  audio_languages: JA,EN
+  subtitle_languages: EN,AR,ES,FR
   resolution: 1080p
   manga_chapters: 598 - 602
   number_of_chapters: "5"
@@ -3840,8 +3840,8 @@
   gid: "1999155271"
 - arc: 29
   title: Fishman Island
-  audio_languages: Jpn
-  subtitle_languages: Eng,Es
+  audio_languages: JA
+  subtitle_languages: EN,ES
   resolution: 720p
   manga_chapters: 603 - 653
   number_of_chapters: "51"
@@ -4191,8 +4191,8 @@
   gid: "2070578030"
 - arc: 30
   title: Punk Hazard
-  audio_languages: Jpn
-  subtitle_languages: Eng,Es
+  audio_languages: JA
+  subtitle_languages: EN,ES
   resolution: 720p
   manga_chapters: 654 - 699
   number_of_chapters: "46"
@@ -4514,8 +4514,8 @@
   gid: "545721945"
 - arc: 31
   title: Dressrosa
-  audio_languages: Jpn
-  subtitle_languages: Eng,Es
+  audio_languages: JA
+  subtitle_languages: EN,ES
   resolution: 720p
   manga_chapters: 700 - 800
   number_of_chapters: "101"
@@ -5201,8 +5201,8 @@
   gid: "168502639"
 - arc: 32
   title: Zou
-  audio_languages: Jpn
-  subtitle_languages: Eng,Es, Fr
+  audio_languages: JA
+  subtitle_languages: EN,ES,FR
   resolution: 720p
   manga_chapters: 801 - 822
   number_of_chapters: "22"
@@ -5356,8 +5356,8 @@
   gid: "1146420179"
 - arc: 33
   title: Whole Cake Island
-  audio_languages: Jpn
-  subtitle_languages: Eng,Es, Fr
+  audio_languages: JA
+  subtitle_languages: EN,ES,FR
   resolution: 720p
   manga_chapters: 823 - 902
   number_of_chapters: "80"
@@ -5917,8 +5917,8 @@
   gid: "1510623527"
 - arc: 34
   title: Reverie
-  audio_languages: Jpn,Eng
-  subtitle_languages: Eng,Es,Fr
+  audio_languages: JA,EN
+  subtitle_languages: EN,ES,FR
   resolution: 1080p
   manga_chapters: 903 - 908
   number_of_chapters: "6"
@@ -5974,8 +5974,8 @@
   gid: "1529137639"
 - arc: 35
   title: Wano
-  audio_languages: Jpn,Eng (1-4, 31-)
-  subtitle_languages: Eng,Es ,Fr,Ar, De (44-)
+  audio_languages: JA,EN (1-4, 31-)
+  subtitle_languages: EN,AR,DE(44-),ES,FR
   resolution: 1080p
   manga_chapters: 909 - 1057
   number_of_chapters: "149"
@@ -6811,8 +6811,8 @@
   gid: "1926352856"
 - arc: 36
   title: Egghead
-  audio_languages: Jpn, Eng
-  subtitle_languages: Eng,Fr,De (3-)
+  audio_languages: JA, EN
+  subtitle_languages: EN,AR(7-),DE(3-),FR
   resolution: 1080p
   manga_chapters: 1058 - 1125
   number_of_chapters: "68"

@@ -507,15 +507,15 @@
     "arc": 6,
     "title": "Arlong Park",
     "audio_languages": "JA,EN",
-    "subtitle_languages": "EN, AR(1-7), DE (1-7), ES, FR, IT, RU, TR(1-7), HE(6-7)",
+    "subtitle_languages": "EN, AR(1-7), DE (1-9), ES, FR, IT, RU, TR(1-9), HE(6-9)",
     "resolution": "480p,1080p",
     "manga_chapters": "69 - 95",
     "number_of_chapters": "27",
     "anime_episodes": "31 - 44",
     "episodes_adapted": "14",
     "filler_episodes": "",
-    "time_saved_mins": "57",
-    "time_saved_percent": "19.39%",
+    "time_saved_mins": "56",
+    "time_saved_percent": "19.05%",
     "status": "",
     "episodes": [
       {
@@ -655,16 +655,16 @@
         "episode": 8,
         "title": "My Turn",
         "description": "The top officers are defeated, but as they currently are, Sanji and Zoro prove to be no match for Arlong. However, with Luffy finally free, he just may just be able to pull it off. Meanwhile, Nami finally gathers the courage to face Arlong.",
-        "chapters": "Ch. 88-90",
-        "episodes": "Ep. 40-42",
-        "released": "2020-09-12",
+        "chapters": "Ch. 88-91",
+        "episodes": "Ep. 39-42",
+        "released": "2026-02-07",
         "has_extended": false,
         "files": {
           "normal": {
             "version": "normal",
-            "crc32": "83E6D2A7",
-            "length": "25:28",
-            "url": "https://nyaa.si/view/1279925"
+            "crc32": "F43604B6",
+            "length": "30:00",
+            "url": "https://nyaa.si/view/2073712"
           }
         }
       },
@@ -675,14 +675,14 @@
         "description": "Luffy springs into action against Arlong, and their intense struggle commences! Luffy becomes enraged when he discovers how exactly Arlong had been using Nami, and he comes to a quick decision on how to finally free her of her shackles.",
         "chapters": "Ch. 91-94",
         "episodes": "Ep. 42-43",
-        "released": "2020-09-12",
+        "released": "2026-02-07",
         "has_extended": false,
         "files": {
           "normal": {
             "version": "normal",
-            "crc32": "A57211D1",
-            "length": "24:35",
-            "url": "https://nyaa.si/view/1279925"
+            "crc32": "0510B910",
+            "length": "20:40",
+            "url": "https://nyaa.si/view/2073720"
           }
         }
       },

@@ -319,26 +319,7 @@
     "time_saved_mins": "2",
     "time_saved_percent": "9.52%",
     "status": "",
-    "episodes": [
-      {
-        "arc": 4,
-        "episode": 1,
-        "title": "You're the Weird Animal",
-        "description": "With Usopp now on the crew and their new ship, the Going Merry, under their command, the Straw Hats head to an island said to hold a fabled treasure. There they encounter a strange man stuck in a box who has been looking for the same treasure.",
-        "chapters": "Ch. 42,22",
-        "episodes": "Ep. 18",
-        "released": "2026-01-18",
-        "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F4754074",
-            "length": "21:31",
-            "url": "https://nyaa.si/view/2066083"
-          }
-        }
-      }
-    ],
+    "episodes": null,
     "gid": "217544397"
   },
   {

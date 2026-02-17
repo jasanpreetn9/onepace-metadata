@@ -507,15 +507,15 @@
     "arc": 6,
     "title": "Arlong Park",
     "audio_languages": "JA,EN",
-    "subtitle_languages": "EN, AR(1-7), DE (1-9), ES, FR, IT, RU, TR(1-9), HE(6-9)",
+    "subtitle_languages": "EN, AR(1-7), DE, ES, FR, IT, RU, TR, HE(6-9)",
     "resolution": "480p,1080p",
     "manga_chapters": "69 - 95",
     "number_of_chapters": "27",
     "anime_episodes": "31 - 44",
     "episodes_adapted": "14",
     "filler_episodes": "",
-    "time_saved_mins": "56",
-    "time_saved_percent": "19.05%",
+    "time_saved_mins": "55",
+    "time_saved_percent": "18.71%",
     "status": "",
     "episodes": [
       {
@@ -693,14 +693,20 @@
         "description": "Arlong's reign of terror is over, so the island throws a party to celebrate their freedom and to honor their pirate saviors. During the festivities, Nami makes her decision to officially join the Straw Hat Pirates.",
         "chapters": "Ch. 94-95",
         "episodes": "Ep. 43-44",
-        "released": "2020-09-12",
-        "has_extended": false,
+        "released": "2026-02-16",
+        "has_extended": true,
         "files": {
           "normal": {
             "version": "normal",
-            "crc32": "5AF7A9B1",
-            "length": "20:57",
-            "url": "https://nyaa.si/view/1279925"
+            "crc32": "72F22A68",
+            "length": "22:15",
+            "url": "https://nyaa.si/view/2076966"
+          },
+          "extended": {
+            "version": "extended",
+            "crc32": "4B882BCA",
+            "length": "25:48",
+            "url": "https://nyaa.si/view/2076967"
           }
         }
       }

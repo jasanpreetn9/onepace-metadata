@@ -3104,6 +3104,19 @@
         crc32: 964FB36B
         length: "22:12"
         url: https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb
+1177A2B6:
+    arc: 7
+    episode: 0
+    title: The Adventures of Buggy's Crew
+    description: ""
+    chapters: Ch. 35-75
+    episodes: Ep. 46-47
+    released: "2026-02-21"
+    file:
+        version: normal
+        crc32: 1177A2B6
+        length: "23:35"
+        url: https://nyaa.si/view/2078481
 1206A42A:
     arc: 18
     episode: 19

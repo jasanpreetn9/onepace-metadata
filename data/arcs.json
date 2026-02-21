@@ -717,7 +717,7 @@
     "arc": 7,
     "title": "The Adventures of Buggy's Crew",
     "audio_languages": "JA,EN",
-    "subtitle_languages": "EN, ES, FR",
+    "subtitle_languages": "EN,AR,DE,ES,FR,HE,IT,RU,TR",
     "resolution": "1080p",
     "manga_chapters": "35 - 75",
     "number_of_chapters": "",
@@ -735,14 +735,14 @@
         "description": "",
         "chapters": "Ch. 35-75",
         "episodes": "Ep. 46-47",
-        "released": "2023-10-07",
+        "released": "2026-02-21",
         "has_extended": false,
         "files": {
           "normal": {
             "version": "normal",
-            "crc32": "E75794DB",
-            "length": "22:26",
-            "url": "https://nyaa.si/?q=435e4b1fe0aef5fec8cacc27f92b52ae7868ad7d"
+            "crc32": "1177A2B6",
+            "length": "23:35",
+            "url": "https://nyaa.si/view/2078481"
           }
         }
       }

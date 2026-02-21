@@ -5987,16 +5987,16 @@
   anime_episodes: 890 - 1085
   episodes_adapted: "130"
   filler_episodes: 1029 - 1030, 1084
-  time_saved_mins: "1092"
-  time_saved_percent: 39.07%
+  time_saved_mins: "943"
+  time_saved_percent: 33.74%
   status: WIP
   episodes:
     - arc: 35
       episode: 0
-      title: Wano 58 Forward
+      title: Wano 59 Forward
       description: ""
-      chapters: Ch. 1005-1058
-      episodes: Ep. 1021-1086
+      chapters: Ch. 1007-1058
+      episodes: Ep. 1023-1086
       released: To Be Released
       has_extended: false
       files: {}
@@ -6813,6 +6813,20 @@
             crc32: F1EE1824
             length: "29:07"
             url: https://nyaa.si/view/2071828
+    - arc: 35
+      episode: 58
+      title: The Honorable Hyogoro "the Flower"
+      description: Sanji shocks all when he is heard begging for his life and calling for a certain crewmate to rescue him. Meanwhile, Momo is forced out of his hiding spot while his allies and Marco struggle to keep the enemy from interrupting Chopper's work.
+      chapters: Ch. 1005-1006
+      episodes: Ep. 1020-1022
+      released: "2026-02-21"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: A0FCAB46
+            length: "30:35"
+            url: https://nyaa.si/view/2078480
   gid: "1926352856"
 - arc: 36
   title: Egghead

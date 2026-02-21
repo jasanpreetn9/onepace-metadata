@@ -4131,6 +4131,19 @@
         crc32: "93376225"
         length: "34:44"
         url: https://nyaa.si/view/1324851
+A0FCAB46:
+    arc: 35
+    episode: 58
+    title: The Honorable Hyogoro "the Flower"
+    description: Sanji shocks all when he is heard begging for his life and calling for a certain crewmate to rescue him. Meanwhile, Momo is forced out of his hiding spot while his allies and Marco struggle to keep the enemy from interrupting Chopper's work.
+    chapters: Ch. 1005-1006
+    episodes: Ep. 1020-1022
+    released: "2026-02-21"
+    file:
+        version: normal
+        crc32: A0FCAB46
+        length: "30:35"
+        url: https://nyaa.si/view/2078480
 A4F76B13:
     arc: 32
     episode: 4

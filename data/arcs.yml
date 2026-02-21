@@ -3235,7 +3235,147 @@
   time_saved_mins: "263.5"
   time_saved_percent: 45.39%
   status: TBR
-  episodes: []
+  episodes:
+    - arc: 24
+      episode: 1
+      title: The Underwater Prison, Impel Down
+      description: To rescue his brother Ace, Luffy must infiltrate the well-guarded prison Impel Down. He eludes the watchful eyes of security for a time, and then, for better or worse, a certain red-nosed criminal appears.
+      chapters: Ch. 525-526
+      episodes: Ep. 422-423,454
+      released: "2016-05-21"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 479D510C
+            length: "27:34"
+            url: https://nyaa.si/?q=2e1a040b1de930368ae027be070e6e8bc134b709
+    - arc: 24
+      episode: 2
+      title: First Son of the Sea
+      description: After forming an unlikely alliance, Luffy rushes through Impel Down aided by Buggy's powers. Meanwhile, Ace finds himself with an unlikely companion as well when he exchanges words with a powerful pirate prisoner.
+      chapters: Ch. 527-528
+      episodes: Ep. 424-425,430
+      released: "2016-12-30"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 7306EDA1
+            length: "25:13"
+            url: https://nyaa.si/?q=2e1a040b1de930368ae027be070e6e8bc134b709
+    - arc: 24
+      episode: 3
+      title: From One Hell to Another
+      description: Luffy and his dubious companions face off against the mythical beasts of Level 2. Impel Down is put on lockdown, its only exit sealed, but Luffy, unaware and unafraid, continues to Ace's floor, only to have another unexpected reunion.
+      chapters: Ch. 529-531
+      episodes: Ep. 425,430-432
+      released: "2017-01-07"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: FB406E73
+            length: "39:13"
+            url: https://nyaa.si/?q=2e1a040b1de930368ae027be070e6e8bc134b709
+    - arc: 24
+      episode: 4
+      title: Inferno Hell
+      description: Luffy and his deranged team pummel everything from Level 3 to Level 4 that dares to stand in their path. However, the powerful guard Minotaurus is ready to do some pummeling of his own while a boiling bath of blood awaits below.
+      chapters: Ch. 532-533
+      episodes: Ep. 433-434
+      released: "2017-01-20"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 5DD0859D
+            length: "26:52"
+            url: https://nyaa.si/?q=2e1a040b1de930368ae027be070e6e8bc134b709
+    - arc: 24
+      episode: 5
+      title: Friend
+      description: With nowhere to run, Luffy's desperation to save Ace forces him to make a very grim sacrifice against his venomous adversary. Down in the frozen depths of Level 5, Bon Kurei rushes to his friend's aid, betting on a distant hope.
+      chapters: Ch. 534-536
+      episodes: Ep. 435-438,446
+      released: "2017-02-10"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: B46EDD50
+            length: "35:06"
+            url: https://nyaa.si/?q=2e1a040b1de930368ae027be070e6e8bc134b709
+    - arc: 24
+      episode: 6
+      title: A Ray of Hope
+      description: Bon Kurei wanders through Level 5 in search of a mysterious missing prisoner. However, the fearsome wolves and bitter cold eventually take their toll, and he collapses in the Freezing Hell all while Luffy's life continues to dwindle away.
+      chapters: Ch. 537-538
+      episodes: Ep. 438-440
+      released: "2017-02-17"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 5D5D24DF
+            length: "32:13"
+            url: https://nyaa.si/?q=2e1a040b1de930368ae027be070e6e8bc134b709
+    - arc: 24
+      episode: 7
+      title: Infinite Hell
+      description: Luffy is back in action, and he prepares to set off, now with even more powerful allies who have ties to his old man. When they reach the lowest level of Impel Down, the legendary Level 6, they are in for a few new surprises.
+      chapters: Ch. 539-540
+      episodes: Ep. 440-443
+      released: "2017-06-23"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 379DD054
+            length: "28:43"
+            url: https://nyaa.si/?q=2e1a040b1de930368ae027be070e6e8bc134b709
+    - arc: 24
+      episode: 8
+      title: Yet Another Epic Incident
+      description: A veritable all-star team on his side, Luffy and co. battle their way back up to Level 4. On Level 2, a massive riot erupts, plunging the prison into chaos. To further complicate matters, another infamous pirate breaks into Impel Down.
+      chapters: Ch. 541-543
+      episodes: Ep. 443-446
+      released: "2017-06-23"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 683EDC5C
+            length: "37:31"
+            url: https://nyaa.si/?q=2e1a040b1de930368ae027be070e6e8bc134b709
+    - arc: 24
+      episode: 9
+      title: To Sunshine and Freedom
+      description: It is utter chaos in Impel Down, and between the sudden appearance of Blackbeard, the vice warden’s interference, and Magellan’s dogged attempts to restore order, the escape team just might see daylight yet!
+      chapters: Ch. 544-546
+      episodes: Ep. 446-450
+      released: "2017-06-23"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: F0C33425
+            length: "37:43"
+            url: https://nyaa.si/?q=2e1a040b1de930368ae027be070e6e8bc134b709
+    - arc: 24
+      episode: 10
+      title: Thank You
+      description: Thanks to Jinbe’s quick thinking, Luffy and co. narrowly escape Impel Down. However, the Gates of Justice remain closed, and a horde of Marine ships is gaining on them. Then, just when all hope seems lost, a dear friend makes an all-or-nothing gamble.
+      chapters: Ch. 547-548
+      episodes: Ep. 450-451
+      released: "2017-06-23"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 540A9642
+            length: "27:03"
+            url: https://nyaa.si/?q=2e1a040b1de930368ae027be070e6e8bc134b709
   gid: "293688544"
 - arc: 25
   title: The Adventures of the Straw Hats

@@ -5985,10 +5985,10 @@
   manga_chapters: 909 - 1057
   number_of_chapters: "149"
   anime_episodes: 890 - 1085
-  episodes_adapted: "130"
+  episodes_adapted: "132"
   filler_episodes: 1029 - 1030, 1084
-  time_saved_mins: "943"
-  time_saved_percent: 33.74%
+  time_saved_mins: "986"
+  time_saved_percent: 34.74%
   status: WIP
   episodes:
     - arc: 35

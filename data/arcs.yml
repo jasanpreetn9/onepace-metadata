@@ -2197,16 +2197,16 @@
   gid: "709330688"
 - arc: 19
   title: Enies Lobby
-  audio_languages: JA,EN (1-4, 23-25)
-  subtitle_languages: EN,AR(1-4),DE(1-4),ES,FR ,HE(4)
+  audio_languages: JA,EN (1-6, 23-25)
+  subtitle_languages: EN,AR(1-4),DE(1-6),ES,FR,HE(4)
   resolution: 720p,1080p
   manga_chapters: 375 - 430
   number_of_chapters: "56"
   anime_episodes: 263 - 312
   episodes_adapted: "45"
   filler_episodes: 291 - 292, 303
-  time_saved_mins: "354"
-  time_saved_percent: 37.46%
+  time_saved_mins: "355"
+  time_saved_percent: 37.57%
   status: ""
   episodes:
     - arc: 19
@@ -2269,30 +2269,30 @@
       episode: 5
       title: Signal the Counterstrike
       description: Luffy makes it just outside the courthouse when Blueno of CP9 appears before him, and on the main road, the Straw Hats near the courthouse plaza aboard Sodom and Gomorrah. Meanwhile, Sogeking comes across a dejected Oimo.
-      chapters: Ch. 383-384
+      chapters: Ch. 383-385
       episodes: Ep. 269-271
-      released: "2019-03-14"
+      released: "2026-03-01"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: 56E89B6A
-            length: "25:36"
-            url: https://nyaa.si/?q=abb1df690997f215a5866d7987223a26059ad4f9
+            crc32: 07F7124B
+            length: "32:17"
+            url: https://nyaa.si/view/2081632
     - arc: 19
       episode: 6
       title: Unprecedented
       description: Kaku and Kalifa of CP9 are offered a rare chance for new powers and are each served a devil fruit. The Straw Hats finally arrive at the courthouse plaza when Spandam receives an urgent call, and he realizes things are much worse than previously reported.
       chapters: Ch. 385-387
-      episodes: Ep. 271-273
-      released: "2019-05-02"
+      episodes: Ep. 272-273
+      released: "2026-03-01"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: 0E201E28
-            length: "29:52"
-            url: https://nyaa.si/?q=eef5f64e3d053a6abe98dcabe934c67d5d2e3a73
+            crc32: 46C9CFF8
+            length: "22:18"
+            url: https://nyaa.si/view/2081633
     - arc: 19
       episode: 7
       title: Gear Second
@@ -5980,7 +5980,7 @@
 - arc: 35
   title: Wano
   audio_languages: JA,EN (1-4, 31-)
-  subtitle_languages: EN,AR,DE(44-),ES,FR
+  subtitle_languages: EN,AR,DE(44-),ES(1-4,31-40),FR
   resolution: 1080p
   manga_chapters: 909 - 1057
   number_of_chapters: "149"

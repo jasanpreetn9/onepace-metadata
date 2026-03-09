@@ -557,6 +557,19 @@
         crc32: 3C665F73
         length: "20:30"
         url: https://nyaa.si/?q=da97987eb5adeaed1f34269af22cf7202c6ae93c
+3CA69C29:
+    arc: 19
+    episode: 7
+    title: Gear Second
+    description: The Straw Hats storm the courthouse where the three-headed judge Baskerville awaits to enact violent judgment upon them. On the roof, Luffy thanks CP9's Blueno for the strength of his opponents, and he activates a new ability.
+    chapters: Ch. 388-390
+    episodes: Ep. 273-274
+    released: "2026-03-08"
+    file:
+        version: normal
+        crc32: 3CA69C29
+        length: "29:20"
+        url: https://nyaa.si/view/2084248
 3CC8226D:
     arc: 35
     episode: 27

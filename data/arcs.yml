@@ -2197,16 +2197,16 @@
   gid: "709330688"
 - arc: 19
   title: Enies Lobby
-  audio_languages: JA,EN (1-6, 23-25)
-  subtitle_languages: EN,AR(1-4),DE(1-6),ES,FR,HE(4)
+  audio_languages: JA,EN (1-7, 23-25)
+  subtitle_languages: EN,AR(1-4,7),DE(1-7),ES,FR,HE(4)
   resolution: 720p,1080p
   manga_chapters: 375 - 430
   number_of_chapters: "56"
   anime_episodes: 263 - 312
   episodes_adapted: "45"
   filler_episodes: 291 - 292, 303
-  time_saved_mins: "355"
-  time_saved_percent: 37.57%
+  time_saved_mins: "354"
+  time_saved_percent: 37.46%
   status: ""
   episodes:
     - arc: 19
@@ -2299,14 +2299,14 @@
       description: The Straw Hats storm the courthouse where the three-headed judge Baskerville awaits to enact violent judgment upon them. On the roof, Luffy thanks CP9's Blueno for the strength of his opponents, and he activates a new ability.
       chapters: Ch. 388-390
       episodes: Ep. 273-274
-      released: "2019-05-13"
+      released: "2026-03-08"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: 3BBE532B
-            length: "28:50"
-            url: https://nyaa.si/?q=c5f7298ed41089e6be7f670637aaee98bb869faa
+            crc32: 3CA69C29
+            length: "29:20"
+            url: https://nyaa.si/view/2084248
     - arc: 19
       episode: 8
       title: The Girl They Called a Devil

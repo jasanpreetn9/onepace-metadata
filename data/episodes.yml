@@ -4157,6 +4157,19 @@
         crc32: "73003149"
         length: "25:58"
         url: https://nyaa.si/?q=4f3742283679c68ee64ccf1a7fbf71f1acb600da
+"79695827":
+    arc: 19
+    episode: 8
+    title: The Girl They Called a Devil
+    description: Twenty years ago, Nico Robin grew up on Ohara in the West Blue, striving to become an archaeologist like her mother. When Robin met Saul, a giant who washed onto the shores of Ohara, her life would forever be changed.
+    chapters: Ch. 391-393
+    episodes: Ep. 275-276
+    released: "2026-03-14"
+    file:
+        version: normal
+        crc32: "79695827"
+        length: "32:14"
+        url: https://nyaa.si/view/2085878
 "88263203":
     arc: 16
     episode: 19
@@ -6055,6 +6068,19 @@ EBBD7693:
         crc32: EBBD7693
         length: "18:33"
         url: https://nyaa.si/?q=2ed606e870d5927f3d83acd72bd4aec691196a5d
+EBF6DE81:
+    arc: 9
+    episode: 1
+    title: Reverse Mountain
+    description: Following a near disaster in the Calm Belt, the Straw Hats take a wild ride up and down a mountain… and are promptly swallowed by a giant whale!
+    chapters: Ch. 101-102
+    episodes: Ep. 54-55,61-62
+    released: "2026-03-14"
+    file:
+        version: normal
+        crc32: EBF6DE81
+        length: "21:22"
+        url: https://nyaa.si/view/2085877
 ECD80B22:
     arc: 31
     episode: 40

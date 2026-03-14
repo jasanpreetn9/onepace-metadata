@@ -825,15 +825,15 @@
     "arc": 9,
     "title": "Reverse Mountain",
     "audio_languages": "JA,EN",
-    "subtitle_languages": "EN, ES , FR",
+    "subtitle_languages": "EN, AR(1),DE(1),ES , FR, HE(1), IT(1), TR(1)",
     "resolution": "1080p",
     "manga_chapters": "101 - 105",
     "number_of_chapters": "5",
     "anime_episodes": "55, 61 - 63",
     "episodes_adapted": "4",
     "filler_episodes": "56 - 60",
-    "time_saved_mins": "35",
-    "time_saved_percent": "41.67%",
+    "time_saved_mins": "34",
+    "time_saved_percent": "40.48%",
     "status": "",
     "episodes": [
       {
@@ -843,14 +843,14 @@
         "description": "Following a near disaster in the Calm Belt, the Straw Hats take a wild ride up and down a mountain… and are promptly swallowed by a giant whale!",
         "chapters": "Ch. 101-102",
         "episodes": "Ep. 54-55,61-62",
-        "released": "2024-01-05",
+        "released": "2026-03-14",
         "has_extended": false,
         "files": {
           "normal": {
             "version": "normal",
-            "crc32": "CE01A533",
-            "length": "20:26",
-            "url": "https://nyaa.si/?q=08545ca4151f7d4d7b86ecb9f485c3557551321f"
+            "crc32": "EBF6DE81",
+            "length": "21:22",
+            "url": "https://nyaa.si/view/2085877"
           }
         }
       },
@@ -2803,16 +2803,16 @@
   {
     "arc": 19,
     "title": "Enies Lobby",
-    "audio_languages": "JA,EN (1-7, 23-25)",
-    "subtitle_languages": "EN,AR(1-4,7),DE(1-7),ES,FR,HE(4)",
+    "audio_languages": "JA,EN (1-8, 23-25)",
+    "subtitle_languages": "EN,AR(1-4,7-8),DE(1-8),ES,FR,HE(4)",
     "resolution": "720p,1080p",
     "manga_chapters": "375 - 430",
     "number_of_chapters": "56",
     "anime_episodes": "263 - 312",
     "episodes_adapted": "45",
     "filler_episodes": "291 - 292, 303",
-    "time_saved_mins": "354",
-    "time_saved_percent": "37.46%",
+    "time_saved_mins": "353",
+    "time_saved_percent": "37.35%",
     "status": "",
     "episodes": [
       {
@@ -2948,14 +2948,14 @@
         "description": "Twenty years ago, Nico Robin grew up on Ohara in the West Blue, striving to become an archaeologist like her mother. When Robin met Saul, a giant who washed onto the shores of Ohara, her life would forever be changed.",
         "chapters": "Ch. 391-393",
         "episodes": "Ep. 275-276",
-        "released": "2019-05-29",
+        "released": "2026-03-14",
         "has_extended": false,
         "files": {
           "normal": {
             "version": "normal",
-            "crc32": "DECF4267",
-            "length": "31:06",
-            "url": "https://nyaa.si/?q=1fe8afe6de98a34ea89ce434db2a437fe50724fe"
+            "crc32": "79695827",
+            "length": "32:14",
+            "url": "https://nyaa.si/view/2085878"
           }
         }
       },

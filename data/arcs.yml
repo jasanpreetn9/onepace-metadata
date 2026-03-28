@@ -136,8 +136,8 @@
   anime_episodes: 9 - 17
   episodes_adapted: "9"
   filler_episodes: ""
-  time_saved_mins: "38"
-  time_saved_percent: 20.11%
+  time_saved_mins: "39"
+  time_saved_percent: 20.63%
   status: ""
   episodes:
     - arc: 3
@@ -249,8 +249,8 @@
   anime_episodes: "18"
   episodes_adapted: "1"
   filler_episodes: ""
-  time_saved_mins: "2"
-  time_saved_percent: 9.52%
+  time_saved_mins: "3"
+  time_saved_percent: 14.29%
   status: ""
   episodes:
     - arc: 4
@@ -278,8 +278,8 @@
   anime_episodes: 19 - 30
   episodes_adapted: "12"
   filler_episodes: ""
-  time_saved_mins: "71"
-  time_saved_percent: 28.17%
+  time_saved_mins: "76"
+  time_saved_percent: 30.16%
   status: ""
   episodes:
     - arc: 5
@@ -386,7 +386,7 @@
       description: As the dust of battle settles, the still poisoned Gin decides to go back to the Grand Line with Krieg, and Sanji makes the difficult decision to join Luffy's crew. Suddenly, Yosaku returns with news of where Nami took the Going Merry.
       chapters: Ch. 67-68
       episodes: Ep. 30
-      released: "2023-09-27"
+      released: "2025-09-27"
       has_extended: false
       files:
         normal:

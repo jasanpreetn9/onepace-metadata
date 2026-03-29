@@ -825,15 +825,15 @@
     "arc": 9,
     "title": "Reverse Mountain",
     "audio_languages": "JA,EN",
-    "subtitle_languages": "EN, AR(1),DE(1),ES , FR, HE(1), IT(1), TR(1)",
+    "subtitle_languages": "EN,AR,DE,ES,FR,HE(1),IT,TR",
     "resolution": "1080p",
     "manga_chapters": "101 - 105",
     "number_of_chapters": "5",
     "anime_episodes": "55, 61 - 63",
     "episodes_adapted": "4",
     "filler_episodes": "56 - 60",
-    "time_saved_mins": "34",
-    "time_saved_percent": "40.48%",
+    "time_saved_mins": "33",
+    "time_saved_percent": "39.29%",
     "status": "",
     "episodes": [
       {
@@ -861,14 +861,20 @@
         "description": "After learning of Laboon the whale's plight, Luffy comes up with a solution befitting his style. As thanks, Crocus reveals that navigating the Grand Line will not be as simple as following a compass or relying on currents and wind.",
         "chapters": "Ch. 103-105",
         "episodes": "Ep. 62-63",
-        "released": "2024-01-05",
-        "has_extended": false,
+        "released": "2026-03-28",
+        "has_extended": true,
         "files": {
           "normal": {
             "version": "normal",
-            "crc32": "5195CDBC",
-            "length": "33:08",
-            "url": "https://nyaa.si/?q=08545ca4151f7d4d7b86ecb9f485c3557551321f"
+            "crc32": "103B04A7",
+            "length": "33:46",
+            "url": "https://nyaa.si/view/2091121"
+          },
+          "extended": {
+            "version": "extended",
+            "crc32": "3B7CBD0F",
+            "length": "34:18",
+            "url": "https://nyaa.si/view/2091122"
           }
         }
       }
@@ -2803,16 +2809,16 @@
   {
     "arc": 19,
     "title": "Enies Lobby",
-    "audio_languages": "JA,EN (1-8, 23-25)",
-    "subtitle_languages": "EN,AR(1-4,7-8),DE(1-8),ES,FR,HE(4)",
+    "audio_languages": "JA,EN (1-9, 23-25)",
+    "subtitle_languages": "EN,AR(1-4,7-8),DE(1-9),ES,FR,HE(4)",
     "resolution": "720p,1080p",
     "manga_chapters": "375 - 430",
     "number_of_chapters": "56",
     "anime_episodes": "263 - 312",
     "episodes_adapted": "45",
     "filler_episodes": "291 - 292, 303",
-    "time_saved_mins": "353",
-    "time_saved_percent": "37.35%",
+    "time_saved_mins": "352",
+    "time_saved_percent": "37.25%",
     "status": "",
     "episodes": [
       {
@@ -2966,14 +2972,14 @@
         "description": "Robin's mother Olvia was on the run from the World Government, and tragedy was unavoidable from the moment Professor Clover and his colleagues decided to continue their research. No one on Ohara was safe.",
         "chapters": "Ch. 394-396",
         "episodes": "Ep. 276-277",
-        "released": "2019-06-27",
+        "released": "2026-03-28",
         "has_extended": false,
         "files": {
           "normal": {
             "version": "normal",
-            "crc32": "952F5BEB",
-            "length": "31:08",
-            "url": "https://nyaa.si/?q=bc2fa17f4130b673cfee7cde79e9bd6b2af59004"
+            "crc32": "88CB08F6",
+            "length": "32:19",
+            "url": "https://nyaa.si/view/2091111"
           }
         }
       },

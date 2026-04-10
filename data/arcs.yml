@@ -3395,21 +3395,7 @@
   time_saved_mins: "65"
   time_saved_percent: 75.58%
   status: ""
-  episodes:
-    - arc: 25
-      episode: 0
-      title: The Adventures of the Straw Hats
-      description: ""
-      chapters: Ch. 543-560
-      episodes: Ep. 453-456
-      released: "2024-03-29"
-      has_extended: false
-      files:
-        normal:
-            version: normal
-            crc32: 2BC41092
-            length: "23:04"
-            url: https://nyaa.si/view/1796385
+  episodes: []
   gid: "704086980"
 - arc: 26
   title: Marineford

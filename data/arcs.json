@@ -23,14 +23,7 @@
         "episodes": "Episode of East Blue, Ep. 312 (Intro)",
         "released": "2025-05-03",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E5F09F49",
-            "length": "17:57",
-            "url": "https://nyaa.si/view/1966911"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 1,
@@ -41,14 +34,7 @@
         "episodes": "Ep. 1",
         "released": "2025-05-03",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "A465972A",
-            "length": "20:59",
-            "url": "https://nyaa.si/view/1966911"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 1,
@@ -59,14 +45,7 @@
         "episodes": "Ep. 2, 19",
         "released": "2025-05-03",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "2DEB2701",
-            "length": "28:40",
-            "url": "https://nyaa.si/view/1966911"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 1,
@@ -77,14 +56,7 @@
         "episodes": "Ep. 3",
         "released": "2025-05-03",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "6E46167D",
-            "length": "18:03",
-            "url": "https://nyaa.si/view/1966911"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "1122135437"
@@ -113,14 +85,7 @@
         "episodes": "Ep. 4-6",
         "released": "2025-09-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "CBFE01C7",
-            "length": "28:36",
-            "url": "https://nyaa.si/view/2016635"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 2,
@@ -131,14 +96,7 @@
         "episodes": "Ep. 6-7",
         "released": "2025-09-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "FAFCDE38",
-            "length": "36:55",
-            "url": "https://nyaa.si/view/2016635"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 2,
@@ -149,14 +107,7 @@
         "episodes": "Ep. 8",
         "released": "2025-09-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "9C115EE6",
-            "length": "22:42",
-            "url": "https://nyaa.si/view/2016635"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "928032798"
@@ -185,14 +136,7 @@
         "episodes": "Ep. 9-10",
         "released": "2025-12-06",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "9BC8F913",
-            "length": "30:02",
-            "url": "https://nyaa.si/view/2050665"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 3,
@@ -203,14 +147,7 @@
         "episodes": "Ep. 10-11",
         "released": "2025-12-06",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "25913BDA",
-            "length": "23:27",
-            "url": "https://nyaa.si/view/2050665"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 3,
@@ -221,14 +158,7 @@
         "episodes": "Ep. 12-13",
         "released": "2025-12-06",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F66FB414",
-            "length": "25:35",
-            "url": "https://nyaa.si/view/2050665"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 3,
@@ -239,14 +169,7 @@
         "episodes": "Ep. 13-14",
         "released": "2025-12-06",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "A5E4EBC0",
-            "length": "31:40",
-            "url": "https://nyaa.si/view/2050665"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 3,
@@ -257,14 +180,7 @@
         "episodes": "Ep. 15-16",
         "released": "2025-12-06",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "707146C8",
-            "length": "23:42",
-            "url": "https://nyaa.si/view/2050665"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 3,
@@ -275,14 +191,7 @@
         "episodes": "Ep. 16-17",
         "released": "2025-12-06",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "014834ED",
-            "length": "17:42",
-            "url": "https://nyaa.si/view/2050665"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 3,
@@ -293,14 +202,7 @@
         "episodes": "Ep. 17",
         "released": "2025-12-06",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "1B7544F3",
-            "length": "19:17",
-            "url": "https://nyaa.si/view/2050665"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "1568594768"
@@ -329,14 +231,7 @@
         "episodes": "Ep. 18",
         "released": "2026-01-18",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F4754074",
-            "length": "21:31",
-            "url": "https://nyaa.si/view/2066083"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "217544397"
@@ -365,14 +260,7 @@
         "episodes": "Ep. 19-21",
         "released": "2025-08-02",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "BE634289",
-            "length": "30:18",
-            "url": "https://nyaa.si/view/2000865"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 5,
@@ -383,14 +271,7 @@
         "episodes": "Ep. 21-23",
         "released": "2025-08-10",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "9BD35F80",
-            "length": "31:30",
-            "url": "https://nyaa.si/view/2004227"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 5,
@@ -401,14 +282,7 @@
         "episodes": "Ep. 23-24, 29, 135",
         "released": "2025-08-10",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E90342F6",
-            "length": "37:58",
-            "url": "https://nyaa.si/view/2004228"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 5,
@@ -419,14 +293,7 @@
         "episodes": "Ep. 25",
         "released": "2025-08-18",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "792BE789",
-            "length": "20:21",
-            "url": "https://nyaa.si/view/2007905"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 5,
@@ -437,14 +304,7 @@
         "episodes": "Ep. 26",
         "released": "2025-08-23",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "ACEA0537",
-            "length": "21:45",
-            "url": "https://nyaa.si/view/2010309"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 5,
@@ -455,14 +315,7 @@
         "episodes": "Ep. 27-28",
         "released": "2025-09-15",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "1375A4F5",
-            "length": "27:59",
-            "url": "https://nyaa.si/view/2022729"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 5,
@@ -473,14 +326,7 @@
         "episodes": "Ep. 28-29",
         "released": "2025-09-21",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5B161435",
-            "length": "27:47",
-            "url": "https://nyaa.si/view/2022710"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 5,
@@ -491,14 +337,7 @@
         "episodes": "Ep. 30",
         "released": "2025-09-27",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "A6F61DEE",
-            "length": "18:43",
-            "url": "https://nyaa.si/view/2024713"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "563366367"
@@ -527,14 +366,7 @@
         "episodes": "Ep. 31-32",
         "released": "2025-10-12",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "C269DEF5",
-            "length": "30:47",
-            "url": "https://nyaa.si/view/2030687"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 6,
@@ -545,14 +377,7 @@
         "episodes": "Ep. 32-33",
         "released": "2025-10-19",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E419D54E",
-            "length": "22:02",
-            "url": "https://nyaa.si/view/2033327"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 6,
@@ -563,14 +388,7 @@
         "episodes": "Ep. 33-34",
         "released": "2025-01-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "CC4900AE",
-            "length": "24:35",
-            "url": "https://nyaa.si/view/2035983"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 6,
@@ -581,14 +399,7 @@
         "episodes": "Ep. 34-36",
         "released": "2025-11-02",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E4D9E965",
-            "length": "26:57",
-            "url": "https://nyaa.si/view/2038517"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 6,
@@ -598,21 +409,8 @@
         "chapters": "Ch. 79-81",
         "episodes": "Ep. 36-37",
         "released": "2025-11-09",
-        "has_extended": true,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5D1CA4A2",
-            "length": "30:32",
-            "url": "https://nyaa.si/view/2041111"
-          },
-          "extended": {
-            "version": "extended",
-            "crc32": "587689A9",
-            "length": "31:24",
-            "url": "https://nyaa.si/view/2043738"
-          }
-        }
+        "has_extended": false,
+        "files": {}
       },
       {
         "arc": 6,
@@ -623,14 +421,7 @@
         "episodes": "Ep. 38-39",
         "released": "2026-01-10",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "FCF6BA63",
-            "length": "25:59",
-            "url": "https://nyaa.si/view/2062715"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 6,
@@ -641,14 +432,7 @@
         "episodes": "Ep. 39-40",
         "released": "2026-01-18",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "4DDEFE2B",
-            "length": "26:59",
-            "url": "https://nyaa.si/view/2066084"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 6,
@@ -659,14 +443,7 @@
         "episodes": "Ep. 39-42",
         "released": "2026-02-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F43604B6",
-            "length": "30:00",
-            "url": "https://nyaa.si/view/2073712"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 6,
@@ -677,14 +454,7 @@
         "episodes": "Ep. 42-43",
         "released": "2026-02-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "0510B910",
-            "length": "20:40",
-            "url": "https://nyaa.si/view/2073720"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 6,
@@ -694,21 +464,8 @@
         "chapters": "Ch. 94-95",
         "episodes": "Ep. 43-44",
         "released": "2026-02-16",
-        "has_extended": true,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "72F22A68",
-            "length": "22:15",
-            "url": "https://nyaa.si/view/2076966"
-          },
-          "extended": {
-            "version": "extended",
-            "crc32": "4B882BCA",
-            "length": "25:48",
-            "url": "https://nyaa.si/view/2076967"
-          }
-        }
+        "has_extended": false,
+        "files": {}
       }
     ],
     "gid": "1076173334"
@@ -737,14 +494,7 @@
         "episodes": "Ep. 46-47",
         "released": "2026-02-21",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "1177A2B6",
-            "length": "23:35",
-            "url": "https://nyaa.si/view/2078481"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "1955340365"
@@ -773,14 +523,7 @@
         "episodes": "Ep. 45,48-49",
         "released": "2020-09-22",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "4200CE0D",
-            "length": "27:32",
-            "url": "https://nyaa.si/view/1282922"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 8,
@@ -791,14 +534,7 @@
         "episodes": "Ep. 48, 50",
         "released": "2020-09-22",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "8E970FD4",
-            "length": "31:24",
-            "url": "https://nyaa.si/view/1282922"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 8,
@@ -809,14 +545,7 @@
         "episodes": "Ep. 52-53",
         "released": "2020-09-22",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "23E3E489",
-            "length": "36:13",
-            "url": "https://nyaa.si/view/1282922"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "702404357"
@@ -845,14 +574,7 @@
         "episodes": "Ep. 54-55,61-62",
         "released": "2026-03-14",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "EBF6DE81",
-            "length": "21:22",
-            "url": "https://nyaa.si/view/2085877"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 9,
@@ -862,21 +584,8 @@
         "chapters": "Ch. 103-105",
         "episodes": "Ep. 62-63",
         "released": "2026-03-28",
-        "has_extended": true,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "103B04A7",
-            "length": "33:46",
-            "url": "https://nyaa.si/view/2091121"
-          },
-          "extended": {
-            "version": "extended",
-            "crc32": "3B7CBD0F",
-            "length": "34:18",
-            "url": "https://nyaa.si/view/2091122"
-          }
-        }
+        "has_extended": false,
+        "files": {}
       }
     ],
     "gid": "603231379"
@@ -905,14 +614,7 @@
         "episodes": "Ep. 64-65",
         "released": "2017-08-10",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "26D6F22A",
-            "length": "30:58",
-            "url": "https://nyaa.si/?q=d5af21f3f6ab66d20dda4b131b5eeb0e17a23b7a"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 10,
@@ -923,14 +625,7 @@
         "episodes": "Ep. 65-67",
         "released": "2017-08-18",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "3677DB27",
-            "length": "40:17",
-            "url": "https://nyaa.si/?q=d5af21f3f6ab66d20dda4b131b5eeb0e17a23b7a"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "92257054"
@@ -959,14 +654,7 @@
         "episodes": "Ep. 68-69",
         "released": "2023-06-05",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "4B56844F",
-            "length": "15:11",
-            "url": "https://nyaa.si/view/1679185"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "187728198"
@@ -995,14 +683,7 @@
         "episodes": "Ep. 70-71",
         "released": "2025-03-22",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "FA63AC14",
-            "length": "30:07",
-            "url": "https://nyaa.si/view/1950691"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 12,
@@ -1013,14 +694,7 @@
         "episodes": "Ep. 71-72",
         "released": "2025-04-18",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "64714640",
-            "length": "27:45",
-            "url": "https://nyaa.si/view/1961205"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 12,
@@ -1031,14 +705,7 @@
         "episodes": "Ep. 73-74",
         "released": "2025-04-18",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "0AB937B1",
-            "length": "29:12",
-            "url": "https://nyaa.si/view/1961204"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 12,
@@ -1049,14 +716,7 @@
         "episodes": "Ep. 75-76",
         "released": "2025-07-12",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "8BE7A415",
-            "length": "34:20",
-            "url": "https://nyaa.si/view/1992017"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 12,
@@ -1067,14 +727,7 @@
         "episodes": "Ep. 77-79",
         "released": "2025-07-19",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "51105EBB",
-            "length": "26:58",
-            "url": "https://nyaa.si/view/1995007"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "1340008658"
@@ -1103,14 +756,7 @@
         "episodes": "Ep. 78-79",
         "released": "2022-09-26",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "FD2B4F32",
-            "length": "29:37",
-            "url": "https://nyaa.si/view/1583366"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 13,
@@ -1121,14 +767,7 @@
         "episodes": "Ep. 80-81",
         "released": "2022-09-26",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "8FDCC832",
-            "length": "33:04",
-            "url": "https://nyaa.si/view/1583367"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 13,
@@ -1139,14 +778,7 @@
         "episodes": "Ep. 82-83",
         "released": "2022-09-26",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "2971EF62",
-            "length": "34:29",
-            "url": "https://nyaa.si/view/1583368"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 13,
@@ -1157,14 +789,7 @@
         "episodes": "Ep. 83-84",
         "released": "2022-09-26",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "902076E8",
-            "length": "20:15",
-            "url": "https://nyaa.si/view/1583374"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 13,
@@ -1175,14 +800,7 @@
         "episodes": "Ep. 85-86",
         "released": "2023-03-21",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E7044DBE",
-            "length": "39:26",
-            "url": "https://nyaa.si/view/1651826"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 13,
@@ -1193,14 +811,7 @@
         "episodes": "Ep. 83, 86-88",
         "released": "2023-05-08",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "A5145C90",
-            "length": "25:33",
-            "url": "https://nyaa.si/view/1672420"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 13,
@@ -1211,14 +822,7 @@
         "episodes": "Ep. 88-90",
         "released": "2023-06-18",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "B1D913B9",
-            "length": "33:31",
-            "url": "https://nyaa.si/view/1683781"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 13,
@@ -1229,14 +833,7 @@
         "episodes": "Ep. 90-91",
         "released": "2023-07-05",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "9794072D",
-            "length": "29:50",
-            "url": "https://nyaa.si/?q=a464ed705df4d6e5c82182720fcb680aff526df9"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "793018827"
@@ -1265,14 +862,7 @@
         "episodes": "Ep. 92",
         "released": "2022-05-14",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "BB1D093C",
-            "length": "20:28",
-            "url": "https://nyaa.si/view/1672027"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 14,
@@ -1283,14 +873,7 @@
         "episodes": "Ep. 93-95",
         "released": "2023-06-05",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E4BA97D6",
-            "length": "28:25",
-            "url": "https://nyaa.si/view/1679184"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 14,
@@ -1301,14 +884,7 @@
         "episodes": "Ep. 96-98",
         "released": "2023-07-28",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "73003149",
-            "length": "25:58",
-            "url": "https://nyaa.si/?q=4f3742283679c68ee64ccf1a7fbf71f1acb600da"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 14,
@@ -1319,14 +895,7 @@
         "episodes": "Ep. 98, 100-101, 103",
         "released": "2023-11-25",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "FF1E1708",
-            "length": "25:15",
-            "url": "https://nyaa.si/?q=48f7e9efea3a6c5a03a7f7cb9a609beb67aab9de"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 14,
@@ -1337,14 +906,7 @@
         "episodes": "Ep. 100, 103-104",
         "released": "2021-05-09",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E9E8604E",
-            "length": "32:08",
-            "url": "https://nyaa.si/?q=1f6197f6cf42220277a4edef259b74bd93ee5c4d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 14,
@@ -1355,14 +917,7 @@
         "episodes": "Ep. 105",
         "released": "2021-07-06",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "58865EA7",
-            "length": "20:10",
-            "url": "https://nyaa.si/view/1406133"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 14,
@@ -1373,14 +928,7 @@
         "episodes": "Ep. 106",
         "released": "2021-07-13",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "CFA091A0",
-            "length": "18:00",
-            "url": "https://nyaa.si/?q=c3d949cf5c3229da4e355867599bea0933a23ec2"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 14,
@@ -1391,14 +939,7 @@
         "episodes": "Ep. 107-108",
         "released": "2021-09-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "726FD61C",
-            "length": "35:34",
-            "url": "https://nyaa.si/?q=66df46977cd5206f7684963ac3af20ada7dfdea4"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 14,
@@ -1409,14 +950,7 @@
         "episodes": "Ep. 109-110",
         "released": "2021-11-27",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "A905C964",
-            "length": "36:24",
-            "url": "https://nyaa.si/?q=56cd276106efe594f9722a27e63b4de25f6a0248"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 14,
@@ -1427,14 +961,7 @@
         "episodes": "Ep. 111-112",
         "released": "2022-06-03",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "4B8CC4E7",
-            "length": "36:36",
-            "url": "https://nyaa.si/view/1537206"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 14,
@@ -1445,14 +972,7 @@
         "episodes": "Ep. 113-114",
         "released": "2022-08-25",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "C51CB284",
-            "length": "35:17",
-            "url": "https://nyaa.si/?q=5b9eb12d70a9290c0684cf72282dba53c8f56e35"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 14,
@@ -1463,14 +983,7 @@
         "episodes": "Ep. 115-116",
         "released": "2022-10-06",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "FF26917C",
-            "length": "25:53",
-            "url": "https://nyaa.si/view/1587081"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 14,
@@ -1481,14 +994,7 @@
         "episodes": "Ep. 113, 116-118",
         "released": "2022-11-30",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "58649840",
-            "length": "24:38",
-            "url": "https://nyaa.si/view/1608601"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 14,
@@ -1499,14 +1005,7 @@
         "episodes": "Ep. 118-119",
         "released": "2023-02-03",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "0F3017E1",
-            "length": "32:26",
-            "url": "https://nyaa.si/view/1633269"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 14,
@@ -1517,14 +1016,7 @@
         "episodes": "Ep. 120-121",
         "released": "2023-05-22",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "2AD355ED",
-            "length": "29:10",
-            "url": "https://nyaa.si/view/1857619"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 14,
@@ -1535,14 +1027,7 @@
         "episodes": "Ep. 121-122",
         "released": "2024-05-17",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5E646504",
-            "length": "22:36",
-            "url": "https://nyaa.si/?q=3cf270e6d4bc31029e40eb275f49a2121092c62b"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 14,
@@ -1553,14 +1038,7 @@
         "episodes": "Ep. 123-124",
         "released": "2024-06-14",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "B5A40AD2",
-            "length": "32:38",
-            "url": "https://nyaa.si/view/1833636"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 14,
@@ -1571,14 +1049,7 @@
         "episodes": "Ep. 125-126",
         "released": "2024-07-06",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E4F68497",
-            "length": "34:39",
-            "url": "https://nyaa.si/view/1841942"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 14,
@@ -1589,14 +1060,7 @@
         "episodes": "Ep. 127-128",
         "released": "2024-08-02",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "845C0D1D",
-            "length": "29:24",
-            "url": "https://nyaa.si/view/1854386"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 14,
@@ -1607,14 +1071,7 @@
         "episodes": "Ep. 128-129",
         "released": "2024-08-09",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "0C5E9A92",
-            "length": "31:24",
-            "url": "https://nyaa.si/view/1857618"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 14,
@@ -1625,14 +1082,7 @@
         "episodes": "Ep. 130",
         "released": "2024-08-16",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "EAA06203",
-            "length": "17:17",
-            "url": "https://nyaa.si/view/1860667"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "209591769"
@@ -1661,14 +1111,7 @@
         "episodes": "Ep.143-144",
         "released": "2023-01-28",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "2BBCD106",
-            "length": "21:03",
-            "url": "https://nyaa.si/view/1630902"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 15,
@@ -1679,14 +1122,7 @@
         "episodes": "Ep.145-146",
         "released": "2023-02-10",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "6DAB82A3",
-            "length": "32:35",
-            "url": "https://nyaa.si/view/1636106"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 15,
@@ -1697,14 +1133,7 @@
         "episodes": "Ep.147",
         "released": "2023-03-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "B4950266",
-            "length": "20:06",
-            "url": "https://nyaa.si/view/1647787"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 15,
@@ -1715,14 +1144,7 @@
         "episodes": "Ep.148",
         "released": "2023-08-12",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "86DC8F38",
-            "length": "20:03",
-            "url": "https://nyaa.si/?q=0ee092c2048a597a5e14cbc7c41f3d0696d9821a"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 15,
@@ -1733,14 +1155,7 @@
         "episodes": "Ep.149",
         "released": "2023-08-20",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E468A31D",
-            "length": "21:37",
-            "url": "https://nyaa.si/view/1705712"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 15,
@@ -1751,14 +1166,7 @@
         "episodes": "Ep.150",
         "released": "2023-09-08",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "8783E1B0",
-            "length": "17:14",
-            "url": "https://nyaa.si/view/1714616"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 15,
@@ -1769,14 +1177,7 @@
         "episodes": "Ep.145,151",
         "released": "2023-09-16",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "580A0C3B",
-            "length": "24:41",
-            "url": "https://nyaa.si/?q=2f0b8368eb300acc4863283dbb5f21054a81adbe"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 15,
@@ -1787,14 +1188,7 @@
         "episodes": "Ep.152",
         "released": "2023-09-30",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "FA2E5ADD",
-            "length": "19:06",
-            "url": "https://nyaa.si/?q=abb69044f4a1806092b9a213669c5edb4f0bb92a"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "1386602210"
@@ -1823,13 +1217,7 @@
         "episodes": "Ep. 195, 203, 207",
         "released": "2025-05-03",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "90C45C25",
-            "url": "https://nyaa.si/view/1967576"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -1840,14 +1228,7 @@
         "episodes": "Ep. 153",
         "released": "2023-06-12",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "CA5552FC",
-            "length": "19:56",
-            "url": "https://nyaa.si/view/1682012"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -1858,14 +1239,7 @@
         "episodes": "Ep. 154",
         "released": "2023-06-12",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "EB6E8FF5",
-            "length": "21:01",
-            "url": "https://nyaa.si/?q=5d265cdb96a14dee3bd4d4684b273ff892ec6c9f"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -1876,14 +1250,7 @@
         "episodes": "Ep. 155-156",
         "released": "2023-06-12",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "A50167E6",
-            "length": "24:30",
-            "url": "https://nyaa.si/?q=5d49f234c0533738ca9d60d1c3c6ffac194e52a9"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -1894,14 +1261,7 @@
         "episodes": "Ep. 157-158",
         "released": "2023-06-12",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "C6120876",
-            "length": "29:13",
-            "url": "https://nyaa.si/?q=aa34040a41bbdd8b165cfbc81dbe4e72f59e676e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -1912,14 +1272,7 @@
         "episodes": "Ep. 159-160",
         "released": "2023-06-12",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "FEA121C3",
-            "length": "23:19",
-            "url": "https://nyaa.si/?q=948a213b3753b1572b65de94f049a116d1d19dee"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -1930,14 +1283,7 @@
         "episodes": "Ep. 161-163",
         "released": "2023-10-14",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "BF59EB14",
-            "length": "34:21",
-            "url": "https://nyaa.si/view/1728867"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -1948,14 +1294,7 @@
         "episodes": "Ep. 163-164",
         "released": "2023-10-21",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "3C665F73",
-            "length": "20:30",
-            "url": "https://nyaa.si/?q=da97987eb5adeaed1f34269af22cf7202c6ae93c"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -1966,14 +1305,7 @@
         "episodes": "Ep. 165-167",
         "released": "2023-10-28",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "236CCF51",
-            "length": "36:55",
-            "url": "https://nyaa.si/?q=63a53a466547469c6c854c498301c9308ab76c6a"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -1984,14 +1316,7 @@
         "episodes": "Ep. 168-169",
         "released": "2023-11-17",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "CF0B1E5A",
-            "length": "34:55",
-            "url": "https://nyaa.si/?q=1ad1d02f115868eacb6852eef0a8e6ca59a3c524"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -2002,14 +1327,7 @@
         "episodes": "Ep. 170-171",
         "released": "2023-12-02",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "602704E6",
-            "length": "18:57",
-            "url": "https://nyaa.si/?q=aca4c747981ae6f366fe82d1fa6dceb7f619e49e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -2020,14 +1338,7 @@
         "episodes": "Ep. 171-173",
         "released": "2024-04-12",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F0EF6382",
-            "length": "32:25",
-            "url": "https://nyaa.si/?q=2b45ebd651777a757b1e8d35660b4d96a0ee4021"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -2038,14 +1349,7 @@
         "episodes": "Ep. 172-174",
         "released": "2024-04-26",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "99260C5A",
-            "length": "28:24",
-            "url": "https://nyaa.si/?q=c14a990bf09719e44da4a0f64710d18a302c9a8d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -2056,14 +1360,7 @@
         "episodes": "Ep. 175-176",
         "released": "2024-05-24",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "460CC2CD",
-            "length": "33:09",
-            "url": "https://nyaa.si/?q=16e16ed3e486700a85726477725608fd7d78348f"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -2074,14 +1371,7 @@
         "episodes": "Ep. 177-179",
         "released": "2024-06-08",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "702231E9",
-            "length": "29:01",
-            "url": "https://nyaa.si/?q=99068f6eabe3588fcd58da600fdfcfbd41ec5b9b"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -2092,14 +1382,7 @@
         "episodes": "Ep. 179-181",
         "released": "2024-07-20",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "9863ADF4",
-            "length": "36:11",
-            "url": "https://nyaa.si/view/1847945"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -2110,14 +1393,7 @@
         "episodes": "Ep. 181-182",
         "released": "2024-09-13",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "088462CB",
-            "length": "26:38",
-            "url": "https://nyaa.si/view/1872973"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -2128,14 +1404,7 @@
         "episodes": "Ep. 183-185",
         "released": "2024-12-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "FBEA8001",
-            "length": "31:36",
-            "url": "https://nyaa.si/view/1908582"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -2146,14 +1415,7 @@
         "episodes": "Ep. 185-186",
         "released": "2024-12-13",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "60E51C8A",
-            "length": "33:34",
-            "url": "https://nyaa.si/view/1911121"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -2164,14 +1426,7 @@
         "episodes": "Ep. 187-188",
         "released": "2025-01-04",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "88263203",
-            "length": "28:22",
-            "url": "https://nyaa.si/view/1923034"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -2182,14 +1437,7 @@
         "episodes": "Ep. 188",
         "released": "2025-01-18",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "481A9A9D",
-            "length": "23:46",
-            "url": "https://nyaa.si/view/1923038"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -2200,14 +1448,7 @@
         "episodes": "Ep. 189-190",
         "released": "2025-02-15",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "9B126B00",
-            "length": "29:24",
-            "url": "https://nyaa.si/view/1935893"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -2218,14 +1459,7 @@
         "episodes": "Ep. 191-192",
         "released": "2025-02-22",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "62938616",
-            "length": "32:55",
-            "url": "https://nyaa.si/view/1939111"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -2236,14 +1470,7 @@
         "episodes": "Ep. 193",
         "released": "2025-03-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "D9CD96CA",
-            "length": "20:13",
-            "url": "https://nyaa.si/view/1942144"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -2254,14 +1481,7 @@
         "episodes": "Ep. 194",
         "released": "2025-04-26",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "3F695862",
-            "length": "19:53",
-            "url": "https://nyaa.si/view/1964134"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 16,
@@ -2272,14 +1492,7 @@
         "episodes": "Ep. 195, 203, 207",
         "released": "2025-05-03",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "C951349C",
-            "length": "20:48",
-            "url": "https://nyaa.si/view/1967575"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "277573788"
@@ -2308,14 +1521,7 @@
         "episodes": "Ep. 207,225",
         "released": "2025-05-08",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E85B9E9D",
-            "length": "02:08",
-            "url": "https://nyaa.si/view/1972746"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 17,
@@ -2326,14 +1532,7 @@
         "episodes": "Ep. 207-209",
         "released": "2017-12-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "B692FD08",
-            "length": "32:51",
-            "url": "https://nyaa.si/view/1327706"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 17,
@@ -2344,14 +1543,7 @@
         "episodes": "Ep. 209-210",
         "released": "2017-12-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "57F75027",
-            "length": "24:36",
-            "url": "https://nyaa.si/view/1327706"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 17,
@@ -2362,14 +1554,7 @@
         "episodes": "Ep. 211-212",
         "released": "2017-12-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "24351CC0",
-            "length": "25:32",
-            "url": "https://nyaa.si/view/1327706"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 17,
@@ -2380,14 +1565,7 @@
         "episodes": "Ep. 212,215,217-218",
         "released": "2017-05-16",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "72C0B595",
-            "length": "36:18",
-            "url": "https://nyaa.si/view/1327706"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 17,
@@ -2398,14 +1576,7 @@
         "episodes": "Ep. 219,226",
         "released": "2017-05-29",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "BCF2E97B",
-            "length": "15:31",
-            "url": "https://nyaa.si/view/1327706"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 17,
@@ -2416,14 +1587,7 @@
         "episodes": "Ep. 227-228",
         "released": "2016-06-05",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "A65C20C2",
-            "length": "30:34",
-            "url": "https://nyaa.si/view/1327706"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "988886513"
@@ -2452,14 +1616,7 @@
         "episodes": "Ep. 228-230",
         "released": "2020-09-03",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "9101CF0E",
-            "length": "28:33",
-            "url": "https://nyaa.si/?q=2c90a26aa26847de6726432e57da790e551c7dfb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 18,
@@ -2470,14 +1627,7 @@
         "episodes": "Ep. 229-231",
         "released": "2020-11-25",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "763C1FA8",
-            "length": "30:48",
-            "url": "https://nyaa.si/?q=17cea791fe57b94d57713cc5ffbfb6346c3512e1"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 18,
@@ -2488,14 +1638,7 @@
         "episodes": "Ep. 232-234",
         "released": "2021-01-19",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "01874097",
-            "length": "43:02",
-            "url": "https://nyaa.si/?q=6f5eea9fb14a4815605f94201e18758dbeb1e3bb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 18,
@@ -2506,14 +1649,7 @@
         "episodes": "Ep. 234-235",
         "released": "2021-03-30",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "D5D6D5BA",
-            "length": "25:18",
-            "url": "https://nyaa.si/?q=694f0cd41d39d07433375929809a8a5ab1e9c668"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 18,
@@ -2524,14 +1660,7 @@
         "episodes": "Ep. 235-236",
         "released": "2021-03-30",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "593FF591",
-            "length": "20:29",
-            "url": "https://nyaa.si/?q=ad55e3818ea4150920e6a5af3f1bde8e0a129d36"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 18,
@@ -2542,14 +1671,7 @@
         "episodes": "Ep. 237-239",
         "released": "2021-05-03",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "D17BD2C5",
-            "length": "36:55",
-            "url": "https://nyaa.si/?q=d5460ed548e29b724bf6f1ef423b3dc60672bbab"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 18,
@@ -2560,14 +1682,7 @@
         "episodes": "Ep. 239-240",
         "released": "2021-06-14",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "4D75A2CA",
-            "length": "23:51",
-            "url": "https://nyaa.si/?q=aba8524c50790688447578b6497bf1235885f0d7"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 18,
@@ -2578,14 +1693,7 @@
         "episodes": "Ep. 240-241",
         "released": "2021-06-21",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "6E2DB1B9",
-            "length": "28:09",
-            "url": "https://nyaa.si/?q=ebe71894a4c941359a7c8083218e421e5bf67914"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 18,
@@ -2596,14 +1704,7 @@
         "episodes": "Ep. 242-243",
         "released": "2021-07-25",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F96F0A4A",
-            "length": "36:14",
-            "url": "https://nyaa.si/?q=9375a1c30eeb49ff96ec96dac5df252d74556f36"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 18,
@@ -2614,14 +1715,7 @@
         "episodes": "Ep. 244-246",
         "released": "2021-12-05",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "BAFD9522",
-            "length": "30:26",
-            "url": "https://nyaa.si/?q=3db5d95badd012ad1916dc624adfe747aec1b379"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 18,
@@ -2632,14 +1726,7 @@
         "episodes": "Ep. 246-248",
         "released": "2022-01-28",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "0D273612",
-            "length": "38:22",
-            "url": "https://nyaa.si/?q=4407d9e55c5b3169646fd4e19dd605c4363fa37f"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 18,
@@ -2650,14 +1737,7 @@
         "episodes": "Ep. 248-249",
         "released": "2022-03-14",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "0017358A",
-            "length": "27:03",
-            "url": "https://nyaa.si/?q=a0a49ee80ad606513575e1fdff094b4625ff5f56"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 18,
@@ -2668,14 +1748,7 @@
         "episodes": "Ep. 249-250",
         "released": "2022-06-21",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "B4592974",
-            "length": "23:26",
-            "url": "https://nyaa.si/view/1544361"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 18,
@@ -2686,14 +1759,7 @@
         "episodes": "Ep. 250-251, 256, 320",
         "released": "2023-11-04",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "203E5D6E",
-            "length": "25:07",
-            "url": "https://nyaa.si/?q=3db5f588f43b912d0c3b96a8b113a3ac92d32777"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 18,
@@ -2704,14 +1770,7 @@
         "episodes": "Ep. 252-254",
         "released": "2023-12-22",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "87F0C48B",
-            "length": "33:37",
-            "url": "https://nyaa.si/?q=d85f798f06f91f45d9531df0abfbf863564517fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 18,
@@ -2722,14 +1781,7 @@
         "episodes": "Ep. 254-255",
         "released": "2024-02-02",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "AF5B5194",
-            "length": "31:44",
-            "url": "https://nyaa.si/?q=ad30863829eeb7787198cedaed9825160c587893"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 18,
@@ -2740,14 +1792,7 @@
         "episodes": "Ep. 256-257",
         "released": "2024-02-17",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "AB231A9E",
-            "length": "25:09",
-            "url": "https://nyaa.si/?q=8e6256aa057d6c88af4d7421ad4bdf1f0e266d92"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 18,
@@ -2758,14 +1803,7 @@
         "episodes": "Ep. 258-259",
         "released": "2024-02-23",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "47D68652",
-            "length": "21:34",
-            "url": "https://nyaa.si/?q=e9f8880e64198a5c75768a6a89218aa694cee9c0"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 18,
@@ -2776,14 +1814,7 @@
         "episodes": "Ep. 259-261",
         "released": "2024-03-02",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "1206A42A",
-            "length": "24:36",
-            "url": "https://nyaa.si/?q=b5c1549472cfc5856ad616b958d8520741e6ce6c"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 18,
@@ -2794,14 +1825,7 @@
         "episodes": "Ep. 262-263",
         "released": "2024-03-15",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F0FBC907",
-            "length": "31:24",
-            "url": "https://nyaa.si/?q=048648996fbec99cb213893150d798a38efc3224"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "709330688"
@@ -2830,14 +1854,7 @@
         "episodes": "Ep. 263-264",
         "released": "2025-11-16",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "785FB818",
-            "length": "26:26",
-            "url": "https://nyaa.si/view/2043732"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -2848,14 +1865,7 @@
         "episodes": "Ep. 265-266",
         "released": "2025-11-16",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "495CDC31",
-            "length": "20:55",
-            "url": "https://nyaa.si/view/2043733"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -2866,14 +1876,7 @@
         "episodes": "Ep. 266-267",
         "released": "2025-11-21",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "861EE2FF",
-            "length": "23:09",
-            "url": "https://nyaa.si/view/2045104"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -2884,14 +1887,7 @@
         "episodes": "Ep. 268-269",
         "released": "2025-12-20",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "90B6D40E",
-            "length": "25:34",
-            "url": "https://nyaa.si/view/2056275"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -2902,14 +1898,7 @@
         "episodes": "Ep. 269-271",
         "released": "2026-03-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "07F7124B",
-            "length": "32:17",
-            "url": "https://nyaa.si/view/2081632"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -2920,14 +1909,7 @@
         "episodes": "Ep. 272-273",
         "released": "2026-03-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "46C9CFF8",
-            "length": "22:18",
-            "url": "https://nyaa.si/view/2081633"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -2938,14 +1920,7 @@
         "episodes": "Ep. 273-274",
         "released": "2026-03-08",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "3CA69C29",
-            "length": "29:20",
-            "url": "https://nyaa.si/view/2084248"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -2956,14 +1931,7 @@
         "episodes": "Ep. 275-276",
         "released": "2026-03-14",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "79695827",
-            "length": "32:14",
-            "url": "https://nyaa.si/view/2085878"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -2974,14 +1942,7 @@
         "episodes": "Ep. 276-277",
         "released": "2026-03-28",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "88CB08F6",
-            "length": "32:19",
-            "url": "https://nyaa.si/view/2091111"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -2992,14 +1953,7 @@
         "episodes": "Ep. 278",
         "released": "2019-07-25",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "6C908F32",
-            "length": "21:30",
-            "url": "https://nyaa.si/?q=24b093304e357aad9f3c7b958c199a3ce9fd8bff"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -3010,14 +1964,7 @@
         "episodes": "Ep. 284-285",
         "released": "2019-08-20",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "CF6F1505",
-            "length": "27:46",
-            "url": "https://nyaa.si/?q=1305ccebb2193ef7249abc6a00b38b4c0cac92ff"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -3028,14 +1975,7 @@
         "episodes": "Ep. 286-287",
         "released": "2020-03-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "DA166192",
-            "length": "21:18",
-            "url": "https://nyaa.si/view/1228253"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -3046,14 +1986,7 @@
         "episodes": "Ep. 287-288",
         "released": "2020-04-03",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "FE0F64E2",
-            "length": "24:14",
-            "url": "https://nyaa.si/view/1234787"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -3064,14 +1997,7 @@
         "episodes": "Ep. 289-290",
         "released": "2020-04-15",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "A9C9701B",
-            "length": "20:38",
-            "url": "https://nyaa.si/view/1238673"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -3082,14 +2008,7 @@
         "episodes": "Ep. 290,293",
         "released": "2020-04-22",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "160B1E51",
-            "length": "23:00",
-            "url": "https://nyaa.si/view/1240728"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -3100,14 +2019,7 @@
         "episodes": "Ep. 294-295",
         "released": "2020-04-30",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "158476AB",
-            "length": "26:29",
-            "url": "https://nyaa.si/view/1242883"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -3118,14 +2030,7 @@
         "episodes": "Ep. 296-297",
         "released": "2020-05-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "7562EF8D",
-            "length": "21:09",
-            "url": "https://nyaa.si/view/1244917"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -3136,14 +2041,7 @@
         "episodes": "Ep. 297-298",
         "released": "2020-05-15",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "64207B1A",
-            "length": "19:57",
-            "url": "https://nyaa.si/view/1246765"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -3154,14 +2052,7 @@
         "episodes": "Ep. 299-301",
         "released": "2020-05-23",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "C4106519",
-            "length": "31:33",
-            "url": "https://nyaa.si/view/1248933"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -3172,14 +2063,7 @@
         "episodes": "Ep. 301-302",
         "released": "2020-05-29",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5AC534CA",
-            "length": "26:25",
-            "url": "https://nyaa.si/?q=4cab4c469be3e484489256907ec662acb8a87025"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -3190,14 +2074,7 @@
         "episodes": "Ep. 302,304-305",
         "released": "2020-06-06",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "13D874FD",
-            "length": "24:17",
-            "url": "https://nyaa.si/?q=b2a2edbbb0a4d476f93b479d2d6215ee46387e00"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -3208,14 +2085,7 @@
         "episodes": "Ep. 306-307",
         "released": "2020-06-15",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "C0B33E05",
-            "length": "26:52",
-            "url": "https://nyaa.si/?q=f35f39679a934efa762f054cde6137a0a147aceb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -3226,14 +2096,7 @@
         "episodes": "Ep. 307-309",
         "released": "2020-08-10",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "25AFC3E5",
-            "length": "34:24",
-            "url": "https://nyaa.si/?q=bef6efff0f7c81422ca057a2e575363eb0b350f3"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -3244,14 +2107,7 @@
         "episodes": "Ep. 310-311",
         "released": "2020-08-15",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "7F76CDD9",
-            "length": "33:17",
-            "url": "https://nyaa.si/?q=d23029c1860a74513bac08372ee2c9f43a56550b"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 19,
@@ -3262,14 +2118,7 @@
         "episodes": "Ep. 312",
         "released": "2020-08-27",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "3251D51B",
-            "length": "16:45",
-            "url": "https://nyaa.si/?q=7e24c561da498f298ff137f5462d5fe89b38edff"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "1348628353"
@@ -3298,14 +2147,7 @@
         "episodes": "Ep. 313-314",
         "released": "2013-06-09",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "216595EE",
-            "length": "26:58",
-            "url": "https://nyaa.si/?q=59497fc3d9a6dbcdbaced48eaa9f5ba2047614df"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 20,
@@ -3316,14 +2158,7 @@
         "episodes": "Ep. 315-316, 319-320,325",
         "released": "2013-06-14",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "344EA844",
-            "length": "39:22",
-            "url": "https://nyaa.si/?q=59497fc3d9a6dbcdbaced48eaa9f5ba2047614df"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 20,
@@ -3334,14 +2169,7 @@
         "episodes": "Ep. 321-322",
         "released": "2013-06-19",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "2C843A0F",
-            "length": "29:34",
-            "url": "https://nyaa.si/?q=59497fc3d9a6dbcdbaced48eaa9f5ba2047614df"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 20,
@@ -3352,14 +2180,7 @@
         "episodes": "Ep. 323-324",
         "released": "2013-06-26",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "659EF70C",
-            "length": "26:58",
-            "url": "https://nyaa.si/?q=59497fc3d9a6dbcdbaced48eaa9f5ba2047614df"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 20,
@@ -3370,14 +2191,7 @@
         "episodes": "Ep. 324-325",
         "released": "2013-06-28",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "CEF78887",
-            "length": "23:06",
-            "url": "https://nyaa.si/?q=59497fc3d9a6dbcdbaced48eaa9f5ba2047614df"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "437050304"
@@ -3406,14 +2220,7 @@
         "episodes": "Ep. 326,337-339",
         "released": "2013-07-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "30D0916C",
-            "length": "28:31",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3424,14 +2231,7 @@
         "episodes": "Ep. 339-340",
         "released": "2013-07-10",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "EA100F0C",
-            "length": "24:37",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3442,14 +2242,7 @@
         "episodes": "Ep. 340-342",
         "released": "2013-07-31",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "C2AAAAF7",
-            "length": "34:23",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3460,14 +2253,7 @@
         "episodes": "Ep. 342-344",
         "released": "2013-08-08",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "EB4DA5F4",
-            "length": "23:54",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3478,14 +2264,7 @@
         "episodes": "Ep. 345-346",
         "released": "2013-08-25",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5B4DF29D",
-            "length": "18:08",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3496,14 +2275,7 @@
         "episodes": "Ep. 347-348",
         "released": "2013-09-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "60E33665",
-            "length": "21:50",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3514,14 +2286,7 @@
         "episodes": "Ep. 349-350",
         "released": "2013-09-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "1E847368",
-            "length": "24:44",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3532,14 +2297,7 @@
         "episodes": "Ep. 351-353",
         "released": "2013-09-20",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "694AD702",
-            "length": "21:38",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3550,14 +2308,7 @@
         "episodes": "Ep. 353-355",
         "released": "2013-10-03",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "19D3B6A3",
-            "length": "26:10",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3568,14 +2319,7 @@
         "episodes": "Ep. 356-357",
         "released": "2013-10-18",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "38BBF05C",
-            "length": "22:37",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3586,14 +2330,7 @@
         "episodes": "Ep. 357-359",
         "released": "2013-10-26",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "D538CFD7",
-            "length": "22:34",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3604,14 +2341,7 @@
         "episodes": "Ep. 360-362",
         "released": "2013-11-13",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "8B836836",
-            "length": "20:54",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3622,14 +2352,7 @@
         "episodes": "Ep. 362-363",
         "released": "2013-11-20",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "3AEE90B8",
-            "length": "19:04",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3640,14 +2363,7 @@
         "episodes": "Ep. 364-365",
         "released": "2013-12-08",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "7CAE5640",
-            "length": "19:11",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3658,14 +2374,7 @@
         "episodes": "Ep. 365-367",
         "released": "2013-12-20",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "A9784E2B",
-            "length": "20:36",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3676,14 +2385,7 @@
         "episodes": "Ep. 368-369",
         "released": "2014-01-18",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "EF1D7B5F",
-            "length": "23:01",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3694,14 +2396,7 @@
         "episodes": "Ep. 370-371",
         "released": "2014-01-25",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "6AAC9B33",
-            "length": "23:17",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3712,14 +2407,7 @@
         "episodes": "Ep. 371-372",
         "released": "2014-01-30",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "2295F0A1",
-            "length": "24:00",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3730,14 +2418,7 @@
         "episodes": "Ep. 373-374",
         "released": "2014-02-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "099FB95D",
-            "length": "28:51",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3748,14 +2429,7 @@
         "episodes": "Ep. 375-377",
         "released": "2014-09-28",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "AD2D4BCD",
-            "length": "34:00",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3766,14 +2440,7 @@
         "episodes": "Ep. 378-380",
         "released": "2014-10-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "22E58F96",
-            "length": "32:59",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 21,
@@ -3784,14 +2451,7 @@
         "episodes": "Ep. 380-381",
         "released": "2014-10-12",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F23079ED",
-            "length": "24:21",
-            "url": "https://nyaa.si/view/608554"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "836546175"
@@ -3820,14 +2480,7 @@
         "episodes": "Ep. 385-386",
         "released": "2014-12-09",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "066FD68B",
-            "length": "28:25",
-            "url": "https://nyaa.si/?q=2589926c8f90e8f031a6caeab93bcd5b79990c0e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 22,
@@ -3838,14 +2491,7 @@
         "episodes": "Ep. 387-388",
         "released": "2015-01-03",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F0334710",
-            "length": "24:18",
-            "url": "https://nyaa.si/?q=2589926c8f90e8f031a6caeab93bcd5b79990c0e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 22,
@@ -3856,14 +2502,7 @@
         "episodes": "Ep. 388-389",
         "released": "2015-01-10",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "C19CADF5",
-            "length": "23:27",
-            "url": "https://nyaa.si/?q=2589926c8f90e8f031a6caeab93bcd5b79990c0e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 22,
@@ -3874,14 +2513,7 @@
         "episodes": "Ep. 390-391",
         "released": "2015-02-25",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "76D21468",
-            "length": "31:12",
-            "url": "https://nyaa.si/?q=2589926c8f90e8f031a6caeab93bcd5b79990c0e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 22,
@@ -3892,14 +2524,7 @@
         "episodes": "Ep. 392-394",
         "released": "2017-12-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "7D6E8499",
-            "length": "44:03",
-            "url": "https://nyaa.si/?q=2589926c8f90e8f031a6caeab93bcd5b79990c0e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 22,
@@ -3910,14 +2535,7 @@
         "episodes": "Ep. 395-396",
         "released": "2017-12-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "234CBFDC",
-            "length": "27:53",
-            "url": "https://nyaa.si/?q=2589926c8f90e8f031a6caeab93bcd5b79990c0e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 22,
@@ -3928,14 +2546,7 @@
         "episodes": "Ep. 397-398",
         "released": "2017-12-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "63A829E4",
-            "length": "23:57",
-            "url": "https://nyaa.si/?q=2589926c8f90e8f031a6caeab93bcd5b79990c0e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 22,
@@ -3946,14 +2557,7 @@
         "episodes": "Ep. 399-400",
         "released": "2017-12-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "873CB57E",
-            "length": "23:39",
-            "url": "https://nyaa.si/?q=2589926c8f90e8f031a6caeab93bcd5b79990c0e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 22,
@@ -3964,14 +2568,7 @@
         "episodes": "Ep. 400-401",
         "released": "2017-12-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "0E0C5A82",
-            "length": "22:29",
-            "url": "https://nyaa.si/?q=2589926c8f90e8f031a6caeab93bcd5b79990c0e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 22,
@@ -3982,14 +2579,7 @@
         "episodes": "Ep. 402-404",
         "released": "2017-12-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "20ADEE90",
-            "length": "30:06",
-            "url": "https://nyaa.si/?q=2589926c8f90e8f031a6caeab93bcd5b79990c0e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 22,
@@ -4000,14 +2590,7 @@
         "episodes": "Ep. 404-405",
         "released": "2017-12-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "1306F53D",
-            "length": "23:45",
-            "url": "https://nyaa.si/?q=2589926c8f90e8f031a6caeab93bcd5b79990c0e"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "401627898"
@@ -4036,14 +2619,7 @@
         "episodes": "Ep. 408-409",
         "released": "2016-01-26",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "06BF070D",
-            "length": "26:20",
-            "url": "https://nyaa.si/?q=1f62e2583956c412f8550672bc8066c5e96ab0a8"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 23,
@@ -4054,14 +2630,7 @@
         "episodes": "Ep. 410-411",
         "released": "2016-02-03",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E817809A",
-            "length": "25:57",
-            "url": "https://nyaa.si/?q=1f62e2583956c412f8550672bc8066c5e96ab0a8"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 23,
@@ -4072,14 +2641,7 @@
         "episodes": "Ep. 412-413",
         "released": "2016-02-12",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "C2835057",
-            "length": "22:58",
-            "url": "https://nyaa.si/?q=1f62e2583956c412f8550672bc8066c5e96ab0a8"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 23,
@@ -4090,14 +2652,7 @@
         "episodes": "Ep. 414-417",
         "released": "2016-03-05",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "A5F0A507",
-            "length": "37:46",
-            "url": "https://nyaa.si/?q=1f62e2583956c412f8550672bc8066c5e96ab0a8"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 23,
@@ -4108,14 +2663,7 @@
         "episodes": "Ep. 417-421",
         "released": "2016-04-10",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "0F8517DC",
-            "length": "27:34",
-            "url": "https://nyaa.si/?q=1f62e2583956c412f8550672bc8066c5e96ab0a8"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "429435711"
@@ -4144,14 +2692,7 @@
         "episodes": "Ep. 422-423,454",
         "released": "2016-05-21",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "479D510C",
-            "length": "27:34",
-            "url": "https://nyaa.si/?q=2e1a040b1de930368ae027be070e6e8bc134b709"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 24,
@@ -4162,14 +2703,7 @@
         "episodes": "Ep. 424-425,430",
         "released": "2016-12-30",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "7306EDA1",
-            "length": "25:13",
-            "url": "https://nyaa.si/?q=2e1a040b1de930368ae027be070e6e8bc134b709"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 24,
@@ -4180,14 +2714,7 @@
         "episodes": "Ep. 425,430-432",
         "released": "2017-01-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "FB406E73",
-            "length": "39:13",
-            "url": "https://nyaa.si/?q=2e1a040b1de930368ae027be070e6e8bc134b709"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 24,
@@ -4198,14 +2725,7 @@
         "episodes": "Ep. 433-434",
         "released": "2017-01-20",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5DD0859D",
-            "length": "26:52",
-            "url": "https://nyaa.si/?q=2e1a040b1de930368ae027be070e6e8bc134b709"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 24,
@@ -4216,14 +2736,7 @@
         "episodes": "Ep. 435-438,446",
         "released": "2017-02-10",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "B46EDD50",
-            "length": "35:06",
-            "url": "https://nyaa.si/?q=2e1a040b1de930368ae027be070e6e8bc134b709"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 24,
@@ -4234,14 +2747,7 @@
         "episodes": "Ep. 438-440",
         "released": "2017-02-17",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5D5D24DF",
-            "length": "32:13",
-            "url": "https://nyaa.si/?q=2e1a040b1de930368ae027be070e6e8bc134b709"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 24,
@@ -4252,14 +2758,7 @@
         "episodes": "Ep. 440-443",
         "released": "2017-06-23",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "379DD054",
-            "length": "28:43",
-            "url": "https://nyaa.si/?q=2e1a040b1de930368ae027be070e6e8bc134b709"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 24,
@@ -4270,14 +2769,7 @@
         "episodes": "Ep. 443-446",
         "released": "2017-06-23",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "683EDC5C",
-            "length": "37:31",
-            "url": "https://nyaa.si/?q=2e1a040b1de930368ae027be070e6e8bc134b709"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 24,
@@ -4288,14 +2780,7 @@
         "episodes": "Ep. 446-450",
         "released": "2017-06-23",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F0C33425",
-            "length": "37:43",
-            "url": "https://nyaa.si/?q=2e1a040b1de930368ae027be070e6e8bc134b709"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 24,
@@ -4306,14 +2791,7 @@
         "episodes": "Ep. 450-451",
         "released": "2017-06-23",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "540A9642",
-            "length": "27:03",
-            "url": "https://nyaa.si/?q=2e1a040b1de930368ae027be070e6e8bc134b709"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "293688544"
@@ -4342,14 +2820,7 @@
         "episodes": "Ep. 453-456",
         "released": "2024-03-29",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "2BC41092",
-            "length": "23:04",
-            "url": "https://nyaa.si/view/1796385"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "704086980"
@@ -4378,14 +2849,7 @@
         "episodes": "Ep. 452,459",
         "released": "2020-10-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "92956F40",
-            "length": "31:13",
-            "url": "https://nyaa.si/view/1287648"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 26,
@@ -4396,14 +2860,7 @@
         "episodes": "Ep. 459-462",
         "released": "2020-10-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "4F5151F2",
-            "length": "34:18",
-            "url": "https://nyaa.si/view/1287648"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 26,
@@ -4414,14 +2871,7 @@
         "episodes": "Ep. 462-463",
         "released": "2020-10-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "D16C3A7A",
-            "length": "16:13",
-            "url": "https://nyaa.si/view/1287648"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 26,
@@ -4432,14 +2882,7 @@
         "episodes": "Ep. 464-465",
         "released": "2020-10-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "738B1A3B",
-            "length": "24:24",
-            "url": "https://nyaa.si/view/1287648"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 26,
@@ -4450,14 +2893,7 @@
         "episodes": "Ep. 466-468",
         "released": "2020-10-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "66006702",
-            "length": "27:16",
-            "url": "https://nyaa.si/view/1287648"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 26,
@@ -4468,14 +2904,7 @@
         "episodes": "Ep. 468-469",
         "released": "2020-10-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E46F5F07",
-            "length": "27:27",
-            "url": "https://nyaa.si/view/1287648"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 26,
@@ -4486,14 +2915,7 @@
         "episodes": "Ep. 470-471",
         "released": "2020-10-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "511BA151",
-            "length": "28:49",
-            "url": "https://nyaa.si/view/1287648"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 26,
@@ -4504,14 +2926,7 @@
         "episodes": "Ep. 472-473",
         "released": "2020-10-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "2A3B3264",
-            "length": "28:32",
-            "url": "https://nyaa.si/view/1287648"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 26,
@@ -4522,14 +2937,7 @@
         "episodes": "Ep. 474-475",
         "released": "2020-10-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "1638FE88",
-            "length": "26:41",
-            "url": "https://nyaa.si/view/1287648"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 26,
@@ -4540,14 +2948,7 @@
         "episodes": "Ep. 476",
         "released": "2020-10-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "C65F13AA",
-            "length": "14:45",
-            "url": "https://nyaa.si/view/1287648"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 26,
@@ -4558,14 +2959,7 @@
         "episodes": "Ep. 477-478",
         "released": "2020-10-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "A84B5499",
-            "length": "26:00",
-            "url": "https://nyaa.si/view/1287648"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 26,
@@ -4576,14 +2970,7 @@
         "episodes": "Ep. 479-480",
         "released": "2020-10-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "6BD41435",
-            "length": "24:28",
-            "url": "https://nyaa.si/view/1287648"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 26,
@@ -4594,14 +2981,7 @@
         "episodes": "Ep. 481-482",
         "released": "2020-10-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "66E68054",
-            "length": "26:48",
-            "url": "https://nyaa.si/view/1287648"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 26,
@@ -4612,14 +2992,7 @@
         "episodes": "Ep. 483-484",
         "released": "2020-10-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "29DBF233",
-            "length": "18:51",
-            "url": "https://nyaa.si/view/1287648"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 26,
@@ -4630,14 +3003,7 @@
         "episodes": "Ep. 484-485",
         "released": "2020-10-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "00768DB7",
-            "length": "29:42",
-            "url": "https://nyaa.si/view/1287648"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 26,
@@ -4648,14 +3014,7 @@
         "episodes": "Ep. 486-487",
         "released": "2020-10-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "91EEA92E",
-            "length": "26:27",
-            "url": "https://nyaa.si/view/1287648"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 26,
@@ -4666,14 +3025,7 @@
         "episodes": "Ep. 488-489",
         "released": "2020-10-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "2DC3ECF7",
-            "length": "26:30",
-            "url": "https://nyaa.si/view/1287648"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "1758192000"
@@ -4702,14 +3054,7 @@
         "episodes": "Ep. 490-491",
         "released": "2020-07-24",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E7B15590",
-            "length": "30:07",
-            "url": "https://nyaa.si/view/1265508"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 27,
@@ -4720,14 +3065,7 @@
         "episodes": "Ep. 493-495",
         "released": "2020-07-24",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "1A183CBE",
-            "length": "40:03",
-            "url": "https://nyaa.si/view/1265509"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 27,
@@ -4738,14 +3076,7 @@
         "episodes": "Ep. 496-498,500-501, Episode of Sabo",
         "released": "2020-07-24",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "9DEAD0F3",
-            "length": "42:28",
-            "url": "https://nyaa.si/view/1265510"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 27,
@@ -4756,14 +3087,7 @@
         "episodes": "Ep. 501-503",
         "released": "2020-07-24",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5FA1920A",
-            "length": "36:06",
-            "url": "https://nyaa.si/view/1265511"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 27,
@@ -4774,14 +3098,7 @@
         "episodes": "Ep. 503-505",
         "released": "2020-07-26",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "FA5B3DCD",
-            "length": "41:10",
-            "url": "https://nyaa.si/view/1265974"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 27,
@@ -4792,14 +3109,7 @@
         "episodes": "Ep. 507-510",
         "released": "2020-09-17",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "735F9F49",
-            "length": "39:43",
-            "url": "https://nyaa.si/view/1281291"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 27,
@@ -4810,14 +3120,7 @@
         "episodes": "Ep. 510-512",
         "released": "2020-12-20",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "D85BC22C",
-            "length": "36:50",
-            "url": "https://nyaa.si/view/1317881"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 27,
@@ -4828,14 +3131,7 @@
         "episodes": "Ep. 513-516",
         "released": "2021-01-18",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "178190BC",
-            "length": "1:00:00",
-            "url": "https://nyaa.si/view/1329424"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "1001237700"
@@ -4864,14 +3160,7 @@
         "episodes": "Ep. 517-519",
         "released": "2022-05-04",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5FBDCD0F",
-            "length": "34:06",
-            "url": "https://nyaa.si/view/1524087"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 28,
@@ -4882,14 +3171,7 @@
         "episodes": "Ep. 518-520",
         "released": "2022-05-04",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "9677C63E",
-            "length": "31:15",
-            "url": "https://nyaa.si/view/1524087"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 28,
@@ -4900,14 +3182,7 @@
         "episodes": "Ep. 520-522",
         "released": "2022-05-04",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "2FFA5720",
-            "length": "33:38",
-            "url": "https://nyaa.si/view/1524087"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "1999155271"
@@ -4936,14 +3211,7 @@
         "episodes": "Ep. 523-524",
         "released": "2013-03-27",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "FBA08093",
-            "length": "26:03",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -4954,14 +3222,7 @@
         "episodes": "Ep. 524-526",
         "released": "2013-03-29",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "BD7169C3",
-            "length": "24:14",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -4972,14 +3233,7 @@
         "episodes": "Ep. 526-527",
         "released": "2013-03-31",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5636E014",
-            "length": "24:05",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -4990,14 +3244,7 @@
         "episodes": "Ep. 528-529",
         "released": "2013-04-02",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "9E0A91E9",
-            "length": "28:44",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -5008,14 +3255,7 @@
         "episodes": "Ep. 530-531",
         "released": "2013-04-04",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "DA5B5D04",
-            "length": "27:07",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -5026,14 +3266,7 @@
         "episodes": "Ep. 532-533",
         "released": "2013-04-06",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "64FB3990",
-            "length": "29:42",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -5044,14 +3277,7 @@
         "episodes": "Ep. 533-534",
         "released": "2013-04-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "29A10280",
-            "length": "34:13",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -5062,14 +3288,7 @@
         "episodes": "Ep. 535-537",
         "released": "2013-04-09",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "DBA50B89",
-            "length": "45:13",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -5080,14 +3299,7 @@
         "episodes": "Ep. 538-539,541",
         "released": "2013-04-09",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "FCF7F7E4",
-            "length": "34:38",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -5098,14 +3310,7 @@
         "episodes": "Ep. 540-541",
         "released": "2013-04-14",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F4BB17EB",
-            "length": "35:46",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -5116,14 +3321,7 @@
         "episodes": "Ep. 543-545",
         "released": "2013-04-14",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "7926F9B5",
-            "length": "35:58",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -5134,14 +3332,7 @@
         "episodes": "Ep. 545-546",
         "released": "2013-04-14",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F134C10A",
-            "length": "39:21",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -5152,14 +3343,7 @@
         "episodes": "Ep. 547-550",
         "released": "2013-04-16",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "04C7B716",
-            "length": "34:58",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -5170,14 +3354,7 @@
         "episodes": "Ep. 550-551",
         "released": "2013-04-17",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "35A189E2",
-            "length": "28:58",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -5188,14 +3365,7 @@
         "episodes": "Ep. 552-553",
         "released": "2013-04-19",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "8014A332",
-            "length": "30:19",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -5206,14 +3376,7 @@
         "episodes": "Ep. 554-556",
         "released": "2013-04-25",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "DF3A7006",
-            "length": "36:05",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -5224,14 +3387,7 @@
         "episodes": "Ep. 556-558",
         "released": "2013-04-26",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "EB0BC95C",
-            "length": "28:09",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -5242,14 +3398,7 @@
         "episodes": "Ep. 559-560",
         "released": "2013-04-28",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "B6BD1A60",
-            "length": "24:59",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -5260,14 +3409,7 @@
         "episodes": "Ep. 561-562",
         "released": "2013-04-30",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "C19D5680",
-            "length": "35:15",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -5278,14 +3420,7 @@
         "episodes": "Ep. 563-567",
         "released": "2013-05-03",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "94E2099D",
-            "length": "30:23",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -5296,14 +3431,7 @@
         "episodes": "Ep. 562-567",
         "released": "2013-05-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "85AD9C81",
-            "length": "29:08",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -5314,14 +3442,7 @@
         "episodes": "Ep. 567-569",
         "released": "2013-05-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "7DBBFA18",
-            "length": "42:27",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -5332,14 +3453,7 @@
         "episodes": "Ep. 570-571",
         "released": "2013-05-15",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "65BD682D",
-            "length": "31:28",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 29,
@@ -5350,14 +3464,7 @@
         "episodes": "Ep. 572-573",
         "released": "2013-05-16",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "99A61805",
-            "length": "32:49",
-            "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "2070578030"
@@ -5386,14 +3493,7 @@
         "episodes": "Ep. 574,579",
         "released": "2013-05-17",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "90015E67",
-            "length": "28:24",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5404,14 +3504,7 @@
         "episodes": "Ep. 580-583",
         "released": "2013-05-20",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5A3CE523",
-            "length": "45:36",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5422,14 +3515,7 @@
         "episodes": "Ep. 583-585",
         "released": "2013-05-21",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "FE661F6E",
-            "length": "29:46",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5440,14 +3526,7 @@
         "episodes": "Ep. 585-587",
         "released": "2013-05-24",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "666061E3",
-            "length": "23:55",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5458,14 +3537,7 @@
         "episodes": "Ep. 588-589",
         "released": "2013-05-27",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "ACF1C889",
-            "length": "35:41",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5476,14 +3548,7 @@
         "episodes": "Ep. 591-592",
         "released": "2013-05-31",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "CC88315A",
-            "length": "29:17",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5494,14 +3559,7 @@
         "episodes": "Ep. 593-594",
         "released": "2013-06-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F0B1F815",
-            "length": "31:01",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5512,14 +3570,7 @@
         "episodes": "Ep. 595-596",
         "released": "2013-06-02",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "658D36CE",
-            "length": "27:50",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5530,14 +3581,7 @@
         "episodes": "Ep. 597-598",
         "released": "2013-06-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "AD550761",
-            "length": "26:50",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5548,14 +3592,7 @@
         "episodes": "Ep. 599-600",
         "released": "2013-06-24",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "72E3E794",
-            "length": "27:23",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5566,14 +3603,7 @@
         "episodes": "Ep. 601-602",
         "released": "2013-07-08",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "398915C6",
-            "length": "25:58",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5584,14 +3614,7 @@
         "episodes": "Ep. 603-604",
         "released": "2013-07-21",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "CD83F1E9",
-            "length": "22:14",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5602,14 +3625,7 @@
         "episodes": "Ep. 604-606",
         "released": "2013-08-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "964FB36B",
-            "length": "22:12",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5620,14 +3636,7 @@
         "episodes": "Ep. 607-608",
         "released": "2013-08-31",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "75CC1F6E",
-            "length": "19:10",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5638,14 +3647,7 @@
         "episodes": "Ep. 609-610",
         "released": "2013-09-17",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "9CE5B9DD",
-            "length": "21:15",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5656,14 +3658,7 @@
         "episodes": "Ep. 611-612",
         "released": "2013-09-27",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "4CD92CFC",
-            "length": "21:36",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5674,14 +3669,7 @@
         "episodes": "Ep. 613-614",
         "released": "2013-10-10",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "0A2624D5",
-            "length": "21:48",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5692,14 +3680,7 @@
         "episodes": "Ep. 615-616",
         "released": "2013-10-23",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "D56597BC",
-            "length": "20:28",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5710,14 +3691,7 @@
         "episodes": "Ep. 617-618",
         "released": "2013-11-05",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "54AC1705",
-            "length": "21:36",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5728,14 +3702,7 @@
         "episodes": "Ep. 619-621",
         "released": "2013-12-02",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5012E091",
-            "length": "23:37",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5746,14 +3713,7 @@
         "episodes": "Ep. 622-623",
         "released": "2013-12-22",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "0CBF5258",
-            "length": "23:53",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 30,
@@ -5764,14 +3724,7 @@
         "episodes": "Ep. 624-626,628",
         "released": "2014-01-20",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "021A8886",
-            "length": "24:37",
-            "url": "https://nyaa.si/?q=bcdff039cd7c01f2ffb78799b4082d91de25b2fb"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "545721945"
@@ -5800,14 +3753,7 @@
         "episodes": "Ep. 628-631",
         "released": "2014-02-09",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "2A35B710",
-            "length": "29:47",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -5818,14 +3764,7 @@
         "episodes": "Ep. 631-633",
         "released": "2014-03-25",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E058DEF9",
-            "length": "21:50",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -5836,14 +3775,7 @@
         "episodes": "Ep. 633-635",
         "released": "2014-04-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "90034ECC",
-            "length": "27:01",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -5854,14 +3786,7 @@
         "episodes": "Ep. 634-637",
         "released": "2014-04-19",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E98FA912",
-            "length": "18:04",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -5872,14 +3797,7 @@
         "episodes": "Ep. 637-638",
         "released": "2014-04-25",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "A95DE47B",
-            "length": "21:10",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -5890,14 +3808,7 @@
         "episodes": "Ep. 639-642",
         "released": "2014-05-09",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F7CB97CD",
-            "length": "26:23",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -5908,14 +3819,7 @@
         "episodes": "Ep. 640-643",
         "released": "2014-05-14",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "EACE397D",
-            "length": "27:38",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -5926,14 +3830,7 @@
         "episodes": "Ep. 643-645",
         "released": "2014-06-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "777DE97C",
-            "length": "20:57",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -5944,14 +3841,7 @@
         "episodes": "Ep. 646-647",
         "released": "2014-06-24",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "C2C37921",
-            "length": "21:49",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -5962,14 +3852,7 @@
         "episodes": "Ep. 648-649",
         "released": "2014-07-04",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "50143351",
-            "length": "21:31",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -5980,14 +3863,7 @@
         "episodes": "Ep. 650-651",
         "released": "2014-07-24",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "D8E8370A",
-            "length": "30:34",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -5998,14 +3874,7 @@
         "episodes": "Ep. 652-654",
         "released": "2014-08-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F20B5423",
-            "length": "27:06",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6016,14 +3885,7 @@
         "episodes": "Ep. 655-657",
         "released": "2014-09-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "C29E5C35",
-            "length": "22:21",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6034,14 +3896,7 @@
         "episodes": "Ep. 648,657-659",
         "released": "2014-10-21",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E3C90B8B",
-            "length": "29:06",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6052,14 +3907,7 @@
         "episodes": "Ep. 660-661",
         "released": "2014-10-29",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "6A3CE0EA",
-            "length": "23:57",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6070,14 +3918,7 @@
         "episodes": "Ep. 657,662-663",
         "released": "2014-11-08",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "7073A62F",
-            "length": "26:12",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6088,14 +3929,7 @@
         "episodes": "Ep. 664-665",
         "released": "2014-11-10",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "174F92DD",
-            "length": "21:44",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6106,14 +3940,7 @@
         "episodes": "Ep. 666-667",
         "released": "2014-11-25",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "C9362978",
-            "length": "25:01",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6124,14 +3951,7 @@
         "episodes": "Ep. 668-670",
         "released": "2014-12-18",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "77081AEE",
-            "length": "20:17",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6142,14 +3962,7 @@
         "episodes": "Ep. 670-672",
         "released": "2015-01-23",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "BE72EB0E",
-            "length": "24:43",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6160,14 +3973,7 @@
         "episodes": "Ep. 672-675",
         "released": "2015-03-02",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "C21EC74A",
-            "length": "26:54",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6178,14 +3984,7 @@
         "episodes": "Ep. 675-678",
         "released": "2015-03-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5FC46535",
-            "length": "28:45",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6196,14 +3995,7 @@
         "episodes": "Ep. 678-680",
         "released": "2015-03-22",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5A38EC3B",
-            "length": "27:55",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6214,14 +4006,7 @@
         "episodes": "Ep. 681-683",
         "released": "2015-04-19",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "11DA7BCB",
-            "length": "27:33",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6232,14 +4017,7 @@
         "episodes": "Ep. 683-686",
         "released": "2015-05-06",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "1CADC5DC",
-            "length": "21:52",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6250,14 +4028,7 @@
         "episodes": "Ep. 685-688",
         "released": "2016-08-16",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "71CA89FC",
-            "length": "24:54",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6268,14 +4039,7 @@
         "episodes": "Ep. 688-691",
         "released": "2016-08-23",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "DC6C3C54",
-            "length": "25:15",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6286,14 +4050,7 @@
         "episodes": "Ep. 691-693",
         "released": "2016-09-02",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "04186119",
-            "length": "25:41",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6304,14 +4061,7 @@
         "episodes": "Ep. 693-696",
         "released": "2016-09-30",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "ACC7852E",
-            "length": "25:44",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6322,14 +4072,7 @@
         "episodes": "Ep. 694,696-698",
         "released": "2016-10-06",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "4F16C5DC",
-            "length": "22:42",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6340,14 +4083,7 @@
         "episodes": "Ep. 699-700",
         "released": "2016-10-13",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "9C3360D6",
-            "length": "21:22",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6358,14 +4094,7 @@
         "episodes": "Ep. 701-702",
         "released": "2016-10-16",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E98F852E",
-            "length": "28:35",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6376,14 +4105,7 @@
         "episodes": "Ep. 703-704",
         "released": "2016-11-05",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "53AEB13C",
-            "length": "29:39",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6394,14 +4116,7 @@
         "episodes": "Ep. 705-706",
         "released": "2016-12-02",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "0CA47011",
-            "length": "28:58",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6412,14 +4127,7 @@
         "episodes": "Ep. 707-711",
         "released": "2016-12-17",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "1B5DC33C",
-            "length": "24:02",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6430,14 +4138,7 @@
         "episodes": "Ep. 708-711",
         "released": "2017-01-14",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F218F0E4",
-            "length": "26:19",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6448,14 +4149,7 @@
         "episodes": "Ep. 711-713",
         "released": "2017-02-24",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "777A9A6A",
-            "length": "28:20",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6466,14 +4160,7 @@
         "episodes": "Ep. 714-716",
         "released": "2017-03-12",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "0429451F",
-            "length": "29:16",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6484,14 +4171,7 @@
         "episodes": "Ep. 716-719",
         "released": "2017-03-20",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "7391ECD4",
-            "length": "42:40",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6502,14 +4182,7 @@
         "episodes": "Ep. 714-715,720-723",
         "released": "2017-03-26",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "ECD80B22",
-            "length": "41:05",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6520,14 +4193,7 @@
         "episodes": "Ep. 723-725",
         "released": "2017-04-27",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "3E9F11F9",
-            "length": "28:55",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6538,14 +4204,7 @@
         "episodes": "Ep. 726-728",
         "released": "2017-05-13",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "55292D1C",
-            "length": "28:38",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6556,14 +4215,7 @@
         "episodes": "Ep. 728-730",
         "released": "2017-05-20",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "CAA32C42",
-            "length": "28:15",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6574,14 +4226,7 @@
         "episodes": "Ep. 730-733",
         "released": "2017-05-28",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "4DDF4C07",
-            "length": "39:09",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6592,14 +4237,7 @@
         "episodes": "Ep. 734-736",
         "released": "2017-06-10",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "15344804",
-            "length": "40:24",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6610,14 +4248,7 @@
         "episodes": "Ep. 737-739",
         "released": "2017-06-28",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "81C4666C",
-            "length": "36:09",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6628,14 +4259,7 @@
         "episodes": "Ep. 740-742",
         "released": "2017-09-02",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "01C40FA1",
-            "length": "37:02",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 31,
@@ -6646,14 +4270,7 @@
         "episodes": "Ep. 742-745",
         "released": "2017-09-10",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5F035A13",
-            "length": "42:56",
-            "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "168502639"
@@ -6682,14 +4299,7 @@
         "episodes": "Ep. 746-747,751-753",
         "released": "2016-08-26",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E70913D9",
-            "length": "38:09",
-            "url": "https://nyaa.si/?q=5c027631a28242814a6cf1fe24f455b70bca14bc"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 32,
@@ -6700,14 +4310,7 @@
         "episodes": "Ep. 753-754",
         "released": "2016-09-09",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "32150FF4",
-            "length": "20:37",
-            "url": "https://nyaa.si/?q=5c027631a28242814a6cf1fe24f455b70bca14bc"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 32,
@@ -6718,14 +4321,7 @@
         "episodes": "Ep. 755-757",
         "released": "2016-09-30",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E4B077F8",
-            "length": "26:41",
-            "url": "https://nyaa.si/?q=5c027631a28242814a6cf1fe24f455b70bca14bc"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 32,
@@ -6736,14 +4332,7 @@
         "episodes": "Ep. 757-760",
         "released": "2016-10-23",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "A4F76B13",
-            "length": "24:35",
-            "url": "https://nyaa.si/?q=5c027631a28242814a6cf1fe24f455b70bca14bc"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 32,
@@ -6754,14 +4343,7 @@
         "episodes": "Ep. 759-762",
         "released": "2016-11-16",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "7149D13F",
-            "length": "24:03",
-            "url": "https://nyaa.si/?q=5c027631a28242814a6cf1fe24f455b70bca14bc"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 32,
@@ -6772,14 +4354,7 @@
         "episodes": "Ep. 762-764",
         "released": "2016-12-24",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "7F73DB45",
-            "length": "29:36",
-            "url": "https://nyaa.si/?q=5c027631a28242814a6cf1fe24f455b70bca14bc"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 32,
@@ -6790,14 +4365,7 @@
         "episodes": "Ep. 764-766",
         "released": "2016-12-12",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "55837445",
-            "length": "30:46",
-            "url": "https://nyaa.si/?q=5c027631a28242814a6cf1fe24f455b70bca14bc"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 32,
@@ -6808,14 +4376,7 @@
         "episodes": "Ep. 767-769",
         "released": "2016-12-25",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5B2AAFBF",
-            "length": "29:12",
-            "url": "https://nyaa.si/?q=5c027631a28242814a6cf1fe24f455b70bca14bc"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 32,
@@ -6826,14 +4387,7 @@
         "episodes": "Ep. 769-772",
         "released": "2017-01-27",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "0880B38F",
-            "length": "32:15",
-            "url": "https://nyaa.si/?q=5c027631a28242814a6cf1fe24f455b70bca14bc"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 32,
@@ -6844,14 +4398,7 @@
         "episodes": "Ep. 772-774,776",
         "released": "2017-03-03",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "4A52B138",
-            "length": "44:34",
-            "url": "https://nyaa.si/?q=5c027631a28242814a6cf1fe24f455b70bca14bc"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "1146420179"
@@ -6880,14 +4427,7 @@
         "episodes": "Ep. 777-779,783",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "3F24A1D8",
-            "length": "31:03",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -6898,14 +4438,7 @@
         "episodes": "Ep. 783-785",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "6FFCB482",
-            "length": "33:09",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -6916,14 +4449,7 @@
         "episodes": "Ep. 785-788",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "3F6633B5",
-            "length": "31:57",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -6934,14 +4460,7 @@
         "episodes": "Ep. 788-790",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "02C6FC2B",
-            "length": "31:17",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -6952,14 +4471,7 @@
         "episodes": "Ep. 791-793",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "4CF30353",
-            "length": "32:14",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -6970,14 +4482,7 @@
         "episodes": "Ep. 793-795",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "410C8F0C",
-            "length": "32:19",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -6988,14 +4493,7 @@
         "episodes": "Ep. 796-798",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "FC2376A1",
-            "length": "31:12",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7006,14 +4504,7 @@
         "episodes": "Ep. 798-800",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "31018FCB",
-            "length": "26:19",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7024,14 +4515,7 @@
         "episodes": "Ep. 800-803,807",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "94E3481F",
-            "length": "32:05",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7042,14 +4526,7 @@
         "episodes": "Ep. 804-806",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E123D314",
-            "length": "35:45",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7060,14 +4537,7 @@
         "episodes": "Ep. 806-808",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "8B5E1006",
-            "length": "26:18",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7078,14 +4548,7 @@
         "episodes": "Ep. 809-812",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "36D0F622",
-            "length": "34:17",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7096,14 +4559,7 @@
         "episodes": "Ep. 812-815",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "D9EEB564",
-            "length": "32:25",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7114,14 +4570,7 @@
         "episodes": "Ep. 814-817",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "CCCBEFC0",
-            "length": "34:50",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7132,14 +4581,7 @@
         "episodes": "Ep. 817-820",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "0E2022E4",
-            "length": "35:53",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7150,14 +4592,7 @@
         "episodes": "Ep. 820-822",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "A8E42FE1",
-            "length": "29:18",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7168,14 +4603,7 @@
         "episodes": "Ep. 823-825",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "0CF96D5A",
-            "length": "33:49",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7186,14 +4614,7 @@
         "episodes": "Ep. 826-828",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "3F5E7FD3",
-            "length": "36:10",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7204,14 +4625,7 @@
         "episodes": "Ep. 828-830",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "0F125E00",
-            "length": "33:28",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7222,14 +4636,7 @@
         "episodes": "Ep. 831-832",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "4F38961B",
-            "length": "29:32",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7240,14 +4647,7 @@
         "episodes": "Ep. 831,833-834",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5FDB702D",
-            "length": "35:35",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7258,14 +4658,7 @@
         "episodes": "Ep. 835-836",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "39D94718",
-            "length": "28:15",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7276,14 +4669,7 @@
         "episodes": "Ep. 837-839",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "437F9E8D",
-            "length": "33:58",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7294,14 +4680,7 @@
         "episodes": "Ep. 839-841",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "6E422CFB",
-            "length": "28:41",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7312,14 +4691,7 @@
         "episodes": "Ep. 841-843",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "32CC4AB9",
-            "length": "35:41",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7330,14 +4702,7 @@
         "episodes": "Ep. 843-846",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "71827EF0",
-            "length": "34:14",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7348,14 +4713,7 @@
         "episodes": "Ep. 846-848",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "2CDA8E9D",
-            "length": "33:11",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7366,14 +4724,7 @@
         "episodes": "Ep. 848-850",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "22B16322",
-            "length": "32:15",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7384,14 +4735,7 @@
         "episodes": "Ep. 851-853",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "270A4ABD",
-            "length": "30:21",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7402,14 +4746,7 @@
         "episodes": "Ep. 853-855,858",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "ABB0AC56",
-            "length": "33:25",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7420,14 +4757,7 @@
         "episodes": "Ep. 856-858",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "529AE554",
-            "length": "31:08",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7438,14 +4768,7 @@
         "episodes": "Ep. 858-860",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "8313ECE3",
-            "length": "32:11",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7456,14 +4779,7 @@
         "episodes": "Ep. 860-862",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "6FBBD350",
-            "length": "30:56",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7474,14 +4790,7 @@
         "episodes": "Ep. 862-865",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "A3939979",
-            "length": "37:46",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7492,14 +4801,7 @@
         "episodes": "Ep. 865-868",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "1753F7D1",
-            "length": "36:19",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7510,14 +4812,7 @@
         "episodes": "Ep. 865,867-870",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "3AF37912",
-            "length": "33:49",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7528,14 +4823,7 @@
         "episodes": "Ep. 871-872",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "3C58DD41",
-            "length": "28:56",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7546,14 +4834,7 @@
         "episodes": "Ep. 873-875",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E9317CBD",
-            "length": "41:27",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 33,
@@ -7564,14 +4845,7 @@
         "episodes": "Ep. 876-877",
         "released": "2020-12-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "172F5F20",
-            "length": "34:30",
-            "url": "https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "1510623527"
@@ -7600,14 +4874,7 @@
         "episodes": "Ep. 878-880",
         "released": "2024-10-5",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "C5FB1123",
-            "length": "33:30",
-            "url": "https://nyaa.si/view/1880864"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 34,
@@ -7618,14 +4885,7 @@
         "episodes": "Ep. 881-885",
         "released": "2024-10-5",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "6E0CD1C5",
-            "length": "35:04",
-            "url": "https://nyaa.si/view/1880864"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 34,
@@ -7636,14 +4896,7 @@
         "episodes": "Ep. 886-889",
         "released": "2024-10-5",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "0B51015F",
-            "length": "28:38",
-            "url": "https://nyaa.si/view/1880864"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "1529137639"
@@ -7683,14 +4936,7 @@
         "episodes": "Ep. 890-891",
         "released": "2025-04-04",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F15AFDE0",
-            "length": "22:48",
-            "url": "https://nyaa.si/view/1955846"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -7700,21 +4946,8 @@
         "chapters": "Ch. 909-911",
         "episodes": "Ep. 892-894",
         "released": "2025-05-17",
-        "has_extended": true,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "8538EDC4",
-            "length": "29:06",
-            "url": "https://nyaa.si/view/1972744"
-          },
-          "extended": {
-            "version": "extended",
-            "crc32": "6F26FDAB",
-            "length": "32:01",
-            "url": "https://nyaa.si/view/1972743"
-          }
-        }
+        "has_extended": false,
+        "files": {}
       },
       {
         "arc": 35,
@@ -7725,14 +4958,7 @@
         "episodes": "Ep. 894,897",
         "released": "2025-06-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "410FD111",
-            "length": "34:00",
-            "url": "https://nyaa.si/view/1977591"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -7743,14 +4969,7 @@
         "episodes": "Ep. 898-899",
         "released": "2026-01-25",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E937ED2B",
-            "length": "20:26",
-            "url": "https://nyaa.si/view/2069226"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -7761,14 +4980,7 @@
         "episodes": "Ep. 900-902",
         "released": "2019-10-18",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "B51C53E9",
-            "length": "32:59",
-            "url": "https://nyaa.si/view/1236480"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -7779,14 +4991,7 @@
         "episodes": "Ep. 902-903",
         "released": "2019-10-18",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "13E4ABCF",
-            "length": "25:48",
-            "url": "https://nyaa.si/view/1236480"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -7797,14 +5002,7 @@
         "episodes": "Ep. 904-905",
         "released": "2019-11-22",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F71F9B71",
-            "length": "31:19",
-            "url": "https://nyaa.si/view/1236480"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -7815,14 +5013,7 @@
         "episodes": "Ep. 906,908-909",
         "released": "2020-03-14",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "6DA86F5F",
-            "length": "38:50",
-            "url": "https://nyaa.si/view/1236480"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -7833,14 +5024,7 @@
         "episodes": "Ep. 909-911",
         "released": "2020-03-16",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5A5E65B1",
-            "length": "30:57",
-            "url": "https://nyaa.si/view/1236480"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -7851,14 +5035,7 @@
         "episodes": "Ep. 911-913",
         "released": "2020-03-31",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "91BE23B7",
-            "length": "37:01",
-            "url": "https://nyaa.si/view/1236480"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -7869,14 +5046,7 @@
         "episodes": "Ep. 914-915",
         "released": "2020-03-31",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "6A9CF454",
-            "length": "25:28",
-            "url": "https://nyaa.si/view/1236480"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -7887,14 +5057,7 @@
         "episodes": "Ep. 916",
         "released": "2020-04-01",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5ACE812A",
-            "length": "20:31",
-            "url": "https://nyaa.si/view/1236480"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -7905,14 +5068,7 @@
         "episodes": "Ep. 917-919,924",
         "released": "2020-05-06",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "DCF7AD65",
-            "length": "36:54",
-            "url": "https://nyaa.si/?q=7bb74e6d6cb948274a02e389732418ad5d2aa39a"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -7923,14 +5079,7 @@
         "episodes": "Ep. 919-922",
         "released": "2020-06-25",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "BF92DCAF",
-            "length": "38:08",
-            "url": "https://nyaa.si/?q=cdb26d84fba1712004b04a26d5484c766dfe1263"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -7941,14 +5090,7 @@
         "episodes": "Ep. 921-923",
         "released": "2020-07-12",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "AE6ABE84",
-            "length": "38:51",
-            "url": "https://nyaa.si/?q=1e8b4afc42cce0c51f7b72973de5b90f18246459"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -7959,14 +5101,7 @@
         "episodes": "Ep. 923-926",
         "released": "2020-07-24",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "9FA61F60",
-            "length": "34:06",
-            "url": "https://nyaa.si/?q=679f3a126c68708414677326663f1be953a4588c"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -7977,14 +5112,7 @@
         "episodes": "Ep. 926-928",
         "released": "2020-07-31",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "D2E02F36",
-            "length": "39:02",
-            "url": "https://nyaa.si/?q=ada27ed07c9bdb8339f563ea3a972e810db9c241"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -7995,14 +5123,7 @@
         "episodes": "Ep. 929-931",
         "released": "2020-12-09",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "94F78CF3",
-            "length": "37:21",
-            "url": "https://nyaa.si/?q=ee98dc9217e39a1142d34593fd1f69f370844d9f"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8013,14 +5134,7 @@
         "episodes": "Ep. 931-934",
         "released": "2020-12-09",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "6C9E8055",
-            "length": "37:16",
-            "url": "https://nyaa.si/?q=21bfa9becd4b71b3f39a102b5182d4b5df601801"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8031,14 +5145,7 @@
         "episodes": "Ep. 934-937",
         "released": "2021-01-09",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "93376225",
-            "length": "34:44",
-            "url": "https://nyaa.si/view/1324851"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8049,14 +5156,7 @@
         "episodes": "Ep. 936-938",
         "released": "2021-02-28",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "0B965026",
-            "length": "34:16",
-            "url": "https://nyaa.si/?q=b1a87c6668cce9523fe8c56556fedb18438a242b"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8067,14 +5167,7 @@
         "episodes": "Ep. 939-940",
         "released": "2021-04-28",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "9F63AF78",
-            "length": "29:09",
-            "url": "https://nyaa.si/?q=555b93c2e368c9f652ff4fff987d5fbc3c3bad6b"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8085,14 +5178,7 @@
         "episodes": "Ep. 941-943",
         "released": "2022-01-18",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "37670A03",
-            "length": "39:59",
-            "url": "https://nyaa.si/?q=04f41b47c4144307737eafa4b03c58d4ddea4ba8"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8103,14 +5189,7 @@
         "episodes": "Ep. 942-944",
         "released": "2022-01-18",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "6173BCE1",
-            "length": "22:30",
-            "url": "https://nyaa.si/?q=1806979f06ae1560485ef48bd1983d42aa5b5696"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8121,14 +5200,7 @@
         "episodes": "Ep. 945-947",
         "released": "2021-09-10",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "C3825063",
-            "length": "33:27",
-            "url": "https://nyaa.si/?q=6a26cb6bb9d3f8259fd54a610acbe7b8fc1039bc"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8139,14 +5211,7 @@
         "episodes": "Ep. 947-949",
         "released": "2022-01-18",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F3E829E8",
-            "length": "32:36",
-            "url": "https://nyaa.si/?q=0a9639f371dbd1270c79b058309aeba62d91ebc6"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8157,14 +5222,7 @@
         "episodes": "Ep. 950-951",
         "released": "2022-02-13",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "3CC8226D",
-            "length": "30:16",
-            "url": "https://nyaa.si/?q=b164abb99ea78b42c76b575a1591991302185d0d"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8175,14 +5233,7 @@
         "episodes": "Ep. 952-953",
         "released": "2022-04-21",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "22F81B0E",
-            "length": "27:57",
-            "url": "https://nyaa.si/?q=b49ba708f178848d3430cbb7899ab0f8caecfdf1"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8193,14 +5244,7 @@
         "episodes": "Ep. 954-955",
         "released": "2022-12-18",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5C7E0604",
-            "length": "27:24",
-            "url": "https://nyaa.si/?q=0c335ffe392916183f738e9831c1379b2c432601"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8211,14 +5255,7 @@
         "episodes": "Ep. 955-956",
         "released": "2023-04-06",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "43A0D1DF",
-            "length": "27:18",
-            "url": "https://nyaa.si/?q=e8cca1f69b748d85fd6a5f3eba2701ef6220cfb8"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8229,14 +5266,7 @@
         "episodes": "Ep. 957",
         "released": "2023-06-27",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F6C7EB83",
-            "length": "18:25",
-            "url": "https://nyaa.si/?q=8d0650670a3b6de5de5b9411057e984d86247d9a"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8247,14 +5277,7 @@
         "episodes": "Ep. 958",
         "released": "2023-07-08",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "29B91F56",
-            "length": "16:23",
-            "url": "https://nyaa.si/view/1695576"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8265,14 +5288,7 @@
         "episodes": "Ep. 959-960",
         "released": "2023-09-02",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E3AB2BA0",
-            "length": "25:52",
-            "url": "https://nyaa.si/view/1711394"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8283,14 +5299,7 @@
         "episodes": "Ep. 960-961",
         "released": "2023-09-23",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "224B7846",
-            "length": "23:00",
-            "url": "https://nyaa.si/?q=131a50628ef03291dbce68a002875e3b33c9fda5"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8301,14 +5310,7 @@
         "episodes": "Ep. 961-963",
         "released": "2023-10-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "98B5E26D",
-            "length": "30:32",
-            "url": "https://nyaa.si/?q=d46b4ffe4a5c2f71e35dc4fb72186ea8c772ca58"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8319,14 +5321,7 @@
         "episodes": "Ep. 963-964",
         "released": "2023-12-08",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "BAFFE801",
-            "length": "28:07",
-            "url": "https://nyaa.si/?q=ec75dd4f1d60dc71dbc41556e375dcb616ca54ae"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8337,14 +5332,7 @@
         "episodes": "Ep. 964-967",
         "released": "2023-12-15",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "AD8C9C16",
-            "length": "36:51",
-            "url": "https://nyaa.si/view/1756111"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8355,14 +5343,7 @@
         "episodes": "Ep. 967-968",
         "released": "2024-01-26",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "298A4284",
-            "length": "21:48",
-            "url": "https://nyaa.si/?q=c7e226bf4c40fb20dc2cce2bf5e32f8b5cde5dbd"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8373,14 +5354,7 @@
         "episodes": "Ep. 969-971",
         "released": "2024-04-05",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "56CFB8B0",
-            "length": "38:01",
-            "url": "https://nyaa.si/?q=93e937753ccf59b30e05c8a35cecbe56e1ceada3"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8391,14 +5365,7 @@
         "episodes": "Ep. 971-975",
         "released": "2024-05-10",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "713F7916",
-            "length": "41:53",
-            "url": "https://nyaa.si/?q=bb2c6ec947742838a7daac23c54c87613eac604e"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8409,14 +5376,7 @@
         "episodes": "Ep. 975-977",
         "released": "2024-06-28",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "C89B4C1E",
-            "length": "35:20",
-            "url": "https://nyaa.si/view/1839156"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8427,14 +5387,7 @@
         "episodes": "Ep. 978-980",
         "released": "2024-08-30",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "3FC81ABD",
-            "length": "33:31",
-            "url": "https://nyaa.si/view/1866884"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8445,14 +5398,7 @@
         "episodes": "Ep. 981-982",
         "released": "2024-09-28",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "26D98629",
-            "length": "28:02",
-            "url": "https://nyaa.si/view/1878436"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8463,14 +5409,7 @@
         "episodes": "Ep. 983-985",
         "released": "2024-10-26",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F1FB27C6",
-            "length": "27:23",
-            "url": "https://nyaa.si/view/1891125"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8481,14 +5420,7 @@
         "episodes": "Ep. 985-988",
         "released": "2024-11-09",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "DFB30A71",
-            "length": "30:20",
-            "url": "https://nyaa.si/view/1897010"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8499,14 +5431,7 @@
         "episodes": "Ep. 988-991",
         "released": "2024-11-16",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "7392F65E",
-            "length": "30:32",
-            "url": "https://nyaa.si/view/1900032"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8517,14 +5442,7 @@
         "episodes": "Ep. 991-994",
         "released": "2025-05-09",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "D78E29CD",
-            "length": "33:35",
-            "url": "https://nyaa.si/view/1969559"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8535,14 +5453,7 @@
         "episodes": "Ep. 994-997",
         "released": "2025-05-17",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F47C3EDD",
-            "length": "34:56",
-            "url": "https://nyaa.si/view/1972745"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8552,21 +5463,8 @@
         "chapters": "Ch. 988-989",
         "episodes": "Ep. 997-1000",
         "released": "2025-05-17",
-        "has_extended": true,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "FE878EE8",
-            "length": "31:21",
-            "url": "https://nyaa.si/view/1974747"
-          },
-          "extended": {
-            "version": "extended",
-            "crc32": "58469AB0",
-            "length": "33:14",
-            "url": "https://nyaa.si/view/1974748"
-          }
-        }
+        "has_extended": false,
+        "files": {}
       },
       {
         "arc": 35,
@@ -8577,14 +5475,7 @@
         "episodes": "Ep. 1001-1003",
         "released": "2025-06-06",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "0144BBBA",
-            "length": "31:15",
-            "url": "https://nyaa.si/view/1979544"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8595,14 +5486,7 @@
         "episodes": "Ep. 1003-1006",
         "released": "2025-06-13",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E004EDB5",
-            "length": "29:49",
-            "url": "https://nyaa.si/view/1982061"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8613,14 +5497,7 @@
         "episodes": "Ep. 1006-1009",
         "released": "2025-06-20",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "D985734A",
-            "length": "26:49",
-            "url": "https://nyaa.si/view/1984625"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8631,14 +5508,7 @@
         "episodes": "Ep. 1009-1011",
         "released": "2025-07-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "C99E7631",
-            "length": "32:11",
-            "url": "https://nyaa.si/view/1995005"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8649,14 +5519,7 @@
         "episodes": "Ep. 1012-1014",
         "released": "2025-09-15",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "79C6DC33",
-            "length": "32:18",
-            "url": "https://nyaa.si/view/2020091"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8666,21 +5529,8 @@
         "chapters": "Ch. 1000",
         "episodes": "Ep. 1015",
         "released": "2025-09-27",
-        "has_extended": true,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "2501AC5A",
-            "length": "12:39",
-            "url": "https://nyaa.si/view/2024714"
-          },
-          "extended": {
-            "version": "extended",
-            "crc32": "425F93B9",
-            "length": "22:35",
-            "url": "https://nyaa.si/view/2024715"
-          }
-        }
+        "has_extended": false,
+        "files": {}
       },
       {
         "arc": 35,
@@ -8691,14 +5541,7 @@
         "episodes": "Ep. 1016-1017",
         "released": "2025-12-14",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "E58B9A11",
-            "length": "25:13",
-            "url": "https://nyaa.si/view/2054252"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8709,14 +5552,7 @@
         "episodes": "Ep. 1018-1020",
         "released": "2026-02-02",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "F1EE1824",
-            "length": "29:07",
-            "url": "https://nyaa.si/view/2071828"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8727,14 +5563,7 @@
         "episodes": "Ep. 1020-1022",
         "released": "2026-02-21",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "A0FCAB46",
-            "length": "30:35",
-            "url": "https://nyaa.si/view/2078480"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 35,
@@ -8745,14 +5574,7 @@
         "episodes": "Ep. 1023-1025",
         "released": "2026-03-22",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "2ED1FD82",
-            "length": "30:36",
-            "url": "https://nyaa.si/view/2089368"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "1926352856"
@@ -8792,14 +5614,7 @@
         "episodes": "Ep. 1086-1088",
         "released": "2024-09-24",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "CA3F14A8",
-            "length": "24:53",
-            "url": "https://nyaa.si/view/1870237"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 36,
@@ -8810,14 +5625,7 @@
         "episodes": "Ep. 1087-1088",
         "released": "2024-09-14",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "D511F339",
-            "length": "23:58",
-            "url": "https://nyaa.si/view/1870238"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 36,
@@ -8828,14 +5636,7 @@
         "episodes": "Ep. 1089-1090",
         "released": "2025-01-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "5B546203",
-            "length": "30:30",
-            "url": "https://nyaa.si/view/1920011"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 36,
@@ -8846,14 +5647,7 @@
         "episodes": "Ep. 1091-1093",
         "released": "2025-01-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "ACBE88D6",
-            "length": "31:53",
-            "url": "https://nyaa.si/view/1920012"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 36,
@@ -8864,14 +5658,7 @@
         "episodes": "Ep. 1093-1095",
         "released": "2025-01-11",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "C6E79353",
-            "length": "34:06",
-            "url": "https://nyaa.si/view/1920013"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 36,
@@ -8882,14 +5669,7 @@
         "episodes": "Ep. 1096-1097",
         "released": "2025-02-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "69F1BBD5",
-            "length": "21:04",
-            "url": "https://nyaa.si/view/1932419"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 36,
@@ -8900,14 +5680,7 @@
         "episodes": "Ep. 1097-1099",
         "released": "2025-02-22",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "A42DEAED",
-            "length": "32:25",
-            "url": "https://nyaa.si/view/1939369"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 36,
@@ -8917,21 +5690,8 @@
         "chapters": "Ch. 1069-1070",
         "episodes": "Ep. 1099-1102",
         "released": "2025-03-08",
-        "has_extended": true,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "4C1997F3",
-            "length": "35:03",
-            "url": "https://nyaa.si/view/1945225"
-          },
-          "extended": {
-            "version": "extended",
-            "crc32": "1FDB8A9C",
-            "length": "38:47",
-            "url": "https://nyaa.si/view/1945226"
-          }
-        }
+        "has_extended": false,
+        "files": {}
       },
       {
         "arc": 36,
@@ -8942,14 +5702,7 @@
         "episodes": "Ep. 1102-1104",
         "released": "2025-03-22",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "29B2D72D",
-            "length": "36:17",
-            "url": "https://nyaa.si/view/1950692"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 36,
@@ -8960,14 +5713,7 @@
         "episodes": "Ep. 1104-1107",
         "released": "2025-04-18",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "2B00E24B",
-            "length": "36:06",
-            "url": "https://nyaa.si/view/1961203"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 36,
@@ -8978,14 +5724,7 @@
         "episodes": "Ep. 1107-1109",
         "released": "2025-05-03",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "448628C9",
-            "length": "31:38",
-            "url": "https://nyaa.si/view/1966910"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 36,
@@ -8996,14 +5735,7 @@
         "episodes": "Ep. 1108, 1110-1111",
         "released": "2025-06-13",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "6FEADFF5",
-            "length": "28:39",
-            "url": "https://nyaa.si/view/1982060"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 36,
@@ -9013,21 +5745,8 @@
         "chapters": "Ch. 1079",
         "episodes": "Ep. 1112",
         "released": "2025-06-30",
-        "has_extended": true,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "6C170189",
-            "length": "15:53",
-            "url": "https://nyaa.si/view/1987736"
-          },
-          "extended": {
-            "version": "extended",
-            "crc32": "482F69B7",
-            "length": "17:39",
-            "url": "https://nyaa.si/view/1987735"
-          }
-        }
+        "has_extended": false,
+        "files": {}
       },
       {
         "arc": 36,
@@ -9037,21 +5756,8 @@
         "chapters": "Ch. 1080-1081",
         "episodes": "Ep. 1113-1115",
         "released": "2025-08-10",
-        "has_extended": true,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "3C0010BE",
-            "length": "39:16",
-            "url": "https://nyaa.si/view/2004229"
-          },
-          "extended": {
-            "version": "extended",
-            "crc32": "CA3683BA",
-            "length": "42:23",
-            "url": "https://nyaa.si/view/2004230"
-          }
-        }
+        "has_extended": false,
+        "files": {}
       },
       {
         "arc": 36,
@@ -9062,14 +5768,7 @@
         "episodes": "Ep. 1116-1117",
         "released": "2025-08-23",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "21BF9495",
-            "length": "31:48",
-            "url": "https://nyaa.si/view/2010311"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 36,
@@ -9080,14 +5779,7 @@
         "episodes": "Ep. 1118-1119",
         "released": "2025-08-29",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "7A93DCC5",
-            "length": "24:50",
-            "url": "https://nyaa.si/view/2012474"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 36,
@@ -9098,14 +5790,7 @@
         "episodes": "Ep. 1119-1120",
         "released": "2025-09-07",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "76281ED9",
-            "length": "20:21",
-            "url": "https://nyaa.si/view/2016639"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 36,
@@ -9116,14 +5801,7 @@
         "episodes": "Ep. 1121-1122",
         "released": "2025-04-04",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "8A1836B5",
-            "length": "34:44",
-            "url": "https://nyaa.si/view/1955845"
-          }
-        }
+        "files": {}
       },
       {
         "arc": 36,
@@ -9133,21 +5811,8 @@
         "chapters": "Ch. 1089-1090",
         "episodes": "Ep. 1123-1124",
         "released": "2025-08-30",
-        "has_extended": true,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "6AE11B21",
-            "length": "30:59",
-            "url": "https://nyaa.si/view/2012475"
-          },
-          "extended": {
-            "version": "extended",
-            "crc32": "93B80191",
-            "length": "32:46",
-            "url": "https://nyaa.si/view/2012476"
-          }
-        }
+        "has_extended": false,
+        "files": {}
       },
       {
         "arc": 36,
@@ -9158,14 +5823,7 @@
         "episodes": "Ep. 1125-1126",
         "released": "2025-11-10",
         "has_extended": false,
-        "files": {
-          "normal": {
-            "version": "normal",
-            "crc32": "B974EFD7",
-            "length": "30:25",
-            "url": "https://nyaa.si/view/2041114"
-          }
-        }
+        "files": {}
       }
     ],
     "gid": "1664435609"

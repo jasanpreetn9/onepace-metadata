@@ -2141,7 +2141,52 @@
   time_saved_mins: "168"
   time_saved_percent: 56.04%
   status: TBR
-  episodes: []
+  episodes:
+    - arc: 23
+      episode: 1
+      title: Adventure on the Island of Women
+      description: Luffy finds himself alone, stranded and starving on an unfamiliar island. After a run-in with some exotic mushrooms, he is approached by a team of female warriors who could be friend... or foe.
+      chapters: Ch. 514-515
+      episodes: Ep. 408-409
+      released: "2016-01-26"
+      has_extended: false
+      files: {}
+    - arc: 23
+      episode: 2
+      title: Pirate Empress Boa Hancock
+      description: Luffy storms the village of women in hopes of acquiring a boat. However, a misstep lands him in the personal bath of none other than the Snake Princess. As he peers through the steam rising from its waters, he sees a forbidden secret etched upon her back.
+      chapters: Ch. 516-517
+      episodes: Ep. 410-411
+      released: "2016-02-03"
+      has_extended: false
+      files: {}
+    - arc: 23
+      episode: 3
+      title: The Arena
+      description: Luffy is sentenced to execution by arena combat with Boa Hancock’s serpentine sisters. Luffy soon discovers that the two women have a mysterious ability that allows them to slither through all his attacks unharmed.
+      chapters: Ch. 518-519
+      episodes: Ep. 412-413
+      released: "2016-02-12"
+      has_extended: false
+      files: {}
+    - arc: 23
+      episode: 4
+      title: Hancock's Confession
+      description: Impressed by Luffy’s efforts to protect the secret of the snake sisters, Hancock reveals the story behind the familiar mark on their backs. Their childhood was tragic, suffered at the hands of a corrupt group that Luffy knows all too well.
+      chapters: Ch. 520-522
+      episodes: Ep. 414-417
+      released: "2016-03-05"
+      has_extended: false
+      files: {}
+    - arc: 23
+      episode: 5
+      title: No One Can Stop This Now
+      description: As Luffy prepares to depart Amazon Lily, Hancock suddenly takes ill. Taking heed of the knowledge and wisdom of Elder Nyon, the Snake Princess “recovers,” and a plan to save Ace is quickly hatched.
+      chapters: Ch. 523-524
+      episodes: Ep. 417-421
+      released: "2016-04-10"
+      has_extended: false
+      files: {}
   gid: "429435711"
 - arc: 24
   title: Impel Down
@@ -2156,7 +2201,97 @@
   time_saved_mins: "263"
   time_saved_percent: 45.36%
   status: TBR
-  episodes: []
+  episodes:
+    - arc: 24
+      episode: 1
+      title: The Underwater Prison, Impel Down
+      description: To rescue his brother Ace, Luffy must infiltrate the well-guarded prison Impel Down. He eludes the watchful eyes of security for a time, and then, for better or worse, a certain red-nosed criminal appears.
+      chapters: Ch. 525-526
+      episodes: Ep. 422-423,454
+      released: "2016-05-21"
+      has_extended: false
+      files: {}
+    - arc: 24
+      episode: 2
+      title: First Son of the Sea
+      description: After forming an unlikely alliance, Luffy rushes through Impel Down aided by Buggy's powers. Meanwhile, Ace finds himself with an unlikely companion as well when he exchanges words with a powerful pirate prisoner.
+      chapters: Ch. 527-528
+      episodes: Ep. 424-425,430
+      released: "2016-12-30"
+      has_extended: false
+      files: {}
+    - arc: 24
+      episode: 3
+      title: From One Hell to Another
+      description: Luffy and his dubious companions face off against the mythical beasts of Level 2. Impel Down is put on lockdown, its only exit sealed, but Luffy, unaware and unafraid, continues to Ace's floor, only to have another unexpected reunion.
+      chapters: Ch. 529-531
+      episodes: Ep. 425,430-432
+      released: "2017-01-07"
+      has_extended: false
+      files: {}
+    - arc: 24
+      episode: 4
+      title: Inferno Hell
+      description: Luffy and his deranged team pummel everything from Level 3 to Level 4 that dares to stand in their path. However, the powerful guard Minotaurus is ready to do some pummeling of his own while a boiling bath of blood awaits below.
+      chapters: Ch. 532-533
+      episodes: Ep. 433-434
+      released: "2017-01-20"
+      has_extended: false
+      files: {}
+    - arc: 24
+      episode: 5
+      title: Friend
+      description: With nowhere to run, Luffy's desperation to save Ace forces him to make a very grim sacrifice against his venomous adversary. Down in the frozen depths of Level 5, Bon Kurei rushes to his friend's aid, betting on a distant hope.
+      chapters: Ch. 534-536
+      episodes: Ep. 435-438,446
+      released: "2017-02-10"
+      has_extended: false
+      files: {}
+    - arc: 24
+      episode: 6
+      title: A Ray of Hope
+      description: Bon Kurei wanders through Level 5 in search of a mysterious missing prisoner. However, the fearsome wolves and bitter cold eventually take their toll, and he collapses in the Freezing Hell all while Luffy's life continues to dwindle away.
+      chapters: Ch. 537-538
+      episodes: Ep. 438-440
+      released: "2017-02-17"
+      has_extended: false
+      files: {}
+    - arc: 24
+      episode: 7
+      title: Infinite Hell
+      description: Luffy is back in action, and he prepares to set off, now with even more powerful allies who have ties to his old man. When they reach the lowest level of Impel Down, the legendary Level 6, they are in for a few new surprises.
+      chapters: Ch. 539-540
+      episodes: Ep. 440-443
+      released: "2017-06-23"
+      has_extended: false
+      files: {}
+    - arc: 24
+      episode: 8
+      title: Yet Another Epic Incident
+      description: A veritable all-star team on his side, Luffy and co. battle their way back up to Level 4. On Level 2, a massive riot erupts, plunging the prison into chaos. To further complicate matters, another infamous pirate breaks into Impel Down.
+      chapters: Ch. 541-543
+      episodes: Ep. 443-446
+      released: "2017-06-23"
+      has_extended: false
+      files: {}
+    - arc: 24
+      episode: 9
+      title: To Sunshine and Freedom
+      description: It is utter chaos in Impel Down, and between the sudden appearance of Blackbeard, the vice warden’s interference, and Magellan’s dogged attempts to restore order, the escape team just might see daylight yet!
+      chapters: Ch. 544-546
+      episodes: Ep. 446-450
+      released: "2017-06-23"
+      has_extended: false
+      files: {}
+    - arc: 24
+      episode: 10
+      title: Thank You
+      description: Thanks to Jinbe’s quick thinking, Luffy and co. narrowly escape Impel Down. However, the Gates of Justice remain closed, and a horde of Marine ships is gaining on them. Then, just when all hope seems lost, a dear friend makes an all-or-nothing gamble.
+      chapters: Ch. 547-548
+      episodes: Ep. 450-451
+      released: "2017-06-23"
+      has_extended: false
+      files: {}
   gid: "293688544"
 - arc: 25
   title: The Adventures of the Straw Hats
@@ -2171,7 +2306,16 @@
   time_saved_mins: "64"
   time_saved_percent: 75.10%
   status: ""
-  episodes: []
+  episodes:
+    - arc: 25
+      episode: 0
+      title: The Adventures of the Straw Hats
+      description: ""
+      chapters: Ch. 543-560
+      episodes: Ep. 453-456
+      released: "2024-03-29"
+      has_extended: false
+      files: {}
   gid: "704086980"
 - arc: 26
   title: Marineford

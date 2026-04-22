@@ -1833,16 +1833,16 @@
   {
     "arc": 19,
     "title": "Enies Lobby",
-    "audio_languages": "JA,EN (1-9, 23-25)",
-    "subtitle_languages": "EN,AR(1-4,7-8),DE(1-9),ES,FR,HE(4)",
+    "audio_languages": "JA,EN (1-10, 23-25)",
+    "subtitle_languages": "EN,AR(1-4,7-8,10),DE(1-10),ES,FR,HE(4)",
     "resolution": "720p,1080p",
     "manga_chapters": "375 - 430",
     "number_of_chapters": "56",
     "anime_episodes": "263 - 312",
     "episodes_adapted": "45",
     "filler_episodes": "291 - 292, 303",
-    "time_saved_mins": "357",
-    "time_saved_percent": "37.80%",
+    "time_saved_mins": "356",
+    "time_saved_percent": "37.71%",
     "status": "",
     "episodes": [
       {
@@ -1951,7 +1951,7 @@
         "description": "To prove his undying loyalty to Robin, Luffy makes a defiant statement to the World Government.",
         "chapters": "Ch. 397-398",
         "episodes": "Ep. 278",
-        "released": "2019-07-25",
+        "released": "2026-04-22",
         "has_extended": false,
         "files": {}
       },

@@ -544,7 +544,7 @@
 - arc: 12
   title: Little Garden
   audio_languages: JA,EN
-  subtitle_languages: EN, AR, DE, ES, FR, IT
+  subtitle_languages: EN, AR, DE, ES, FR, IT, RU(1),TR(1)
   resolution: 1080p
   manga_chapters: 115 - 129
   number_of_chapters: "15"
@@ -561,7 +561,7 @@
       description: The Straw Hats arrive at their destination and discover that the island is home to enormous creatures... and people. Meanwhile, the Baroque Works agents Mr. 3 and his partner Miss Golden Week receive new orders.
       chapters: Ch. 115-117
       episodes: Ep. 70-71
-      released: "2025-03-22"
+      released: "2026-04-26"
       has_extended: false
       files: {}
     - arc: 12

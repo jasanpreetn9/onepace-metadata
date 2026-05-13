@@ -1241,7 +1241,70 @@
   time_saved_mins: "139"
   time_saved_percent: 47.39%
   status: TBR
-  episodes: []
+  episodes:
+    - arc: 17
+      episode: 0
+      title: Long Ring Long Land 00
+      description: ""
+      chapters: Ch. 303
+      episodes: Ep. 207,225
+      released: "2025-05-08"
+      has_extended: false
+      files: {}
+    - arc: 17
+      episode: 1
+      title: Adventure on a Long Island
+      description: As they continue to traverse the Grand Line, the Straw Hats pass a ship with no sails, no Jolly Roger, and no captain. After an encounter with giant sea monkeys, they come upon an island where everything is much longer than usual.
+      chapters: Ch. 304-306
+      episodes: Ep. 207-209
+      released: "2017-12-01"
+      has_extended: false
+      files: {}
+    - arc: 17
+      episode: 2
+      title: Donut Race!!
+      description: 'Luffy accepts Foxy’s challenge to a Davy Back Fight, a pirate contest in which the stakes are the crews themselves! Round #1 is the Donut Race, where each team races around the island in tiny boats made from just the scraps of three barrels.'
+      chapters: Ch. 307-309
+      episodes: Ep. 209-210
+      released: "2017-12-01"
+      has_extended: false
+      files: {}
+    - arc: 17
+      episode: 3
+      title: Groggy Ring!!
+      description: 'Unexpected interference from Foxy himself cost the Straw Hats more than they bargained for. Now, in a struggle against literal monsters, the unlikely duo of Sanji and Zoro must win round #2, the Groggy Ring.'
+      chapters: Ch. 310-312
+      episodes: Ep. 211-212
+      released: "2017-12-01"
+      has_extended: false
+      files: {}
+    - arc: 17
+      episode: 4
+      title: Combat
+      description: 'The two captains face off in a final game: a battle of brawn aboard Foxy''s ship in round #3, Combat! Luffy, sporting a killer afro and an attitude to match, steps into the boxing ring to put the hurt on Foxy.'
+      chapters: Ch. 313-316
+      episodes: Ep. 212,215,217-218
+      released: "2017-05-16"
+      has_extended: false
+      files: {}
+    - arc: 17
+      episode: 5
+      title: K.O.
+      description: The final round of the Davy Back Fight rages on, and atop the deck of Foxy's ship, the epic battle nears its climax. During the fight, Luffy makes a surprise discovery about Foxy's powers that he keeps strategically hidden.
+      chapters: Ch. 317-318
+      episodes: Ep. 219,226
+      released: "2017-05-29"
+      has_extended: false
+      files: {}
+    - arc: 17
+      episode: 6
+      title: Marine HQ Admiral Aokiji
+      description: Only three officers in all the Marines hold the position of admiral, literal powerhouses of the World Government. The icy Aokiji, one such admiral, catches up with the Straw Hats, but Luffy is not the one he is after.
+      chapters: Ch. 319-321
+      episodes: Ep. 227-228
+      released: "2016-06-05"
+      has_extended: false
+      files: {}
   gid: "988886513"
 - arc: 18
   title: Water Seven
@@ -1256,7 +1319,187 @@
   time_saved_mins: "227"
   time_saved_percent: 29.33%
   status: ""
-  episodes: []
+  episodes:
+    - arc: 18
+      episode: 1
+      title: The City of Water, Water Seven
+      description: The keepers of Shift Station, Kokoro and her granddaughter Chimney, point the Straw Hats in the direction of the metropolitan Water Seven. The nearby city is regarded as the best place to find a decent shipwright for the Going Merry.
+      chapters: Ch. 322-324
+      episodes: Ep. 228-230
+      released: "2020-09-03"
+      has_extended: false
+      files: {}
+    - arc: 18
+      episode: 2
+      title: Mr. Iceburg
+      description: The Straw Hats cash in their Skypiean gold and meet up with Iceburg, the celebrity mayor of Water Seven, to see about an appraisal for their ship's repairs. While the foreman Kaku checks the Merry, dubious people eye the pirates' money.
+      chapters: Ch. 324-326
+      episodes: Ep. 229-231
+      released: "2020-11-25"
+      has_extended: false
+      files: {}
+    - arc: 18
+      episode: 3
+      title: The Case of the Kidnapped Pirate
+      description: Kalifa shows Luffy and co. around Dock One and tells them about Iceburg and Galley-La Company. During the tour, Kaku returns with some bad news, and a long-nosed Straw Hat goes missing… along with the money he was watching!
+      chapters: Ch. 326-329
+      episodes: Ep. 232-234
+      released: "2021-01-19"
+      has_extended: false
+      files: {}
+    - arc: 18
+      episode: 4
+      title: Impasse
+      description: The Straw Hats raid the Franky House, but they soon find that their real target, Franky, is long gone with the stolen money. When the battered Usopp awakens, nothing can prepare him to hear what Luffy has decided about the Merry.
+      chapters: Ch. 330-332
+      episodes: Ep. 234-235
+      released: "2021-03-30"
+      has_extended: false
+      files: {}
+    - arc: 18
+      episode: 5
+      title: Luffy vs. Usopp
+      description: Usopp is unwilling to say farewell to the Going Merry… not without a fight, that is! He challenges his former captain to a duel between men, so Luffy honors the pride of his former crewmate and faces him in battle.
+      chapters: Ch. 332-333
+      episodes: Ep. 235-236
+      released: "2021-03-30"
+      has_extended: false
+      files: {}
+    - arc: 18
+      episode: 6
+      title: Warning
+      description: Iceburg has been shot! When Luffy and Nami decide to go check on him, the fire-breathing, half-mechanical Franky challenges the Straw Hats’ captain. Before their fight gets too heated, Galley-La swoops in with an unexpected accusation!
+      chapters: Ch. 334-337
+      episodes: Ep. 237-239
+      released: "2021-05-03"
+      has_extended: false
+      files: {}
+    - arc: 18
+      episode: 7
+      title: Rumors
+      description: Things are hectic enough with Franky going after Luffy, but now the Straw Hats are being framed for a crime seemingly committed by Nico Robin. As if to put the proverbial icing on the cake, the annual storm Aqua Laguna is on its way toward Water Seven.
+      chapters: Ch. 338-339
+      episodes: Ep. 239-240
+      released: "2021-06-14"
+      has_extended: false
+      files: {}
+    - arc: 18
+      episode: 8
+      title: Devil
+      description: Nico Robin appears to be working alongside a World Government shadow organization called CP9. When the Straw Hats learn about Robin's current affiliation, Luffy decides that in order to know the full truth, they must catch Robin and make her talk.
+      chapters: Ch. 340-342
+      episodes: Ep. 240-241
+      released: "2021-06-21"
+      has_extended: false
+      files: {}
+    - arc: 18
+      episode: 9
+      title: Cipher Pol No. 9
+      description: Robin and her tall, mysterious, masked companion arrive at Iceburg's room, and she learns that he possesses blueprints to the ancient weapon Pluton, spoken of in the poneglyphs. Then, shockingly, the members of CP9 unmask themselves.
+      chapters: Ch. 342-345
+      episodes: Ep. 242-243
+      released: "2021-07-25"
+      has_extended: false
+      files: {}
+    - arc: 18
+      episode: 10
+      title: Six Powers
+      description: Luffy's group finally catches up to Robin, but they are greeted by disappointment—Robin opts to stay with CP9 and leave the Straw Hats. As Robin turns away from Luffy, the members of CP9 confronts the pirates.
+      chapters: Ch. 346-348
+      episodes: Ep. 244-246
+      released: "2021-12-05"
+      has_extended: false
+      files: {}
+    - arc: 18
+      episode: 11
+      title: Klabautermann
+      description: As Usopp works to repair the Going Merry, he contends with Franky's insistence on dismantling it. During this time, Usopp reflects on who it was that conducted the ship's repairs while in Skypiea, and Franky confirms his suspicions.
+      chapters: Ch. 349-352
+      episodes: Ep. 246-248
+      released: "2022-01-28"
+      has_extended: false
+      files: {}
+    - arc: 18
+      episode: 12
+      title: The Legendary Shipwright
+      description: In the past, Franky—a.k.a. Cutty Flam—was part of the legendary Tom's Workers, and he and Iceburg helped create the sea train. Spandam, a member of CP5, was determined to get Tom's blueprints for Pluton by any means necessary.
+      chapters: Ch. 353-355
+      episodes: Ep. 248-249
+      released: "2022-03-14"
+      has_extended: false
+      files: {}
+    - arc: 18
+      episode: 13
+      title: Mr. Tom
+      description: The old fishman Tom was framed by CP5 for the crime of attacking the Marines with Franky's battleships. As the World Government hauled Tom off to Enies Lobby, Franky received a lasting reminder to take pride in the ships he builds.
+      chapters: Ch. 355-357
+      episodes: Ep. 249-250
+      released: "2022-06-21"
+      has_extended: false
+      files: {}
+    - arc: 18
+      episode: 14
+      title: Bingo
+      description: CP9 hauls away Franky and Usopp, but not before giving a coldhearted farewell to the Merry. At Galley-La’s HQ, Nami learns from Iceburg the truth behind Robin's betrayal and the difficult choice she had to make to save the lives of the Straw Hats.
+      chapters: Ch. 358-359
+      episodes: Ep. 250-251, 256, 320
+      released: "2023-11-04"
+      has_extended: false
+      files: {}
+    - arc: 18
+      episode: 15
+      title: Departing Shortly
+      description: While the members of Galley-La help Chopper search for Luffy and Zoro, Nami rushes to the departing sea train to keep Robin from sacrificing her freedom. At the station, a man finds Nami and hands her a letter from Sanji.
+      chapters: Ch. 360-362
+      episodes: Ep. 252-254
+      released: "2023-12-22"
+      has_extended: false
+      files: {}
+    - arc: 18
+      episode: 16
+      title: Aqua Laguna
+      description: Sanji coolly fights his way through the sea train and locates Usopp and Franky. Back in Water Seven, Kokoro sees how determined Luffy is to save Robin, so she and Iceburg lend the Straw Hat crew an unexpected helping hand.
+      chapters: Ch. 363-365
+      episodes: Ep. 254-255
+      released: "2024-02-02"
+      has_extended: false
+      files: {}
+    - arc: 18
+      episode: 17
+      title: Sogeking
+      description: Rocketman blasts out of Water Seven and connects with the sea tracks, and old foes become allies for the coming struggle. Aqua Laguna swells, and it's up to Luffy and Zoro to combine their might and create safe passage for all aboard.
+      chapters: Ch. 366-367
+      episodes: Ep. 256-257
+      released: "2024-02-17"
+      has_extended: false
+      files: {}
+    - arc: 18
+      episode: 18
+      title: Ramen Kenpo
+      description: Sogeking appears in grand fashion! Wanze threatens Sanji's group with his ramen kenpo, so the Straw Hat cook urges the others ahead. Franky takes on CP9's newest recruit “Sea Weasel” Nero, and Sogeking moves forward to meet up with Robin.
+      chapters: Ch. 368-369
+      episodes: Ep. 258-259
+      released: "2024-02-23"
+      has_extended: false
+      files: {}
+    - arc: 18
+      episode: 19
+      title: The Honorable Captain T-Bone
+      description: In his battle against Wanze and his strange Ramen Kenpo, Sanji makes an exception to his rule of never using his hands. Meanwhile, Franky and Nero are baffled by each other’s abilities, and back on Rocketman, Zoro clashes with “Ship-Slasher” T-Bone.
+      chapters: Ch. 370-371
+      episodes: Ep. 259-261
+      released: "2024-03-02"
+      has_extended: false
+      files: {}
+    - arc: 18
+      episode: 20
+      title: Necessary Evil
+      description: Sanji and Franky conclude their fights and enter the train car where CP9’s agents lie in wait. When Sogeking sees the danger of the situation, it falls to him to formulate a plan for escape. However, CP9 is far from being thwarted!
+      chapters: Ch. 372-374
+      episodes: Ep. 262-263
+      released: "2024-03-15"
+      has_extended: false
+      files: {}
   gid: "709330688"
 - arc: 19
   title: Enies Lobby
@@ -1271,7 +1514,232 @@
   time_saved_mins: "356"
   time_saved_percent: 37.71%
   status: ""
-  episodes: []
+  episodes:
+    - arc: 19
+      episode: 1
+      title: The Superhumans of Enies Lobby
+      description: As the Straw Hats and their allies approach Enies Lobby on Rocketman, they hatch a plan to save Robin before she passes through the Gates of Justice. Meanwhile, Spandam holds a meeting with CP9 where they await Lucci's return in the Tower of Justice.
+      chapters: Ch. 375-376
+      episodes: Ep. 263-264
+      released: "2025-11-16"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 2
+      title: The Big Showdown on the Judiciary Island!!
+      description: Luffy launches a one-man assault on Enies Lobby, and the rest of his allies work to break the first gate's defenses. What awaits Galley-La and the Franky Family at the second gate is a showdown of massive proportions!
+      chapters: Ch. 376-378
+      episodes: Ep. 265-266
+      released: "2025-11-16"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 3
+      title: Express to the Main Island of Enies Lobby
+      description: Robin and Franky are finally brought before Spandam while Luffy continues to blast through waves of marines. Galley-La and the Franky Family still have one giant to deal with, and the main gate closes to halt Rocketman's entry.
+      chapters: Ch. 379-380
+      episodes: Ep. 266-267
+      released: "2025-11-21"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 4
+      title: Fired
+      description: The Straw Hats struggle to catch up to Luffy, who is already on the main island wreaking havoc for the Marines. Meanwhile, Robin learns from Spandam that the terms of their deal have changed, and he somehow has rights to a buster call.
+      chapters: Ch. 381-382
+      episodes: Ep. 268-269
+      released: "2025-12-20"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 5
+      title: Signal the Counterstrike
+      description: Luffy makes it just outside the courthouse when Blueno of CP9 appears before him, and on the main road, the Straw Hats near the courthouse plaza aboard Sodom and Gomorrah. Meanwhile, Sogeking comes across a dejected Oimo.
+      chapters: Ch. 383-385
+      episodes: Ep. 269-271
+      released: "2026-03-01"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 6
+      title: Unprecedented
+      description: Kaku and Kalifa of CP9 are offered a rare chance for new powers and are each served a devil fruit. The Straw Hats finally arrive at the courthouse plaza when Spandam receives an urgent call, and he realizes things are much worse than previously reported.
+      chapters: Ch. 385-387
+      episodes: Ep. 272-273
+      released: "2026-03-01"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 7
+      title: Gear Second
+      description: The Straw Hats storm the courthouse where the three-headed judge Baskerville awaits to enact violent judgment upon them. On the roof, Luffy thanks CP9's Blueno for the strength of his opponents, and he activates a new ability.
+      chapters: Ch. 388-390
+      episodes: Ep. 273-274
+      released: "2026-03-08"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 8
+      title: The Girl They Called a Devil
+      description: Twenty years ago, Nico Robin grew up on Ohara in the West Blue, striving to become an archaeologist like her mother. When Robin met Saul, a giant who washed onto the shores of Ohara, her life would forever be changed.
+      chapters: Ch. 391-393
+      episodes: Ep. 275-276
+      released: "2026-03-14"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 9
+      title: Ohara vs. The World Government
+      description: Robin's mother Olvia was on the run from the World Government, and tragedy was unavoidable from the moment Professor Clover and his colleagues decided to continue their research. No one on Ohara was safe.
+      chapters: Ch. 394-396
+      episodes: Ep. 276-277
+      released: "2026-03-28"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 10
+      title: Declaration of War
+      description: To prove his undying loyalty to Robin, Luffy makes a defiant statement to the World Government.
+      chapters: Ch. 397-398
+      episodes: Ep. 278
+      released: "2026-04-22"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 11
+      title: Jump into the Waterfall!!
+      description: Franky stages his own rebellious act against Spandam while Luffy's crew makes a daring leap of faith to hopefully gain entrance to the Tower of Justice.
+      chapters: Ch. 399-400
+      episodes: Ep. 284-285
+      released: "2019-08-20"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 12
+      title: Pirates vs. CP9
+      description: The Straw Hats split up to find the correct key before Robin’s fate is sealed. Zoro finds and engages Kaku in battle, and Sogeking attempts to steal a key from the sleeping Jabra.
+      chapters: Ch. 401-402
+      episodes: Ep. 286-287
+      released: "2020-03-11"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 13
+      title: Mr. Chivalry
+      description: 'Sanji faces his greatest weakness: fighting a beautiful woman! Meanwhile, Franky begins to run low on cola energy, but he must battle the peculiar Fukuro to obtain more of his refreshing fuel from the kitchen.'
+      chapters: Ch. 403-404
+      episodes: Ep. 287-288
+      released: "2020-04-03"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 14
+      title: Vitality Response
+      description: Refreshed and refueled, Franky turns the tide in his battle with Fukuro. Meanwhile, Zoro and Sogeking must find a way to compensate for their self-imposed handicap, and Chopper unfortunately comes face-to-face with Kumadori.
+      chapters: Ch. 405-406
+      episodes: Ep. 289-290
+      released: "2020-04-15"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 15
+      title: Monster
+      description: Chopper's abuse of his rumble balls results in a monstrous side effect. In the meantime, Nami learns how Kalifa's new devil fruit powers sapped Sanji of his strength, and a determined Luffy finally catches up to Spandam, Lucci and Robin.
+      chapters: Ch. 407-408
+      episodes: Ep. 290,293
+      released: "2020-04-22"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 16
+      title: The Terrifying Emergency Broadcast
+      description: As the Marines eke out a comeback against the Straw Hats’ allies, Spandam makes the call Robin most dreaded. In the meantime, Lucci and Luffy begin their mutually anticipated duel, while Nami and Kalifa's fight enters the next phase.
+      chapters: Ch. 409-411
+      episodes: Ep. 294-295
+      released: "2020-04-30"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 17
+      title: The Hunter
+      description: Kalifa attempts to counter Nami’s mirages, and something must be done to save Chopper, still on a monstrous rampage. Zoro, now uncuffed, resumes his duel with Kaku. As Sogeking reaches his limit against Jabra, Sanji reappears, and he is hunting wolves.
+      chapters: Ch. 412-413
+      episodes: Ep. 296-297
+      released: "2020-05-07"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 18
+      title: Sanji vs. Jabra
+      description: As Nami drags the wounded Sogeking from the fight to go find Robin, he suddenly counters with a better idea. In the meantime, Sanji faces off against Jabra's Iron Body Kenpo, and, to break the latter's defenses, Sanji unveils his latest technique.
+      chapters: Ch. 414-415
+      episodes: Ep. 297-298
+      released: "2020-05-15"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 19
+      title: Zoro vs. Kaku
+      description: Spandam drags Robin along the Bridge of Hesitation and finally arrives at the Gates of Justice. Meanwhile, Zoro continues his clash with Kaku, and as things become more desperate, Zoro's rage begins to manifest as a dark aura.
+      chapters: Ch. 416-418
+      episodes: Ep. 299-301
+      released: "2020-05-23"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 20
+      title: Buster Call
+      description: Luffy gives Franky the opening he needs to head for Robin. The cyborg runs into trouble at the start of the bridge, but all is not lost as a lone sniper appears atop the Tower of Justice. Despite these minor victories, the buster call commences.
+      chapters: Ch. 419-420
+      episodes: Ep. 301-302
+      released: "2020-05-29"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 21
+      title: Rob Lucci
+      description: With time running out, Luffy activates another special ability. The vice admirals of the buster call are shocked to see Luffy taking on Rob Lucci and recall how the CP9 enforcer, even in his youth, held strongly to a dark sense of justice.
+      chapters: Ch. 421-422
+      episodes: Ep. 302,304-305
+      released: "2020-06-06"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 22
+      title: The Legend of the Mermaid
+      description: Lucci corners Luffy, weakened by his new ability’s aftereffects. Back on the bridge, Spandam makes an attempt on Robin's life, so Franky jumps into action. Meanwhile, the rest of the gang is about to drown in the flooded passageway.
+      chapters: Ch. 423-424
+      episodes: Ep. 306-307
+      released: "2020-06-15"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 23
+      title: We're Not in Hell
+      description: The Straw Hats watch as Enies Lobby burns, and Franky fears for his men when he hears of a successful attack against them. Luffy resumes his fight against Lucci while 200 Marine captains bear down on his crewmates.
+      chapters: Ch. 425-427
+      episodes: Ep. 307-309
+      released: "2020-08-10"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 24
+      title: Utter Defeat
+      description: Luffy has finally defeated Rob Lucci, and good news arrives that the Franky Family and Galley-La foremen are all alive and well. As the Straw Hats scramble to escape the Marines, they hear a voice telling them to jump into the sea.
+      chapters: Ch. 428-429
+      episodes: Ep. 310-311
+      released: "2020-08-15"
+      has_extended: false
+      files: {}
+    - arc: 19
+      episode: 25
+      title: A Gentle Snowfall of Remembrance
+      description: Enies Lobby and the buster call fleet are out of sight, but the Going Merry begins to break apart. The Straw Hats are intercepted by Iceburg aboard his company ship and discover how the Merry found her way back to them one last time.
+      chapters: Ch. 430
+      episodes: Ep. 312
+      released: "2020-08-27"
+      has_extended: false
+      files: {}
   gid: "1348628353"
 - arc: 20
   title: Post-Enies Lobby
@@ -1286,7 +1754,52 @@
   time_saved_mins: "103"
   time_saved_percent: 43.57%
   status: TBR
-  episodes: []
+  episodes:
+    - arc: 20
+      episode: 1
+      title: The Strongest Family Lineage?! The Vice-Admiral and The Revolutionary!
+      description: Two days later in Water Seven, Franky hears that the item for he purchased with the Straw Hats' stolen money has arrived. While the pirates recover from the events at Enies Lobby, a Marine vice admiral arrives to pay Luffy an unexpected visit.
+      chapters: Ch. 431-432
+      episodes: Ep. 313-314
+      released: "2013-06-09"
+      has_extended: false
+      files: {}
+    - arc: 20
+      episode: 2
+      title: The Extent of the Grand Line and The 600,000,000 Crew!
+      description: In the New World, not even the Marines' best can keep Red-Haired Shanks from meeting Whitebeard with an especially important request. Meanwhile, at Water Seven, the Franky Family comes to the Straw Hats with some "bad" news.
+      chapters: Ch. 433-435
+      episodes: Ep. 315-316, 319-320,325
+      released: "2013-06-14"
+      has_extended: false
+      files: {}
+    - arc: 20
+      episode: 3
+      title: Forgive Yourself! Franky Departs!
+      description: 'The Straw Hats have barely had time to marvel at their new bounties when a new surprise awaits them: the unveiling of their magnificent new ship. The next step is bringing a shipwright into their ranks, and there is only one man for the job.'
+      chapters: Ch. 436-437
+      episodes: Ep. 321-322
+      released: "2013-06-19"
+      has_extended: false
+      files: {}
+    - arc: 20
+      episode: 4
+      title: The Astonishing Thousand Sunny and Usopp's Tearful Apology!
+      description: The Straw Hats set sail, but Usopp is conspicuously missing. Zoro soberly reminds Luffy that Usopp's return should not be granted so casually. More immediately, the pirates need to avoid Garp’s barrage of cannon balls!
+      chapters: Ch. 438-439
+      episodes: Ep. 323-324
+      released: "2013-06-26"
+      has_extended: false
+      files: {}
+    - arc: 20
+      episode: 5
+      title: The Circling Bounties and The Duel on Banaro Island!
+      description: The Straw Hats’ new wanted posters begin circulating around the world, but three days earlier, Blackbeard began plotting their pursuit. However, one obstacle stood in his way; Ace had finally caught up to his estranged crewmate!
+      chapters: Ch. 440-441
+      episodes: Ep. 324-325
+      released: "2013-06-28"
+      has_extended: false
+      files: {}
   gid: "437050304"
 - arc: 21
   title: Thriller Bark
@@ -1301,7 +1814,205 @@
   time_saved_mins: "483"
   time_saved_percent: 49.94%
   status: TBR
-  episodes: []
+  episodes:
+    - arc: 21
+      episode: 1
+      title: The Mysterious Sea and The Skeleton Brook!
+      description: The Thousand Sunny gets flung into the foggy Florian Triangle and the Straw Hats encounter a ruined ship. Speculating as to whether there are ghosts aboard, it turns out the pirates are not far from the truth.
+      chapters: Ch. 442-443
+      episodes: Ep. 326,337-339
+      released: "2013-07-01"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 2
+      title: Adventure on the Ghost Island and the Famous Doctor Hogback!
+      description: Brook bids the Straw Hats farewell, and they decide to explore the nearby ghost island Thriller Bark. Freakish danger awaits the landing party the moment they arrive, and, back on the Sunny, the rest of the crew is harassed by an unseen foe.
+      chapters: Ch. 444-445
+      episodes: Ep. 339-340
+      released: "2013-07-10"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 3
+      title: The Invisible Man and the Secret of the Mansion!
+      description: While staying at Hogback's eerie mansion, Nami is assaulted by an invisible figure in the shower. It does not end there as Usopp battles haunted paintings with a handful of candles. Meanwhile, the rest of the Straw Hats finally make landfall.
+      chapters: Ch. 446-448
+      episodes: Ep. 340-342
+      released: "2013-07-31"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 4
+      title: General Zombie Night! Thriller Bark's Mysterious Four
+      description: The Straw Hats learn that the head honcho on the island is one of the Seven Warlords, and he has concocted a shadowy scheme. As Absalom rallies the zombies, the master of Thriller Bark awakens.
+      chapters: Ch. 449-450
+      episodes: Ep. 342-344
+      released: "2013-08-08"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 5
+      title: Perona's Wonder Garden and the Charge of the General Zombies!
+      description: Nami, Usopp, and Chopper manage to escape their coffin but find themselves in a garden surrounded by animal zombies, including one acting remarkably like Sanji. It also seems that one by one, the Straw Hats are disappearing.
+      chapters: Ch. 451-452
+      episodes: Ep. 345-346
+      released: "2013-08-25"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 6
+      title: Number 900?! Lola's Pursuit and the Humming Swordsman
+      description: Lola attacks Nami out of ignorant jealousy, but the Sanji-esque zombie plays interference. Meanwhile, with Luffy captured, and Franky and Robin left to face a massive spider monkey, a familiar bony figure falls from the sky.
+      chapters: Ch. 453-454
+      episodes: Ep. 347-348
+      released: "2013-09-01"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 7
+      title: The Fearsome Ability of the Shadow Fruit! The Ultimate Number 900!
+      description: Gecko Moria takes his next step toward his goal of eventually becoming king of the pirates by creating the ultimate zombie. Luffy's shadow in hand, Moria begins the revival of the much-anticipated number 900.
+      chapters: Ch. 455-456
+      episodes: Ep. 349-350
+      released: "2013-09-07"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 8
+      title: Oars' Awakening and Brook vs. Ryuma!
+      description: Dead for 500 years and left in a deep freeze since, Oars awakens, fueled by Luffy's shadow. Soon after, Nami, Usopp, and Chopper are discovered hiding inside Perona's pet bear, and Absalom abducts Nami for his demented marriage ceremony.
+      chapters: Ch. 457-458
+      episodes: Ep. 351-353
+      released: "2013-09-20"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 9
+      title: The Hope and Despair of the Skeleton and the Straw Hats' Counterattack!
+      description: The Straw Hats regroup on the Sunny in a pitiable state, but not before Brook leaves Franky with some valuable information. In addition, they now know of the promise Brook made to a certain friend fifty years ago, someone the Straw Hats know well.
+      chapters: Ch. 459-460
+      episodes: Ep. 353-355
+      released: "2013-10-03"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 10
+      title: Already Negative! Usopp's Courageous Stand!
+      description: Oars' entry into the fight suddenly changes everything! Then, when Perona attacks, only one of the pirates seems to be immune to her negative powers. Due to his glass-half-empty personality, Usopp might have what it takes to defeat the Ghost Princess.
+      chapters: Ch. 461-462
+      episodes: Ep. 356-357
+      released: "2013-10-18"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 11
+      title: A Stolen Dream! Sanji vs. Absalom
+      description: Sanji crashes Absalom's sham of a wedding, the fire in his heart burning brightly as he rescues Nami. A curious connection between Sanji and the Clear-Clear Fruit is revealed, and he vows to defeat Absalom for ruining his lifelong dream.
+      chapters: Ch. 463-464
+      episodes: Ep. 357-359
+      released: "2013-10-26"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 12
+      title: Perona's Terror! Usopp vs. the Ghost Princess!
+      description: After getting the stuffing beat out of him by a zombie teddy bear, Usopp summons his sharp-shooting alter ego to help him discover the secret to defeating Perona! He reaches deep into his devious bag of tricks to even the odds in this spooky battle.
+      chapters: Ch. 465-466
+      episodes: Ep. 360-362
+      released: "2013-11-13"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 13
+      title: Zoro vs. Ryuuma and Chopper's Rage!
+      description: Zoro stands in for Brook and duels Ryuma, the swordsman zombie from faraway Wano. In the mansion, Chopper's former respect for Dr. Hogback is completely erased after coming to realize the man's twisted views on life.
+      chapters: Ch. 467-468
+      episodes: Ep. 362-363
+      released: "2013-11-20"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 14
+      title: Show Yourselves, Straw Hat Pirates! The Crew's Hopeless Counterattack!
+      description: With Oars now a fully obedient zombie, Gecko Moria takes his leave while instructing the giant to hunt down the pirates, whose wanted posters are sewn onto his arm. One by one, the Straw Hats' battles are interrupted by Oars' march around Thriller Bark.
+      chapters: Ch. 469-470
+      episodes: Ep. 364-365
+      released: "2013-12-08"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 15
+      title: Clash! The Titanic Battle Against Zombie 900!
+      description: The Straw Hats sans Luffy are faced with the insurmountable task of taking out Oars. To knock him down, Franky decides they will need to use his newly developed tactic. But as they begin "docking" onto one another, a slight problem arises.
+      chapters: Ch. 471-472
+      episodes: Ep. 365-367
+      released: "2013-12-20"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 16
+      title: The Mysterious Visitor! The Two Warlords Meet!
+      description: While the Straw Hats continue to wear away at Oars, Nami confronts Perona attempting to escape on board the Thousand Sunny, but the sudden appearance of a large, mysterious figure soon makes her efforts moot.
+      chapters: Ch. 473-474
+      episodes: Ep. 368-369
+      released: "2014-01-18"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 17
+      title: Combination of Brains and Brawn! Oars and Moriah vs. the Straw Hats!
+      description: To give Luffy a fighting chance against Moria, Lola and her pirate crew propose a plan to fight shadow with shadow. Meanwhile, Gecko Moria uses his abilities to enhance and manipulate Oars’ massive body.
+      chapters: Ch. 475-476
+      episodes: Ep. 370-371
+      released: "2014-01-25"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 18
+      title: The Crew's Annihilation! Oars vs. Nightmare Luffy
+      description: 'Moria’s strange combination with Oars defeats the Straw Hats one after the other. They are at their breaking point when a powerful figure swoops in and takes up the fight in their stead. The hellish creation: Nightmare Luffy!'
+      chapters: Ch. 477-479
+      episodes: Ep. 371-372
+      released: "2014-01-30"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 19
+      title: Morning Comes! The Straw Hats' Ultimate Attack!
+      description: Oars recovers from Nightmare Luffy's assault, but the Straw Hats all get back on their feet and launch a final devastating attack on Oars. Morning fast approaches, and Moria is far from finished, ready to use his ultimate technique.
+      chapters: Ch. 480-482
+      episodes: Ep. 373-374
+      released: "2014-02-07"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 20
+      title: The Power That Can Deflect Anything?! Zoro Fights Prepared to Die!
+      description: Moria’s defeat returns the shadows of all his victims. However, one Warlord remains on the island, and he has orders to terminate the Straw Hats and everyone else in the area. A lone Zoro faces Kuma in vain and is presented with a deadly choice.
+      chapters: Ch. 483-485
+      episodes: Ep. 375-377
+      released: "2014-09-28"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 21
+      title: Brook's Past! The Rumbar Pirates and Laboon!
+      description: Brook recalls his past, thinking back on the time when the small whale Laboon started following his pirate ship and befriended the crew.
+      chapters: Ch. 486-487
+      episodes: Ep. 378-380
+      released: "2014-10-11"
+      has_extended: false
+      files: {}
+    - arc: 21
+      episode: 22
+      title: Brook's Promise! The Eighth Member
+      description: At death's door, the Rumbar Pirates sang "Binks' Brew" one last time and recorded it in a tone dial, hoping to one day deliver it to Laboon. With their new crewmate and musician Brook on board, the Straw Hats bid farewell to Lola’s crew.
+      chapters: Ch. 488-489
+      episodes: Ep. 380-381
+      released: "2014-10-12"
+      has_extended: false
+      files: {}
   gid: "836546175"
 - arc: 22
   title: Sabaody Archipelago
@@ -1316,7 +2027,106 @@
   time_saved_mins: "166"
   time_saved_percent: 36.86%
   status: TBR
-  episodes: []
+  episodes:
+    - arc: 22
+      episode: 1
+      title: Flying Fish Riders
+      description: As the Straw Hats journey to Fishman Island, they reach the Red Line, the halfway point along the Grand Line. When a sea king appears, Luffy easily dispatches it, but it spits up a mermaid and a talking starfish onto the deck of the Sunny.
+      chapters: Ch. 490-491
+      episodes: Ep. 385-386
+      released: "2014-12-09"
+      has_extended: false
+      files: {}
+    - arc: 22
+      episode: 2
+      title: Iron Mask Duval
+      description: The Straw Hats arrive at Duval's (eerily quiet) base and manage to locate Camie's captured friend. Realizing the captive’s identity, the Straw Hats reluctantly agree to rescue him, and only in exchange for directions to Fishman Island.
+      chapters: Ch. 492-493
+      episodes: Ep. 387-388
+      released: "2015-01-03"
+      has_extended: false
+      files: {}
+    - arc: 22
+      episode: 3
+      title: Duval's Tragedy
+      description: Blaming Sanji for his misfortunes, Duval swears vengeance on the Straw Hats. Meanwhile, the Flying Fish Riders attempt to sink the Sunny, but the ship is far from vulnerable. Finally, Sanji himself faces Duval in a bid to end things.
+      chapters: Ch. 494-495
+      episodes: Ep. 388-389
+      released: "2015-01-10"
+      has_extended: false
+      files: {}
+    - arc: 22
+      episode: 4
+      title: Adventure on the Archipelago of Dancing Soap Bubbles
+      description: The Straw Hats make their way to Sabaody Archipelago to prepare the Sunny for its undersea voyage to Fishman Island. During their search for a coating mechanic, the Straw Hats encounter the Celestial Dragons, the cruel rulers of the World Government.
+      chapters: Ch. 496-497
+      episodes: Ep. 390-391
+      released: "2015-02-25"
+      has_extended: false
+      files: {}
+    - arc: 22
+      episode: 5
+      title: The Embers of History
+      description: While at Shakky’s Rip-off Bar, the Straw Hats learn that Luffy, Zoro and nine other rookie pirates on Sabaody have reached a certain level of infamy. Later, Zoro has a close call with an insufferable and sadistic Celestial Dragon.
+      chapters: Ch. 498-500
+      episodes: Ep. 392-394
+      released: "2017-12-01"
+      has_extended: false
+      files: {}
+    - arc: 22
+      episode: 6
+      title: The Auction House Incident
+      description: Nami's group arrives at the Grove 1 auction house where Camie will be sold to the highest bidder. With 200 million berries in hand, Nami is determined to win back their friend. The auction wears on as Luffy and co. race to the grove.
+      chapters: Ch. 501-502
+      episodes: Ep. 395-396
+      released: "2017-12-01"
+      has_extended: false
+      files: {}
+    - arc: 22
+      episode: 7
+      title: An Island in Chaos
+      description: As chaos erupts inside the auction house, a mysterious man with an equally mysterious power emerges from backstage. But now, due to Luffy’s insolent actions, a Marine admiral is on his way to Sabaody.
+      chapters: Ch. 503-504
+      episodes: Ep. 397-398
+      released: "2017-12-01"
+      has_extended: false
+      files: {}
+    - arc: 22
+      episode: 8
+      title: Roger and Rayleigh
+      description: The Marines surround the auction house, and super rookies Monkey D. Luffy, Eustass Kid, and Trafalgar Law all want a piece of the action. Later, Rayleigh reveals his shocking past to the Straw Hats.
+      chapters: Ch. 505-506
+      episodes: Ep. 399-400
+      released: "2017-12-01"
+      has_extended: false
+      files: {}
+    - arc: 22
+      episode: 9
+      title: Kizaru Arrives
+      description: Luffy and his crew decide to lay low in town while Rayleigh coats the Sunny. Meanwhile, Admiral Kizaru from Marine HQ arrives on the archipelago in search of those responsible for threatening the Celestial Dragons.
+      chapters: Ch. 507-508
+      episodes: Ep. 400-401
+      released: "2017-12-01"
+      has_extended: false
+      files: {}
+    - arc: 22
+      episode: 10
+      title: Kizaru vs. the Four Captains
+      description: While four super rookies square off against Kizaru, the Straw Hats combine their strongest attacks to defeat the pacifista menacing them. The battle is barely won when yet another, deadlier foe comes to take its place.
+      chapters: Ch. 509-511
+      episodes: Ep. 402-404
+      released: "2017-12-01"
+      has_extended: false
+      files: {}
+    - arc: 22
+      episode: 11
+      title: I Couldn't Save Them!!!
+      description: In the face of overwhelming danger, Luffy orders a full retreat. However, Warlord Kuma cuts off their frenzied escape and uses a harrowing touch of his devil fruit powers against Luffy’s crewmates, one by one.
+      chapters: Ch. 512-513
+      episodes: Ep. 404-405
+      released: "2017-12-01"
+      has_extended: false
+      files: {}
   gid: "401627898"
 - arc: 23
   title: Amazon Lily
@@ -1331,7 +2141,52 @@
   time_saved_mins: "168"
   time_saved_percent: 56.04%
   status: TBR
-  episodes: []
+  episodes:
+    - arc: 23
+      episode: 1
+      title: Adventure on the Island of Women
+      description: Luffy finds himself alone, stranded and starving on an unfamiliar island. After a run-in with some exotic mushrooms, he is approached by a team of female warriors who could be friend... or foe.
+      chapters: Ch. 514-515
+      episodes: Ep. 408-409
+      released: "2016-01-26"
+      has_extended: false
+      files: {}
+    - arc: 23
+      episode: 2
+      title: Pirate Empress Boa Hancock
+      description: Luffy storms the village of women in hopes of acquiring a boat. However, a misstep lands him in the personal bath of none other than the Snake Princess. As he peers through the steam rising from its waters, he sees a forbidden secret etched upon her back.
+      chapters: Ch. 516-517
+      episodes: Ep. 410-411
+      released: "2016-02-03"
+      has_extended: false
+      files: {}
+    - arc: 23
+      episode: 3
+      title: The Arena
+      description: Luffy is sentenced to execution by arena combat with Boa Hancock’s serpentine sisters. Luffy soon discovers that the two women have a mysterious ability that allows them to slither through all his attacks unharmed.
+      chapters: Ch. 518-519
+      episodes: Ep. 412-413
+      released: "2016-02-12"
+      has_extended: false
+      files: {}
+    - arc: 23
+      episode: 4
+      title: Hancock's Confession
+      description: Impressed by Luffy’s efforts to protect the secret of the snake sisters, Hancock reveals the story behind the familiar mark on their backs. Their childhood was tragic, suffered at the hands of a corrupt group that Luffy knows all too well.
+      chapters: Ch. 520-522
+      episodes: Ep. 414-417
+      released: "2016-03-05"
+      has_extended: false
+      files: {}
+    - arc: 23
+      episode: 5
+      title: No One Can Stop This Now
+      description: As Luffy prepares to depart Amazon Lily, Hancock suddenly takes ill. Taking heed of the knowledge and wisdom of Elder Nyon, the Snake Princess “recovers,” and a plan to save Ace is quickly hatched.
+      chapters: Ch. 523-524
+      episodes: Ep. 417-421
+      released: "2016-04-10"
+      has_extended: false
+      files: {}
   gid: "429435711"
 - arc: 24
   title: Impel Down
@@ -1346,7 +2201,97 @@
   time_saved_mins: "263"
   time_saved_percent: 45.36%
   status: TBR
-  episodes: []
+  episodes:
+    - arc: 24
+      episode: 1
+      title: The Underwater Prison, Impel Down
+      description: To rescue his brother Ace, Luffy must infiltrate the well-guarded prison Impel Down. He eludes the watchful eyes of security for a time, and then, for better or worse, a certain red-nosed criminal appears.
+      chapters: Ch. 525-526
+      episodes: Ep. 422-423,454
+      released: "2016-05-21"
+      has_extended: false
+      files: {}
+    - arc: 24
+      episode: 2
+      title: First Son of the Sea
+      description: After forming an unlikely alliance, Luffy rushes through Impel Down aided by Buggy's powers. Meanwhile, Ace finds himself with an unlikely companion as well when he exchanges words with a powerful pirate prisoner.
+      chapters: Ch. 527-528
+      episodes: Ep. 424-425,430
+      released: "2016-12-30"
+      has_extended: false
+      files: {}
+    - arc: 24
+      episode: 3
+      title: From One Hell to Another
+      description: Luffy and his dubious companions face off against the mythical beasts of Level 2. Impel Down is put on lockdown, its only exit sealed, but Luffy, unaware and unafraid, continues to Ace's floor, only to have another unexpected reunion.
+      chapters: Ch. 529-531
+      episodes: Ep. 425,430-432
+      released: "2017-01-07"
+      has_extended: false
+      files: {}
+    - arc: 24
+      episode: 4
+      title: Inferno Hell
+      description: Luffy and his deranged team pummel everything from Level 3 to Level 4 that dares to stand in their path. However, the powerful guard Minotaurus is ready to do some pummeling of his own while a boiling bath of blood awaits below.
+      chapters: Ch. 532-533
+      episodes: Ep. 433-434
+      released: "2017-01-20"
+      has_extended: false
+      files: {}
+    - arc: 24
+      episode: 5
+      title: Friend
+      description: With nowhere to run, Luffy's desperation to save Ace forces him to make a very grim sacrifice against his venomous adversary. Down in the frozen depths of Level 5, Bon Kurei rushes to his friend's aid, betting on a distant hope.
+      chapters: Ch. 534-536
+      episodes: Ep. 435-438,446
+      released: "2017-02-10"
+      has_extended: false
+      files: {}
+    - arc: 24
+      episode: 6
+      title: A Ray of Hope
+      description: Bon Kurei wanders through Level 5 in search of a mysterious missing prisoner. However, the fearsome wolves and bitter cold eventually take their toll, and he collapses in the Freezing Hell all while Luffy's life continues to dwindle away.
+      chapters: Ch. 537-538
+      episodes: Ep. 438-440
+      released: "2017-02-17"
+      has_extended: false
+      files: {}
+    - arc: 24
+      episode: 7
+      title: Infinite Hell
+      description: Luffy is back in action, and he prepares to set off, now with even more powerful allies who have ties to his old man. When they reach the lowest level of Impel Down, the legendary Level 6, they are in for a few new surprises.
+      chapters: Ch. 539-540
+      episodes: Ep. 440-443
+      released: "2017-06-23"
+      has_extended: false
+      files: {}
+    - arc: 24
+      episode: 8
+      title: Yet Another Epic Incident
+      description: A veritable all-star team on his side, Luffy and co. battle their way back up to Level 4. On Level 2, a massive riot erupts, plunging the prison into chaos. To further complicate matters, another infamous pirate breaks into Impel Down.
+      chapters: Ch. 541-543
+      episodes: Ep. 443-446
+      released: "2017-06-23"
+      has_extended: false
+      files: {}
+    - arc: 24
+      episode: 9
+      title: To Sunshine and Freedom
+      description: It is utter chaos in Impel Down, and between the sudden appearance of Blackbeard, the vice warden’s interference, and Magellan’s dogged attempts to restore order, the escape team just might see daylight yet!
+      chapters: Ch. 544-546
+      episodes: Ep. 446-450
+      released: "2017-06-23"
+      has_extended: false
+      files: {}
+    - arc: 24
+      episode: 10
+      title: Thank You
+      description: Thanks to Jinbe’s quick thinking, Luffy and co. narrowly escape Impel Down. However, the Gates of Justice remain closed, and a horde of Marine ships is gaining on them. Then, just when all hope seems lost, a dear friend makes an all-or-nothing gamble.
+      chapters: Ch. 547-548
+      episodes: Ep. 450-451
+      released: "2017-06-23"
+      has_extended: false
+      files: {}
   gid: "293688544"
 - arc: 25
   title: The Adventures of the Straw Hats
@@ -1361,7 +2306,16 @@
   time_saved_mins: "64"
   time_saved_percent: 75.10%
   status: ""
-  episodes: []
+  episodes:
+    - arc: 25
+      episode: 0
+      title: The Adventures of the Straw Hats
+      description: ""
+      chapters: Ch. 543-560
+      episodes: Ep. 453-456
+      released: "2024-03-29"
+      has_extended: false
+      files: {}
   gid: "704086980"
 - arc: 26
   title: Marineford

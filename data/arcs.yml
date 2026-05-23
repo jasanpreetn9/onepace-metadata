@@ -570,7 +570,7 @@
       description: Usopp, immensely impressed with the giants of Elbaph, names Brogy his master. To commemorate their duel, the giants imbibe two barrels of booze from Nami, but, unbeknownst to anyone, a saboteur has tampered with one of them!
       chapters: Ch. 117-118
       episodes: Ep. 71-72
-      released: "2026-05-7"
+      released: "2026-05-07"
       has_extended: false
       files: {}
     - arc: 12
@@ -708,7 +708,7 @@
       description: ""
       chapters: Ch. 155-157
       episodes: Ep. 92
-      released: "2022-05-14"
+      released: "2023-05-14"
       has_extended: false
       files: {}
     - arc: 14
@@ -717,7 +717,7 @@
       description: ""
       chapters: Ch. 157-159
       episodes: Ep. 93-95
-      released: "2023-06-05"
+      released: "2023-09-16"
       has_extended: false
       files: {}
     - arc: 14
@@ -834,7 +834,7 @@
       description: ""
       chapters: Ch. 196-198
       episodes: Ep. 120-121
-      released: "2023-05-22"
+      released: "2024-08-10"
       has_extended: false
       files: {}
     - arc: 14
@@ -989,8 +989,8 @@
   anime_episodes: 153 - 195, 203
   episodes_adapted: "44"
   filler_episodes: ""
-  time_saved_mins: "279"
-  time_saved_percent: 30.29%
+  time_saved_mins: "197"
+  time_saved_percent: 21.38%
   status: ""
   episodes:
     - arc: 16
@@ -1125,7 +1125,7 @@
       description: After being swallowed by the giant snake, Nami, Gan Fall, and Aisa meet someone they never expected would be in the serpent's stomach. As Priest Ohm’s Ordeal of Iron comes to a close in the Upper Ruins, Zoro unleashes a powerful new technique.
       chapters: Ch. 270-273
       episodes: Ep. 177-179
-      released: "2024-06-08"
+      released: "2024-06-22"
       has_extended: false
       files: {}
     - arc: 16
@@ -1170,7 +1170,7 @@
       description: As Enel rains destruction upon Skypiea, Wyper remembers the tales passed down by the village elder about when his ancestor the warrior Kalgara met the explorer Mont Blanc Noland.
       chapters: Ch. 286-289
       episodes: Ep. 187-188
-      released: "2025-01-04"
+      released: "2025-01-18"
       has_extended: false
       files: {}
     - arc: 16
@@ -1335,7 +1335,7 @@
       description: The Straw Hats cash in their Skypiean gold and meet up with Iceburg, the celebrity mayor of Water Seven, to see about an appraisal for their ship's repairs. While the foreman Kaku checks the Merry, dubious people eye the pirates' money.
       chapters: Ch. 324-326
       episodes: Ep. 229-231
-      released: "2020-11-25"
+      released: "2021-02-22"
       has_extended: false
       files: {}
     - arc: 18
@@ -1344,7 +1344,7 @@
       description: Kalifa shows Luffy and co. around Dock One and tells them about Iceburg and Galley-La Company. During the tour, Kaku returns with some bad news, and a long-nosed Straw Hat goes missing… along with the money he was watching!
       chapters: Ch. 326-329
       episodes: Ep. 232-234
-      released: "2021-01-19"
+      released: "2021-02-22"
       has_extended: false
       files: {}
     - arc: 18
@@ -1602,7 +1602,7 @@
       description: To prove his undying loyalty to Robin, Luffy makes a defiant statement to the World Government.
       chapters: Ch. 397-398
       episodes: Ep. 278
-      released: "2026-04-22"
+      released: "2026-04-20"
       has_extended: false
       files: {}
     - arc: 19
@@ -4755,7 +4755,7 @@
       description: At Pirate Island, Vice Admiral Garp continues the Koby extraction mission, but Avalo Pizarro's devil fruit powers threaten to sink the rescue ship. Garp, weakened from an attack by Shiryu, entrusts the operation's success to the next generation.
       chapters: Ch. 1087-1088
       episodes: Ep. 1121-1122
-      released: "2025-04-04"
+      released: "2025-10-05"
       has_extended: false
       files: {}
     - arc: 36
@@ -4764,7 +4764,7 @@
       description: In the Labophase on Egghead, which is completely surrounded by the Marines, Luffy and the others devise a plan to escape the island. However, the Frontier Dome, the laser defense system, cannot be deactivated without York’s secret passcode.
       chapters: Ch. 1089-1090
       episodes: Ep. 1123-1124
-      released: "2025-08-30"
+      released: "2025-10-13"
       has_extended: false
       files: {}
     - arc: 36

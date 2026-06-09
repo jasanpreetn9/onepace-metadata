@@ -4583,16 +4583,16 @@
   anime_episodes: 1086 - 1155
   episodes_adapted: "40"
   filler_episodes: ""
-  time_saved_mins: "302"
-  time_saved_percent: 35.98%
+  time_saved_mins: "216"
+  time_saved_percent: 25.77%
   status: WIP
   episodes:
     - arc: 36
       episode: 0
-      title: Egghead 21 Forward
+      title: Egghead 22 Forward
       description: ""
-      chapters: Ch. 1093-1125
-      episodes: Ep. 1127—1155
+      chapters: Ch. 1095-1125
+      episodes: Ep. 1129—1155
       released: To Be Released
       has_extended: false
       files: {}
@@ -4774,6 +4774,15 @@
       chapters: Ch. 1091-1092
       episodes: Ep. 1125-1126
       released: "2025-11-10"
+      has_extended: false
+      files: {}
+    - arc: 36
+      episode: 21
+      title: Luffy vs. Kizaru
+      description: Luffy faces off in a spectacular aerial battle against Admiral Kizaru, but this time, Straw Hat is 100 times stronger than before. Unbeknownst to those on Egghead, something ominous is about to make an appearance on the island...
+      chapters: Ch. 1093-1094
+      episodes: Ep. 1127-1128
+      released: "2026-06-09"
       has_extended: false
       files: {}
   gid: "1664435609"

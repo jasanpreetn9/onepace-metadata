@@ -4028,16 +4028,16 @@
   anime_episodes: 890 - 1085
   episodes_adapted: "136"
   filler_episodes: 895-896, 1029 - 1030, 1084
-  time_saved_mins: "1293"
-  time_saved_percent: 43.23%
+  time_saved_mins: "1208"
+  time_saved_percent: 40.41%
   status: WIP
   episodes:
     - arc: 35
       episode: 0
-      title: Wano 60 Forward
+      title: Wano 61 Forward
       description: ""
-      chapters: Ch. 1009-1058
-      episodes: Ep. 1026-1085
+      chapters: Ch. 1011-1058
+      episodes: Ep. 1029-1085
       released: To Be Released
       has_extended: false
       files: {}
@@ -4570,6 +4570,15 @@
       chapters: Ch. 1007-1008
       episodes: Ep. 1023-1025
       released: "2026-03-22"
+      has_extended: false
+      files: {}
+    - arc: 35
+      episode: 60
+      title: Conqueror's Haki
+      description: As Orochi's fire within Onigashima begins to spread, the battle between the Emperors and the Worst Generation heats up as well. Zoro pushes his skills to the limit, Big Mom topples over the edge, and Luffy advances his haki to the next level.
+      chapters: Ch. 1009-1010
+      episodes: Ep. 1025-1028
+      released: "2026-06-21"
       has_extended: false
       files: {}
   gid: "1926352856"

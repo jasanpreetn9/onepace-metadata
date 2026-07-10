@@ -604,7 +604,30 @@
     "time_saved_mins": "16",
     "time_saved_percent": "19.54%",
     "status": "TBR",
-    "episodes": null,
+    "episodes": [
+      {
+        "arc": 10,
+        "episode": 1,
+        "title": "The Town of Welcome",
+        "description": "As the Straw Hat Pirates travel from Reverse Mountain to Whisky Peak, Nami adjusts to having to watch the log pose constantly. When they arrive at their destination, the townspeople greet them warmly, despite the sight of their Jolly Roger.",
+        "chapters": "Ch. 106-109",
+        "episodes": "Ep. 64-65",
+        "released": "2017-08-10",
+        "has_extended": false,
+        "files": {}
+      },
+      {
+        "arc": 10,
+        "episode": 2,
+        "title": "The Secret Criminal Organization",
+        "description": "As Mr. 5 and Miss Valentine chase after the fleeing princess Vivi, Igaram begs Zoro to save her. But just when Zoro is about to take on Vivi's assailants, an enraged Luffy confronts him under a massive misunderstanding of the swordsman's latest actions.",
+        "chapters": "Ch. 110-114",
+        "episodes": "Ep. 65-67",
+        "released": "2017-08-18",
+        "has_extended": false,
+        "files": {}
+      }
+    ],
     "gid": "92257054"
   },
   {
@@ -4266,7 +4289,118 @@
     "time_saved_mins": "326",
     "time_saved_percent": "54.24%",
     "status": "TBR",
-    "episodes": null,
+    "episodes": [
+      {
+        "arc": 32,
+        "episode": 1,
+        "title": "Zou",
+        "description": "The mysterious island of Zou approaches in the distance, obscured by fog. When the haze clears, what greets the Straw Hats is beyond anyone’s expectations! Luffy and co. find the Sunny nearby, but the rest of the crew has already disembarked.",
+        "chapters": "Ch. 801-803",
+        "episodes": "Ep. 746-747,751-753",
+        "released": "2016-08-26",
+        "has_extended": false,
+        "files": {}
+      },
+      {
+        "arc": 32,
+        "episode": 2,
+        "title": "The Minks",
+        "description": "The mysterious \"island\" may hold more danger than was bargained for, as Luffy and co. learn they are not alone! Luffy pushes deeper into the mysterious forest, but he is treading territory where he is not welcome.",
+        "chapters": "Ch. 804-805",
+        "episodes": "Ep. 753-754",
+        "released": "2016-09-09",
+        "has_extended": false,
+        "files": {}
+      },
+      {
+        "arc": 32,
+        "episode": 3,
+        "title": "At Rightflank Fortress",
+        "description": "Luffy and co. ride out the rain-ruption and learn of its vital role in maintaining life on Zou. As they continue toward the fortress, they learn more about the mysterious minks, and are finally reunited with the others.",
+        "chapters": "Ch. 806-807",
+        "episodes": "Ep. 755-757",
+        "released": "2016-09-30",
+        "has_extended": false,
+        "files": {}
+      },
+      {
+        "arc": 32,
+        "episode": 4,
+        "title": "Duke Inuarashi and Master Nekomamushi",
+        "description": "The Straw Hats finally meet the daytime ruler of this strange land. They learn more about the battle that took place here and discover the mysterious system by which the island is ruled.",
+        "chapters": "Ch. 808-809",
+        "episodes": "Ep. 757-760",
+        "released": "2016-10-23",
+        "has_extended": false,
+        "files": {}
+      },
+      {
+        "arc": 32,
+        "episode": 5,
+        "title": "The Curly Hat Pirates Arrive",
+        "description": "While they put up a good fight, the minks were not able to subdue Jack. In the aftermath of Jack's deadly attack, Chopper and Sanji rushed in to save the fallen minks and enlisted the help of Caesar to overcome the lingering gas problem.",
+        "chapters": "Ch. 810-811",
+        "episodes": "Ep. 759-762",
+        "released": "2016-11-16",
+        "has_extended": false,
+        "files": {}
+      },
+      {
+        "arc": 32,
+        "episode": 6,
+        "title": "Tea Party Invitation",
+        "description": "The mystery of Sanji's disappearance only deepens as Luffy learns that Big Mom’s lackeys caught up with him and offered him an invitation from one of the Four Emperors that simply could not be refused.",
+        "chapters": "Ch. 812-813",
+        "episodes": "Ep. 762-764",
+        "released": "2016-12-24",
+        "has_extended": false,
+        "files": {}
+      },
+      {
+        "arc": 32,
+        "episode": 7,
+        "title": "Let's Go See Master Nekomamushi",
+        "description": "Being separated from one of his crew is more than Luffy is willing to tolerate! The pirates make their way toward the nighttime ruler to find out more about their friend's disappearance.",
+        "chapters": "Ch. 814-815",
+        "episodes": "Ep. 764-766",
+        "released": "2016-12-12",
+        "has_extended": false,
+        "files": {}
+      },
+      {
+        "arc": 32,
+        "episode": 8,
+        "title": "Raizo of the Mist",
+        "description": "Revelations abound as the true nature of the men from Wano and their relationship with the minks is revealed, and Momonosuke's role is greater than any had imagined. But even more shocking is the visage of a real ninja!",
+        "chapters": "Ch. 816-817",
+        "episodes": "Ep. 767-769",
+        "released": "2016-12-25",
+        "has_extended": false,
+        "files": {}
+      },
+      {
+        "arc": 32,
+        "episode": 9,
+        "title": "Momonosuke, Heir of the Kozuki Family",
+        "description": "More mysteries of the Kozuki Clan are revealed, and its retainers propose an alliance to help topple one of the Four Emperors: Kaido of the Beast Pirates! But first, Luffy has some important Straw Hat business to attend to.",
+        "chapters": "Ch. 818-819",
+        "episodes": "Ep. 769-772",
+        "released": "2017-01-27",
+        "has_extended": false,
+        "files": {}
+      },
+      {
+        "arc": 32,
+        "episode": 10,
+        "title": "Understood",
+        "description": "The Straw Hats divide and conquer: one group to go save Sanji, and the other to Wano! But just before their departure, the tremendous elephant quakes as Jack’s fleet launches an aggressive attack on the monstrous Zunesha.",
+        "chapters": "Ch. 820-822",
+        "episodes": "Ep. 772-774,776",
+        "released": "2017-03-03",
+        "has_extended": false,
+        "files": {}
+      }
+    ],
     "gid": "1146420179"
   },
   {

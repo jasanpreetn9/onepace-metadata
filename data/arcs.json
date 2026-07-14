@@ -484,19 +484,7 @@
     "time_saved_mins": "21",
     "time_saved_percent": "50.99%",
     "status": "",
-    "episodes": [
-      {
-        "arc": 7,
-        "episode": 0,
-        "title": "The Adventures of Buggy's Crew",
-        "description": "",
-        "chapters": "Ch. 35-75",
-        "episodes": "Ep. 46-47",
-        "released": "2026-02-21",
-        "has_extended": false,
-        "files": {}
-      }
-    ],
+    "episodes": null,
     "gid": "1955340365"
   },
   {

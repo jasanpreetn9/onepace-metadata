@@ -6,6 +6,7 @@ import (
 	"metadata-service/internal/config"
 	"metadata-service/internal/model"
 	"net/url"
+	"regexp"
 	"sort"
 	"strconv"
 	"strings"
@@ -14,6 +15,9 @@ import (
 	"github.com/PuerkitoBio/goquery"
 	"github.com/chromedp/chromedp"
 )
+
+// crcRe matches a bare CRC32 checksum, e.g. "27E7EE1C".
+var crcRe = regexp.MustCompile(`^[0-9A-Fa-f]{8}$`)
 
 //
 // ===== PUBLIC ENTRY =====
@@ -391,6 +395,14 @@ func fetchArcEpisodes(spreadsheetID, gid string) ([]model.Episode, error) {
 			}
 		})
 
+		// The sheet no longer hyperlinks every CRC — fall back to the
+		// cell's plain text when it looks like a CRC32.
+		if crc32 == "" {
+			if txt := cleanText(cells.Eq(6).Text()); crcRe.MatchString(txt) {
+				crc32 = txt
+			}
+		}
+
 		if crc32 != "" {
 			files.Normal = &model.EpisodeFile{
 				Version: "normal",
@@ -414,6 +426,12 @@ func fetchArcEpisodes(spreadsheetID, gid string) ([]model.Episode, error) {
 					urlExt = extractURLFromHref(href)
 				}
 			})
+
+			if crcExt == "" {
+				if txt := cleanText(cells.Eq(7).Text()); crcRe.MatchString(txt) {
+					crcExt = txt
+				}
+			}
 
 			if cells.Length() >= 9 {
 				extLength = cleanText(cells.Eq(8).Text())

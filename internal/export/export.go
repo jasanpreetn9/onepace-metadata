@@ -7,6 +7,7 @@ import (
 
 	"gopkg.in/yaml.v3"
 
+	"metadata-service/internal/fetch"
 	"metadata-service/internal/model"
 	"metadata-service/internal/util"
 )
@@ -76,6 +77,13 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 
 					if _, exists := archive[key]; !exists {
 
+						file := *ep.Files.Normal
+						// The sheet no longer links CRCs to Nyaa, so
+						// resolve the download URL for new episodes.
+						if file.URL == "" {
+							file.URL = fetch.ResolveNyaaURL(file.CRC32)
+						}
+
 						archive[key] = model.EpisodeArchiveEntry{
 							Arc:         ep.Arc,
 							Episode:     ep.Episode,
@@ -84,7 +92,7 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 							Chapters:    ep.Chapters,
 							AnimeEps:    ep.AnimeEps,
 							Released:    ep.Released,
-							File:        *ep.Files.Normal,
+							File:        file,
 						}
 						metadataChanged = true
 					}
@@ -98,6 +106,11 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 
 					if _, exists := archive[key]; !exists {
 
+						file := *ep.Files.Extended
+						if file.URL == "" {
+							file.URL = fetch.ResolveNyaaURL(file.CRC32)
+						}
+
 						archive[key] = model.EpisodeArchiveEntry{
 							Arc:         ep.Arc,
 							Episode:     ep.Episode,
@@ -106,7 +119,7 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 							Chapters:    ep.Chapters,
 							AnimeEps:    ep.AnimeEps,
 							Released:    ep.Released,
-							File:        *ep.Files.Extended,
+							File:        file,
 						}
 						metadataChanged = true
 					}

@@ -20,7 +20,11 @@
       episodes: Episode of East Blue, Ep. 312 (Intro)
       released: "2025-05-03"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E5F09F49
+            length: "17:57"
     - arc: 1
       episode: 2
       title: They Call Him "Straw Hat" Luffy
@@ -29,7 +33,11 @@
       episodes: Ep. 1
       released: "2025-05-03"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: A465972A
+            length: "20:59"
     - arc: 1
       episode: 3
       title: The Pirate King and the Master Swordsman
@@ -38,7 +46,11 @@
       episodes: Ep. 2, 19
       released: "2025-05-03"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 2DEB2701
+            length: "28:40"
     - arc: 1
       episode: 4
       title: The First
@@ -47,7 +59,11 @@
       episodes: Ep. 3
       released: "2025-05-03"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 6E46167D
+            length: "18:03"
   gid: "1122135437"
 - arc: 2
   title: Orange Town
@@ -71,7 +87,11 @@
       episodes: Ep. 4-6
       released: "2025-09-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: CBFE01C7
+            length: "28:36"
     - arc: 2
       episode: 2
       title: Treasure
@@ -80,7 +100,11 @@
       episodes: Ep. 6-7
       released: "2025-09-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: FAFCDE38
+            length: "36:55"
     - arc: 2
       episode: 3
       title: Pirate Buggy "the Clown"
@@ -89,7 +113,11 @@
       episodes: Ep. 8
       released: "2025-09-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 9C115EE6
+            length: "22:42"
   gid: "928032798"
 - arc: 3
   title: Syrup Village
@@ -113,7 +141,11 @@
       episodes: Ep. 9-10
       released: "2025-12-06"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 9BC8F913
+            length: "30:02"
     - arc: 3
       episode: 2
       title: Captain Kuro
@@ -122,7 +154,11 @@
       episodes: Ep. 10-11
       released: "2025-12-06"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 25913BDA
+            length: "23:27"
     - arc: 3
       episode: 3
       title: The Slope
@@ -131,7 +167,11 @@
       episodes: Ep. 12-13
       released: "2025-12-06"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F66FB414
+            length: "25:35"
     - arc: 3
       episode: 4
       title: The Silent Man
@@ -140,7 +180,11 @@
       episodes: Ep. 13-14
       released: "2025-12-06"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: A5E4EBC0
+            length: "31:40"
     - arc: 3
       episode: 5
       title: The Pirate "Kuro of a Hundred Plans"
@@ -149,7 +193,11 @@
       episodes: Ep. 15-16
       released: "2025-12-06"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 707146C8
+            length: "23:42"
     - arc: 3
       episode: 6
       title: For Whom the Bell Tolls
@@ -158,7 +206,11 @@
       episodes: Ep. 16-17
       released: "2025-12-06"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 014834ED
+            length: "17:42"
     - arc: 3
       episode: 7
       title: To the Sea
@@ -167,7 +219,11 @@
       episodes: Ep. 17
       released: "2025-12-06"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 1B7544F3
+            length: "19:17"
   gid: "1568594768"
 - arc: 4
   title: Gaimon
@@ -191,7 +247,11 @@
       episodes: Ep. 18
       released: "2026-01-18"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F4754074
+            length: "21:31"
   gid: "217544397"
 - arc: 5
   title: Baratie
@@ -215,7 +275,11 @@
       episodes: Ep. 19-21
       released: "2025-08-02"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: BE634289
+            length: "30:18"
     - arc: 5
       episode: 2
       title: Pirate Commodore Don Krieg
@@ -224,7 +288,11 @@
       episodes: Ep. 21-23
       released: "2025-08-10"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 9BD35F80
+            length: "31:30"
     - arc: 5
       episode: 3
       title: The Oath
@@ -233,7 +301,11 @@
       episodes: Ep. 23-24, 29, 135
       released: "2025-08-10"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E90342F6
+            length: "37:58"
     - arc: 5
       episode: 4
       title: Pearl
@@ -242,7 +314,11 @@
       episodes: Ep. 25
       released: "2025-08-18"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 792BE789
+            length: "20:21"
     - arc: 5
       episode: 5
       title: Because of a Dream
@@ -251,7 +327,11 @@
       episodes: Ep. 26
       released: "2025-08-23"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: ACEA0537
+            length: "21:45"
     - arc: 5
       episode: 6
       title: MH5
@@ -260,7 +340,11 @@
       episodes: Ep. 27-28
       released: "2025-09-15"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 1375A4F5
+            length: "27:59"
     - arc: 5
       episode: 7
       title: The Stalwart War Spear
@@ -269,7 +353,11 @@
       episodes: Ep. 28-29
       released: "2025-09-21"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 5B161435
+            length: "27:47"
     - arc: 5
       episode: 8
       title: The Fourth
@@ -278,7 +366,11 @@
       episodes: Ep. 30
       released: "2025-09-27"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: A6F61DEE
+            length: "18:43"
   gid: "563366367"
 - arc: 6
   title: Arlong Park
@@ -302,7 +394,11 @@
       episodes: Ep. 31-32
       released: "2025-10-12"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: C269DEF5
+            length: "30:47"
     - arc: 6
       episode: 2
       title: Monsters of the Grand Line
@@ -311,7 +407,11 @@
       episodes: Ep. 32-33
       released: "2025-10-19"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E419D54E
+            length: "22:02"
     - arc: 6
       episode: 3
       title: Sea Charts and Fishmen
@@ -320,7 +420,11 @@
       episodes: Ep. 33-34
       released: "2025-01-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: CC4900AE
+            length: "24:35"
     - arc: 6
       episode: 4
       title: Bell-mère
@@ -329,7 +433,11 @@
       episodes: Ep. 34-36
       released: "2025-11-02"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E4D9E965
+            length: "26:57"
     - arc: 6
       episode: 5
       title: Live
@@ -337,8 +445,16 @@
       chapters: Ch. 79-81
       episodes: Ep. 36-37
       released: "2025-11-09"
-      has_extended: false
-      files: {}
+      has_extended: true
+      files:
+        normal:
+            version: normal
+            crc32: 5D1CA4A2
+            length: "30:32"
+        extended:
+            version: extended
+            crc32: 587689A9
+            length: "31:24"
     - arc: 6
       episode: 6
       title: OK, LET'S STAND UP
@@ -347,7 +463,11 @@
       episodes: Ep. 38-39
       released: "2026-01-10"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: FCF6BA63
+            length: "25:59"
     - arc: 6
       episode: 7
       title: Chivalry vs. Fishman Karate
@@ -356,7 +476,11 @@
       episodes: Ep. 39-40
       released: "2026-01-18"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 4DDEFE2B
+            length: "26:59"
     - arc: 6
       episode: 8
       title: My Turn
@@ -365,7 +489,11 @@
       episodes: Ep. 39-42
       released: "2026-02-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F43604B6
+            length: "30:00"
     - arc: 6
       episode: 9
       title: The Second
@@ -374,7 +502,11 @@
       episodes: Ep. 42-43
       released: "2026-02-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 0510B910
+            length: "20:40"
     - arc: 6
       episode: 10
       title: Spin, Pinwheel, Spin
@@ -382,8 +514,16 @@
       chapters: Ch. 94-95
       episodes: Ep. 43-44
       released: "2026-02-16"
-      has_extended: false
-      files: {}
+      has_extended: true
+      files:
+        normal:
+            version: normal
+            crc32: 72F22A68
+            length: "22:15"
+        extended:
+            version: extended
+            crc32: 4B882BCA
+            length: "25:48"
   gid: "1076173334"
 - arc: 7
   title: The Adventures of Buggy's Crew
@@ -407,7 +547,11 @@
       episodes: Ep. 46-47
       released: "2026-02-21"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 1177A2B6
+            length: "23:35"
   gid: "1955340365"
 - arc: 8
   title: Loguetown
@@ -431,7 +575,11 @@
       episodes: Ep. 45,48-49
       released: "2020-09-22"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 4200CE0D
+            length: "27:32"
     - arc: 8
       episode: 2
       title: Parallels
@@ -440,7 +588,11 @@
       episodes: Ep. 48, 50
       released: "2020-09-22"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 8E970FD4
+            length: "31:24"
     - arc: 8
       episode: 3
       title: The Legend Has Begun
@@ -449,7 +601,11 @@
       episodes: Ep. 52-53
       released: "2020-09-22"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 23E3E489
+            length: "36:13"
   gid: "702404357"
 - arc: 9
   title: Reverse Mountain
@@ -473,7 +629,11 @@
       episodes: Ep. 54-55,61-62
       released: "2026-03-14"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: EBF6DE81
+            length: "21:22"
     - arc: 9
       episode: 2
       title: Cape Promise
@@ -481,8 +641,16 @@
       chapters: Ch. 103-105
       episodes: Ep. 62-63
       released: "2026-03-28"
-      has_extended: false
-      files: {}
+      has_extended: true
+      files:
+        normal:
+            version: normal
+            crc32: 103B04A7
+            length: "33:46"
+        extended:
+            version: extended
+            crc32: 3B7CBD0F
+            length: "34:18"
   gid: "603231379"
 - arc: 10
   title: Whisky Peak
@@ -506,7 +674,11 @@
       episodes: Ep. 64-65
       released: "2017-08-10"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 26D6F22A
+            length: "30:58"
     - arc: 10
       episode: 2
       title: The Secret Criminal Organization
@@ -515,7 +687,11 @@
       episodes: Ep. 65-67
       released: "2017-08-18"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 3677DB27
+            length: "40:17"
   gid: "92257054"
 - arc: 11
   title: The Trials of Koby-Meppo
@@ -539,7 +715,11 @@
       episodes: Ep. 68-69
       released: "2023-06-05"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 4B56844F
+            length: "15:11"
   gid: "187728198"
 - arc: 12
   title: Little Garden
@@ -563,7 +743,11 @@
       episodes: Ep. 70-71
       released: "2026-04-26"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: BCE915AA
+            length: "30:07"
     - arc: 12
       episode: 2
       title: Dorry and Brogy
@@ -572,7 +756,11 @@
       episodes: Ep. 71-72
       released: "2026-05-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 1E643507
+            length: "27:45"
     - arc: 12
       episode: 3
       title: Foul Play
@@ -581,7 +769,11 @@
       episodes: Ep. 73-74
       released: "2026-05-09"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: AAB3E410
+            length: "29:12"
     - arc: 12
       episode: 4
       title: Luffy vs. Mr. 3
@@ -590,7 +782,11 @@
       episodes: Ep. 75-76
       released: "2026-05-17"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: CA509241
+            length: "34:20"
     - arc: 12
       episode: 5
       title: Straight Ahead!!
@@ -599,7 +795,11 @@
       episodes: Ep. 77-79
       released: "2026-05-30"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 839FC67B
+            length: "26:58"
   gid: "1340008658"
 - arc: 13
   title: Drum Island
@@ -623,7 +823,11 @@
       episodes: Ep. 78-79
       released: "2022-09-26"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: FD2B4F32
+            length: "29:37"
     - arc: 13
       episode: 2
       title: Adventure in a Nameless Country
@@ -632,7 +836,11 @@
       episodes: Ep. 80-81
       released: "2022-09-26"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 8FDCC832
+            length: "33:04"
     - arc: 13
       episode: 3
       title: The Summit
@@ -641,7 +849,11 @@
       episodes: Ep. 82-83
       released: "2022-09-26"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 2971EF62
+            length: "34:29"
     - arc: 13
       episode: 4
       title: 'Enter: Tony Tony Chopper'
@@ -650,7 +862,11 @@
       episodes: Ep. 83-84
       released: "2022-09-26"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: "902076E8"
+            length: "20:15"
     - arc: 13
       episode: 5
       title: Quack Doctor
@@ -659,7 +875,11 @@
       episodes: Ep. 85-86
       released: "2023-03-21"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E7044DBE
+            length: "39:26"
     - arc: 13
       episode: 6
       title: Unbreakable
@@ -668,7 +888,11 @@
       episodes: Ep. 83, 86-88
       released: "2023-05-08"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: A5145C90
+            length: "25:33"
     - arc: 13
       episode: 7
       title: The Skies of Drum
@@ -677,7 +901,11 @@
       episodes: Ep. 88-90
       released: "2023-06-18"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: B1D913B9
+            length: "33:31"
     - arc: 13
       episode: 8
       title: Hiriluk's Cherry Blossoms
@@ -686,7 +914,11 @@
       episodes: Ep. 90-91
       released: "2023-07-05"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 9794072D
+            length: "29:50"
   gid: "793018827"
 - arc: 14
   title: Alabasta
@@ -710,7 +942,11 @@
       episodes: Ep. 92
       released: "2023-05-14"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: BB1D093C
+            length: "20:28"
     - arc: 14
       episode: 2
       title: Alabasta 02
@@ -719,7 +955,11 @@
       episodes: Ep. 93-95
       released: "2023-09-16"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E4BA97D6
+            length: "28:25"
     - arc: 14
       episode: 3
       title: Alabasta 03
@@ -728,7 +968,11 @@
       episodes: Ep. 96-98
       released: "2023-07-28"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: "73003149"
+            length: "25:58"
     - arc: 14
       episode: 4
       title: Alabasta 04
@@ -737,7 +981,11 @@
       episodes: Ep. 98, 100-101, 103
       released: "2023-11-25"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: FF1E1708
+            length: "25:15"
     - arc: 14
       episode: 5
       title: Alabasta 05
@@ -746,7 +994,11 @@
       episodes: Ep. 100, 103-104
       released: "2021-05-09"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E9E8604E
+            length: "32:08"
     - arc: 14
       episode: 6
       title: Alabasta 06
@@ -755,7 +1007,11 @@
       episodes: Ep. 105
       released: "2021-07-06"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 58865EA7
+            length: "20:10"
     - arc: 14
       episode: 7
       title: Alabasta 07
@@ -764,7 +1020,11 @@
       episodes: Ep. 106
       released: "2021-07-13"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: CFA091A0
+            length: "18:00"
     - arc: 14
       episode: 8
       title: Alabasta 08
@@ -773,7 +1033,11 @@
       episodes: Ep. 107-108
       released: "2021-09-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 726FD61C
+            length: "35:34"
     - arc: 14
       episode: 9
       title: Alabasta 09
@@ -782,7 +1046,11 @@
       episodes: Ep. 109-110
       released: "2021-11-27"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: A905C964
+            length: "36:24"
     - arc: 14
       episode: 10
       title: Alabasta 10
@@ -791,7 +1059,11 @@
       episodes: Ep. 111-112
       released: "2022-06-03"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 4B8CC4E7
+            length: "36:36"
     - arc: 14
       episode: 11
       title: Alabasta 11
@@ -800,7 +1072,11 @@
       episodes: Ep. 113-114
       released: "2022-08-25"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: C51CB284
+            length: "35:17"
     - arc: 14
       episode: 12
       title: Alabasta 12
@@ -809,7 +1085,11 @@
       episodes: Ep. 115-116
       released: "2022-10-06"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: FF26917C
+            length: "25:53"
     - arc: 14
       episode: 13
       title: Alabasta 13
@@ -818,7 +1098,11 @@
       episodes: Ep. 113, 116-118
       released: "2022-11-30"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: "58649840"
+            length: "24:38"
     - arc: 14
       episode: 14
       title: Alabasta 14
@@ -827,7 +1111,11 @@
       episodes: Ep. 118-119
       released: "2023-02-03"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 0F3017E1
+            length: "32:26"
     - arc: 14
       episode: 15
       title: Alabasta 15
@@ -836,7 +1124,11 @@
       episodes: Ep. 120-121
       released: "2024-08-10"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 2AD355ED
+            length: "29:10"
     - arc: 14
       episode: 16
       title: Alabasta 16
@@ -845,7 +1137,11 @@
       episodes: Ep. 121-122
       released: "2024-05-17"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 5E646504
+            length: "22:36"
     - arc: 14
       episode: 17
       title: Alabasta 17
@@ -854,7 +1150,11 @@
       episodes: Ep. 123-124
       released: "2024-06-14"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: B5A40AD2
+            length: "32:38"
     - arc: 14
       episode: 18
       title: Alabasta 18
@@ -863,7 +1163,11 @@
       episodes: Ep. 125-126
       released: "2024-07-06"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E4F68497
+            length: "34:39"
     - arc: 14
       episode: 19
       title: Alabasta 19
@@ -872,7 +1176,11 @@
       episodes: Ep. 127-128
       released: "2024-08-02"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 845C0D1D
+            length: "29:24"
     - arc: 14
       episode: 20
       title: Alabasta 20
@@ -881,7 +1189,11 @@
       episodes: Ep. 128-129
       released: "2024-08-09"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 0C5E9A92
+            length: "31:24"
     - arc: 14
       episode: 21
       title: Alabasta 21
@@ -890,7 +1202,11 @@
       episodes: Ep. 130
       released: "2024-08-16"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: EAA06203
+            length: "17:17"
   gid: "209591769"
 - arc: 15
   title: Jaya
@@ -914,7 +1230,11 @@
       episodes: Ep.143-144
       released: "2023-01-28"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 2BBCD106
+            length: "21:03"
     - arc: 15
       episode: 2
       title: Never Dream
@@ -923,7 +1243,11 @@
       episodes: Ep.145-146
       released: "2023-02-10"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 6DAB82A3
+            length: "32:35"
     - arc: 15
       episode: 3
       title: People's Dreams
@@ -932,7 +1256,11 @@
       episodes: Ep.147
       released: "2023-03-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: B4950266
+            length: "20:06"
     - arc: 15
       episode: 4
       title: Noland the Liar
@@ -941,7 +1269,11 @@
       episodes: Ep.148
       released: "2023-08-12"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 86DC8F38
+            length: "20:03"
     - arc: 15
       episode: 5
       title: Let's Eat
@@ -950,7 +1282,11 @@
       episodes: Ep.149
       released: "2023-08-20"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E468A31D
+            length: "21:37"
     - arc: 15
       episode: 6
       title: The Hundred Million Man
@@ -959,7 +1295,11 @@
       episodes: Ep.150
       released: "2023-09-08"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 8783E1B0
+            length: "17:14"
     - arc: 15
       episode: 7
       title: The Highest Authority in the World
@@ -968,7 +1308,11 @@
       episodes: Ep.145,151
       released: "2023-09-16"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 580A0C3B
+            length: "24:41"
     - arc: 15
       episode: 8
       title: The Knock-Up Stream
@@ -977,7 +1321,11 @@
       episodes: Ep.152
       released: "2023-09-30"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: FA2E5ADD
+            length: "19:06"
   gid: "1386602210"
 - arc: 16
   title: Skypiea
@@ -1001,7 +1349,11 @@
       episodes: Ep. 195, 203, 207
       released: "2025-05-03"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 90C45C25
+            length: "24:09"
     - arc: 16
       episode: 1
       title: Heaven's Gate
@@ -1010,7 +1362,11 @@
       episodes: Ep. 153
       released: "2023-06-12"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: CA5552FC
+            length: "19:56"
     - arc: 16
       episode: 2
       title: Angel Beach
@@ -1019,7 +1375,11 @@
       episodes: Ep. 154
       released: "2023-06-12"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: EB6E8FF5
+            length: "21:01"
     - arc: 16
       episode: 3
       title: Divine Reckoning
@@ -1028,7 +1388,11 @@
       episodes: Ep. 155-156
       released: "2023-06-12"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: A50167E6
+            length: "24:30"
     - arc: 16
       episode: 4
       title: Ordeal
@@ -1037,7 +1401,11 @@
       episodes: Ep. 157-158
       released: "2023-06-12"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: C6120876
+            length: "29:13"
     - arc: 16
       episode: 5
       title: Adventure on God's Island
@@ -1046,7 +1414,11 @@
       episodes: Ep. 159-160
       released: "2023-06-12"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: FEA121C3
+            length: "23:19"
     - arc: 16
       episode: 6
       title: The Village Hidden in the Clouds
@@ -1055,7 +1427,11 @@
       episodes: Ep. 161-163
       released: "2023-10-14"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: BF59EB14
+            length: "34:21"
     - arc: 16
       episode: 7
       title: Overture
@@ -1064,7 +1440,11 @@
       episodes: Ep. 163-164
       released: "2023-10-21"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 3C665F73
+            length: "20:30"
     - arc: 16
       episode: 8
       title: Vearth
@@ -1073,7 +1453,11 @@
       episodes: Ep. 165-167
       released: "2023-10-28"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 236CCF51
+            length: "36:55"
     - arc: 16
       episode: 9
       title: Dial Battle
@@ -1082,7 +1466,11 @@
       episodes: Ep. 168-169
       released: "2023-11-17"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: CF0B1E5A
+            length: "34:55"
     - arc: 16
       episode: 10
       title: Pirate Luffy vs. Berserker Wyper
@@ -1091,7 +1479,11 @@
       episodes: Ep. 170-171
       released: "2023-12-02"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: "602704E6"
+            length: "18:57"
     - arc: 16
       episode: 11
       title: Pirate Chopper vs. Priest Gedatsu
@@ -1100,7 +1492,11 @@
       episodes: Ep. 171-173
       released: "2024-04-12"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F0EF6382
+            length: "32:25"
     - arc: 16
       episode: 12
       title: Pirate Robin vs. Commander Yama
@@ -1109,7 +1505,11 @@
       episodes: Ep. 172-174
       released: "2024-04-26"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 99260C5A
+            length: "28:24"
     - arc: 16
       episode: 13
       title: Concerto
@@ -1118,7 +1518,11 @@
       episodes: Ep. 175-176
       released: "2024-05-24"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 460CC2CD
+            length: "33:09"
     - arc: 16
       episode: 14
       title: Pirate Zoro vs. Priest Ohm
@@ -1127,7 +1531,11 @@
       episodes: Ep. 177-179
       released: "2024-06-22"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: "702231E9"
+            length: "29:01"
     - arc: 16
       episode: 15
       title: Quintet
@@ -1136,7 +1544,11 @@
       episodes: Ep. 179-181
       released: "2024-07-20"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 9863ADF4
+            length: "36:11"
     - arc: 16
       episode: 16
       title: Conis
@@ -1145,7 +1557,11 @@
       episodes: Ep. 181-182
       released: "2024-09-13"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 088462CB
+            length: "26:38"
     - arc: 16
       episode: 17
       title: Deathpiea
@@ -1154,7 +1570,11 @@
       episodes: Ep. 183-185
       released: "2024-12-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: FBEA8001
+            length: "31:36"
     - arc: 16
       episode: 18
       title: On the Front Line of Love's Salvation
@@ -1163,7 +1583,11 @@
       episodes: Ep. 185-186
       released: "2024-12-13"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 60E51C8A
+            length: "33:34"
     - arc: 16
       episode: 19
       title: Godkiller
@@ -1172,7 +1596,11 @@
       episodes: Ep. 187-188
       released: "2025-01-18"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: "88263203"
+            length: "28:22"
     - arc: 16
       episode: 20
       title: The Light of Shandora
@@ -1181,7 +1609,11 @@
       episodes: Ep. 188-189
       released: "2025-01-18"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 481A9A9D
+            length: "23:46"
     - arc: 16
       episode: 21
       title: Raigō
@@ -1190,7 +1622,11 @@
       episodes: Ep. 189-190
       released: "2025-02-15"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 9B126B00
+            length: "29:24"
     - arc: 16
       episode: 22
       title: Love Song
@@ -1199,7 +1635,11 @@
       episodes: Ep. 191-192
       released: "2025-02-22"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: "62938616"
+            length: "32:55"
     - arc: 16
       episode: 23
       title: Fantasia
@@ -1208,7 +1648,11 @@
       episodes: Ep. 193
       released: "2025-03-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: D9CD96CA
+            length: "20:13"
     - arc: 16
       episode: 24
       title: I Made It Here
@@ -1217,7 +1661,11 @@
       episodes: Ep. 194
       released: "2025-04-26"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 3F695862
+            length: "19:53"
     - arc: 16
       episode: 25
       title: Finale
@@ -1226,7 +1674,11 @@
       episodes: Ep. 195, 203, 207
       released: "2025-05-03"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: C951349C
+            length: "20:48"
   gid: "277573788"
 - arc: 17
   title: Long Ring Long Land
@@ -1250,7 +1702,11 @@
       episodes: Ep. 207,225
       released: "2025-05-08"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E85B9E9D
+            length: "02:08"
     - arc: 17
       episode: 1
       title: Adventure on a Long Island
@@ -1259,7 +1715,11 @@
       episodes: Ep. 207-209
       released: "2017-12-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: B692FD08
+            length: "32:51"
     - arc: 17
       episode: 2
       title: Donut Race!!
@@ -1268,7 +1728,11 @@
       episodes: Ep. 209-210
       released: "2017-12-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 57F75027
+            length: "24:36"
     - arc: 17
       episode: 3
       title: Groggy Ring!!
@@ -1277,7 +1741,11 @@
       episodes: Ep. 211-212
       released: "2017-12-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 24351CC0
+            length: "25:32"
     - arc: 17
       episode: 4
       title: Combat
@@ -1286,7 +1754,11 @@
       episodes: Ep. 212,215,217-218
       released: "2017-05-16"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 72C0B595
+            length: "36:18"
     - arc: 17
       episode: 5
       title: K.O.
@@ -1295,7 +1767,11 @@
       episodes: Ep. 219,226
       released: "2017-05-29"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: BCF2E97B
+            length: "15:31"
     - arc: 17
       episode: 6
       title: Marine HQ Admiral Aokiji
@@ -1304,7 +1780,11 @@
       episodes: Ep. 227-228
       released: "2016-06-05"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: A65C20C2
+            length: "30:34"
   gid: "988886513"
 - arc: 18
   title: Water Seven
@@ -1328,7 +1808,11 @@
       episodes: Ep. 228-230
       released: "2020-09-03"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 9101CF0E
+            length: "28:33"
     - arc: 18
       episode: 2
       title: Mr. Iceburg
@@ -1337,7 +1821,11 @@
       episodes: Ep. 229-231
       released: "2021-02-22"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 763C1FA8
+            length: "30:48"
     - arc: 18
       episode: 3
       title: The Case of the Kidnapped Pirate
@@ -1346,7 +1834,11 @@
       episodes: Ep. 232-234
       released: "2021-02-22"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: "01874097"
+            length: "43:02"
     - arc: 18
       episode: 4
       title: Impasse
@@ -1355,7 +1847,11 @@
       episodes: Ep. 234-235
       released: "2021-03-30"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: D5D6D5BA
+            length: "25:18"
     - arc: 18
       episode: 5
       title: Luffy vs. Usopp
@@ -1364,7 +1860,11 @@
       episodes: Ep. 235-236
       released: "2021-03-30"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 593FF591
+            length: "20:29"
     - arc: 18
       episode: 6
       title: Warning
@@ -1373,7 +1873,11 @@
       episodes: Ep. 237-239
       released: "2021-05-03"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: D17BD2C5
+            length: "36:55"
     - arc: 18
       episode: 7
       title: Rumors
@@ -1382,7 +1886,11 @@
       episodes: Ep. 239-240
       released: "2021-06-14"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 4D75A2CA
+            length: "23:51"
     - arc: 18
       episode: 8
       title: Devil
@@ -1391,7 +1899,11 @@
       episodes: Ep. 240-241
       released: "2021-06-21"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 6E2DB1B9
+            length: "28:09"
     - arc: 18
       episode: 9
       title: Cipher Pol No. 9
@@ -1400,7 +1912,11 @@
       episodes: Ep. 242-243
       released: "2021-07-25"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F96F0A4A
+            length: "36:14"
     - arc: 18
       episode: 10
       title: Six Powers
@@ -1409,7 +1925,11 @@
       episodes: Ep. 244-246
       released: "2021-12-05"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: BAFD9522
+            length: "30:26"
     - arc: 18
       episode: 11
       title: Klabautermann
@@ -1418,7 +1938,11 @@
       episodes: Ep. 246-248
       released: "2022-01-28"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 0D273612
+            length: "38:22"
     - arc: 18
       episode: 12
       title: The Legendary Shipwright
@@ -1427,7 +1951,11 @@
       episodes: Ep. 248-249
       released: "2022-03-14"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 0017358A
+            length: "27:03"
     - arc: 18
       episode: 13
       title: Mr. Tom
@@ -1436,7 +1964,11 @@
       episodes: Ep. 249-250
       released: "2022-06-21"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: B4592974
+            length: "23:26"
     - arc: 18
       episode: 14
       title: Bingo
@@ -1445,7 +1977,11 @@
       episodes: Ep. 250-251, 256, 320
       released: "2023-11-04"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 203E5D6E
+            length: "25:07"
     - arc: 18
       episode: 15
       title: Departing Shortly
@@ -1454,7 +1990,11 @@
       episodes: Ep. 252-254
       released: "2023-12-22"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 87F0C48B
+            length: "33:37"
     - arc: 18
       episode: 16
       title: Aqua Laguna
@@ -1463,7 +2003,11 @@
       episodes: Ep. 254-255
       released: "2024-02-02"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: AF5B5194
+            length: "31:44"
     - arc: 18
       episode: 17
       title: Sogeking
@@ -1472,7 +2016,11 @@
       episodes: Ep. 256-257
       released: "2024-02-17"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: AB231A9E
+            length: "25:09"
     - arc: 18
       episode: 18
       title: Ramen Kenpo
@@ -1481,7 +2029,11 @@
       episodes: Ep. 258-259
       released: "2024-02-23"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 47D68652
+            length: "21:34"
     - arc: 18
       episode: 19
       title: The Honorable Captain T-Bone
@@ -1490,7 +2042,11 @@
       episodes: Ep. 259-261
       released: "2024-03-02"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 1206A42A
+            length: "24:36"
     - arc: 18
       episode: 20
       title: Necessary Evil
@@ -1499,7 +2055,11 @@
       episodes: Ep. 262-263
       released: "2024-03-15"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F0FBC907
+            length: "31:24"
   gid: "709330688"
 - arc: 19
   title: Enies Lobby
@@ -1523,7 +2083,11 @@
       episodes: Ep. 263-264
       released: "2025-11-16"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 785FB818
+            length: "26:26"
     - arc: 19
       episode: 2
       title: The Big Showdown on the Judiciary Island!!
@@ -1532,7 +2096,11 @@
       episodes: Ep. 265-266
       released: "2025-11-16"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 495CDC31
+            length: "20:55"
     - arc: 19
       episode: 3
       title: Express to the Main Island of Enies Lobby
@@ -1541,7 +2109,11 @@
       episodes: Ep. 266-267
       released: "2025-11-21"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 861EE2FF
+            length: "23:09"
     - arc: 19
       episode: 4
       title: Fired
@@ -1550,7 +2122,11 @@
       episodes: Ep. 268-269
       released: "2025-12-20"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 90B6D40E
+            length: "25:34"
     - arc: 19
       episode: 5
       title: Signal the Counterstrike
@@ -1559,7 +2135,11 @@
       episodes: Ep. 269-271
       released: "2026-03-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 07F7124B
+            length: "32:17"
     - arc: 19
       episode: 6
       title: Unprecedented
@@ -1568,7 +2148,11 @@
       episodes: Ep. 272-273
       released: "2026-03-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 46C9CFF8
+            length: "22:18"
     - arc: 19
       episode: 7
       title: Gear Second
@@ -1577,7 +2161,11 @@
       episodes: Ep. 273-274
       released: "2026-03-08"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 3CA69C29
+            length: "29:20"
     - arc: 19
       episode: 8
       title: The Girl They Called a Devil
@@ -1586,7 +2174,11 @@
       episodes: Ep. 275-276
       released: "2026-03-14"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: "79695827"
+            length: "32:14"
     - arc: 19
       episode: 9
       title: Ohara vs. The World Government
@@ -1595,7 +2187,11 @@
       episodes: Ep. 276-277
       released: "2026-03-28"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 88CB08F6
+            length: "32:19"
     - arc: 19
       episode: 10
       title: Declaration of War
@@ -1604,7 +2200,11 @@
       episodes: Ep. 278
       released: "2026-04-20"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 074A4A31
+            length: "22:20"
     - arc: 19
       episode: 11
       title: Jump into the Waterfall!!
@@ -1613,7 +2213,11 @@
       episodes: Ep. 284-285
       released: "2019-08-20"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: CF6F1505
+            length: "27:46"
     - arc: 19
       episode: 12
       title: Pirates vs. CP9
@@ -1622,7 +2226,11 @@
       episodes: Ep. 286-287
       released: "2020-03-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: DA166192
+            length: "21:18"
     - arc: 19
       episode: 13
       title: Mr. Chivalry
@@ -1631,7 +2239,11 @@
       episodes: Ep. 287-288
       released: "2020-04-03"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: FE0F64E2
+            length: "24:14"
     - arc: 19
       episode: 14
       title: Vitality Response
@@ -1640,7 +2252,11 @@
       episodes: Ep. 289-290
       released: "2020-04-15"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: A9C9701B
+            length: "20:38"
     - arc: 19
       episode: 15
       title: Monster
@@ -1649,7 +2265,11 @@
       episodes: Ep. 290,293
       released: "2020-04-22"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 160B1E51
+            length: "23:00"
     - arc: 19
       episode: 16
       title: The Terrifying Emergency Broadcast
@@ -1658,7 +2278,11 @@
       episodes: Ep. 294-295
       released: "2020-04-30"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 158476AB
+            length: "26:29"
     - arc: 19
       episode: 17
       title: The Hunter
@@ -1667,7 +2291,11 @@
       episodes: Ep. 296-297
       released: "2020-05-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 7562EF8D
+            length: "21:09"
     - arc: 19
       episode: 18
       title: Sanji vs. Jabra
@@ -1676,7 +2304,11 @@
       episodes: Ep. 297-298
       released: "2020-05-15"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 64207B1A
+            length: "19:57"
     - arc: 19
       episode: 19
       title: Zoro vs. Kaku
@@ -1685,7 +2317,11 @@
       episodes: Ep. 299-301
       released: "2020-05-23"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: C4106519
+            length: "31:33"
     - arc: 19
       episode: 20
       title: Buster Call
@@ -1694,7 +2330,11 @@
       episodes: Ep. 301-302
       released: "2020-05-29"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 5AC534CA
+            length: "26:25"
     - arc: 19
       episode: 21
       title: Rob Lucci
@@ -1703,7 +2343,11 @@
       episodes: Ep. 302,304-305
       released: "2020-06-06"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 13D874FD
+            length: "24:17"
     - arc: 19
       episode: 22
       title: The Legend of the Mermaid
@@ -1712,7 +2356,11 @@
       episodes: Ep. 306-307
       released: "2020-06-15"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: C0B33E05
+            length: "26:52"
     - arc: 19
       episode: 23
       title: We're Not in Hell
@@ -1721,7 +2369,11 @@
       episodes: Ep. 307-309
       released: "2020-08-10"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 25AFC3E5
+            length: "34:24"
     - arc: 19
       episode: 24
       title: Utter Defeat
@@ -1730,7 +2382,11 @@
       episodes: Ep. 310-311
       released: "2020-08-15"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 7F76CDD9
+            length: "33:17"
     - arc: 19
       episode: 25
       title: A Gentle Snowfall of Remembrance
@@ -1739,7 +2395,11 @@
       episodes: Ep. 312
       released: "2020-08-27"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 3251D51B
+            length: "16:45"
   gid: "1348628353"
 - arc: 20
   title: Post-Enies Lobby
@@ -1763,7 +2423,11 @@
       episodes: Ep. 313-314
       released: "2013-06-09"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 216595EE
+            length: "26:58"
     - arc: 20
       episode: 2
       title: The Extent of the Grand Line and The 600,000,000 Crew!
@@ -1772,7 +2436,11 @@
       episodes: Ep. 315-316, 319-320,325
       released: "2013-06-14"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 344EA844
+            length: "39:22"
     - arc: 20
       episode: 3
       title: Forgive Yourself! Franky Departs!
@@ -1781,7 +2449,11 @@
       episodes: Ep. 321-322
       released: "2013-06-19"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 2C843A0F
+            length: "29:34"
     - arc: 20
       episode: 4
       title: The Astonishing Thousand Sunny and Usopp's Tearful Apology!
@@ -1790,7 +2462,11 @@
       episodes: Ep. 323-324
       released: "2013-06-26"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 659EF70C
+            length: "26:58"
     - arc: 20
       episode: 5
       title: The Circling Bounties and The Duel on Banaro Island!
@@ -1799,7 +2475,11 @@
       episodes: Ep. 324-325
       released: "2013-06-28"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: CEF78887
+            length: "23:06"
   gid: "437050304"
 - arc: 21
   title: Thriller Bark
@@ -1823,7 +2503,11 @@
       episodes: Ep. 326,337-339
       released: "2013-07-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 30D0916C
+            length: "28:31"
     - arc: 21
       episode: 2
       title: Adventure on the Ghost Island and the Famous Doctor Hogback!
@@ -1832,7 +2516,11 @@
       episodes: Ep. 339-340
       released: "2013-07-10"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: EA100F0C
+            length: "24:37"
     - arc: 21
       episode: 3
       title: The Invisible Man and the Secret of the Mansion!
@@ -1841,7 +2529,11 @@
       episodes: Ep. 340-342
       released: "2013-07-31"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: C2AAAAF7
+            length: "34:23"
     - arc: 21
       episode: 4
       title: General Zombie Night! Thriller Bark's Mysterious Four
@@ -1850,7 +2542,11 @@
       episodes: Ep. 342-344
       released: "2013-08-08"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: EB4DA5F4
+            length: "23:54"
     - arc: 21
       episode: 5
       title: Perona's Wonder Garden and the Charge of the General Zombies!
@@ -1859,7 +2555,11 @@
       episodes: Ep. 345-346
       released: "2013-08-25"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 5B4DF29D
+            length: "18:08"
     - arc: 21
       episode: 6
       title: Number 900?! Lola's Pursuit and the Humming Swordsman
@@ -1868,7 +2568,11 @@
       episodes: Ep. 347-348
       released: "2013-09-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 60E33665
+            length: "21:50"
     - arc: 21
       episode: 7
       title: The Fearsome Ability of the Shadow Fruit! The Ultimate Number 900!
@@ -1877,7 +2581,11 @@
       episodes: Ep. 349-350
       released: "2013-09-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 1E847368
+            length: "24:44"
     - arc: 21
       episode: 8
       title: Oars' Awakening and Brook vs. Ryuma!
@@ -1886,7 +2594,11 @@
       episodes: Ep. 351-353
       released: "2013-09-20"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 694AD702
+            length: "21:38"
     - arc: 21
       episode: 9
       title: The Hope and Despair of the Skeleton and the Straw Hats' Counterattack!
@@ -1895,7 +2607,11 @@
       episodes: Ep. 353-355
       released: "2013-10-03"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 19D3B6A3
+            length: "26:10"
     - arc: 21
       episode: 10
       title: Already Negative! Usopp's Courageous Stand!
@@ -1904,7 +2620,11 @@
       episodes: Ep. 356-357
       released: "2013-10-18"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 38BBF05C
+            length: "22:37"
     - arc: 21
       episode: 11
       title: A Stolen Dream! Sanji vs. Absalom
@@ -1913,7 +2633,11 @@
       episodes: Ep. 357-359
       released: "2013-10-26"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: D538CFD7
+            length: "22:34"
     - arc: 21
       episode: 12
       title: Perona's Terror! Usopp vs. the Ghost Princess!
@@ -1922,7 +2646,11 @@
       episodes: Ep. 360-362
       released: "2013-11-13"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 8B836836
+            length: "20:54"
     - arc: 21
       episode: 13
       title: Zoro vs. Ryuuma and Chopper's Rage!
@@ -1931,7 +2659,11 @@
       episodes: Ep. 362-363
       released: "2013-11-20"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 3AEE90B8
+            length: "19:04"
     - arc: 21
       episode: 14
       title: Show Yourselves, Straw Hat Pirates! The Crew's Hopeless Counterattack!
@@ -1940,7 +2672,11 @@
       episodes: Ep. 364-365
       released: "2013-12-08"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 7CAE5640
+            length: "19:11"
     - arc: 21
       episode: 15
       title: Clash! The Titanic Battle Against Zombie 900!
@@ -1949,7 +2685,11 @@
       episodes: Ep. 365-367
       released: "2013-12-20"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: A9784E2B
+            length: "20:36"
     - arc: 21
       episode: 16
       title: The Mysterious Visitor! The Two Warlords Meet!
@@ -1958,7 +2698,11 @@
       episodes: Ep. 368-369
       released: "2014-01-18"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: EF1D7B5F
+            length: "23:01"
     - arc: 21
       episode: 17
       title: Combination of Brains and Brawn! Oars and Moriah vs. the Straw Hats!
@@ -1967,7 +2711,11 @@
       episodes: Ep. 370-371
       released: "2014-01-25"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 6AAC9B33
+            length: "23:17"
     - arc: 21
       episode: 18
       title: The Crew's Annihilation! Oars vs. Nightmare Luffy
@@ -1976,7 +2724,11 @@
       episodes: Ep. 371-372
       released: "2014-01-30"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 2295F0A1
+            length: "24:00"
     - arc: 21
       episode: 19
       title: Morning Comes! The Straw Hats' Ultimate Attack!
@@ -1985,7 +2737,11 @@
       episodes: Ep. 373-374
       released: "2014-02-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 099FB95D
+            length: "28:51"
     - arc: 21
       episode: 20
       title: The Power That Can Deflect Anything?! Zoro Fights Prepared to Die!
@@ -1994,7 +2750,11 @@
       episodes: Ep. 375-377
       released: "2014-09-28"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: AD2D4BCD
+            length: "34:00"
     - arc: 21
       episode: 21
       title: Brook's Past! The Rumbar Pirates and Laboon!
@@ -2003,7 +2763,11 @@
       episodes: Ep. 378-380
       released: "2014-10-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 22E58F96
+            length: "32:59"
     - arc: 21
       episode: 22
       title: Brook's Promise! The Eighth Member
@@ -2012,7 +2776,11 @@
       episodes: Ep. 380-381
       released: "2014-10-12"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F23079ED
+            length: "24:21"
   gid: "836546175"
 - arc: 22
   title: Sabaody Archipelago
@@ -2036,7 +2804,11 @@
       episodes: Ep. 385-386
       released: "2014-12-09"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 066FD68B
+            length: "28:25"
     - arc: 22
       episode: 2
       title: Iron Mask Duval
@@ -2045,7 +2817,11 @@
       episodes: Ep. 387-388
       released: "2015-01-03"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F0334710
+            length: "24:18"
     - arc: 22
       episode: 3
       title: Duval's Tragedy
@@ -2054,7 +2830,11 @@
       episodes: Ep. 388-389
       released: "2015-01-10"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: C19CADF5
+            length: "23:27"
     - arc: 22
       episode: 4
       title: Adventure on the Archipelago of Dancing Soap Bubbles
@@ -2063,7 +2843,11 @@
       episodes: Ep. 390-391
       released: "2015-02-25"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 76D21468
+            length: "31:12"
     - arc: 22
       episode: 5
       title: The Embers of History
@@ -2072,7 +2856,11 @@
       episodes: Ep. 392-394
       released: "2017-12-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 7D6E8499
+            length: "44:03"
     - arc: 22
       episode: 6
       title: The Auction House Incident
@@ -2081,7 +2869,11 @@
       episodes: Ep. 395-396
       released: "2017-12-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 234CBFDC
+            length: "27:53"
     - arc: 22
       episode: 7
       title: An Island in Chaos
@@ -2090,7 +2882,11 @@
       episodes: Ep. 397-398
       released: "2017-12-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 63A829E4
+            length: "23:57"
     - arc: 22
       episode: 8
       title: Roger and Rayleigh
@@ -2099,7 +2895,11 @@
       episodes: Ep. 399-400
       released: "2017-12-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 873CB57E
+            length: "23:39"
     - arc: 22
       episode: 9
       title: Kizaru Arrives
@@ -2108,7 +2908,11 @@
       episodes: Ep. 400-401
       released: "2017-12-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 0E0C5A82
+            length: "22:29"
     - arc: 22
       episode: 10
       title: Kizaru vs. the Four Captains
@@ -2117,7 +2921,11 @@
       episodes: Ep. 402-404
       released: "2017-12-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 20ADEE90
+            length: "30:06"
     - arc: 22
       episode: 11
       title: I Couldn't Save Them!!!
@@ -2126,7 +2934,11 @@
       episodes: Ep. 404-405
       released: "2017-12-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 1306F53D
+            length: "23:45"
   gid: "401627898"
 - arc: 23
   title: Amazon Lily
@@ -2150,7 +2962,11 @@
       episodes: Ep. 408-409
       released: "2016-01-26"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 06BF070D
+            length: "26:20"
     - arc: 23
       episode: 2
       title: Pirate Empress Boa Hancock
@@ -2159,7 +2975,11 @@
       episodes: Ep. 410-411
       released: "2016-02-03"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E817809A
+            length: "25:57"
     - arc: 23
       episode: 3
       title: The Arena
@@ -2168,7 +2988,11 @@
       episodes: Ep. 412-413
       released: "2016-02-12"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: C2835057
+            length: "22:58"
     - arc: 23
       episode: 4
       title: Hancock's Confession
@@ -2177,7 +3001,11 @@
       episodes: Ep. 414-417
       released: "2016-03-05"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: A5F0A507
+            length: "37:46"
     - arc: 23
       episode: 5
       title: No One Can Stop This Now
@@ -2186,7 +3014,11 @@
       episodes: Ep. 417-421
       released: "2016-04-10"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 0F8517DC
+            length: "27:34"
   gid: "429435711"
 - arc: 24
   title: Impel Down
@@ -2210,7 +3042,11 @@
       episodes: Ep. 422-423,454
       released: "2016-05-21"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 479D510C
+            length: "27:34"
     - arc: 24
       episode: 2
       title: First Son of the Sea
@@ -2219,7 +3055,11 @@
       episodes: Ep. 424-425,430
       released: "2016-12-30"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 7306EDA1
+            length: "25:13"
     - arc: 24
       episode: 3
       title: From One Hell to Another
@@ -2228,7 +3068,11 @@
       episodes: Ep. 425,430-432
       released: "2017-01-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: FB406E73
+            length: "39:13"
     - arc: 24
       episode: 4
       title: Inferno Hell
@@ -2237,7 +3081,11 @@
       episodes: Ep. 433-434
       released: "2017-01-20"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 5DD0859D
+            length: "26:52"
     - arc: 24
       episode: 5
       title: Friend
@@ -2246,7 +3094,11 @@
       episodes: Ep. 435-438,446
       released: "2017-02-10"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: B46EDD50
+            length: "35:06"
     - arc: 24
       episode: 6
       title: A Ray of Hope
@@ -2255,7 +3107,11 @@
       episodes: Ep. 438-440
       released: "2017-02-17"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 5D5D24DF
+            length: "32:13"
     - arc: 24
       episode: 7
       title: Infinite Hell
@@ -2264,7 +3120,11 @@
       episodes: Ep. 440-443
       released: "2017-06-23"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 379DD054
+            length: "28:43"
     - arc: 24
       episode: 8
       title: Yet Another Epic Incident
@@ -2273,7 +3133,11 @@
       episodes: Ep. 443-446
       released: "2017-06-23"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 683EDC5C
+            length: "37:31"
     - arc: 24
       episode: 9
       title: To Sunshine and Freedom
@@ -2282,7 +3146,11 @@
       episodes: Ep. 446-450
       released: "2017-06-23"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F0C33425
+            length: "37:43"
     - arc: 24
       episode: 10
       title: Thank You
@@ -2291,7 +3159,11 @@
       episodes: Ep. 450-451
       released: "2017-06-23"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 540A9642
+            length: "27:03"
   gid: "293688544"
 - arc: 25
   title: The Adventures of the Straw Hats
@@ -2315,7 +3187,11 @@
       episodes: Ep. 453-456
       released: "2024-03-29"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 2BC41092
+            length: "23:04"
   gid: "704086980"
 - arc: 26
   title: Marineford
@@ -2339,7 +3215,11 @@
       episodes: Ep. 452,459
       released: "2020-10-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 92956F40
+            length: "31:13"
     - arc: 26
       episode: 2
       title: Ace and Whitebeard
@@ -2348,7 +3228,11 @@
       episodes: Ep. 459-462
       released: "2020-10-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 4F5151F2
+            length: "34:18"
     - arc: 26
       episode: 3
       title: Conflict at the Summit
@@ -2357,7 +3241,11 @@
       episodes: Ep. 462-463
       released: "2020-10-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: D16C3A7A
+            length: "16:13"
     - arc: 26
       episode: 4
       title: Justice Will Prevail!!
@@ -2366,7 +3254,11 @@
       episodes: Ep. 464-465
       released: "2020-10-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 738B1A3B
+            length: "24:24"
     - arc: 26
       episode: 5
       title: Luffy and Whitebeard
@@ -2375,7 +3267,11 @@
       episodes: Ep. 466-468
       released: "2020-10-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: "66006702"
+            length: "27:16"
     - arc: 26
       episode: 6
       title: The Prisoners of Impel Down
@@ -2384,7 +3280,11 @@
       episodes: Ep. 468-469
       released: "2020-10-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E46F5F07
+            length: "27:27"
     - arc: 26
       episode: 7
       title: The Whirl Spider
@@ -2393,7 +3293,11 @@
       episodes: Ep. 470-471
       released: "2020-10-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 511BA151
+            length: "28:49"
     - arc: 26
       episode: 8
       title: The Man Who Shook the World
@@ -2402,7 +3306,11 @@
       episodes: Ep. 472-473
       released: "2020-10-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 2A3B3264
+            length: "28:32"
     - arc: 26
       episode: 9
       title: Assault
@@ -2411,7 +3319,11 @@
       episodes: Ep. 474-475
       released: "2020-10-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 1638FE88
+            length: "26:41"
     - arc: 26
       episode: 10
       title: Oris Plaza
@@ -2420,7 +3332,11 @@
       episodes: Ep. 476
       released: "2020-10-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: C65F13AA
+            length: "14:45"
     - arc: 26
       episode: 11
       title: The White Monster
@@ -2429,7 +3345,11 @@
       episodes: Ep. 477-478
       released: "2020-10-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: A84B5499
+            length: "26:00"
     - arc: 26
       episode: 12
       title: The Execution Platform
@@ -2438,7 +3358,11 @@
       episodes: Ep. 479-480
       released: "2020-10-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 6BD41435
+            length: "24:28"
     - arc: 26
       episode: 13
       title: The Times They Are A-Changin'
@@ -2447,7 +3371,11 @@
       episodes: Ep. 481-482
       released: "2020-10-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 66E68054
+            length: "26:48"
     - arc: 26
       episode: 14
       title: Thank You for Loving Me
@@ -2456,7 +3384,11 @@
       episodes: Ep. 483-484
       released: "2020-10-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 29DBF233
+            length: "18:51"
     - arc: 26
       episode: 15
       title: Edward Newgate
@@ -2465,7 +3397,11 @@
       episodes: Ep. 484-485
       released: "2020-10-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 00768DB7
+            length: "29:42"
     - arc: 26
       episode: 16
       title: A Gift to a New Era
@@ -2474,7 +3410,11 @@
       episodes: Ep. 486-487
       released: "2020-10-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 91EEA92E
+            length: "26:27"
     - arc: 26
       episode: 17
       title: The War's Conclusion
@@ -2483,7 +3423,11 @@
       episodes: Ep. 488-489
       released: "2020-10-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 2DC3ECF7
+            length: "26:30"
   gid: "1758192000"
 - arc: 27
   title: Post-War
@@ -2507,7 +3451,11 @@
       episodes: Ep. 490-491
       released: "2020-07-24"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E7B15590
+            length: "30:07"
     - arc: 27
       episode: 2
       title: Gray Terminal
@@ -2516,7 +3464,11 @@
       episodes: Ep. 493-495
       released: "2020-07-24"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 1A183CBE
+            length: "40:03"
     - arc: 27
       episode: 3
       title: Oath of Brotherhood
@@ -2525,7 +3477,11 @@
       episodes: Ep. 496-498,500-501, Episode of Sabo
       released: "2020-07-24"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 9DEAD0F3
+            length: "42:28"
     - arc: 27
       episode: 4
       title: Sabo's Sea
@@ -2534,7 +3490,11 @@
       episodes: Ep. 501-503
       released: "2020-07-24"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 5FA1920A
+            length: "36:06"
     - arc: 27
       episode: 5
       title: Will of the Winds
@@ -2543,7 +3503,11 @@
       episodes: Ep. 503-505
       released: "2020-07-26"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: FA5B3DCD
+            length: "41:10"
     - arc: 27
       episode: 6
       title: Cheer
@@ -2552,7 +3516,11 @@
       episodes: Ep. 507-510
       released: "2020-09-17"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 735F9F49
+            length: "39:43"
     - arc: 27
       episode: 7
       title: NEWS
@@ -2561,7 +3529,11 @@
       episodes: Ep. 510-512
       released: "2020-12-20"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: D85BC22C
+            length: "36:50"
     - arc: 27
       episode: 8
       title: 3D2Y
@@ -2570,7 +3542,11 @@
       episodes: Ep. 513-516
       released: "2021-01-18"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 178190BC
+            length: "1:00:00"
   gid: "1001237700"
 - arc: 28
   title: Return to Sabaody
@@ -2594,7 +3570,11 @@
       episodes: Ep. 517-519
       released: "2022-05-04"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 5FBDCD0F
+            length: "34:06"
     - arc: 28
       episode: 2
       title: Island of New Beginnings
@@ -2603,7 +3583,11 @@
       episodes: Ep. 518-520
       released: "2022-05-04"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 9677C63E
+            length: "31:15"
     - arc: 28
       episode: 3
       title: Dive, Dive, Dive!
@@ -2612,7 +3596,11 @@
       episodes: Ep. 520-522
       released: "2022-05-04"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 2FFA5720
+            length: "33:38"
   gid: "1999155271"
 - arc: 29
   title: Fishman Island
@@ -2636,7 +3624,11 @@
       episodes: Ep. 523-524
       released: "2013-03-27"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: FBA08093
+            length: "26:03"
     - arc: 29
       episode: 2
       title: Adventure in the Ocean Depths! 10 Kilometers Below the Surface!
@@ -2645,7 +3637,11 @@
       episodes: Ep. 524-526
       released: "2013-03-29"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: BD7169C3
+            length: "24:14"
     - arc: 29
       episode: 3
       title: Landing on Fishman Island! The Mermaid Cove and Gyoverly Hills!
@@ -2654,7 +3650,11 @@
       episodes: Ep. 526-527
       released: "2013-03-31"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: "5636E014"
+            length: "24:05"
     - arc: 29
       episode: 4
       title: Arrival at Coral Hill! The Nosebleed and the Devastating Prediction!
@@ -2663,7 +3663,11 @@
       episodes: Ep. 528-529
       released: "2013-04-02"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 9E0A91E9
+            length: "28:44"
     - arc: 29
       episode: 5
       title: The King of Fishman Island Invited to Ryugu Palace!
@@ -2672,7 +3676,11 @@
       episodes: Ep. 530-531
       released: "2013-04-04"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: DA5B5D04
+            length: "27:07"
     - arc: 29
       episode: 6
       title: The Mermaid Princess in Hard-Shell Tower! Shirahoshi of the Neptune Family!
@@ -2681,7 +3689,11 @@
       episodes: Ep. 532-533
       released: "2013-04-06"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 64FB3990
+            length: "29:42"
     - arc: 29
       episode: 7
       title: The Shirahoshi Kidnapping Incident and the Curse of the Mato Mato!
@@ -2690,7 +3702,11 @@
       episodes: Ep. 533-534
       released: "2013-04-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 29A10280
+            length: "34:13"
     - arc: 29
       episode: 8
       title: The Beginning of the Vengeful Plan! Zoro vs. Hody!
@@ -2699,7 +3715,11 @@
       episodes: Ep. 535-537
       released: "2013-04-09"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: DBA50B89
+            length: "45:13"
     - arc: 29
       episode: 9
       title: At the Sea Forest! Arlong and Hody
@@ -2708,7 +3728,11 @@
       episodes: Ep. 538-539,541
       released: "2013-04-09"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: FCF7F7E4
+            length: "34:38"
     - arc: 29
       episode: 10
       title: Otohime, Fisher Tiger, and the Sun Pirates! The Fateful Encounter!
@@ -2717,7 +3741,11 @@
       episodes: Ep. 540-541
       released: "2013-04-14"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F4BB17EB
+            length: "35:46"
     - arc: 29
       episode: 11
       title: The Shocking Truth of Tiger! The End of the Sun Pirates
@@ -2726,7 +3754,11 @@
       episodes: Ep. 543-545
       released: "2013-04-14"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 7926F9B5
+            length: "35:58"
     - arc: 29
       episode: 12
       title: The Shipwrecked Celestial Dragon! A Bullet That Seals the Future
@@ -2735,7 +3767,11 @@
       episodes: Ep. 545-546
       released: "2013-04-14"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F134C10A
+            length: "39:21"
     - arc: 29
       episode: 13
       title: Shaking of the Kingdom! Luffy vs. Jinbe!
@@ -2744,7 +3780,11 @@
       episodes: Ep. 547-550
       released: "2013-04-16"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 04C7B716
+            length: "34:58"
     - arc: 29
       episode: 14
       title: Gyoncorde Plaza Gathering! The Evil Drug's True Power
@@ -2753,7 +3793,11 @@
       episodes: Ep. 550-551
       released: "2013-04-17"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 35A189E2
+            length: "28:58"
     - arc: 29
       episode: 15
       title: Hody's Dark Secret! The Straw Hats' Arrival
@@ -2762,7 +3806,11 @@
       episodes: Ep. 552-553
       released: "2013-04-19"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 8014A332
+            length: "30:19"
     - arc: 29
       episode: 16
       title: 100,000 vs. 10! The Straw Hats' Explosive Moves
@@ -2771,7 +3819,11 @@
       episodes: Ep. 554-556
       released: "2013-04-25"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: DF3A7006
+            length: "36:05"
     - arc: 29
       episode: 17
       title: The General from the Future Land and the Crisis of Fishman Island's Destruction
@@ -2780,7 +3832,11 @@
       episodes: Ep. 556-558
       released: "2013-04-26"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: EB0BC95C
+            length: "28:09"
     - arc: 29
       episode: 18
       title: I'll Protect Everything
@@ -2789,7 +3845,11 @@
       episodes: Ep. 559-560
       released: "2013-04-28"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: B6BD1A60
+            length: "24:59"
     - arc: 29
       episode: 19
       title: What Are You?
@@ -2798,7 +3858,11 @@
       episodes: Ep. 561-562
       released: "2013-04-30"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: C19D5680
+            length: "35:15"
     - arc: 29
       episode: 20
       title: Phantom
@@ -2807,7 +3871,11 @@
       episodes: Ep. 563-567
       released: "2013-05-03"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 94E2099D
+            length: "30:23"
     - arc: 29
       episode: 21
       title: Death Is Also Revenge
@@ -2816,7 +3884,11 @@
       episodes: Ep. 562-567
       released: "2013-05-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 85AD9C81
+            length: "29:08"
     - arc: 29
       episode: 22
       title: The Path Toward the Sun
@@ -2825,7 +3897,11 @@
       episodes: Ep. 567-569
       released: "2013-05-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 7DBBFA18
+            length: "42:27"
     - arc: 29
       episode: 23
       title: The Voice from the New World
@@ -2834,7 +3910,11 @@
       episodes: Ep. 570-571
       released: "2013-05-15"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 65BD682D
+            length: "31:28"
     - arc: 29
       episode: 24
       title: The Hero's Hat
@@ -2843,7 +3923,11 @@
       episodes: Ep. 572-573
       released: "2013-05-16"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 99A61805
+            length: "32:49"
   gid: "2070578030"
 - arc: 30
   title: Punk Hazard
@@ -2867,7 +3951,11 @@
       episodes: Ep. 574,579
       released: "2013-05-17"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: "90015E67"
+            length: "28:24"
     - arc: 30
       episode: 2
       title: Adventure on the Burning Island
@@ -2876,7 +3964,11 @@
       episodes: Ep. 580-583
       released: "2013-05-20"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 5A3CE523
+            length: "45:36"
     - arc: 30
       episode: 3
       title: About My Torso
@@ -2885,7 +3977,11 @@
       episodes: Ep. 583-585
       released: "2013-05-21"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: FE661F6E
+            length: "29:46"
     - arc: 30
       episode: 4
       title: The Lake of Bandits
@@ -2894,7 +3990,11 @@
       episodes: Ep. 585-587
       released: "2013-05-24"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: "666061E3"
+            length: "23:55"
     - arc: 30
       episode: 5
       title: CC
@@ -2903,7 +4003,11 @@
       episodes: Ep. 588-589
       released: "2013-05-27"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: ACF1C889
+            length: "35:41"
     - arc: 30
       episode: 6
       title: Yeti Cool Brothers
@@ -2912,7 +4016,11 @@
       episodes: Ep. 591-592
       released: "2013-05-31"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: CC88315A
+            length: "29:17"
     - arc: 30
       episode: 7
       title: Pirate Alliance
@@ -2921,7 +4029,11 @@
       episodes: Ep. 593-594
       released: "2013-06-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F0B1F815
+            length: "31:01"
     - arc: 30
       episode: 8
       title: Blizzard with a Chance of Slime
@@ -2930,7 +4042,11 @@
       episodes: Ep. 595-596
       released: "2013-06-02"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 658D36CE
+            length: "27:50"
     - arc: 30
       episode: 9
       title: My Name Is Kin'emon!!
@@ -2939,7 +4055,11 @@
       episodes: Ep. 597-598
       released: "2013-06-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: AD550761
+            length: "26:50"
     - arc: 30
       episode: 10
       title: Vergo and Joker! The Beginning of Caesar's Masterplan!
@@ -2948,7 +4068,11 @@
       episodes: Ep. 599-600
       released: "2013-06-24"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 72E3E794
+            length: "27:23"
     - arc: 30
       episode: 11
       title: The Experiment Begins! Shinokuni Unleashed!
@@ -2957,7 +4081,11 @@
       episodes: Ep. 601-602
       released: "2013-07-08"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 398915C6
+            length: "25:58"
     - arc: 30
       episode: 12
       title: The Counterattack Begins!
@@ -2966,7 +4094,11 @@
       episodes: Ep. 603-604
       released: "2013-07-21"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: CD83F1E9
+            length: "22:14"
     - arc: 30
       episode: 13
       title: G-5's Sacrifice and the Betrayal of the Vice Admiral!
@@ -2975,7 +4107,11 @@
       episodes: Ep. 604-606
       released: "2013-08-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 964FB36B
+            length: "22:12"
     - arc: 30
       episode: 14
       title: The Mastermind in the Shadows and the Battle Between Gas and Rubber!
@@ -2984,7 +4120,11 @@
       episodes: Ep. 607-608
       released: "2013-08-31"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 75CC1F6E
+            length: "19:10"
     - arc: 30
       episode: 15
       title: Vice Admiral vs. Vice Admiral and the Truth Behind Punk Hazard's Destruction!
@@ -2993,7 +4133,11 @@
       episodes: Ep. 609-610
       released: "2013-09-17"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 9CE5B9DD
+            length: "21:15"
     - arc: 30
       episode: 16
       title: The Dragon Named Momonosuke and the Menacing Snow Fruit User!
@@ -3002,7 +4146,11 @@
       episodes: Ep. 611-612
       released: "2013-09-27"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 4CD92CFC
+            length: "21:36"
     - arc: 30
       episode: 17
       title: Zoro's Strongest One-Sword Style and Mocha's Plight!
@@ -3011,7 +4159,11 @@
       episodes: Ep. 613-614
       released: "2013-10-10"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 0A2624D5
+            length: "21:48"
     - arc: 30
       episode: 18
       title: Luffy and Law's All-out Attack! The Takeover of the New Era!
@@ -3020,7 +4172,11 @@
       episodes: Ep. 615-616
       released: "2013-10-23"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: D56597BC
+            length: "20:28"
     - arc: 30
       episode: 19
       title: The Strongest Grizzly Magnum and the Assassins from Dressrosa!
@@ -3029,7 +4185,11 @@
       episodes: Ep. 617-618
       released: "2013-11-05"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 54AC1705
+            length: "21:36"
     - arc: 30
       episode: 20
       title: Die for Me! The Dangerous Man Makes His Move!
@@ -3038,7 +4198,11 @@
       episodes: Ep. 619-621
       released: "2013-12-02"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: "5012E091"
+            length: "23:37"
     - arc: 30
       episode: 21
       title: The Alliance's Target and the Departure!
@@ -3047,7 +4211,11 @@
       episodes: Ep. 622-623
       released: "2013-12-22"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 0CBF5258
+            length: "23:53"
     - arc: 30
       episode: 22
       title: The Arrival of the Mysterious Man and the News Coo!
@@ -3056,7 +4224,11 @@
       episodes: Ep. 624-626,628
       released: "2014-01-20"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 021A8886
+            length: "24:37"
   gid: "545721945"
 - arc: 31
   title: Dressrosa
@@ -3080,7 +4252,11 @@
       episodes: Ep. 628-631
       released: "2014-02-09"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 2A35B710
+            length: "29:47"
     - arc: 31
       episode: 2
       title: Corrida Colosseum! The Great Tournament
@@ -3089,7 +4265,11 @@
       episodes: Ep. 631-633
       released: "2014-03-25"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E058DEF9
+            length: "21:50"
     - arc: 31
       episode: 3
       title: The Colosseum of Many New Faces and Maynard the Pursuer!
@@ -3098,7 +4278,11 @@
       episodes: Ep. 633-635
       released: "2014-04-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 90034ECC
+            length: "27:01"
     - arc: 31
       episode: 4
       title: Bellamy's Changed Motivations and B Block's Start!
@@ -3107,7 +4291,11 @@
       episodes: Ep. 634-637
       released: "2014-04-19"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E98FA912
+            length: "18:04"
     - arc: 31
       episode: 5
       title: B Block on Fire! Outlandish Competitors and King Punch!
@@ -3116,7 +4304,11 @@
       episodes: Ep. 637-638
       released: "2014-04-25"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: A95DE47B
+            length: "21:10"
     - arc: 31
       episode: 6
       title: To Green Bit! The Adventure in the Land of Dwarves!
@@ -3125,7 +4317,11 @@
       episodes: Ep. 639-642
       released: "2014-05-09"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F7CB97CD
+            length: "26:23"
     - arc: 31
       episode: 7
       title: Doflamingo Arrives! The Ultimate Schemer!
@@ -3134,7 +4330,11 @@
       episodes: Ep. 640-643
       released: "2014-05-14"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: EACE397D
+            length: "27:38"
     - arc: 31
       episode: 8
       title: Closely Contested Block C! Lucy and Ucy!
@@ -3143,7 +4343,11 @@
       episodes: Ep. 643-645
       released: "2014-06-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 777DE97C
+            length: "20:57"
     - arc: 31
       episode: 9
       title: C Block's Blazing Battle and the Forgotten of Dressrosa!
@@ -3152,7 +4356,11 @@
       episodes: Ep. 646-647
       released: "2014-06-24"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: C2C37921
+            length: "21:49"
     - arc: 31
       episode: 10
       title: The Tontatta Rebellion and the C Block Finale!
@@ -3161,7 +4369,11 @@
       episodes: Ep. 648-649
       released: "2014-07-04"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: "50143351"
+            length: "21:31"
     - arc: 31
       episode: 11
       title: A Sad Past! Rebecca and Soldier-san
@@ -3170,7 +4382,11 @@
       episodes: Ep. 650-651
       released: "2014-07-24"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: D8E8370A
+            length: "30:34"
     - arc: 31
       episode: 12
       title: D Block's Fiery Start and the Heavenly Demon's Revelation!
@@ -3179,7 +4395,11 @@
       episodes: Ep. 652-654
       released: "2014-08-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F20B5423
+            length: "27:06"
     - arc: 31
       episode: 13
       title: Law's New Strategy and the Colosseum's Underground Nightmare!
@@ -3188,7 +4408,11 @@
       episodes: Ep. 655-657
       released: "2014-09-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: C29E5C35
+            length: "22:21"
     - arc: 31
       episode: 14
       title: The Plight of the Riku Clan! The Lurking Hero Awaits in the Shadows!
@@ -3197,7 +4421,11 @@
       episodes: Ep. 648,657-659
       released: "2014-10-21"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E3C90B8B
+            length: "29:06"
     - arc: 31
       episode: 15
       title: Doflamingo's Relentless Pursuit
@@ -3206,7 +4434,11 @@
       episodes: Ep. 660-661
       released: "2014-10-29"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 6A3CE0EA
+            length: "23:57"
     - arc: 31
       episode: 16
       title: SOP Strategy
@@ -3215,7 +4447,11 @@
       episodes: Ep. 657,662-663
       released: "2014-11-08"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 7073A62F
+            length: "26:12"
     - arc: 31
       episode: 17
       title: The Underground World
@@ -3224,7 +4460,11 @@
       episodes: Ep. 664-665
       released: "2014-11-10"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 174F92DD
+            length: "21:44"
     - arc: 31
       episode: 18
       title: Fujitora's Outlook
@@ -3233,7 +4473,11 @@
       episodes: Ep. 666-667
       released: "2014-11-25"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: C9362978
+            length: "25:01"
     - arc: 31
       episode: 19
       title: Diamante and Pica
@@ -3242,7 +4486,11 @@
       episodes: Ep. 668-670
       released: "2014-12-18"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 77081AEE
+            length: "20:17"
     - arc: 31
       episode: 20
       title: Captain
@@ -3251,7 +4499,11 @@
       episodes: Ep. 670-672
       released: "2015-01-23"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: BE72EB0E
+            length: "24:43"
     - arc: 31
       episode: 21
       title: Usoland the Liar
@@ -3260,7 +4512,11 @@
       episodes: Ep. 672-675
       released: "2015-03-02"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: C21EC74A
+            length: "26:54"
     - arc: 31
       episode: 22
       title: Dressrosa in Turmoil
@@ -3269,7 +4525,11 @@
       episodes: Ep. 675-678
       released: "2015-03-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 5FC46535
+            length: "28:45"
     - arc: 31
       episode: 23
       title: Bird Cage
@@ -3278,7 +4538,11 @@
       episodes: Ep. 678-680
       released: "2015-03-22"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 5A38EC3B
+            length: "27:55"
     - arc: 31
       episode: 24
       title: Executive Officer Pica
@@ -3287,7 +4551,11 @@
       episodes: Ep. 681-683
       released: "2015-04-19"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 11DA7BCB
+            length: "27:33"
     - arc: 31
       episode: 25
       title: Onward!! Army of Rogues
@@ -3296,7 +4564,11 @@
       episodes: Ep. 683-686
       released: "2015-05-06"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 1CADC5DC
+            length: "21:52"
     - arc: 31
       episode: 26
       title: The State of the War
@@ -3305,7 +4577,11 @@
       episodes: Ep. 685-688
       released: "2016-08-16"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 71CA89FC
+            length: "24:54"
     - arc: 31
       episode: 27
       title: Battle
@@ -3314,7 +4590,11 @@
       episodes: Ep. 688-691
       released: "2016-08-23"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: DC6C3C54
+            length: "25:15"
     - arc: 31
       episode: 28
       title: A Man's World
@@ -3323,7 +4603,11 @@
       episodes: Ep. 691-693
       released: "2016-09-02"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: "04186119"
+            length: "25:41"
     - arc: 31
       episode: 29
       title: Trump Card
@@ -3332,7 +4616,11 @@
       episodes: Ep. 693-696
       released: "2016-09-30"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: ACC7852E
+            length: "25:44"
     - arc: 31
       episode: 30
       title: Secret Plan
@@ -3341,7 +4629,11 @@
       episodes: Ep. 694,696-698
       released: "2016-10-06"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 4F16C5DC
+            length: "22:42"
     - arc: 31
       episode: 31
       title: The Operation Fruit
@@ -3350,7 +4642,11 @@
       episodes: Ep. 699-700
       released: "2016-10-13"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 9C3360D6
+            length: "21:22"
     - arc: 31
       episode: 32
       title: White Town
@@ -3359,7 +4655,11 @@
       episodes: Ep. 701-702
       released: "2016-10-16"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E98F852E
+            length: "28:35"
     - arc: 31
       episode: 33
       title: 'The Island of Fate: Minion'
@@ -3368,7 +4668,11 @@
       episodes: Ep. 703-704
       released: "2016-11-05"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 53AEB13C
+            length: "29:39"
     - arc: 31
       episode: 34
       title: Cora
@@ -3377,7 +4681,11 @@
       episodes: Ep. 705-706
       released: "2016-12-02"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 0CA47011
+            length: "28:58"
     - arc: 31
       episode: 35
       title: Bellamy the Pirate
@@ -3386,7 +4694,11 @@
       episodes: Ep. 707-711
       released: "2016-12-17"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 1B5DC33C
+            length: "24:02"
     - arc: 31
       episode: 36
       title: The Spear of Elbaph and Don Sai
@@ -3395,7 +4707,11 @@
       episodes: Ep. 708-711
       released: "2017-01-14"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F218F0E4
+            length: "26:19"
     - arc: 31
       episode: 37
       title: Cabbage and Lomeo
@@ -3404,7 +4720,11 @@
       episodes: Ep. 711-713
       released: "2017-02-24"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 777A9A6A
+            length: "28:20"
     - arc: 31
       episode: 38
       title: To Russian, with Love
@@ -3413,7 +4733,11 @@
       episodes: Ep. 714-716
       released: "2017-03-12"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 0429451F
+            length: "29:16"
     - arc: 31
       episode: 39
       title: Zoro vs. Pica
@@ -3422,7 +4746,11 @@
       episodes: Ep. 716-719
       released: "2017-03-20"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 7391ECD4
+            length: "42:40"
     - arc: 31
       episode: 40
       title: The Curse of Heart
@@ -3431,7 +4759,11 @@
       episodes: Ep. 714-715,720-723
       released: "2017-03-26"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: ECD80B22
+            length: "41:05"
     - arc: 31
       episode: 41
       title: In My Way
@@ -3440,7 +4772,11 @@
       episodes: Ep. 723-725
       released: "2017-04-27"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 3E9F11F9
+            length: "28:55"
     - arc: 31
       episode: 42
       title: Gear Fourth
@@ -3449,7 +4785,11 @@
       episodes: Ep. 726-728
       released: "2017-05-13"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 55292D1C
+            length: "28:38"
     - arc: 31
       episode: 43
       title: Gatz
@@ -3458,7 +4798,11 @@
       episodes: Ep. 728-730
       released: "2017-05-20"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: CAA32C42
+            length: "28:15"
     - arc: 31
       episode: 44
       title: Heaven and Earth
@@ -3467,7 +4811,11 @@
       episodes: Ep. 730-733
       released: "2017-05-28"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 4DDF4C07
+            length: "39:09"
     - arc: 31
       episode: 45
       title: Prostration
@@ -3476,7 +4824,11 @@
       episodes: Ep. 734-736
       released: "2017-06-10"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: "15344804"
+            length: "40:24"
     - arc: 31
       episode: 46
       title: Sabo's Adventure
@@ -3485,7 +4837,11 @@
       episodes: Ep. 737-739
       released: "2017-06-28"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 81C4666C
+            length: "36:09"
     - arc: 31
       episode: 47
       title: Soldier's Conviction
@@ -3494,7 +4850,11 @@
       episodes: Ep. 740-742
       released: "2017-09-02"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 01C40FA1
+            length: "37:02"
     - arc: 31
       episode: 48
       title: Father and Sons
@@ -3503,7 +4863,11 @@
       episodes: Ep. 742-745
       released: "2017-09-10"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 5F035A13
+            length: "42:56"
   gid: "168502639"
 - arc: 32
   title: Zou
@@ -3527,7 +4891,11 @@
       episodes: Ep. 746-747,751-753
       released: "2016-08-26"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E70913D9
+            length: "38:09"
     - arc: 32
       episode: 2
       title: The Minks
@@ -3536,7 +4904,11 @@
       episodes: Ep. 753-754
       released: "2016-09-09"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 32150FF4
+            length: "20:37"
     - arc: 32
       episode: 3
       title: At Rightflank Fortress
@@ -3545,7 +4917,11 @@
       episodes: Ep. 755-757
       released: "2016-09-30"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E4B077F8
+            length: "26:41"
     - arc: 32
       episode: 4
       title: Duke Inuarashi and Master Nekomamushi
@@ -3554,7 +4930,11 @@
       episodes: Ep. 757-760
       released: "2016-10-23"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: A4F76B13
+            length: "24:35"
     - arc: 32
       episode: 5
       title: The Curly Hat Pirates Arrive
@@ -3563,7 +4943,11 @@
       episodes: Ep. 759-762
       released: "2016-11-16"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 7149D13F
+            length: "24:03"
     - arc: 32
       episode: 6
       title: Tea Party Invitation
@@ -3572,7 +4956,11 @@
       episodes: Ep. 762-764
       released: "2016-12-24"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 7F73DB45
+            length: "29:36"
     - arc: 32
       episode: 7
       title: Let's Go See Master Nekomamushi
@@ -3581,7 +4969,11 @@
       episodes: Ep. 764-766
       released: "2016-12-12"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: "55837445"
+            length: "30:46"
     - arc: 32
       episode: 8
       title: Raizo of the Mist
@@ -3590,7 +4982,11 @@
       episodes: Ep. 767-769
       released: "2016-12-25"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 5B2AAFBF
+            length: "29:12"
     - arc: 32
       episode: 9
       title: Momonosuke, Heir of the Kozuki Family
@@ -3599,7 +4995,11 @@
       episodes: Ep. 769-772
       released: "2017-01-27"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 0880B38F
+            length: "32:15"
     - arc: 32
       episode: 10
       title: Understood
@@ -3608,7 +5008,11 @@
       episodes: Ep. 772-774,776
       released: "2017-03-03"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 4A52B138
+            length: "44:34"
   gid: "1146420179"
 - arc: 33
   title: Whole Cake Island
@@ -3632,7 +5036,11 @@
       episodes: Ep. 777-779,783
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 3F24A1D8
+            length: "31:03"
     - arc: 33
       episode: 2
       title: 0 and 4
@@ -3641,7 +5049,11 @@
       episodes: Ep. 783-785
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 6FFCB482
+            length: "33:09"
     - arc: 33
       episode: 3
       title: Totto Land
@@ -3650,7 +5062,11 @@
       episodes: Ep. 785-788
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 3F6633B5
+            length: "31:57"
     - arc: 33
       episode: 4
       title: Pirate Emperor, Charlotte Linlin
@@ -3659,7 +5075,11 @@
       episodes: Ep. 788-790
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 02C6FC2B
+            length: "31:17"
     - arc: 33
       episode: 5
       title: Adventure in the Mysterious Forest
@@ -3668,7 +5088,11 @@
       episodes: Ep. 791-793
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 4CF30353
+            length: "32:14"
     - arc: 33
       episode: 6
       title: Vinsmoke Judge
@@ -3677,7 +5101,11 @@
       episodes: Ep. 793-795
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 410C8F0C
+            length: "32:19"
     - arc: 33
       episode: 7
       title: Lola's Vivre Card
@@ -3686,7 +5114,11 @@
       episodes: Ep. 796-798
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: FC2376A1
+            length: "31:12"
     - arc: 33
       episode: 8
       title: Luffy vs. Commander Cracker
@@ -3695,7 +5127,11 @@
       episodes: Ep. 798-800
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 31018FCB
+            length: "26:19"
     - arc: 33
       episode: 9
       title: The Iron Mask
@@ -3704,7 +5140,11 @@
       episodes: Ep. 800-803,807
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 94E3481F
+            length: "32:05"
     - arc: 33
       episode: 10
       title: To the East Blue
@@ -3713,7 +5153,11 @@
       episodes: Ep. 804-806
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E123D314
+            length: "35:45"
     - arc: 33
       episode: 11
       title: Luffy vs. Sanji
@@ -3722,7 +5166,11 @@
       episodes: Ep. 806-808
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 8B5E1006
+            length: "26:18"
     - arc: 33
       episode: 12
       title: Forces of Rage
@@ -3731,7 +5179,11 @@
       episodes: Ep. 809-812
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 36D0F622
+            length: "34:17"
     - arc: 33
       episode: 13
       title: Luffy and Big Mom
@@ -3740,7 +5192,11 @@
       episodes: Ep. 812-815
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: D9EEB564
+            length: "32:25"
     - arc: 33
       episode: 14
       title: A Ray of Light
@@ -3749,7 +5205,11 @@
       episodes: Ep. 814-817
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: CCCBEFC0
+            length: "34:50"
     - arc: 33
       episode: 15
       title: Germa's Failure
@@ -3758,7 +5218,11 @@
       episodes: Ep. 817-820
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 0E2022E4
+            length: "35:53"
     - arc: 33
       episode: 16
       title: Not Here
@@ -3767,7 +5231,11 @@
       episodes: Ep. 820-822
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: A8E42FE1
+            length: "29:18"
     - arc: 33
       episode: 17
       title: Liar
@@ -3776,7 +5244,11 @@
       episodes: Ep. 823-825
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 0CF96D5A
+            length: "33:49"
     - arc: 33
       episode: 18
       title: Rook
@@ -3785,7 +5257,11 @@
       episodes: Ep. 826-828
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 3F5E7FD3
+            length: "36:10"
     - arc: 33
       episode: 19
       title: Emperor Assassination Plan
@@ -3794,7 +5270,11 @@
       episodes: Ep. 828-830
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 0F125E00
+            length: "33:28"
     - arc: 33
       episode: 20
       title: Veteran Actor
@@ -3803,7 +5283,11 @@
       episodes: Ep. 831-832
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 4F38961B
+            length: "29:32"
     - arc: 33
       episode: 21
       title: The Honorable
@@ -3812,7 +5296,11 @@
       episodes: Ep. 831,833-834
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 5FDB702D
+            length: "35:35"
     - arc: 33
       episode: 22
       title: Hey, Mother
@@ -3821,7 +5309,11 @@
       episodes: Ep. 835-836
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 39D94718
+            length: "28:15"
     - arc: 33
       episode: 23
       title: HAPPY BIRTHDAY
@@ -3830,7 +5322,11 @@
       episodes: Ep. 837-839
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 437F9E8D
+            length: "33:58"
     - arc: 33
       episode: 24
       title: Under Siege
@@ -3839,7 +5335,11 @@
       episodes: Ep. 839-841
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 6E422CFB
+            length: "28:41"
     - arc: 33
       episode: 25
       title: You Can Do It, Caesar!!
@@ -3848,7 +5348,11 @@
       episodes: Ep. 841-843
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 32CC4AB9
+            length: "35:41"
     - arc: 33
       episode: 26
       title: Become My Servant
@@ -3857,7 +5361,11 @@
       episodes: Ep. 843-846
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 71827EF0
+            length: "34:14"
     - arc: 33
       episode: 27
       title: A Woman's Honor
@@ -3866,7 +5374,11 @@
       episodes: Ep. 846-848
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 2CDA8E9D
+            length: "33:11"
     - arc: 33
       episode: 28
       title: Mink Pedro, Captain of the Guardians
@@ -3875,7 +5387,11 @@
       episodes: Ep. 848-850
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 22B16322
+            length: "32:15"
     - arc: 33
       episode: 29
       title: Zero Escape
@@ -3884,7 +5400,11 @@
       episodes: Ep. 851-853
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 270A4ABD
+            length: "30:21"
     - arc: 33
       episode: 30
       title: Wave Room
@@ -3893,7 +5413,11 @@
       episodes: Ep. 853-855,858
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: ABB0AC56
+            length: "33:25"
     - arc: 33
       episode: 31
       title: Merienda
@@ -3902,7 +5426,11 @@
       episodes: Ep. 856-858
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 529AE554
+            length: "31:08"
     - arc: 33
       episode: 32
       title: Way of Life
@@ -3911,7 +5439,11 @@
       episodes: Ep. 858-860
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 8313ECE3
+            length: "32:11"
     - arc: 33
       episode: 33
       title: Lion
@@ -3920,7 +5452,11 @@
       episodes: Ep. 860-862
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 6FBBD350
+            length: "30:56"
     - arc: 33
       episode: 34
       title: Unknown Mama
@@ -3929,7 +5465,11 @@
       episodes: Ep. 862-865
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: A3939979
+            length: "37:46"
     - arc: 33
       episode: 35
       title: They Believe in Me
@@ -3938,7 +5478,11 @@
       episodes: Ep. 865-868
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 1753F7D1
+            length: "36:19"
     - arc: 33
       episode: 36
       title: Pirate Luffy vs. Commander Katakuri
@@ -3947,7 +5491,11 @@
       episodes: Ep. 865,867-870
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 3AF37912
+            length: "33:49"
     - arc: 33
       episode: 37
       title: One Last Thing
@@ -3956,7 +5504,11 @@
       episodes: Ep. 871-872
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 3C58DD41
+            length: "28:56"
     - arc: 33
       episode: 38
       title: BAD END MUSICAL
@@ -3965,7 +5517,11 @@
       episodes: Ep. 873-875
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E9317CBD
+            length: "41:27"
     - arc: 33
       episode: 39
       title: END ROLL
@@ -3974,7 +5530,11 @@
       episodes: Ep. 876-877
       released: "2020-12-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 172F5F20
+            length: "34:30"
   gid: "1510623527"
 - arc: 34
   title: Reverie
@@ -3998,7 +5558,11 @@
       episodes: Ep. 878-880
       released: "2024-10-5"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: C5FB1123
+            length: "33:30"
     - arc: 34
       episode: 2
       title: A Beautiful World
@@ -4007,7 +5571,11 @@
       episodes: Ep. 881-885
       released: "2024-10-5"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 6E0CD1C5
+            length: "35:04"
     - arc: 34
       episode: 3
       title: The Empty Throne
@@ -4016,7 +5584,11 @@
       episodes: Ep. 886-889
       released: "2024-10-5"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 0B51015F
+            length: "28:38"
   gid: "1529137639"
 - arc: 35
   title: Wano
@@ -4049,7 +5621,11 @@
       episodes: Ep. 890-891
       released: "2025-04-04"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F15AFDE0
+            length: "22:48"
     - arc: 35
       episode: 2
       title: Seppuku
@@ -4057,8 +5633,16 @@
       chapters: Ch. 909-911
       episodes: Ep. 892-894
       released: "2025-05-17"
-      has_extended: false
-      files: {}
+      has_extended: true
+      files:
+        normal:
+            version: normal
+            crc32: 8538EDC4
+            length: "29:06"
+        extended:
+            version: extended
+            crc32: 6F26FDAB
+            length: "32:01"
     - arc: 35
       episode: 3
       title: Amigasa Village
@@ -4067,7 +5651,11 @@
       episodes: Ep. 894,897
       released: "2025-06-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 410FD111
+            length: "34:00"
     - arc: 35
       episode: 4
       title: Tsuru Returns the Favor
@@ -4076,7 +5664,11 @@
       episodes: Ep. 898-899
       released: "2026-01-25"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E937ED2B
+            length: "20:26"
     - arc: 35
       episode: 5
       title: Okobore Town
@@ -4085,7 +5677,11 @@
       episodes: Ep. 900-902
       released: "2019-10-18"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: B51C53E9
+            length: "32:59"
     - arc: 35
       episode: 6
       title: Wano's Grand Sumo Tournament
@@ -4094,7 +5690,11 @@
       episodes: Ep. 902-903
       released: "2019-10-18"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 13E4ABCF
+            length: "25:48"
     - arc: 35
       episode: 7
       title: The Provisions Ship
@@ -4103,7 +5703,11 @@
       episodes: Ep. 904-905
       released: "2019-11-22"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F71F9B71
+            length: "31:19"
     - arc: 35
       episode: 8
       title: The Ruins of Oden Castle
@@ -4112,7 +5716,11 @@
       episodes: Ep. 906,908-909
       released: "2020-03-14"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 6DA86F5F
+            length: "38:50"
     - arc: 35
       episode: 9
       title: I Love Oden
@@ -4121,7 +5729,11 @@
       episodes: Ep. 909-911
       released: "2020-03-16"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 5A5E65B1
+            length: "30:57"
     - arc: 35
       episode: 10
       title: Shutenmaru
@@ -4130,7 +5742,11 @@
       episodes: Ep. 911-913
       released: "2020-03-31"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 91BE23B7
+            length: "37:01"
     - arc: 35
       episode: 11
       title: Emperor Kaido vs. Luffy
@@ -4139,7 +5755,11 @@
       episodes: Ep. 914-915
       released: "2020-03-31"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 6A9CF454
+            length: "25:28"
     - arc: 35
       episode: 12
       title: Hah
@@ -4148,7 +5768,11 @@
       episodes: Ep. 916
       released: "2020-04-01"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 5ACE812A
+            length: "20:31"
     - arc: 35
       episode: 13
       title: Void
@@ -4157,7 +5781,11 @@
       episodes: Ep. 917-919,924
       released: "2020-05-06"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: DCF7AD65
+            length: "36:54"
     - arc: 35
       episode: 14
       title: Otoko the Kamuro
@@ -4166,7 +5794,11 @@
       episodes: Ep. 919-922
       released: "2020-06-25"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: BF92DCAF
+            length: "38:08"
     - arc: 35
       episode: 15
       title: Oiran Komurasaki Arrives
@@ -4175,7 +5807,11 @@
       episodes: Ep. 921-923
       released: "2020-07-12"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: AE6ABE84
+            length: "38:51"
     - arc: 35
       episode: 16
       title: Soba Mask
@@ -4184,7 +5820,11 @@
       episodes: Ep. 923-926
       released: "2020-07-24"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 9FA61F60
+            length: "34:06"
     - arc: 35
       episode: 17
       title: The Shogun and the Oiran
@@ -4193,7 +5833,11 @@
       episodes: Ep. 926-928
       released: "2020-07-31"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: D2E02F36
+            length: "39:02"
     - arc: 35
       episode: 18
       title: Hyogoro the Flower
@@ -4202,7 +5846,11 @@
       episodes: Ep. 929-931
       released: "2020-12-09"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 94F78CF3
+            length: "37:21"
     - arc: 35
       episode: 19
       title: Gyukimaru of Bandit's Bridge
@@ -4211,7 +5859,11 @@
       episodes: Ep. 931-934
       released: "2020-12-09"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 6C9E8055
+            length: "37:16"
     - arc: 35
       episode: 20
       title: A Woman's Secret
@@ -4220,7 +5872,11 @@
       episodes: Ep. 934-937
       released: "2021-01-09"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: "93376225"
+            length: "34:44"
     - arc: 35
       episode: 21
       title: Sparks of Rebellion
@@ -4229,7 +5885,11 @@
       episodes: Ep. 936-938
       released: "2021-02-28"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 0B965026
+            length: "34:16"
     - arc: 35
       episode: 22
       title: Shimotsuki Yasuie, the Daimyo of Hakumai
@@ -4238,7 +5898,11 @@
       episodes: Ep. 939-940
       released: "2021-04-28"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 9F63AF78
+            length: "29:09"
     - arc: 35
       episode: 23
       title: SMILE
@@ -4247,7 +5911,11 @@
       episodes: Ep. 941-943
       released: "2022-01-18"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 37670A03
+            length: "39:59"
     - arc: 35
       episode: 24
       title: Olin
@@ -4256,7 +5924,11 @@
       episodes: Ep. 942-944
       released: "2022-01-18"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 6173BCE1
+            length: "22:30"
     - arc: 35
       episode: 25
       title: Queen vs. Olin
@@ -4265,7 +5937,11 @@
       episodes: Ep. 945-947
       released: "2021-09-10"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: C3825063
+            length: "33:27"
     - arc: 35
       episode: 26
       title: Mummy
@@ -4274,7 +5950,11 @@
       episodes: Ep. 947-949
       released: "2022-01-18"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F3E829E8
+            length: "32:36"
     - arc: 35
       episode: 27
       title: A Soldier's Dream
@@ -4283,7 +5963,11 @@
       episodes: Ep. 950-951
       released: "2022-02-13"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 3CC8226D
+            length: "30:16"
     - arc: 35
       episode: 28
       title: RAMPAGE
@@ -4292,7 +5976,11 @@
       episodes: Ep. 952-953
       released: "2022-04-21"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 22F81B0E
+            length: "27:57"
     - arc: 35
       episode: 29
       title: Once a Fox
@@ -4301,7 +5989,11 @@
       episodes: Ep. 954-955
       released: "2022-12-18"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 5C7E0604
+            length: "27:24"
     - arc: 35
       episode: 30
       title: Enma
@@ -4310,7 +6002,11 @@
       episodes: Ep. 955-956
       released: "2023-04-06"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 43A0D1DF
+            length: "27:18"
     - arc: 35
       episode: 31
       title: Big News
@@ -4319,7 +6015,11 @@
       episodes: Ep. 957
       released: "2023-06-27"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F6C7EB83
+            length: "18:25"
     - arc: 35
       episode: 32
       title: Ultimate
@@ -4328,7 +6028,11 @@
       episodes: Ep. 958
       released: "2023-07-08"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 29B91F56
+            length: "16:23"
     - arc: 35
       episode: 33
       title: The Designated Port
@@ -4337,7 +6041,11 @@
       episodes: Ep. 959-960
       released: "2023-09-02"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E3AB2BA0
+            length: "25:52"
     - arc: 35
       episode: 34
       title: The Day of the Mountain God
@@ -4346,7 +6054,11 @@
       episodes: Ep. 960-961
       released: "2023-09-23"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 224B7846
+            length: "23:00"
     - arc: 35
       episode: 35
       title: Daimyo and Retainers
@@ -4355,7 +6067,11 @@
       episodes: Ep. 961-963
       released: "2023-10-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 98B5E26D
+            length: "30:32"
     - arc: 35
       episode: 36
       title: Oden's Adventure
@@ -4364,7 +6080,11 @@
       episodes: Ep. 963-964
       released: "2023-12-08"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: BAFFE801
+            length: "28:07"
     - arc: 35
       episode: 37
       title: Roger and Whitebeard
@@ -4373,7 +6093,11 @@
       episodes: Ep. 964-967
       released: "2023-12-15"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: AD8C9C16
+            length: "36:51"
     - arc: 35
       episode: 38
       title: Roger's Adventure
@@ -4382,7 +6106,11 @@
       episodes: Ep. 967-968
       released: "2024-01-26"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 298A4284
+            length: "21:48"
     - arc: 35
       episode: 39
       title: Fool of a Lord
@@ -4391,7 +6119,11 @@
       episodes: Ep. 969-971
       released: "2024-04-05"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 56CFB8B0
+            length: "38:01"
     - arc: 35
       episode: 40
       title: Oden Was Meant to Boil
@@ -4400,7 +6132,11 @@
       episodes: Ep. 971-975
       released: "2024-05-10"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 713F7916
+            length: "41:53"
     - arc: 35
       episode: 41
       title: The Kozuki Clan
@@ -4409,7 +6145,11 @@
       episodes: Ep. 975-977
       released: "2024-06-28"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: C89B4C1E
+            length: "35:20"
     - arc: 35
       episode: 42
       title: Kin'emon's Clever Ruse
@@ -4418,7 +6158,11 @@
       episodes: Ep. 978-980
       released: "2024-08-30"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 3FC81ABD
+            length: "33:31"
     - arc: 35
       episode: 43
       title: The Party's Off!!!
@@ -4427,7 +6171,11 @@
       episodes: Ep. 981-982
       released: "2024-09-28"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 26D98629
+            length: "28:02"
     - arc: 35
       episode: 44
       title: A Family Matter
@@ -4436,7 +6184,11 @@
       episodes: Ep. 983-985
       released: "2024-10-26"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F1FB27C6
+            length: "27:23"
     - arc: 35
       episode: 45
       title: Fighting Music
@@ -4445,7 +6197,11 @@
       episodes: Ep. 985-988
       released: "2024-11-09"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: DFB30A71
+            length: "30:20"
     - arc: 35
       episode: 46
       title: Thunder
@@ -4454,7 +6210,11 @@
       episodes: Ep. 988-991
       released: "2024-11-16"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 7392F65E
+            length: "30:32"
     - arc: 35
       episode: 47
       title: My Bible
@@ -4463,7 +6223,11 @@
       episodes: Ep. 991-994
       released: "2025-05-09"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: D78E29CD
+            length: "33:35"
     - arc: 35
       episode: 48
       title: Retainers of Glory
@@ -4472,7 +6236,11 @@
       episodes: Ep. 994-997
       released: "2025-05-17"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F47C3EDD
+            length: "34:56"
     - arc: 35
       episode: 49
       title: I Can't Imagine Losing
@@ -4480,8 +6248,16 @@
       chapters: Ch. 988-989
       episodes: Ep. 997-1000
       released: "2025-05-17"
-      has_extended: false
-      files: {}
+      has_extended: true
+      files:
+        normal:
+            version: normal
+            crc32: FE878EE8
+            length: "31:21"
+        extended:
+            version: extended
+            crc32: 58469AB0
+            length: "33:14"
     - arc: 35
       episode: 50
       title: Army of One
@@ -4490,7 +6266,11 @@
       episodes: Ep. 1001-1003
       released: "2025-06-06"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 0144BBBA
+            length: "31:15"
     - arc: 35
       episode: 51
       title: Remnants
@@ -4499,7 +6279,11 @@
       episodes: Ep. 1003-1006
       released: "2025-06-13"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E004EDB5
+            length: "29:49"
     - arc: 35
       episode: 52
       title: A Kunoichi's Oath
@@ -4508,7 +6292,11 @@
       episodes: Ep. 1006-1009
       released: "2025-06-20"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: D985734A
+            length: "26:49"
     - arc: 35
       episode: 53
       title: Flame Clouds
@@ -4517,7 +6305,11 @@
       episodes: Ep. 1009-1011
       released: "2025-07-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: C99E7631
+            length: "32:11"
     - arc: 35
       episode: 54
       title: The Sake I Brewed to Drink With You
@@ -4526,7 +6318,11 @@
       episodes: Ep. 1012-1014
       released: "2025-09-15"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 79C6DC33
+            length: "32:18"
     - arc: 35
       episode: 55
       title: Straw Hat Luffy
@@ -4534,8 +6330,16 @@
       chapters: Ch. 1000
       episodes: Ep. 1015
       released: "2025-09-27"
-      has_extended: false
-      files: {}
+      has_extended: true
+      files:
+        normal:
+            version: normal
+            crc32: 2501AC5A
+            length: "12:39"
+        extended:
+            version: extended
+            crc32: 425F93B9
+            length: "22:35"
     - arc: 35
       episode: 56
       title: The Battle of Monsters on Onigashima
@@ -4544,7 +6348,11 @@
       episodes: Ep. 1016-1017
       released: "2025-12-14"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: E58B9A11
+            length: "25:13"
     - arc: 35
       episode: 57
       title: Millet Dumplings
@@ -4553,7 +6361,11 @@
       episodes: Ep. 1018-1020
       released: "2026-02-02"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: F1EE1824
+            length: "29:07"
     - arc: 35
       episode: 58
       title: The Honorable Hyogoro "the Flower"
@@ -4562,7 +6374,11 @@
       episodes: Ep. 1020-1022
       released: "2026-02-21"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: A0FCAB46
+            length: "30:35"
     - arc: 35
       episode: 59
       title: Leader of the Mt. Atama Thieves, Ashura Doji
@@ -4571,7 +6387,11 @@
       episodes: Ep. 1023-1025
       released: "2026-03-22"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 2ED1FD82
+            length: "30:36"
     - arc: 35
       episode: 60
       title: Conqueror's Haki
@@ -4580,7 +6400,11 @@
       episodes: Ep. 1025-1028
       released: "2026-06-21"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 27E7EE1C
+            length: "26:06"
     - arc: 35
       episode: 61
       title: Wano 61
@@ -4589,7 +6413,11 @@
       episodes: Ep. 1028,1031-1032
       released: "2026-07-12"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 1EF3F26C
+            length: "25:12"
   gid: "1926352856"
 - arc: 36
   title: Egghead
@@ -4622,7 +6450,11 @@
       episodes: Ep. 1086-1088
       released: "2024-09-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: CA3F14A8
+            length: "24:53"
     - arc: 36
       episode: 2
       title: The Matter Involving Captain Koby
@@ -4631,7 +6463,11 @@
       episodes: Ep. 1087-1088
       released: "2024-09-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: D511F339
+            length: "23:58"
     - arc: 36
       episode: 3
       title: Future Island Egghead
@@ -4640,7 +6476,11 @@
       episodes: Ep. 1089-1090
       released: "2025-01-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 5B546203
+            length: "30:30"
     - arc: 36
       episode: 4
       title: Adventure in the Land of Science
@@ -4649,7 +6489,11 @@
       episodes: Ep. 1091-1093
       released: "2025-01-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: ACBE88D6
+            length: "31:53"
     - arc: 36
       episode: 5
       title: The Six Vegapunks
@@ -4658,7 +6502,11 @@
       episodes: Ep. 1093-1095
       released: "2025-01-11"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: C6E79353
+            length: "34:06"
     - arc: 36
       episode: 6
       title: The Will of Ohara
@@ -4667,7 +6515,11 @@
       episodes: Ep. 1096-1097
       released: "2025-02-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 69F1BBD5
+            length: "21:04"
     - arc: 36
       episode: 7
       title: Punk Records
@@ -4676,7 +6528,11 @@
       episodes: Ep. 1097-1099
       released: "2025-02-22"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: A42DEAED
+            length: "32:25"
     - arc: 36
       episode: 8
       title: The Strongest Form of Humanity
@@ -4684,8 +6540,16 @@
       chapters: Ch. 1069-1070
       episodes: Ep. 1099-1102
       released: "2025-03-08"
-      has_extended: false
-      files: {}
+      has_extended: true
+      files:
+        normal:
+            version: normal
+            crc32: 4C1997F3
+            length: "35:03"
+        extended:
+            version: extended
+            crc32: 1FDB8A9C
+            length: "38:47"
     - arc: 36
       episode: 9
       title: The Weight of Memory
@@ -4694,7 +6558,11 @@
       episodes: Ep. 1102-1104
       released: "2025-03-22"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 29B2D72D
+            length: "36:17"
     - arc: 36
       episode: 10
       title: Miss Buckingham Stussy
@@ -4703,7 +6571,11 @@
       episodes: Ep. 1104-1107
       released: "2025-04-18"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 2B00E24B
+            length: "36:06"
     - arc: 36
       episode: 11
       title: Labophase Death Game
@@ -4712,7 +6584,11 @@
       episodes: Ep. 1107-1109
       released: "2025-05-03"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 448628C9
+            length: "31:38"
     - arc: 36
       episode: 12
       title: Escape Limit
@@ -4721,7 +6597,11 @@
       episodes: Ep. 1108, 1110-1111
       released: "2025-06-13"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 6FEADFF5
+            length: "28:39"
     - arc: 36
       episode: 13
       title: The Emperor's Crew, The Red Hair Pirates
@@ -4729,8 +6609,16 @@
       chapters: Ch. 1079
       episodes: Ep. 1112
       released: "2025-06-30"
-      has_extended: false
-      files: {}
+      has_extended: true
+      files:
+        normal:
+            version: normal
+            crc32: 6C170189
+            length: "15:53"
+        extended:
+            version: extended
+            crc32: 482F69B7
+            length: "17:39"
     - arc: 36
       episode: 14
       title: The Legendary Hero
@@ -4738,8 +6626,16 @@
       chapters: Ch. 1080-1081
       episodes: Ep. 1113-1115
       released: "2025-08-10"
-      has_extended: false
-      files: {}
+      has_extended: true
+      files:
+        normal:
+            version: normal
+            crc32: 3C0010BE
+            length: "39:16"
+        extended:
+            version: extended
+            crc32: CA3683BA
+            length: "42:23"
     - arc: 36
       episode: 15
       title: Let's Go and Take It!!
@@ -4748,7 +6644,11 @@
       episodes: Ep. 1116-1117
       released: "2025-08-23"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 21BF9495
+            length: "31:48"
     - arc: 36
       episode: 16
       title: The Attempted Murder of a Celestial Dragon
@@ -4757,7 +6657,11 @@
       episodes: Ep. 1118-1119
       released: "2025-08-29"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 7A93DCC5
+            length: "24:50"
     - arc: 36
       episode: 17
       title: The Five Elders
@@ -4766,7 +6670,11 @@
       episodes: Ep. 1119-1120
       released: "2025-09-07"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 76281ED9
+            length: "20:21"
     - arc: 36
       episode: 18
       title: The Final Lesson
@@ -4775,7 +6683,11 @@
       episodes: Ep. 1121-1122
       released: "2025-10-05"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: 24DEE374
+            length: "34:44"
     - arc: 36
       episode: 19
       title: Hostage Situation
@@ -4783,8 +6695,16 @@
       chapters: Ch. 1089-1090
       episodes: Ep. 1123-1124
       released: "2025-10-13"
-      has_extended: false
-      files: {}
+      has_extended: true
+      files:
+        normal:
+            version: normal
+            crc32: 73E70A0E
+            length: "30:59"
+        extended:
+            version: extended
+            crc32: CF226ADC
+            length: "32:46"
     - arc: 36
       episode: 20
       title: Sentomaru
@@ -4793,7 +6713,11 @@
       episodes: Ep. 1125-1126
       released: "2025-11-10"
       has_extended: false
-      files: {}
+      files:
+        normal:
+            version: normal
+            crc32: B974EFD7
+            length: "30:25"
     - arc: 36
       episode: 21
       title: Luffy vs. Kizaru
@@ -4801,6 +6725,14 @@
       chapters: Ch. 1093-1094
       episodes: Ep. 1127-1128
       released: "2026-06-09"
-      has_extended: false
-      files: {}
+      has_extended: true
+      files:
+        normal:
+            version: normal
+            crc32: DBDB2978
+            length: "28:45"
+        extended:
+            version: extended
+            crc32: 2C16CBB5
+            length: "34:46"
   gid: "1664435609"

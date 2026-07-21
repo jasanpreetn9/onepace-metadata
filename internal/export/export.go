@@ -136,6 +136,40 @@ func ExportMetadata(arcs []model.Arc, releases []model.Release, outDir string) e
 	}
 
 	// ========================================================
+	// 3b) BACKFILL EXISTING ENTRIES WITH MAGNET/TORRENT LINKS
+	// ========================================================
+	// The releases feed was added after most of the archive already existed,
+	// so entries created before this feature won't have magnet_uri/torrent_url
+	// from the "new episode" path above. Fill in only what's missing —
+	// additive, never overwrites an entry's existing data.
+	for crc, entry := range archive {
+		if entry.File.MagnetURI != "" && entry.File.TorrentURL != "" {
+			continue
+		}
+		release, ok := releasesByCRC[crc]
+		if !ok {
+			continue
+		}
+		changed := false
+		if entry.File.MagnetURI == "" && release.MagnetURI != "" {
+			entry.File.MagnetURI = release.MagnetURI
+			changed = true
+		}
+		if entry.File.TorrentURL == "" && release.TorrentURL != "" {
+			entry.File.TorrentURL = release.TorrentURL
+			changed = true
+		}
+		if entry.File.URL == "" && release.NyaaURL != "" {
+			entry.File.URL = release.NyaaURL
+			changed = true
+		}
+		if changed {
+			archive[crc] = entry
+			metadataChanged = true
+		}
+	}
+
+	// ========================================================
 	// 4) WRITE EPISODE ARCHIVE (legacy format)
 	// ========================================================
 

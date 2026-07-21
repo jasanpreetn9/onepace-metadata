@@ -72,7 +72,9 @@ type EpisodeFile struct {
 	CRC32  string `json:"crc32" yaml:"crc32"`
 	Length string `json:"length,omitempty" yaml:"length,omitempty"`
 
-	URL string `json:"url,omitempty" yaml:"url,omitempty"`
+	URL        string `json:"url,omitempty" yaml:"url,omitempty"`
+	MagnetURI  string `json:"magnet_uri,omitempty" yaml:"magnet_uri,omitempty"`
+	TorrentURL string `json:"torrent_url,omitempty" yaml:"torrent_url,omitempty"`
 }
 
 type EpisodeMeta struct {
@@ -91,4 +93,25 @@ type EpisodeArchiveEntry struct {
 
 	// Only the single file variant for this CRC
 	File EpisodeFile `json:"file" yaml:"file"`
+}
+
+//
+// ===============================
+//   RELEASES (onepace.net/en/releases feed)
+// ===============================
+//
+
+type Release struct {
+	Title         string   `json:"title" yaml:"title"`
+	Variant       string   `json:"variant" yaml:"variant"` // "regular" | "extended"
+	CRC32         string   `json:"crc32,omitempty" yaml:"crc32,omitempty"`
+	PublishedAt   string   `json:"published_at" yaml:"published_at"` // RFC3339
+	MangaChapters string   `json:"manga_chapters,omitempty" yaml:"manga_chapters,omitempty"`
+	AnimeEpisodes string   `json:"anime_episodes,omitempty" yaml:"anime_episodes,omitempty"`
+	Changelog     []string `json:"changelog,omitempty" yaml:"changelog,omitempty"`
+
+	InfoHash   string `json:"info_hash" yaml:"info_hash"`
+	NyaaURL    string `json:"nyaa_url,omitempty" yaml:"nyaa_url,omitempty"`
+	TorrentURL string `json:"torrent_url,omitempty" yaml:"torrent_url,omitempty"`
+	MagnetURI  string `json:"magnet_uri,omitempty" yaml:"magnet_uri,omitempty"`
 }

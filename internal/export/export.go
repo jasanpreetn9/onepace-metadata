@@ -16,13 +16,26 @@ import (
 // { "<CRC32>": EpisodeArchiveEntry }
 type EpisodesArchive map[string]model.EpisodeArchiveEntry
 
-func ExportMetadata(arcs []model.Arc, outDir string) error {
+// Archive stored as:
+// { "<InfoHash>": Release }
+type ReleasesArchive map[string]model.Release
+
+func ExportMetadata(arcs []model.Arc, releases []model.Release, outDir string) error {
 
 	// Ensure output directory exists
 	if err := util.EnsureDir(outDir); err != nil {
 		return err
 	}
 	metadataChanged := false
+
+	// Index releases by CRC32 so the episode archive can be enriched with
+	// magnet/torrent links without a per-CRC Nyaa search.
+	releasesByCRC := make(map[string]model.Release, len(releases))
+	for _, r := range releases {
+		if r.CRC32 != "" {
+			releasesByCRC[r.CRC32] = r
+		}
+	}
 	// ========================================================
 	// 1) EXPORT ARCS (modern structure)
 	// ========================================================
@@ -78,11 +91,7 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 					if _, exists := archive[key]; !exists {
 
 						file := *ep.Files.Normal
-						// The sheet no longer links CRCs to Nyaa, so
-						// resolve the download URL for new episodes.
-						if file.URL == "" {
-							file.URL = fetch.ResolveNyaaURL(file.CRC32)
-						}
+						enrichFileFromRelease(&file, releasesByCRC)
 
 						archive[key] = model.EpisodeArchiveEntry{
 							Arc:         ep.Arc,
@@ -107,9 +116,7 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 					if _, exists := archive[key]; !exists {
 
 						file := *ep.Files.Extended
-						if file.URL == "" {
-							file.URL = fetch.ResolveNyaaURL(file.CRC32)
-						}
+						enrichFileFromRelease(&file, releasesByCRC)
 
 						archive[key] = model.EpisodeArchiveEntry{
 							Arc:         ep.Arc,
@@ -155,7 +162,49 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 	}
 
 	// ========================================================
-	// 5) WRITE STATUS FILE
+	// 5) LOAD + MERGE + WRITE RELEASES ARCHIVE (append-only)
+	// ========================================================
+
+	releasesArchive := ReleasesArchive{}
+	releasesPath := outDir + "/releases.json"
+
+	if util.FileExists(releasesPath) {
+		raw, _ := os.ReadFile(releasesPath)
+		_ = json.Unmarshal(raw, &releasesArchive)
+	}
+
+	for _, r := range releases {
+		if r.InfoHash == "" {
+			continue
+		}
+		if _, exists := releasesArchive[r.InfoHash]; !exists {
+			releasesArchive[r.InfoHash] = r
+			metadataChanged = true
+		}
+	}
+
+	releasesJSON, err := json.MarshalIndent(releasesArchive, "", "  ")
+	if err != nil {
+		return err
+	}
+	if !util.FileUnchanged(releasesPath, releasesJSON) {
+		if err := os.WriteFile(releasesPath, releasesJSON, 0644); err != nil {
+			return err
+		}
+	}
+
+	releasesYAML, err := yaml.Marshal(releasesArchive)
+	if err != nil {
+		return err
+	}
+	if !util.FileUnchanged(outDir+"/releases.yml", releasesYAML) {
+		if err := os.WriteFile(outDir+"/releases.yml", releasesYAML, 0644); err != nil {
+			return err
+		}
+	}
+
+	// ========================================================
+	// 6) WRITE STATUS FILE
 	// ========================================================
 
 	if metadataChanged {
@@ -163,6 +212,7 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 			"updated_at": time.Now().UTC().Format(time.RFC3339),
 			"arcs":       len(arcs),
 			"episodes":   len(archive),
+			"releases":   len(releasesArchive),
 		}
 
 		statusJSON, err := json.MarshalIndent(status, "", "  ")
@@ -175,4 +225,20 @@ func ExportMetadata(arcs []model.Arc, outDir string) error {
 	}
 
 	return nil
+}
+
+// enrichFileFromRelease fills in an episode file's download links, preferring
+// the onepace.net releases feed (exact CRC match, no network round-trip)
+// over the Nyaa RSS search fallback used when a CRC isn't in the feed.
+func enrichFileFromRelease(file *model.EpisodeFile, releasesByCRC map[string]model.Release) {
+	if release, ok := releasesByCRC[file.CRC32]; ok {
+		file.URL = release.NyaaURL
+		file.MagnetURI = release.MagnetURI
+		file.TorrentURL = release.TorrentURL
+		return
+	}
+
+	if file.URL == "" {
+		file.URL = fetch.ResolveNyaaURL(file.CRC32)
+	}
 }

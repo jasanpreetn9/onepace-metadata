@@ -12,7 +12,12 @@ func main() {
 		panic(err)
 	}
 
-	err = export.ExportMetadata(arcs, "./data")
+	releases, err := fetch.FetchReleases()
+	if err != nil {
+		fmt.Println("Warning: failed to fetch releases feed:", err)
+	}
+
+	err = export.ExportMetadata(arcs, releases, "./data")
 	if err != nil {
 		panic(err)
 	}

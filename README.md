@@ -53,8 +53,21 @@ Thanks to `ladyisatis/one-pace-metadata` for the original implementation and ins
   - English episode description
 - Injects the proper title + description into each episode after parsing
 
+### Releases Feed Parsing
+- Fetches the official `onepace.net/en/releases` Atom feed (plain HTTP, no headless Chrome)
+- Covers the full release history, not just recent releases
+- Extracts, per release:
+  - Title, publish date, BitTorrent infoHash
+  - Variant (`regular` vs `extended`, from the feed's category)
+  - CRC32 (parsed from the magnet link's filename)
+  - Nyaa URL, magnet URI, `.torrent` URL
+  - Manga chapters / anime episodes
+  - Changelog entries, when the release notes list any
+- Used to enrich the episode archive's download links (magnet/torrent) by CRC32 match, without needing a Nyaa search
+- Falls back to the existing Nyaa RSS search only for CRCs the feed doesn't cover
+
 ### ✔ Export System
-Exports two datasets:
+Exports three datasets:
 
 #### `/data/arcs.json` and `/data/arcs.yml`
 Structured by arcs:
@@ -68,6 +81,11 @@ Indexed by CRC32:
 - Each CRC32 key points to episode metadata
 - Keeps all historical CRC32 entries
 - Ensures old versions remain available even after One Pace updates files
+
+#### `/data/releases.json` and `/data/releases.yml`
+Indexed by BitTorrent infoHash:
+- Each entry is a single release from the `onepace.net/en/releases` feed, including its changelog
+- Append-only, same as the episode archive — history (including past changelogs) is never dropped
 
 ---
 
@@ -101,6 +119,8 @@ arcs.json
 arcs.yml
 episodes.json
 episodes.yml
+releases.json
+releases.yml
 ```
 
 ---

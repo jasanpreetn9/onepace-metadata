@@ -3904,6 +3904,30 @@ fc5f605b1fc12f8a14b6176690151ea53bcb7e19:
     nyaa_url: https://nyaa.si/view/1282922
     torrent_url: https://nyaa.si/download/1282922.torrent
     magnet_uri: magnet:?xt=urn:btih:fc5f605b1fc12f8a14b6176690151ea53bcb7e19&dn=%5BOne+Pace%5D%5B96-100%5D+Loguetown+%5B480p%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969
+fd45bfdd4f9b0559c4fd2f209a0da0198c71ec0b:
+    title: Drum Island 01
+    variant: regular
+    crc32: "056965E8"
+    published_at: "2026-07-20T12:00:00.000Z"
+    manga_chapters: 129-132
+    anime_episodes: 78-80
+    changelog:
+        - Changed the One Pace logo placement in the OP.
+        - Added German, Italian, Japanese, and Turkish subtitles.
+        - 03:28 - Reaction shots cut, reduced by about 10 seconds.
+        - 03:53 - Restored a word of Usopp's shouting that was cut off.
+        - 03:57 - Removed two of Zoro's overhead weight-swinging reps.
+        - 04:23 - Moved the Bon Kurei scene to after Nami faints for pacing and to avoid reestablishing the Straw Hats at sea.
+        - 05:24 - Removed the shot of the Swanda's prow.
+        - 05:56 - Isolated the voices of the scene of Vivi taking care of Nami inside the Merry, tightening the Pacing considerably and shortening the length by about 15 seconds.
+        - 10:05 - Another voice isolation, removing about 10 seconds of Nami leaving the room and struggling to breathe.
+        - 26:25 - Redid the arrival at Drum Island, removing two of the extra panning shots of the Drum Rockies, 2 reaction shots from the Straw Hats, and a extra zoomed out shot of the Merry in front of Drum. About 35 seconds removed.
+        - 27:16 - Isolated the voice for this scene in episode 79 of the Drum locals confronting the Straw Hats and combined footage from both 79 and 80 for a clean song removal and better pacing up until Vivi gets shot, saving about 12 seconds.
+        - 28:15 - Added the ED - BEFORE DAWN.
+    info_hash: fd45bfdd4f9b0559c4fd2f209a0da0198c71ec0b
+    nyaa_url: https://nyaa.si/view/2135190
+    torrent_url: https://nyaa.si/download/2135190.torrent
+    magnet_uri: magnet:?xt=urn:btih:fd45bfdd4f9b0559c4fd2f209a0da0198c71ec0b&dn=%5BOne+Pace%5D%5B129-132%5D+Drum+Island+01+%5B1080p%5D%5B056965E8%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
 fd204b5dc346f5458f7f04cf1ad98679aaf9586e:
     title: Fishman Island
     variant: regular

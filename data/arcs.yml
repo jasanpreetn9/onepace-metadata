@@ -804,7 +804,7 @@
 - arc: 13
   title: Drum Island
   audio_languages: JA,EN
-  subtitle_languages: EN, ES(1-6,8), FR
+  subtitle_languages: EN, DE(1), ES(1-6,8), FR, IT(1), JA(1), TR(1)
   resolution: 1080p
   manga_chapters: 129 - 154
   number_of_chapters: "26"
@@ -820,13 +820,13 @@
       title: Tin Plate Wapol
       description: En route to Arabasta, Nami falls ill. Without a doctor aboard the Going Merry, the Straw Hats must decide whether to stay the course or find more immediate help. As their ship crosses into a frigid area, a figure is seen standing on the water's surface.
       chapters: Ch. 129-132
-      episodes: Ep. 78-79
-      released: "2022-09-26"
+      episodes: Ep. 78-80
+      released: "2026-07-20"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: FD2B4F32
+            crc32: "056965E8"
             length: "29:37"
     - arc: 13
       episode: 2

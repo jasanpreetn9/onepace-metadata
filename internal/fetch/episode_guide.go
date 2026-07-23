@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"metadata-service/internal/config"
 	"metadata-service/internal/model"
+	"metadata-service/internal/parse"
 	"net/url"
 	"regexp"
 	"sort"
@@ -46,6 +47,7 @@ func FetchEpisodeGuideHome() ([]model.Arc, error) {
 
 		for idx := range episodes {
 			episodes[idx].Arc = arcs[i].Arc
+			episodes[idx].ID = fmt.Sprintf("%s-%03d", arcs[i].ID, episodes[idx].Episode)
 		}
 
 		arcs[i].Episodes = append(arcs[i].Episodes, episodes...)
@@ -187,24 +189,61 @@ func fetchArcList(spreadsheetID string) ([]model.Arc, error) {
 		resolution := strings.TrimSpace(cells.Eq(16).Text())
 
 		arcs = append(arcs, model.Arc{
-			Arc:               int(arcFloat * 10),
-			Title:             cleanTitle,
-			Status:            status,
-			AudioLanguages:    audioLanguages,
-			SubtitleLanguages: subtitleLanguages,
-			MangaChapters:     mangaChapters,
-			NumberOfChapters:  numberofChapters,
-			EpisodesAdapted:   episodesAdapted,
-			FillerEpisodes:    fillerEpisodes,
-			TimeSavedMins:     timeSavedMins,
-			TimeSavedPercent:  timeSavedPercent,
-			AnimeEpisodes:     animeEpisodes,
-			Resolution:        resolution,
-			GID:               gid,
+			ID:                    stableArcID(gid, cleanTitle),
+			Arc:                   int(arcFloat * 10),
+			Title:                 cleanTitle,
+			Status:                status,
+			AudioLanguages:        audioLanguages,
+			SubtitleLanguages:     subtitleLanguages,
+			MangaChapters:         mangaChapters,
+			MangaChapterRange:     parse.ChapterRange(mangaChapters),
+			NumberOfChapters:      numberofChapters,
+			EpisodesAdapted:       episodesAdapted,
+			FillerEpisodes:        fillerEpisodes,
+			TimeSavedMins:         timeSavedMins,
+			TimeSavedMinsValue:    parse.IntVal(timeSavedMins),
+			TimeSavedPercent:      timeSavedPercent,
+			TimeSavedPercentValue: parse.Percent(timeSavedPercent),
+			AnimeEpisodes:         animeEpisodes,
+			AnimeEpisodeRange:     parse.ChapterRange(animeEpisodes),
+			Resolution:            resolution,
+			GID:                   gid,
 		})
 
 	})
 	return arcs, nil
+}
+
+// stableArcID returns a join key for an arc that survives normalizeArcIDs
+// renumbering old arcs after a re-scrape. GID (the Google Sheet's per-tab
+// ID) is permanent once created; arcs with no sheet yet (TBR, no GID) fall
+// back to a slugified title.
+func stableArcID(gid, title string) string {
+	if gid != "" {
+		return gid
+	}
+	return slugify(title)
+}
+
+// slugify lowercases s and collapses runs of non-alphanumeric characters
+// into single hyphens, e.g. "Romance Dawn" -> "romance-dawn".
+func slugify(s string) string {
+	s = strings.ToLower(strings.TrimSpace(s))
+	var b strings.Builder
+	prevDash := false
+	for _, r := range s {
+		switch {
+		case r >= 'a' && r <= 'z' || r >= '0' && r <= '9':
+			b.WriteRune(r)
+			prevDash = false
+		default:
+			if !prevDash {
+				b.WriteByte('-')
+				prevDash = true
+			}
+		}
+	}
+	return strings.Trim(b.String(), "-")
 }
 
 // normalizeArcIDs fixes fractional arc numbers (6.5 → 7)
@@ -405,10 +444,11 @@ func fetchArcEpisodes(spreadsheetID, gid string) ([]model.Episode, error) {
 
 		if crc32 != "" {
 			files.Normal = &model.EpisodeFile{
-				Version: "normal",
-				CRC32:   crc32,
-				Length:  length,
-				URL:     url,
+				Version:       "normal",
+				CRC32:         crc32,
+				Length:        length,
+				LengthSeconds: parse.LengthSeconds(length),
+				URL:           url,
 			}
 		}
 
@@ -440,22 +480,24 @@ func fetchArcEpisodes(spreadsheetID, gid string) ([]model.Episode, error) {
 			if crcExt != "" {
 				hasExtended = true
 				files.Extended = &model.EpisodeFile{
-					Version: "extended",
-					CRC32:   crcExt,
-					Length:  extLength,
-					URL:     urlExt,
+					Version:       "extended",
+					CRC32:         crcExt,
+					Length:        extLength,
+					LengthSeconds: parse.LengthSeconds(extLength),
+					URL:           urlExt,
 				}
 			}
 		}
 
 		episodes = append(episodes, model.Episode{
-			Episode:     epNum,
-			Title:       epName,
-			Chapters:    chapters,
-			AnimeEps:    animeEps,
-			Released:    releaseDate,
-			HasExtended: hasExtended,
-			Files:       files,
+			Episode:      epNum,
+			Title:        epName,
+			Chapters:     chapters,
+			ChapterRange: parse.ChapterRange(chapters),
+			AnimeEps:     animeEps,
+			Released:     releaseDate,
+			HasExtended:  hasExtended,
+			Files:        files,
 		})
 	})
 

@@ -2,6 +2,7 @@ package export
 
 import (
 	"encoding/json"
+	"fmt"
 	"os"
 	"time"
 
@@ -94,6 +95,8 @@ func ExportMetadata(arcs []model.Arc, releases []model.Release, outDir string) e
 						enrichFileFromRelease(&file, releasesByCRC)
 
 						archive[key] = model.EpisodeArchiveEntry{
+							ArcID:       arc.ID,
+							EpisodeID:   ep.ID,
 							Arc:         ep.Arc,
 							Episode:     ep.Episode,
 							Title:       ep.Title,
@@ -119,6 +122,8 @@ func ExportMetadata(arcs []model.Arc, releases []model.Release, outDir string) e
 						enrichFileFromRelease(&file, releasesByCRC)
 
 						archive[key] = model.EpisodeArchiveEntry{
+							ArcID:       arc.ID,
+							EpisodeID:   ep.ID,
 							Arc:         ep.Arc,
 							Episode:     ep.Episode,
 							Title:       ep.Title,
@@ -163,9 +168,84 @@ func ExportMetadata(arcs []model.Arc, releases []model.Release, outDir string) e
 			entry.File.URL = release.NyaaURL
 			changed = true
 		}
+		if entry.File.ReleaseInfoHash == "" && release.InfoHash != "" {
+			entry.File.ReleaseInfoHash = release.InfoHash
+			changed = true
+		}
 		if changed {
 			archive[crc] = entry
 			metadataChanged = true
+		}
+	}
+
+	// ========================================================
+	// 3c) BACKFILL STABLE ARC/EPISODE IDS ONTO OLDER ENTRIES
+	// ========================================================
+	// ArcID/EpisodeID were added after most of the archive already existed
+	// (same situation as 3b above). Backfill them from this run's arcs by
+	// matching on the (Arc, Episode) numbers the entry was recorded with.
+	type arcEpisodeKey struct {
+		Arc     int
+		Episode int
+	}
+	type stableIDs struct{ ArcID, EpisodeID string }
+	idLookup := make(map[arcEpisodeKey]stableIDs)
+	for _, arc := range arcs {
+		for _, ep := range arc.Episodes {
+			idLookup[arcEpisodeKey{Arc: ep.Arc, Episode: ep.Episode}] = stableIDs{ArcID: arc.ID, EpisodeID: ep.ID}
+		}
+	}
+	for crc, entry := range archive {
+		if entry.ArcID != "" && entry.EpisodeID != "" {
+			continue
+		}
+		ids, ok := idLookup[arcEpisodeKey{Arc: entry.Arc, Episode: entry.Episode}]
+		if !ok {
+			continue
+		}
+		entry.ArcID = ids.ArcID
+		entry.EpisodeID = ids.EpisodeID
+		archive[crc] = entry
+		metadataChanged = true
+	}
+
+	// ========================================================
+	// 3d) COMPUTE IS_CURRENT PER (EPISODE, VARIANT)
+	// ========================================================
+	// Episodes get re-released under new CRC32s over time; mark the entry
+	// with the newest Released date (ISO YYYY-MM-DD, so lexicographic
+	// comparison is chronological) as current within its group, so a
+	// consumer can find "the" download link without scanning every
+	// historical CRC itself. Groups by EpisodeID when known, falling back
+	// to the raw (Arc, Episode) numbers for any entry the backfill above
+	// couldn't resolve.
+	type versionKey struct {
+		Episode string
+		Variant string
+	}
+	groups := make(map[versionKey][]string)
+	for crc, entry := range archive {
+		epKey := entry.EpisodeID
+		if epKey == "" {
+			epKey = fmt.Sprintf("%d-%d", entry.Arc, entry.Episode)
+		}
+		k := versionKey{Episode: epKey, Variant: entry.File.Version}
+		groups[k] = append(groups[k], crc)
+	}
+	for _, crcs := range groups {
+		latest := crcs[0]
+		for _, crc := range crcs[1:] {
+			if archive[crc].Released > archive[latest].Released {
+				latest = crc
+			}
+		}
+		for _, crc := range crcs {
+			want := crc == latest
+			if entry := archive[crc]; entry.IsCurrent != want {
+				entry.IsCurrent = want
+				archive[crc] = entry
+				metadataChanged = true
+			}
 		}
 	}
 
@@ -191,6 +271,62 @@ func ExportMetadata(arcs []model.Arc, releases []model.Release, outDir string) e
 	}
 	if !util.FileUnchanged(outDir+"/episodes.yml", archiveYAML) {
 		if err := os.WriteFile(outDir+"/episodes.yml", archiveYAML, 0644); err != nil {
+			return err
+		}
+	}
+
+	// ========================================================
+	// 4b) BUILD + WRITE DERIVED "CURRENT" VIEW
+	// ========================================================
+	// One entry per episode, keyed by EpisodeID, holding only the archive
+	// entries marked IsCurrent per variant — see model.CurrentEpisode.
+	currentEpisodes := make(map[string]model.CurrentEpisode)
+	for _, entry := range archive {
+		if !entry.IsCurrent {
+			continue
+		}
+		epKey := entry.EpisodeID
+		if epKey == "" {
+			epKey = fmt.Sprintf("%d-%d", entry.Arc, entry.Episode)
+		}
+
+		ce := currentEpisodes[epKey]
+		ce.ArcID = entry.ArcID
+		ce.EpisodeID = entry.EpisodeID
+		ce.Arc = entry.Arc
+		ce.Episode = entry.Episode
+		ce.Title = entry.Title
+		ce.Description = entry.Description
+		ce.Chapters = entry.Chapters
+		ce.AnimeEps = entry.AnimeEps
+		ce.Released = entry.Released
+
+		file := entry.File
+		if file.Version == "extended" {
+			ce.Files.Extended = &file
+		} else {
+			ce.Files.Normal = &file
+		}
+		currentEpisodes[epKey] = ce
+	}
+
+	currentPath := outDir + "/episodes-current.json"
+	currentJSON, err := json.MarshalIndent(currentEpisodes, "", "  ")
+	if err != nil {
+		return err
+	}
+	if !util.FileUnchanged(currentPath, currentJSON) {
+		if err := os.WriteFile(currentPath, currentJSON, 0644); err != nil {
+			return err
+		}
+	}
+
+	currentYAML, err := yaml.Marshal(currentEpisodes)
+	if err != nil {
+		return err
+	}
+	if !util.FileUnchanged(outDir+"/episodes-current.yml", currentYAML) {
+		if err := os.WriteFile(outDir+"/episodes-current.yml", currentYAML, 0644); err != nil {
 			return err
 		}
 	}
@@ -269,6 +405,7 @@ func enrichFileFromRelease(file *model.EpisodeFile, releasesByCRC map[string]mod
 		file.URL = release.NyaaURL
 		file.MagnetURI = release.MagnetURI
 		file.TorrentURL = release.TorrentURL
+		file.ReleaseInfoHash = release.InfoHash
 		return
 	}
 

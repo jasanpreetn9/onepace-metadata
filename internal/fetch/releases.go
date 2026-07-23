@@ -11,6 +11,7 @@ import (
 	"github.com/PuerkitoBio/goquery"
 
 	"metadata-service/internal/model"
+	"metadata-service/internal/parse"
 )
 
 // onePaceReleasesFeed is the official releases feed for onepace.net. It's a
@@ -92,6 +93,7 @@ func parseAtomEntry(entry atomEntry) model.Release {
 	if release.Variant == "" {
 		release.Variant = "regular"
 	}
+	release.NormalizedVariant = parse.NormalizeVariant(release.Variant)
 
 	for _, link := range entry.Links {
 		switch {
@@ -112,8 +114,10 @@ func parseAtomEntry(entry atomEntry) model.Release {
 			switch label {
 			case "manga chapters":
 				release.MangaChapters = val
+				release.MangaChapterRange = parse.ChapterRange(val)
 			case "anime episodes":
 				release.AnimeEpisodes = val
+				release.AnimeEpisodeRange = parse.ChapterRange(val)
 			}
 		})
 

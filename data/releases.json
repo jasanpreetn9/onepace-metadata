@@ -1901,6 +1901,31 @@
     "torrent_url": "https://nyaa.si/download/1961205.torrent",
     "magnet_uri": "magnet:?xt=urn:btih:707378a82ffb792bcbb455a8ac4e2b68de3e5721\u0026dn=%5BOne+Pace%5D%5B117-119%5D+Little+Garden+02+%5B1080p%5D%5B64714640%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce\u0026tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce\u0026tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce\u0026tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce\u0026tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce"
   },
+  "72760073f070e32da6b4f860d5edfac5228e2884": {
+    "title": "Drum Island 02",
+    "variant": "regular",
+    "crc32": "42F9FF82",
+    "published_at": "2026-07-26T15:30:00.000Z",
+    "manga_chapters": "132-135",
+    "anime_episodes": "80-81",
+    "changelog": [
+      "Changed the One Pace logo placement in the OP",
+      "Added German, Italian, Japanese, and Turkish subtitles"
+    ],
+    "info_hash": "72760073f070e32da6b4f860d5edfac5228e2884",
+    "nyaa_url": "https://nyaa.si/view/2138920",
+    "torrent_url": "https://nyaa.si/download/2138920.torrent",
+    "magnet_uri": "magnet:?xt=urn:btih:72760073f070e32da6b4f860d5edfac5228e2884\u0026dn=%5BOne+Pace%5D%5B132-135%5D+Drum+Island+02+%5B1080p%5D%5B42F9FF82%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce\u0026tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce\u0026tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce\u0026tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce\u0026tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce",
+    "normalized_variant": "normal",
+    "manga_chapter_range": {
+      "start": 132,
+      "end": 135
+    },
+    "anime_episode_range": {
+      "start": 80,
+      "end": 81
+    }
+  },
   "7308cedbbc45989b9f3044cc4fe4782860d8198e": {
     "title": "Syrup Village 01",
     "variant": "outdated",
@@ -2517,6 +2542,31 @@
     "nyaa_url": "https://nyaa.si/view/1917498",
     "torrent_url": "https://nyaa.si/download/1917498.torrent",
     "magnet_uri": "magnet:?xt=urn:btih:95960171eb9041ff76ae18ebc17de1eeb0081353"
+  },
+  "98058d41f97ea7b81ac5fd74ca9d13325e40cbab": {
+    "title": "Drum Island 03",
+    "variant": "regular",
+    "crc32": "01B33C9E",
+    "published_at": "2026-07-26T15:30:00.000Z",
+    "manga_chapters": "136-139",
+    "anime_episodes": "82-83",
+    "changelog": [
+      "Changed the One Pace logo placement in the OP",
+      "Added German, Italian, Japanese, and Turkish subtitles"
+    ],
+    "info_hash": "98058d41f97ea7b81ac5fd74ca9d13325e40cbab",
+    "nyaa_url": "https://nyaa.si/view/2138921",
+    "torrent_url": "https://nyaa.si/download/2138921.torrent",
+    "magnet_uri": "magnet:?xt=urn:btih:98058d41f97ea7b81ac5fd74ca9d13325e40cbab\u0026dn=%5BOne+Pace%5D%5B136-139%5D+Drum+Island+03+%5B1080p%5D%5B01B33C9E%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce\u0026tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce\u0026tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce\u0026tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce\u0026tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce",
+    "normalized_variant": "normal",
+    "manga_chapter_range": {
+      "start": 136,
+      "end": 139
+    },
+    "anime_episode_range": {
+      "start": 82,
+      "end": 83
+    }
   },
   "9806712382cf97d7c7e190bf20cbd1a6284e6906": {
     "title": "Wano 55",

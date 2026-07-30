@@ -1124,7 +1124,7 @@
   arc: 13
   title: Drum Island
   audio_languages: JA,EN
-  subtitle_languages: EN, DE(1), ES(1-6,8), FR, IT(1), JA(1), TR(1)
+  subtitle_languages: EN, DE(1-3), ES(1-6,8), FR, IT(1-3), JA(1-3), TR(1-3)
   resolution: 1080p
   manga_chapters: 129 - 154
   manga_chapter_range:
@@ -1137,10 +1137,10 @@
     end: 91
   episodes_adapted: "14"
   filler_episodes: ""
-  time_saved_mins: "62"
-  time_saved_mins_value: 62
-  time_saved_percent: 21.40%
-  time_saved_percent_value: 21.4
+  time_saved_mins: "63"
+  time_saved_mins_value: 63
+  time_saved_percent: 21.74%
+  time_saved_percent_value: 21.74
   status: ""
   episodes:
     - id: 793018827-001
@@ -1171,14 +1171,14 @@
         start: 132
         end: 135
       episodes: Ep. 80-81
-      released: "2022-09-26"
+      released: "2026-07-29"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: 8FDCC832
-            length: "33:04"
-            length_seconds: 1984
+            crc32: 42F9FF82
+            length: "32:00"
+            length_seconds: 1920
     - id: 793018827-003
       arc: 13
       episode: 3
@@ -1189,14 +1189,14 @@
         start: 136
         end: 139
       episodes: Ep. 82-83
-      released: "2022-09-26"
+      released: "2026-07-29"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: 2971EF62
-            length: "34:29"
-            length_seconds: 2069
+            crc32: 01B33C9E
+            length: "34:33"
+            length_seconds: 2073
     - id: 793018827-004
       arc: 13
       episode: 4

@@ -1415,7 +1415,7 @@
     "arc": 13,
     "title": "Drum Island",
     "audio_languages": "JA,EN",
-    "subtitle_languages": "EN, DE(1-3), ES(1-6,8), FR, IT(1-3), JA(1-3), TR(1-3)",
+    "subtitle_languages": "EN, DE(1-5), ES(1-6,8), FR, IT(1-5), JA(1-4), TR(1-5)",
     "resolution": "1080p",
     "manga_chapters": "129 - 154",
     "manga_chapter_range": {
@@ -1430,10 +1430,10 @@
     },
     "episodes_adapted": "14",
     "filler_episodes": "",
-    "time_saved_mins": "63",
-    "time_saved_mins_value": 63,
-    "time_saved_percent": "21.74%",
-    "time_saved_percent_value": 21.74,
+    "time_saved_mins": "61",
+    "time_saved_mins_value": 61,
+    "time_saved_percent": "21.06%",
+    "time_saved_percent_value": 21.06,
     "status": "",
     "episodes": [
       {
@@ -1511,20 +1511,20 @@
         "episode": 4,
         "title": "Enter: Tony Tony Chopper",
         "description": "Enter Chopper: a talking, transforming blue-nosed reindeer who was trained by Dr. Kureha in medicine. The Straw Hats immediately see the positives and want him on their crew, but Chopper must first deal with the monstrous pain in his heart.",
-        "chapters": "Ch. 139-140",
+        "chapters": "Ch. 139-141",
         "chapter_range": {
           "start": 139,
-          "end": 140
+          "end": 141
         },
         "episodes": "Ep. 83-84",
-        "released": "2022-09-26",
+        "released": "2026-08-10",
         "has_extended": false,
         "files": {
           "normal": {
             "version": "normal",
-            "crc32": "902076E8",
-            "length": "20:15",
-            "length_seconds": 1215
+            "crc32": "FD16BA9C",
+            "length": "21:55",
+            "length_seconds": 1315
           }
         }
       },
@@ -1540,14 +1540,14 @@
           "end": 145
         },
         "episodes": "Ep. 85-86",
-        "released": "2023-03-21",
+        "released": "2026-08-10",
         "has_extended": false,
         "files": {
           "normal": {
             "version": "normal",
-            "crc32": "E7044DBE",
-            "length": "39:26",
-            "length_seconds": 2366
+            "crc32": "3CEF5DD3",
+            "length": "39:46",
+            "length_seconds": 2386
           }
         }
       },

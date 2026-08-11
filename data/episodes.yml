@@ -866,6 +866,26 @@
         magnet_uri: magnet:?xt=urn:btih:b164abb99ea78b42c76b575a1591991302185d0d&dn=%5BOne+Pace%5D%5B950-951%5D+Wano+27+%5B1080p%5D%5B3CC8226D%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce
         torrent_url: https://nyaa.si/download/1490872.torrent
     is_current: true
+3CEF5DD3:
+    arc_id: "793018827"
+    episode_id: 793018827-005
+    arc: 13
+    episode: 5
+    title: Quack Doctor
+    description: Chopper began life as an ordinary reindeer but was shunned by his own kind because of his unusual blue nose. Even after eating the Human-Human Devil Fruit, the islanders wanted nothing to do with him. That is, until Chopper met a certain quack doctor.
+    chapters: Ch. 140-145
+    episodes: Ep. 85-86
+    released: "2026-08-10"
+    file:
+        version: normal
+        crc32: 3CEF5DD3
+        length: "39:46"
+        length_seconds: 2386
+        url: https://nyaa.si/view/2144644
+        magnet_uri: magnet:?xt=urn:btih:a5a142e99ebb149002f1ed29e6433e5e7a4b5333&dn=%5BOne+Pace%5D%5B140-145%5D+Drum+Island+05+%5B1080p%5D%5B3CEF5DD3%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+        torrent_url: https://nyaa.si/download/2144644.torrent
+        release_info_hash: a5a142e99ebb149002f1ed29e6433e5e7a4b5333
+    is_current: true
 3E9F11F9:
     arc_id: "168502639"
     episode_id: 168502639-041
@@ -5481,7 +5501,7 @@
         url: https://nyaa.si/view/1583374
         magnet_uri: magnet:?xt=urn:btih:d7b48a58f44b5a5f6c0f9709976629fa5efe17a8&dn=%5BOne+Pace%5D%5B139-140%5D+Drum+Island+04+%5B1080p%5D%5B902076E8%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce
         torrent_url: https://nyaa.si/download/1583374.torrent
-    is_current: true
+    is_current: false
 "01874097":
     arc_id: "709330688"
     episode_id: 709330688-003
@@ -8122,7 +8142,7 @@ E7044DBE:
         url: https://nyaa.si/view/1651826
         magnet_uri: magnet:?xt=urn:btih:d12effbcce07e669155bec4c2aaccaffaff790eb&dn=%5BOne+Pace%5D%5B141-145%5D+Drum+Island+05+%5B1080p%5D%5BE7044DBE%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969
         torrent_url: https://nyaa.si/download/1651826.torrent
-    is_current: true
+    is_current: false
 E9317CBD:
     arc_id: "1510623527"
     episode_id: 1510623527-038
@@ -8937,6 +8957,26 @@ FD2B4F32:
         magnet_uri: magnet:?xt=urn:btih:00d22c441e261ae3005e32736f2154b1156f5c48&dn=%5BOne+Pace%5D%5B129-132%5D+Drum+Island+01+%5B1080p%5D%5BFD2B4F32%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969
         torrent_url: https://nyaa.si/download/1583366.torrent
     is_current: false
+FD16BA9C:
+    arc_id: "793018827"
+    episode_id: 793018827-004
+    arc: 13
+    episode: 4
+    title: 'Enter: Tony Tony Chopper'
+    description: 'Enter Chopper: a talking, transforming blue-nosed reindeer who was trained by Dr. Kureha in medicine. The Straw Hats immediately see the positives and want him on their crew, but Chopper must first deal with the monstrous pain in his heart.'
+    chapters: Ch. 139-141
+    episodes: Ep. 83-84
+    released: "2026-08-10"
+    file:
+        version: normal
+        crc32: FD16BA9C
+        length: "21:55"
+        length_seconds: 1315
+        url: https://nyaa.si/view/2144643
+        magnet_uri: magnet:?xt=urn:btih:428553b84f71b550be98827a965f54ff7a04158d&dn=%5BOne+Pace%5D%5B139-141%5D+Drum+Island+04+%5B1080p%5D%5BFD16BA9C%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+        torrent_url: https://nyaa.si/download/2144643.torrent
+        release_info_hash: 428553b84f71b550be98827a965f54ff7a04158d
+    is_current: true
 FE0F64E2:
     arc_id: "1348628353"
     episode_id: 1348628353-013

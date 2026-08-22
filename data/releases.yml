@@ -20,6 +20,22 @@
     nyaa_url: https://nyaa.si/view/1479560
     torrent_url: https://nyaa.si/download/1479560.torrent
     magnet_uri: magnet:?xt=urn:btih:0a9639f371dbd1270c79b058309aeba62d91ebc6&dn=%5BOne+Pace%5D%5B948-949%5D+Wano+26+%5B1080p%5D%5BF3E829E8%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce
+0afc36f578dae7f40e2c77ed47738b94413f1bec:
+    title: Arlong Park 05
+    variant: outdated
+    crc32: 1FEED0EE
+    published_at: "2020-05-07T21:16:36.509Z"
+    manga_chapters: 79-81
+    anime_episodes: 36-37
+    info_hash: 0afc36f578dae7f40e2c77ed47738b94413f1bec
+    magnet_uri: magnet:?xt=urn:btih:0afc36f578dae7f40e2c77ed47738b94413f1bec&dn=%5BOne+Pace%5D%5B79-81%5D+Arlong+Park+05+%5B480p%5D%5B1FEED0EE%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 79
+        end: 81
+    anime_episode_range:
+        start: 36
+        end: 37
 0b65bb220a3d2c9fd72ff93aaef9279caa224523:
     title: Wano 54
     variant: regular
@@ -110,6 +126,21 @@
     nyaa_url: https://nyaa.si/view/1897010
     torrent_url: https://nyaa.si/download/1897010.torrent
     magnet_uri: magnet:?xt=urn:btih:1a4a34e36f79f59d7d72dd8f112407eea5f40063&dn=%5BOne+Pace%5D%5B980-981%5D+Wano+45+%5B1080p%5D%5BDFB30A71%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+1a6418d4183a3618734fcbb0f5db27db39f3ae7f:
+    title: Marineford 12
+    variant: outdated
+    published_at: "2019-01-06T12:00:00.000Z"
+    manga_chapters: 570-571
+    anime_episodes: 479-480
+    info_hash: 1a6418d4183a3618734fcbb0f5db27db39f3ae7f
+    magnet_uri: magnet:?xt=urn:btih:1a6418d4183a3618734fcbb0f5db27db39f3ae7f
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 570
+        end: 571
+    anime_episode_range:
+        start: 479
+        end: 480
 1ad1d02f115868eacb6852eef0a8e6ca59a3c524:
     title: Skypiea 09
     variant: regular
@@ -311,6 +342,22 @@
     nyaa_url: https://nyaa.si/view/2041111
     torrent_url: https://nyaa.si/download/2041111.torrent
     magnet_uri: magnet:?xt=urn:btih:2c0761e2ebd4849d31b8e0fa43e8666d9a339a33&dn=%5BOne+Pace%5D%5B79-81%5D+Arlong+Park+05+%5B1080p%5D%5B5D1CA4A2%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+2dc4c997ac808566a9288683c6e96bfd6266b3da:
+    title: Egghead 10
+    variant: outdated
+    crc32: A118ADA0
+    published_at: "2024-07-12T12:00:00.000Z"
+    manga_chapters: 1073-1074
+    anime_episodes: 1104-1107
+    info_hash: 2dc4c997ac808566a9288683c6e96bfd6266b3da
+    magnet_uri: magnet:?xt=urn:btih:2dc4c997ac808566a9288683c6e96bfd6266b3da&dn=%5BOne+Pace%5D%5B1073-1074%5D+Egghead+10+%5B1080p%5D%5BA118ADA0%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 1073
+        end: 1074
+    anime_episode_range:
+        start: 1104
+        end: 1107
 2e1a040b1de930368ae027be070e6e8bc134b709:
     title: Impel Down
     variant: regular
@@ -354,6 +401,30 @@
     nyaa_url: https://nyaa.si/view/1717202
     torrent_url: https://nyaa.si/download/1717202.torrent
     magnet_uri: magnet:?xt=urn:btih:2f0b8368eb300acc4863283dbb5f21054a81adbe&dn=%5BOne+Pace%5D%5B232-234%5D+Jaya+07+%5B1080p%5D%5B580A0C3B%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce
+3a1a9d9bca76804fb0822cf8d4748c92efd5499f:
+    title: Marineford 01
+    variant: outdated
+    published_at: "2020-02-28T23:50:07.911Z"
+    manga_chapters: 549-550
+    anime_episodes: 452, 459
+    changelog:
+        - Volume levels normalized
+        - Choppy pans fixed
+        - Fuji TV logo removed
+        - Faded out colors fixed
+        - Arlong's shahaha removed when Jinbe is speaking because it kinda overlapped and didn't blend well
+        - Added back delayed reaction of buggy/luffy to jinbe shichibukai and navy hq thing. Better flow and seems more natural.
+        - Extended den den mushi scene so that the whole group no longer teleports to the den den mushi. Added room for reactions and arrival.
+        - Improved rain audio in south blue
+        - Sped up sengoku walk to platform
+        - Added breathing room for garp's sad reaction face
+        - Several subtitle fixes
+    info_hash: 3a1a9d9bca76804fb0822cf8d4748c92efd5499f
+    magnet_uri: magnet:?xt=urn:btih:3a1a9d9bca76804fb0822cf8d4748c92efd5499f
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 549
+        end: 550
 3a167e3dded838a458516deae20e6ae281fd1e8d:
     title: Syrup Village 04
     variant: outdated
@@ -365,6 +436,22 @@
     nyaa_url: https://nyaa.si/view/1932420
     torrent_url: https://nyaa.si/download/1932420.torrent
     magnet_uri: magnet:?xt=urn:btih:3a167e3dded838a458516deae20e6ae281fd1e8d&dn=%5BOne+Pace%5D%5B31-34%5D+Syrup+Village+04+%5B1080p%5D%5BA594704B%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+3a5130adf0b42bdc94887ba282bd15f1ef68d5b9:
+    title: Arlong Park 03
+    variant: outdated
+    crc32: 20E382C9
+    published_at: "2020-04-20T10:48:47.250Z"
+    manga_chapters: 74-76
+    anime_episodes: 33-34
+    info_hash: 3a5130adf0b42bdc94887ba282bd15f1ef68d5b9
+    magnet_uri: magnet:?xt=urn:btih:3a5130adf0b42bdc94887ba282bd15f1ef68d5b9&dn=%5BOne+Pace%5D%5B74-76%5D+Arlong+Park+03+%5B480p%5D%5B20E382C9%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 74
+        end: 76
+    anime_episode_range:
+        start: 33
+        end: 34
 3a5927bc4599b185209cc79936265d57d95196c2:
     title: Alabasta 15
     variant: regular
@@ -452,6 +539,22 @@
     nyaa_url: https://nyaa.si/view/1287648
     torrent_url: https://nyaa.si/download/1287648.torrent
     magnet_uri: magnet:?xt=urn:btih:3e96ef072e3798dc20d9c9fe21700eee27ff8312&dn=%5BOne+Pace%5D%5B549-580%5D+Marineford+%5B720p%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969
+3e7271dc4761ed878807b59df167ec1dfb6e360e:
+    title: Arlong Park 01
+    variant: outdated
+    crc32: 5FC4CFF7
+    published_at: "2020-04-08T09:36:26.765Z"
+    manga_chapters: 69-71
+    anime_episodes: 31-32
+    info_hash: 3e7271dc4761ed878807b59df167ec1dfb6e360e
+    magnet_uri: magnet:?xt=urn:btih:3e7271dc4761ed878807b59df167ec1dfb6e360e&dn=%5BOne+Pace%5D%5B69-71%5D+Arlong+Park+01+%5B480p%5D%5B5FC4CFF7%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 69
+        end: 71
+    anime_episode_range:
+        start: 31
+        end: 32
 3f036fe6d496d5037d57164b8793479bac94bc63:
     title: Skypiea 23
     variant: regular
@@ -761,6 +864,22 @@
     nyaa_url: https://nyaa.si/view/2004228
     torrent_url: https://nyaa.si/download/2004228.torrent
     magnet_uri: magnet:?xt=urn:btih:5d546b5605ed333d87ecc858e6a4a2ed2675d52e&dn=%5BOne+Pace%5D%5B48-52%5D+Baratie+03+%5B1080p%5D%5BE90342F6%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+5d866df335f1cffb07ebbd1179577a82c7adb1da:
+    title: Egghead 02
+    variant: outdated
+    crc32: 01B6EE9A
+    published_at: "2024-01-19T22:47:32.499Z"
+    manga_chapters: 1059-1060
+    anime_episodes: 1087-1088
+    info_hash: 5d866df335f1cffb07ebbd1179577a82c7adb1da
+    magnet_uri: magnet:?xt=urn:btih:5d866df335f1cffb07ebbd1179577a82c7adb1da&dn=%5BOne+Pace%5D%5B1059-1060%5D+Egghead+02+%5B1080p%5D%5B01B6EE9A%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 1059
+        end: 1060
+    anime_episode_range:
+        start: 1087
+        end: 1088
 5d1954d76c09b92b9e888cfe1a61f5627ac82ccf:
     title: Egghead 18
     variant: outdated
@@ -848,6 +967,21 @@
     nyaa_url: https://nyaa.si/view/2004227
     torrent_url: https://nyaa.si/download/2004227.torrent
     magnet_uri: magnet:?xt=urn:btih:6cf2faf6f5d96a58dfd846070dd098d18d324642&dn=%5BOne+Pace%5D%5B45-47%5D+Baratie+02+%5B1080p%5D%5B9BD35F80%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+6e698d902e4621f7dbff53fd9f92f3ab9518c32c:
+    title: Marineford 15
+    variant: outdated
+    published_at: "2019-03-22T12:00:00.000Z"
+    manga_chapters: 575-576
+    anime_episodes: 484-485
+    info_hash: 6e698d902e4621f7dbff53fd9f92f3ab9518c32c
+    magnet_uri: magnet:?xt=urn:btih:6e698d902e4621f7dbff53fd9f92f3ab9518c32c
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 575
+        end: 576
+    anime_episode_range:
+        start: 484
+        end: 485
 6f5c2abf645aebeeba59f468ebbd24b666cdca4f:
     title: Baratie 08
     variant: regular
@@ -1121,6 +1255,21 @@
     nyaa_url: https://nyaa.si/view/2043738
     torrent_url: https://nyaa.si/download/2043738.torrent
     magnet_uri: magnet:?xt=urn:btih:9c5533d4044c55b1639d32782c0e68ac98453c87&dn=%5BOne+Pace%5D%5B79-81%5D+Arlong+Park+05+Extended+%5B1080p%5D%5B587689A9%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+9e562df52042501d77d786b4f559dfeeaa984ccf:
+    title: Marineford 13
+    variant: outdated
+    published_at: "2019-02-01T12:00:00.000Z"
+    manga_chapters: 572-573
+    anime_episodes: 481-482
+    info_hash: 9e562df52042501d77d786b4f559dfeeaa984ccf
+    magnet_uri: magnet:?xt=urn:btih:9e562df52042501d77d786b4f559dfeeaa984ccf
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 572
+        end: 573
+    anime_episode_range:
+        start: 481
+        end: 482
 14e21e5e2fd27144364c8087534c820353a7df68:
     title: Egghead 20
     variant: regular
@@ -1143,6 +1292,21 @@
     nyaa_url: https://nyaa.si/view/1891125
     torrent_url: https://nyaa.si/download/1891125.torrent
     magnet_uri: magnet:?xt=urn:btih:15ad09f1b9bbf4b438194eac7be8f63a38e82ea7&dn=%5BOne+Pace%5D%5B978-979%5D+Wano+44+%5B1080p%5D%5BF1FB27C6%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+16beb7e95924630bfcda0e2ba799fda8a473279a:
+    title: Marineford 09
+    variant: outdated
+    published_at: "2018-11-04T12:00:00.000Z"
+    manga_chapters: 565-566
+    anime_episodes: 474-475
+    info_hash: 16beb7e95924630bfcda0e2ba799fda8a473279a
+    magnet_uri: magnet:?xt=urn:btih:16beb7e95924630bfcda0e2ba799fda8a473279a
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 565
+        end: 566
+    anime_episode_range:
+        start: 474
+        end: 475
 16e16ed3e486700a85726477725608fd7d78348f:
     title: Skypiea 13
     variant: regular
@@ -1220,6 +1384,21 @@
     nyaa_url: https://nyaa.si/view/2124146
     torrent_url: https://nyaa.si/download/2124146.torrent
     magnet_uri: magnet:?xt=urn:btih:27afaf13601c48f68e9832517848ee416973f9ed&dn=%5BOne+Pace%5D%5B1009-1010%5D+Wano+60+%5B1080p%5D%5B27E7EE1C%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+27ea4e63229ba3f8a8a8564c1bb78762c1a23fd7:
+    title: Marineford 04
+    variant: outdated
+    published_at: "2018-06-07T12:00:00.000Z"
+    manga_chapters: 555-556
+    anime_episodes: 464-465
+    info_hash: 27ea4e63229ba3f8a8a8564c1bb78762c1a23fd7
+    magnet_uri: magnet:?xt=urn:btih:27ea4e63229ba3f8a8a8564c1bb78762c1a23fd7
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 555
+        end: 556
+    anime_episode_range:
+        start: 464
+        end: 465
 30e6fcae8a70ef9d12e9dda2afa514b99bf402d6:
     title: Enies Lobby 16
     variant: regular
@@ -1250,6 +1429,22 @@
     nyaa_url: https://nyaa.si/view/2016635
     torrent_url: https://nyaa.si/download/2016635.torrent
     magnet_uri: magnet:?xt=urn:btih:35f4c7c850dd11fac6f55dc5dfd6633e0e3f406f&dn=%5BOne+Pace%5D%5B8-21%5D+Orange+Town+%5B1080p%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce
+36bdc945b08bdb0870720970850dae0ff6a3f353:
+    title: Alabasta 15
+    variant: outdated
+    crc32: 3520B23F
+    published_at: "2023-05-22T16:26:26.758Z"
+    manga_chapters: 196-198
+    anime_episodes: 120-121
+    info_hash: 36bdc945b08bdb0870720970850dae0ff6a3f353
+    magnet_uri: magnet:?xt=urn:btih:36bdc945b08bdb0870720970850dae0ff6a3f353&dn=%5BOne+Pace%5D%5B196-198%5D+Arabasta+15+%5B1080p%5D%5B3520B23F%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 196
+        end: 198
+    anime_episode_range:
+        start: 120
+        end: 121
 37ec3fb6a391cb8b21538525db11d2908418b7cd:
     title: Enies Lobby 06
     variant: regular
@@ -1576,6 +1771,21 @@
     nyaa_url: https://nyaa.si/view/1798849
     torrent_url: https://nyaa.si/download/1798849.torrent
     magnet_uri: magnet:?xt=urn:btih:93e937753ccf59b30e05c8a35cecbe56e1ceada3&dn=%5BOne+Pace%5D%5B968-969%5D+Wano+39+%5B1080p%5D%5B56CFB8B0%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+93fdc598369d36ae725ef4956ac4dcc2ae927e84:
+    title: Marineford 08
+    variant: outdated
+    published_at: "2018-07-19T12:00:00.000Z"
+    manga_chapters: 563-564
+    anime_episodes: 472-473
+    info_hash: 93fdc598369d36ae725ef4956ac4dcc2ae927e84
+    magnet_uri: magnet:?xt=urn:btih:93fdc598369d36ae725ef4956ac4dcc2ae927e84
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 563
+        end: 564
+    anime_episode_range:
+        start: 472
+        end: 473
 94a11b62d949a061e51df0d5b13c6a00d64c7d87:
     title: Egghead 12
     variant: outdated
@@ -1587,6 +1797,36 @@
     nyaa_url: https://nyaa.si/view/1863827
     torrent_url: https://nyaa.si/download/1863827.torrent
     magnet_uri: magnet:?xt=urn:btih:94a11b62d949a061e51df0d5b13c6a00d64c7d87&dn=%5BOne+Pace%5D%5B1077-1078%5D+Egghead+12+%5B1080p%5D%5B33FFA63D%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+97ab7ccf2bc26910fa043ae89c39715f59a0a81b:
+    title: Marineford 05
+    variant: outdated
+    published_at: "2018-06-24T12:00:00.000Z"
+    manga_chapters: 557-558
+    anime_episodes: 467-468
+    info_hash: 97ab7ccf2bc26910fa043ae89c39715f59a0a81b
+    magnet_uri: magnet:?xt=urn:btih:97ab7ccf2bc26910fa043ae89c39715f59a0a81b
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 557
+        end: 558
+    anime_episode_range:
+        start: 467
+        end: 468
+98ecb6e13926d11bed4a3414d91c3d9c912be263:
+    title: Marineford 16
+    variant: outdated
+    published_at: "2019-04-25T12:00:00.000Z"
+    manga_chapters: 577-578
+    anime_episodes: 485-487
+    info_hash: 98ecb6e13926d11bed4a3414d91c3d9c912be263
+    magnet_uri: magnet:?xt=urn:btih:98ecb6e13926d11bed4a3414d91c3d9c912be263
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 577
+        end: 578
+    anime_episode_range:
+        start: 485
+        end: 487
 105f001c28ba7b73c0c1216ae92409dbdc183322:
     title: Enies Lobby 09
     variant: regular
@@ -1627,6 +1867,21 @@
     nyaa_url: https://nyaa.si/view/1720287
     torrent_url: https://nyaa.si/download/1720287.torrent
     magnet_uri: magnet:?xt=urn:btih:131a50628ef03291dbce68a002875e3b33c9fda5&dn=%5BOne+Pace%5D%5B960-961%5D+Wano+34+%5B1080p%5D%5B224B7846%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969
+134d5ce9d3c8429b516e5e81cb11bda8fe9a290c:
+    title: Arlong Park 01
+    variant: outdated
+    published_at: "2020-07-01T02:50:54.501Z"
+    manga_chapters: 69-71
+    anime_episodes: 31-32
+    info_hash: 134d5ce9d3c8429b516e5e81cb11bda8fe9a290c
+    magnet_uri: magnet:?xt=urn:btih:134d5ce9d3c8429b516e5e81cb11bda8fe9a290c&dn=%5BOne+Pace%5D%5B69-95%5D+Arlong+Park+%5B480p%5D%5BDual-Audio%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=https%3A%2F%2F1.track.ga%3A443%2Fannounce
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 69
+        end: 71
+    anime_episode_range:
+        start: 31
+        end: 32
 209e947276c73a3df876d6479ae78b822e76b2e7:
     title: Wano 57
     variant: regular
@@ -1772,6 +2027,37 @@
     nyaa_url: https://nyaa.si/view/1378986
     torrent_url: https://nyaa.si/download/1378986.torrent
     magnet_uri: magnet:?xt=urn:btih:555b93c2e368c9f652ff4fff987d5fbc3c3bad6b&dn=%5BOne+Pace%5D%5B941-942%5D+Wano+22+%5B1080p%5D%5B9F63AF78%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce
+595c53ff19c50fd3da027cdb60019740cabd8261:
+    title: Marineford 07
+    variant: outdated
+    published_at: "2018-07-18T12:00:00.000Z"
+    manga_chapters: 561-562
+    anime_episodes: 470-471
+    info_hash: 595c53ff19c50fd3da027cdb60019740cabd8261
+    magnet_uri: magnet:?xt=urn:btih:595c53ff19c50fd3da027cdb60019740cabd8261
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 561
+        end: 562
+    anime_episode_range:
+        start: 470
+        end: 471
+673f49f02b66993e6ef4834ddfd2093f09df57d4:
+    title: Wano 26
+    variant: outdated
+    crc32: 70AF7E03
+    published_at: "2021-10-25T03:12:05.803Z"
+    manga_chapters: 948-949
+    anime_episodes: 947-949
+    info_hash: 673f49f02b66993e6ef4834ddfd2093f09df57d4
+    magnet_uri: magnet:?xt=urn:btih:673f49f02b66993e6ef4834ddfd2093f09df57d4&dn=%5BOne+Pace%5D%5B948-949%5D+Wano+26+%5B1080p%5D%5B70AF7E03%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 948
+        end: 949
+    anime_episode_range:
+        start: 947
+        end: 949
 679f3a126c68708414677326663f1be953a4588c:
     title: Wano 16
     variant: regular
@@ -1838,6 +2124,15 @@
     nyaa_url: https://nyaa.si/view/1836487
     torrent_url: https://nyaa.si/download/1836487.torrent
     magnet_uri: magnet:?xt=urn:btih:753b9af2423cc906060764c410baff0229c4f73b&dn=%5BOne+Pace%5D%5B1071-1072%5D+Egghead+09+%5B1080p%5D%5BED808618%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+802aae915d77b8bc621f142a94a8b0d06477e50a:
+    title: Romance Dawn 01
+    variant: outdated
+    published_at: "2020-12-02T22:07:48.719Z"
+    manga_chapters: "1"
+    anime_episodes: Episode of East Blue
+    info_hash: 802aae915d77b8bc621f142a94a8b0d06477e50a
+    magnet_uri: magnet:?xt=urn:btih:802aae915d77b8bc621f142a94a8b0d06477e50a&dn=%5BOne+Pace%5D%5B1-7%5D+Romance+Dawn+%5B480p-1080p%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969
+    normalized_variant: outdated
 873fe3265ca245d9209c76404b20cab6771896a9:
     title: Wano 42
     variant: regular
@@ -1969,6 +2264,22 @@
     nyaa_url: https://nyaa.si/view/2066084
     torrent_url: https://nyaa.si/download/2066084.torrent
     magnet_uri: magnet:?xt=urn:btih:03090fbaca642d7a89b95c401ca6f2933ed58830&dn=%5BOne+Pace%5D%5B85-88%5D+Arlong+Park+07+%5B1080p%5D%5B4DDEFE2B%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+3330b202c9ac2aef3ba715fc9002572a9abb53f1:
+    title: Egghead 03
+    variant: outdated
+    crc32: 979285FE
+    published_at: "2024-02-09T15:22:28.221Z"
+    manga_chapters: 1060-1061
+    anime_episodes: 1089-1090
+    info_hash: 3330b202c9ac2aef3ba715fc9002572a9abb53f1
+    magnet_uri: magnet:?xt=urn:btih:3330b202c9ac2aef3ba715fc9002572a9abb53f1&dn=%5BOne+Pace%5D%5B1060-1061%5D+Egghead+03+%5B1080p%5D%5B979285FE%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 1060
+        end: 1061
+    anime_episode_range:
+        start: 1089
+        end: 1090
 3743a9e6228181c83209835712a40c764e6660d5:
     title: Egghead 13 Extended Cut
     variant: outdated
@@ -2112,6 +2423,21 @@
     nyaa_url: https://nyaa.si/view/1413188
     torrent_url: https://nyaa.si/download/1413188.torrent
     magnet_uri: magnet:?xt=urn:btih:9375a1c30eeb49ff96ec96dac5df252d74556f36&dn=%5BOne+Pace%5D%5B342-345%5D+Water+Seven+09+%5B1080p%5D%5BF96F0A4A%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce
+9458cffa357ba757ec5610f46e958a8eefde983f:
+    title: Marineford 17
+    variant: outdated
+    published_at: "2019-06-22T12:00:00.000Z"
+    manga_chapters: 579-580
+    anime_episodes: 488-489
+    info_hash: 9458cffa357ba757ec5610f46e958a8eefde983f
+    magnet_uri: magnet:?xt=urn:btih:9458cffa357ba757ec5610f46e958a8eefde983f
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 579
+        end: 580
+    anime_episode_range:
+        start: 488
+        end: 489
 9479f6fa2a8bb2c43c558db57161649377d6e7bd:
     title: Orange Town 01
     variant: outdated
@@ -2166,6 +2492,15 @@
     nyaa_url: https://nyaa.si/view/1537206
     torrent_url: https://nyaa.si/download/1537206.torrent
     magnet_uri: magnet:?xt=urn:btih:48869d544c38227988763c9b0835e421bdaeeed1&dn=%5BOne+Pace%5D%5B179-182%5D+Arabasta+10+%5B1080p%5D%5B4B8CC4E7%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969
+52817e86edbe519bef2aa85c9e0a2d3684ce22d2:
+    title: Marineford 10
+    variant: outdated
+    published_at: "2018-12-26T12:00:00.000Z"
+    manga_chapters: "567"
+    anime_episodes: "476"
+    info_hash: 52817e86edbe519bef2aa85c9e0a2d3684ce22d2
+    magnet_uri: magnet:?xt=urn:btih:52817e86edbe519bef2aa85c9e0a2d3684ce22d2
+    normalized_variant: outdated
 59497fc3d9a6dbcdbaced48eaa9f5ba2047614df:
     title: Post-Enies Lobby
     variant: regular
@@ -2214,6 +2549,22 @@
     nyaa_url: https://nyaa.si/view/1905874
     torrent_url: https://nyaa.si/download/1905874.torrent
     magnet_uri: magnet:?xt=urn:btih:89913d954cec1c03a50667b81bc2b9508c4f2214&dn=%5BOne+Pace%5D+One+Piece+Fan+Letter+%5B1080p%5D%5B9974A092%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+91775f359b7d692bc06a08578b85a9f731922e52:
+    title: Egghead 05
+    variant: outdated
+    crc32: E80E4B80
+    published_at: "2024-03-23T00:49:54.609Z"
+    manga_chapters: 1064-1065
+    anime_episodes: 1093-1095
+    info_hash: 91775f359b7d692bc06a08578b85a9f731922e52
+    magnet_uri: magnet:?xt=urn:btih:91775f359b7d692bc06a08578b85a9f731922e52&dn=%5BOne+Pace%5D%5B1064-1065%5D+Egghead+05+%5B1080p%5D%5BE80E4B80%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 1064
+        end: 1065
+    anime_episode_range:
+        start: 1093
+        end: 1095
 98058d41f97ea7b81ac5fd74ca9d13325e40cbab:
     title: Drum Island 03
     variant: regular
@@ -2280,6 +2631,19 @@
     nyaa_url: https://nyaa.si/view/1248933
     torrent_url: https://nyaa.si/download/1248933.torrent
     magnet_uri: magnet:?xt=urn:btih:764222f18a8a43868058a0069310bae6556bcbfc&dn=%5BOne+Pace%5D%5B416-418%5D+Enies+Lobby+19+%5B1080p%5D%5BC4106519%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce
+1437585a00f1f39b47973ddd69ac6a1f41cc4139:
+    title: Alabasta 04
+    variant: outdated
+    crc32: 34F48D1A
+    published_at: "2021-02-22T01:02:52.919Z"
+    manga_chapters: 159-164
+    anime_episodes: 98, 100-101, 103
+    info_hash: 1437585a00f1f39b47973ddd69ac6a1f41cc4139
+    magnet_uri: magnet:?xt=urn:btih:1437585a00f1f39b47973ddd69ac6a1f41cc4139&dn=%5BOne+Pace%5D%5B160%2C+162-164%5D+Arabasta+04+%5B480p%5D%5B34F48D1A%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 159
+        end: 164
 1806979f06ae1560485ef48bd1983d42aa5b5696:
     title: Wano 24
     variant: regular
@@ -2331,6 +2695,21 @@
     nyaa_url: https://nyaa.si/view/1987736
     torrent_url: https://nyaa.si/download/1987736.torrent
     magnet_uri: magnet:?xt=urn:btih:7649738b740f660e286a2364114179ec5e0ca997&dn=%5BOne+Pace%5D%5B1079%5D+Egghead+13+%5B1080p%5D%5B6C170189%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+8363770ec123cdccef45ac98098b866635e0b43d:
+    title: Syrup Village 02
+    variant: outdated
+    published_at: "2017-02-03T16:50:26.547Z"
+    manga_chapters: 26-27
+    anime_episodes: 10-11
+    info_hash: 8363770ec123cdccef45ac98098b866635e0b43d
+    magnet_uri: magnet:?xt=urn:btih:8363770ec123cdccef45ac98098b866635e0b43d
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 26
+        end: 27
+    anime_episode_range:
+        start: 10
+        end: 11
 8591276ee893656f5cc68805f0e0d1578f3f5486:
     title: Wano 59
     variant: regular
@@ -2622,6 +3001,21 @@ a730af57f74d14bd063173ed8985a8e59f5b0706:
     nyaa_url: https://nyaa.si/view/2030688
     torrent_url: https://nyaa.si/download/2030688.torrent
     magnet_uri: magnet:?xt=urn:btih:a730af57f74d14bd063173ed8985a8e59f5b0706&dn=%5BOne+Pace%5D%5B1089-1090%5D+Egghead+19+%5B1080p%5D%5B73E70A0E%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+a8239ee0298000a03c790980c193f26cb8047a93:
+    title: Marineford 02
+    variant: outdated
+    published_at: "2018-05-03T12:00:00.000Z"
+    manga_chapters: 551-552
+    anime_episodes: 459-462
+    info_hash: a8239ee0298000a03c790980c193f26cb8047a93
+    magnet_uri: magnet:?xt=urn:btih:a8239ee0298000a03c790980c193f26cb8047a93
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 551
+        end: 552
+    anime_episode_range:
+        start: 459
+        end: 462
 a8813f7e4bd753fa76e32ee2b5288cffb5c898f8:
     title: Baratie 05
     variant: outdated
@@ -2834,6 +3228,18 @@ b3aaeeac3f12b5129380d7cd17415edbfbd12689:
     nyaa_url: https://nyaa.si/view/2030687
     torrent_url: https://nyaa.si/download/2030687.torrent
     magnet_uri: magnet:?xt=urn:btih:b3aaeeac3f12b5129380d7cd17415edbfbd12689&dn=%5BOne+Pace%5D%5B69-71%5D+Arlong+Park+01+%5B1080p%5D%5BC269DEF5%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+b3b4c77ba56a1908dd2e1ca8f553e86585452773:
+    title: Marineford 14
+    variant: outdated
+    published_at: "2019-02-27T02:00:26.769Z"
+    manga_chapters: "574"
+    anime_episodes: 483-484
+    info_hash: b3b4c77ba56a1908dd2e1ca8f553e86585452773
+    magnet_uri: magnet:?xt=urn:btih:b3b4c77ba56a1908dd2e1ca8f553e86585452773
+    normalized_variant: outdated
+    anime_episode_range:
+        start: 483
+        end: 484
 b5a0d39d7b1eda73ccb3d70ddfa608e7834b84ce:
     title: Alabasta 13
     variant: regular
@@ -2911,6 +3317,21 @@ b53ea9000dd3db38573e917b2109163568532797:
     nyaa_url: https://nyaa.si/view/1705712
     torrent_url: https://nyaa.si/download/1705712.torrent
     magnet_uri: magnet:?xt=urn:btih:b53ea9000dd3db38573e917b2109163568532797&dn=%5BOne+Pace%5D%5B229-230%5D+Jaya+05+%5B1080p%5D%5BE468A31D%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969
+b75fb8fbac805534be0466fa6c4d2e9ece910d88:
+    title: Marineford 11
+    variant: outdated
+    published_at: "2019-01-06T12:00:00.000Z"
+    manga_chapters: 568-569
+    anime_episodes: 477-478
+    info_hash: b75fb8fbac805534be0466fa6c4d2e9ece910d88
+    magnet_uri: magnet:?xt=urn:btih:b75fb8fbac805534be0466fa6c4d2e9ece910d88
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 568
+        end: 569
+    anime_episode_range:
+        start: 477
+        end: 478
 b83d8260265b01910c0068b2b488d81b674917ea:
     title: Gaimon
     variant: regular
@@ -2949,6 +3370,19 @@ b262e72a16f164e9b0b9cdc9fcb6e6cc70134357:
     nyaa_url: https://nyaa.si/view/1875997
     torrent_url: https://nyaa.si/download/1875997.torrent
     magnet_uri: magnet:?xt=urn:btih:b262e72a16f164e9b0b9cdc9fcb6e6cc70134357&dn=%5BOne+Pace%5D%5B1060-1061%5D+Egghead+03+%5B1080p%5D%5B80D0E5B3%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+ba8347a2c4303e2070629e68bb52d042b2f614f9:
+    title: Egghead 06
+    variant: outdated
+    crc32: C9D76388
+    published_at: "2024-04-19T22:44:58.100Z"
+    manga_chapters: "1066"
+    anime_episodes: 1096-1097
+    info_hash: ba8347a2c4303e2070629e68bb52d042b2f614f9
+    magnet_uri: magnet:?xt=urn:btih:ba8347a2c4303e2070629e68bb52d042b2f614f9&dn=%5BOne+Pace%5D%5B1066%5D+Egghead+06+%5B1080p%5D%5BC9D76388%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+    normalized_variant: outdated
+    anime_episode_range:
+        start: 1096
+        end: 1097
 bac20460989089c1493483d323db3e3c6de376ef:
     title: Egghead 08 Extended Cut
     variant: extended
@@ -3053,6 +3487,38 @@ bdda7da7e470b43f970df435030602ac39fe7cea:
     nyaa_url: https://nyaa.si/view/1942140
     torrent_url: https://nyaa.si/download/1942140.torrent
     magnet_uri: magnet:?xt=urn:btih:bdda7da7e470b43f970df435030602ac39fe7cea&dn=%5BOne+Pace%5D%5B2%5D+Romance+Dawn+02+%5B1080p%5D%5B09705E2B%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+be8415c7b295e2f2745c1e6f315c4c28e97aaeb4:
+    title: Arlong Park 02
+    variant: outdated
+    crc32: 0672410E
+    published_at: "2020-04-13T11:56:23.693Z"
+    manga_chapters: 72-74
+    anime_episodes: 31-33
+    info_hash: be8415c7b295e2f2745c1e6f315c4c28e97aaeb4
+    magnet_uri: magnet:?xt=urn:btih:be8415c7b295e2f2745c1e6f315c4c28e97aaeb4&dn=%5BOne+Pace%5D%5B71-73%5D+Arlong+Park+02+%5B480p%5D%5B0672410E%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 72
+        end: 74
+    anime_episode_range:
+        start: 31
+        end: 33
+bed5b82a2a6c1c5088429f0e69f5624ce25fb0a7:
+    title: Arlong Park 04
+    variant: outdated
+    crc32: B3C93CFD
+    published_at: "2020-04-27T20:02:53.002Z"
+    manga_chapters: 77-78
+    anime_episodes: 34-36
+    info_hash: bed5b82a2a6c1c5088429f0e69f5624ce25fb0a7
+    magnet_uri: magnet:?xt=urn:btih:bed5b82a2a6c1c5088429f0e69f5624ce25fb0a7&dn=%5BOne+Pace%5D%5B77-78%5D+Arlong+Park+04+%5B480p%5D%5BB3C93CFD%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 77
+        end: 78
+    anime_episode_range:
+        start: 34
+        end: 36
 bef6efff0f7c81422ca057a2e575363eb0b350f3:
     title: Enies Lobby 23
     variant: regular
@@ -3152,6 +3618,48 @@ c14a990bf09719e44da4a0f64710d18a302c9a8d:
     nyaa_url: https://nyaa.si/view/1809903
     torrent_url: https://nyaa.si/download/1809903.torrent
     magnet_uri: magnet:?xt=urn:btih:c14a990bf09719e44da4a0f64710d18a302c9a8d&dn=%5BOne+Pace%5D%5B264-266%2C+268%5D+Skypiea+12+%5B1080p%5D%5B99260C5A%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+c39a7a5836cd93f10e6fc9b0b11e400fff88f1c9:
+    title: Marineford 03
+    variant: outdated
+    published_at: "2018-06-01T12:00:00.000Z"
+    manga_chapters: 553-554
+    anime_episodes: 462-463
+    info_hash: c39a7a5836cd93f10e6fc9b0b11e400fff88f1c9
+    magnet_uri: magnet:?xt=urn:btih:c39a7a5836cd93f10e6fc9b0b11e400fff88f1c9
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 553
+        end: 554
+    anime_episode_range:
+        start: 462
+        end: 463
+c59eb7fbfbe0ef6cb976857d9558e9cabce8adb2:
+    title: Marineford 06
+    variant: outdated
+    published_at: "2018-07-08T12:00:00.000Z"
+    manga_chapters: 559-560
+    anime_episodes: 468-469
+    info_hash: c59eb7fbfbe0ef6cb976857d9558e9cabce8adb2
+    magnet_uri: magnet:?xt=urn:btih:c59eb7fbfbe0ef6cb976857d9558e9cabce8adb2
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 559
+        end: 560
+    anime_episode_range:
+        start: 468
+        end: 469
+c73a8dd4a3d25e05eb6b6a72379ead1889318bec:
+    title: Marineford 01
+    variant: outdated
+    published_at: "2018-04-22T12:00:00.000Z"
+    manga_chapters: 549-550
+    anime_episodes: 452, 459
+    info_hash: c73a8dd4a3d25e05eb6b6a72379ead1889318bec
+    magnet_uri: magnet:?xt=urn:btih:c73a8dd4a3d25e05eb6b6a72379ead1889318bec
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 549
+        end: 550
 c345a0dc89a9d20b9cbdad787b0bd80c34f52809:
     title: The Trials of Koby-Meppo
     variant: regular
@@ -3507,6 +4015,35 @@ dcec5a7b2f15cc18e8870a7fb216cdd698bf5592:
     nyaa_url: https://nyaa.si/view/1958601
     torrent_url: https://nyaa.si/download/1958601.torrent
     magnet_uri: magnet:?xt=urn:btih:dcec5a7b2f15cc18e8870a7fb216cdd698bf5592&dn=%5BOne+Pace%5D%5B38-39%5D+Syrup+Village+06+%5B1080p%5D%5BF9DE972C%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+dd3f76effa3ffa50dab6f54141f8584b4b4ef80c:
+    title: Drum Island 06
+    variant: regular
+    crc32: C63FCD71
+    published_at: "2026-08-22T12:30:00.000Z"
+    manga_chapters: 140-141, 145-148
+    anime_episodes: 83, 86-88
+    changelog:
+        - Changed the One Pace logo placement in the OP
+        - Added German, Italian, Japanese, Turkish, and Russian subtitles
+        - Added the ED - "BEFORE DAWN"
+        - 03:02 - Microcut
+        - 03:19 - Microcut
+        - 03:31 - 10 seconds of filler lines removed
+        - 04:32 - 20 second filler flashback removed
+        - 05:39 - Microcut
+        - 07:03 - Cut Luffy running
+        - 07:05 - Cut duplicate shot, Kureha was missing from it
+        - 09:37 - Extended shot of Kureha a bit
+        - 09:37 - Restored some Vivi lines to help background sfx blend better.
+        - 19:24 - Placed back in manga order, removed soot off Luffy's face in the closeup
+        - 19:35 - Removed a rogue black frame from the raw source
+        - 20:56 - Slightly shortened
+        - 23:44 - Microcut
+    info_hash: dd3f76effa3ffa50dab6f54141f8584b4b4ef80c
+    nyaa_url: https://nyaa.si/view/2149485
+    torrent_url: https://nyaa.si/download/2149485.torrent
+    magnet_uri: magnet:?xt=urn:btih:dd3f76effa3ffa50dab6f54141f8584b4b4ef80c&dn=%5BOne+Pace%5D%5B145-148%5D+Drum+Island+06+%5B1080p%5D%5BC63FCD71%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+    normalized_variant: normal
 ddbca2961dab0ad1e2a1d362ca7e03f7db3c7484:
     title: Specials 02
     variant: regular
@@ -3516,6 +4053,22 @@ ddbca2961dab0ad1e2a1d362ca7e03f7db3c7484:
     anime_episodes: 'Straw Hat Theater 1-5 (omake): Report Time, Obahan Time, No Honor Time, Chopper Man, Monster Time'
     info_hash: ddbca2961dab0ad1e2a1d362ca7e03f7db3c7484
     magnet_uri: magnet:?xt=urn:btih:ddbca2961dab0ad1e2a1d362ca7e03f7db3c7484&dn=%5BOne+Pace%5D+Straw+Hat+Theatre+%5B720p%5D%5B415455AE%5D.mkv&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=http%3A%2F%2Fopen.nyaatorrents.info%3A6544%2Fannounce
+ded583101250a3298927d7d018c4e8c7143b3f7d:
+    title: Alabasta 02
+    variant: outdated
+    crc32: 1D1B4E0E
+    published_at: "2021-01-11T22:52:19.017Z"
+    manga_chapters: 157-159
+    anime_episodes: 93-95
+    info_hash: ded583101250a3298927d7d018c4e8c7143b3f7d
+    magnet_uri: magnet:?xt=urn:btih:ded583101250a3298927d7d018c4e8c7143b3f7d&dn=%5BOne+Pace%5D%5B157-159%5D+Arabasta+02+%5B480p%5D%5B1D1B4E0E%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 157
+        end: 159
+    anime_episode_range:
+        start: 93
+        end: 95
 e0f3e1d51a96441941c30534d0e962c7e1426cb0:
     title: Egghead 17
     variant: regular
@@ -3538,6 +4091,22 @@ e1b53addffcf226c562ab1e8d132d96ca8a66b4f:
     nyaa_url: https://nyaa.si/view/1815070
     torrent_url: https://nyaa.si/download/1815070.torrent
     magnet_uri: magnet:?xt=urn:btih:e1b53addffcf226c562ab1e8d132d96ca8a66b4f&dn=%5BOne+Pace%5D%5B1067-1068%5D+Egghead+07+%5B1080p%5D%5BA7AD080A%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+e2db3042808f00a1d4b946abd8c3fdb97b55d206:
+    title: Egghead 01
+    variant: outdated
+    crc32: 1B5D9178
+    published_at: "2024-01-12T15:58:05.516Z"
+    manga_chapters: 1058-1059
+    anime_episodes: 1086-1088
+    info_hash: e2db3042808f00a1d4b946abd8c3fdb97b55d206
+    magnet_uri: magnet:?xt=urn:btih:e2db3042808f00a1d4b946abd8c3fdb97b55d206&dn=%5BOne+Pace%5D%5B1058-1059%5D+Egghead+01+%5B1080p%5D%5B1B5D9178%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 1058
+        end: 1059
+    anime_episode_range:
+        start: 1086
+        end: 1088
 e4e05d868640c3540e37067e17b04ac579cc1d61:
     title: Arlong Park 05
     variant: outdated
@@ -3867,6 +4436,22 @@ f35f39679a934efa762f054cde6137a0a147aceb:
     nyaa_url: https://nyaa.si/view/1255065
     torrent_url: https://nyaa.si/download/1255065.torrent
     magnet_uri: magnet:?xt=urn:btih:f35f39679a934efa762f054cde6137a0a147aceb&dn=%5BOne+Pace%5D%5B423-424%5D+Enies+Lobby+22+%5B1080p%5D%5BC0B33E05%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce
+f49eab35f9c98a1f382fcbc155c44edbaaf7414e:
+    title: Egghead 07
+    variant: outdated
+    crc32: 713FF32B
+    published_at: "2024-05-03T12:00:00.000Z"
+    manga_chapters: 1067-1068
+    anime_episodes: 1097-1099
+    info_hash: f49eab35f9c98a1f382fcbc155c44edbaaf7414e
+    magnet_uri: magnet:?xt=urn:btih:f49eab35f9c98a1f382fcbc155c44edbaaf7414e&dn=%5BOne+Pace%5D%5B1067-1068%5D+Egghead+07+%5B1080p%5D%5B713FF32B%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+    normalized_variant: outdated
+    manga_chapter_range:
+        start: 1067
+        end: 1068
+    anime_episode_range:
+        start: 1097
+        end: 1099
 f78b8ccfbb352a7a9dad3eeb080f43e2782ed453:
     title: Skypiea 25 Alternate Cut (G-8)
     variant: outdated

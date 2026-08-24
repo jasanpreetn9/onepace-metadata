@@ -4433,25 +4433,7 @@
   time_saved_percent: 75.10%
   time_saved_percent_value: 75.1
   status: ""
-  episodes:
-    - id: 704086980-000
-      arc: 25
-      episode: 0
-      title: The Adventures of the Straw Hats
-      description: ""
-      chapters: Ch. 543-560
-      chapter_range:
-        start: 543
-        end: 560
-      episodes: Ep. 453-456
-      released: "2024-03-29"
-      has_extended: false
-      files:
-        normal:
-            version: normal
-            crc32: 2BC41092
-            length: "23:04"
-            length_seconds: 1384
+  episodes: []
   gid: "704086980"
 - id: "1758192000"
   arc: 26

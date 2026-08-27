@@ -9824,7 +9824,77 @@
     "time_saved_percent": "63.29%",
     "time_saved_percent_value": 63.29,
     "status": "",
-    "episodes": null,
+    "episodes": [
+      {
+        "id": "1529137639-001",
+        "arc": 34,
+        "episode": 1,
+        "title": "The Fifth Emperor",
+        "description": "Luffy’s reputation grows as all eyes look toward the Straw Hats’ next move. Meanwhile, the royals of the world make their way to the Reverie, but their absence welcomes a raid by a vicious band of pirates on the Kingdom of Lulusia.",
+        "chapters": "Ch. 903-904",
+        "chapter_range": {
+          "start": 903,
+          "end": 904
+        },
+        "episodes": "Ep. 878-880",
+        "released": "2024-10-5",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "C5FB1123",
+            "length": "33:30",
+            "length_seconds": 2010
+          }
+        }
+      },
+      {
+        "id": "1529137639-002",
+        "arc": 34,
+        "episode": 2,
+        "title": "A Beautiful World",
+        "description": "At New Marineford, Fleet Admiral Sakazuki hears the news about Luffy while nobles from around the world gather for the Reverie! At the Red Line, Garp is escorting King Neptune’s family when Shirahoshi sees the surface world for the first time.",
+        "chapters": "Ch. 905-906",
+        "chapter_range": {
+          "start": 905,
+          "end": 906
+        },
+        "episodes": "Ep. 881-885",
+        "released": "2024-10-5",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "6E0CD1C5",
+            "length": "35:04",
+            "length_seconds": 2104
+          }
+        }
+      },
+      {
+        "id": "1529137639-003",
+        "arc": 34,
+        "episode": 3,
+        "title": "The Empty Throne",
+        "description": "As the Reverie commences, Emperors Big Mom and Kaido both set their sights on Luffy! Meanwhile, a mysterious outsider visits the highest authority in the world, and the Revolutionary Army confirms its desire to save Kuma.",
+        "chapters": "Ch. 907-908",
+        "chapter_range": {
+          "start": 907,
+          "end": 908
+        },
+        "episodes": "Ep. 886-889",
+        "released": "2024-10-5",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "0B51015F",
+            "length": "28:38",
+            "length_seconds": 1718
+          }
+        }
+      }
+    ],
     "gid": "1529137639"
   },
   {

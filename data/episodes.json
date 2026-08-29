@@ -6573,7 +6573,7 @@
       "magnet_uri": "magnet:?xt=urn:btih:b6d264228c2fb62b413d9f73a9d546495fc35069\u0026dn=%5BOne+Pace%5D%5B145-148%5D+Drum+Island+06+%5B1080p%5D%5BA5145C90%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969\u0026tr=udp%3A%2F%2Fzer0day.ch%3A1337\u0026tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.publicbt.com%3A80\u0026tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969",
       "torrent_url": "https://nyaa.si/download/1672420.torrent"
     },
-    "is_current": true
+    "is_current": false
   },
   "A57211D1": {
     "arc_id": "1076173334",
@@ -7753,6 +7753,25 @@
       "url": "https://nyaa.si/?q=aa34040a41bbdd8b165cfbc81dbe4e72f59e676e",
       "magnet_uri": "magnet:?xt=urn:btih:aa34040a41bbdd8b165cfbc81dbe4e72f59e676e\u0026dn=%5BOne+Pace%5D%5B243-244%5D+Skypiea+04+%5B1080p%5D%5BC6120876%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969\u0026tr=udp%3A%2F%2Fzer0day.ch%3A1337\u0026tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.publicbt.com%3A80\u0026tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969",
       "torrent_url": "https://nyaa.si/download/1681700.torrent"
+    },
+    "is_current": true
+  },
+  "C63FCD71": {
+    "arc_id": "793018827",
+    "episode_id": "793018827-006",
+    "arc": 13,
+    "episode": 6,
+    "title": "Unbreakable",
+    "description": "Wapol and his comrades reach the mountaintop castle to wrest control of it back from Dr. Kureha and Chopper. Luffy, Sanji, and Chopper go head-to-head against his Munch-Munch powers, vowing to keep Wapol and his men from bringing down Hiriluk's flag.",
+    "chapters": "Ch. 145-148",
+    "episodes": "Ep. 83, 86-88",
+    "released": "2026-08-21",
+    "file": {
+      "version": "normal",
+      "crc32": "C63FCD71",
+      "length": "24:43",
+      "length_seconds": 1483,
+      "url": "https://nyaa.si/view/2149485"
     },
     "is_current": true
   },

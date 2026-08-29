@@ -6015,7 +6015,7 @@ A5145C90:
         url: https://nyaa.si/view/1672420
         magnet_uri: magnet:?xt=urn:btih:b6d264228c2fb62b413d9f73a9d546495fc35069&dn=%5BOne+Pace%5D%5B145-148%5D+Drum+Island+06+%5B1080p%5D%5BA5145C90%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969
         torrent_url: https://nyaa.si/download/1672420.torrent
-    is_current: true
+    is_current: false
 A9784E2B:
     arc_id: "836546175"
     episode_id: 836546175-015
@@ -6866,6 +6866,23 @@ C060DA73:
         url: https://nyaa.si/view/1920010
         magnet_uri: magnet:?xt=urn:btih:6a094a5b9265993005e8cb789687d23aac5a3caa&dn=%5BOne+Pace%5D%5B74-76%5D+Arlong+Park+03+%5B1080p%5D%5BC060DA73%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
         torrent_url: https://nyaa.si/download/1920010.torrent
+    is_current: true
+C63FCD71:
+    arc_id: "793018827"
+    episode_id: 793018827-006
+    arc: 13
+    episode: 6
+    title: Unbreakable
+    description: Wapol and his comrades reach the mountaintop castle to wrest control of it back from Dr. Kureha and Chopper. Luffy, Sanji, and Chopper go head-to-head against his Munch-Munch powers, vowing to keep Wapol and his men from bringing down Hiriluk's flag.
+    chapters: Ch. 145-148
+    episodes: Ep. 83, 86-88
+    released: "2026-08-21"
+    file:
+        version: normal
+        crc32: C63FCD71
+        length: "24:43"
+        length_seconds: 1483
+        url: https://nyaa.si/view/2149485
     is_current: true
 C65F13AA:
     arc_id: "1758192000"

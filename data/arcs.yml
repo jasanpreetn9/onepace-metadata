@@ -3342,7 +3342,7 @@
   title: Post-Enies Lobby
   audio_languages: JA
   subtitle_languages: EN
-  resolution: 720p
+  resolution: 720p,1080p
   manga_chapters: 431 - 441
   manga_chapter_range:
     start: 431
@@ -3354,10 +3354,10 @@
     end: 325
   episodes_adapted: "11"
   filler_episodes: 317 - 318
-  time_saved_mins: "103"
-  time_saved_mins_value: 103
-  time_saved_percent: 43.57%
-  time_saved_percent_value: 43.57
+  time_saved_mins: "102"
+  time_saved_mins_value: 102
+  time_saved_percent: 43.21%
+  time_saved_percent_value: 43.21
   status: TBR
   episodes:
     - id: 437050304-001
@@ -3370,14 +3370,14 @@
         start: 431
         end: 432
       episodes: Ep. 313-314
-      released: "2013-06-09"
+      released: "2026-09-03"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: 216595EE
-            length: "26:58"
-            length_seconds: 1618
+            crc32: C408DA06
+            length: "27:48"
+            length_seconds: 1668
     - id: 437050304-002
       arc: 20
       episode: 2
@@ -5028,7 +5028,7 @@
   title: Fishman Island
   audio_languages: JA
   subtitle_languages: EN
-  resolution: 720p
+  resolution: 720p,1080p
   manga_chapters: 603 - 653
   manga_chapter_range:
     start: 603
@@ -5040,10 +5040,10 @@
     end: 574
   episodes_adapted: "51"
   filler_episodes: "542"
-  time_saved_mins: "386"
-  time_saved_mins_value: 386
-  time_saved_percent: 35.25%
-  time_saved_percent_value: 35.25
+  time_saved_mins: "381"
+  time_saved_mins_value: 381
+  time_saved_percent: 34.79%
+  time_saved_percent_value: 34.79
   status: TBR
   episodes:
     - id: 2070578030-001
@@ -5056,14 +5056,14 @@
         start: 603
         end: 604
       episodes: Ep. 523-524
-      released: "2013-03-27"
+      released: "2026-09-03"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: FBA08093
-            length: "26:03"
-            length_seconds: 1563
+            crc32: F69C4922
+            length: "31:05"
+            length_seconds: 1865
     - id: 2070578030-002
       arc: 29
       episode: 2

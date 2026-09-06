@@ -1891,7 +1891,7 @@
         crc32: 06F25D1B
         length: "26:57"
         url: https://nyaa.si/view/1279925
-    is_current: true
+    is_current: false
 7A93DCC5:
     arc_id: "1664435609"
     episode_id: 1664435609-016
@@ -5331,7 +5331,7 @@
         crc32: 216595EE
         length: "26:58"
         url: https://nyaa.si/?q=59497fc3d9a6dbcdbaced48eaa9f5ba2047614df
-    is_current: true
+    is_current: false
 398915C6:
     arc_id: "545721945"
     episode_id: 545721945-011
@@ -6953,6 +6953,23 @@ C269DEF5:
         url: https://nyaa.si/view/2030687
         magnet_uri: magnet:?xt=urn:btih:b3aaeeac3f12b5129380d7cd17415edbfbd12689&dn=%5BOne+Pace%5D%5B69-71%5D+Arlong+Park+01+%5B1080p%5D%5BC269DEF5%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
         torrent_url: https://nyaa.si/download/2030687.torrent
+    is_current: true
+C408DA06:
+    arc_id: "437050304"
+    episode_id: 437050304-001
+    arc: 20
+    episode: 1
+    title: Fist of Love
+    description: Two days later in Water Seven, Franky hears that the item he purchased with the Straw Hats' stolen money has arrived. While the pirates recover from the events at Enies Lobby, a Marine vice admiral arrives to pay Luffy an unexpected visit.
+    chapters: Ch. 431-432
+    episodes: Ep. 313-314
+    released: "2026-09-03"
+    file:
+        version: normal
+        crc32: C408DA06
+        length: "27:48"
+        length_seconds: 1668
+        url: https://nyaa.si/view/2156009
     is_current: true
 C951349C:
     arc_id: "277573788"
@@ -8652,6 +8669,23 @@ F66FB414:
         length: "25:35"
         url: https://nyaa.si/view/2050665
     is_current: true
+F69C4922:
+    arc_id: "2070578030"
+    episode_id: 2070578030-001
+    arc: 29
+    episode: 1
+    title: To the Deep Sea
+    description: Encased in a protective bubble, the Sunny departs for Fishman Island far under the sea. As the Straw Hats marvel at the sights, Franky tells the crew about their greatest ally in their time apart. But suddenly, a mysterious shadow closes in on the ship.
+    chapters: Ch. 603-604
+    episodes: Ep. 523-524
+    released: "2026-09-03"
+    file:
+        version: normal
+        crc32: F69C4922
+        length: "31:05"
+        length_seconds: 1865
+        url: https://nyaa.si/view/2156008
+    is_current: true
 F71F9B71:
     arc_id: "1926352856"
     episode_id: 1926352856-007
@@ -8887,7 +8921,7 @@ FBA08093:
         crc32: FBA08093
         length: "26:03"
         url: https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e
-    is_current: true
+    is_current: false
 FBEA8001:
     arc_id: "277573788"
     episode_id: 277573788-017
@@ -8939,7 +8973,7 @@ FCF6BA63:
         url: https://nyaa.si/view/2062715
         magnet_uri: magnet:?xt=urn:btih:2b8ae89cb5efdb0600c14d20a8b9ea38c9e2f21b&dn=%5BOne+Pace%5D%5B82-84%5D+Arlong+Park+06+%5B1080p%5D%5BFCF6BA63%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
         torrent_url: https://nyaa.si/download/2062715.torrent
-    is_current: false
+    is_current: true
 FCF7F7E4:
     arc_id: "2070578030"
     episode_id: 2070578030-009

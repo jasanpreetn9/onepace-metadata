@@ -1874,7 +1874,469 @@
   time_saved_percent: 21.38%
   time_saved_percent_value: 21.38
   status: ""
-  episodes: []
+  episodes:
+    - id: 277573788-000
+      arc: 16
+      episode: 0
+      title: Skypiea 25 (G8)
+      description: ""
+      chapters: Ch. 302-303
+      chapter_range:
+        start: 302
+        end: 303
+      episodes: Ep. 195, 207
+      released: "2025-05-03"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 90C45C25
+            length: "24:09"
+            length_seconds: 1449
+    - id: 277573788-001
+      arc: 16
+      episode: 1
+      title: Heaven's Gate
+      description: The Straw Hats, having used the Knock-Up Stream to fly into the sky, arrive on a white ocean above the clouds. While they marvel at the otherworldly sights, they are attacked by a powerful masked figure, and a mysterious flying knight comes to their aid.
+      chapters: Ch. 237-238
+      chapter_range:
+        start: 237
+        end: 238
+      episodes: Ep. 153
+      released: "2023-06-12"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: CA5552FC
+            length: "19:56"
+            length_seconds: 1196
+    - id: 277573788-002
+      arc: 16
+      episode: 2
+      title: Angel Beach
+      description: 'After bidding farewell to Gan Fall and passing through the gate to Skypiea, the pirates encounter a family of Skypieans: Conis and her father, Pagaya. The two explain the workings of life in the sky and introduce the crew to the different dials.'
+      chapters: Ch. 239-240
+      chapter_range:
+        start: 239
+        end: 240
+      episodes: Ep. 154
+      released: "2023-06-12"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: EB6E8FF5
+            length: "21:01"
+            length_seconds: 1261
+    - id: 277573788-003
+      arc: 16
+      episode: 3
+      title: Divine Reckoning
+      description: Nami takes the waver out for a test ride and discovers the forbidden Upper Yard. Meanwhile, law enforcement arrives and rudely harasses the rest of the gang.
+      chapters: Ch. 241-242
+      chapter_range:
+        start: 241
+        end: 242
+      episodes: Ep. 155-156
+      released: "2023-06-12"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: A50167E6
+            length: "24:30"
+            length_seconds: 1470
+    - id: 277573788-004
+      arc: 16
+      episode: 4
+      title: Ordeal
+      description: The pirates are fed up and ready to leave Skypiea, but Nami, Zoro, Robin, and Chopper are whisked away aboard the Merry. The remaining Straw Hat Pirates must face Enel’s challenge, so Conis shows them the way to Upper Yard.
+      chapters: Ch. 243-244
+      chapter_range:
+        start: 243
+        end: 244
+      episodes: Ep. 157-158
+      released: "2023-06-12"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: C6120876
+            length: "29:13"
+            length_seconds: 1753
+    - id: 277573788-005
+      arc: 16
+      episode: 5
+      title: Adventure on God's Island
+      description: Aboard the Little Crow, Luffy, Usopp, and Sanji enter Upper Yard and must choose an ordeal. Meanwhile, Zoro and co. have their own troubles at the Sacrificial Altar. When they leave to explore the forest, Chopper is left to repair the Merry.
+      chapters: Ch. 245-246
+      chapter_range:
+        start: 245
+        end: 246
+      episodes: Ep. 159-160
+      released: "2023-06-12"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: FEA121C3
+            length: "23:19"
+            length_seconds: 1399
+    - id: 277573788-006
+      arc: 16
+      episode: 6
+      title: The Village Hidden in the Clouds
+      description: Luffy, Sanji, and Usopp are locked in a life-or-death struggle against the Priest Satori. It's all they can do to withstand the random attributes of Satori's strange spheres and to overcome the power of mantra, which can seemingly predict their movements.
+      chapters: Ch. 247-249
+      chapter_range:
+        start: 247
+        end: 249
+      episodes: Ep. 161-163
+      released: "2023-10-14"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: BF59EB14
+            length: "34:21"
+            length_seconds: 2061
+    - id: 277573788-007
+      arc: 16
+      episode: 7
+      title: Overture
+      description: Gan Fall is severely burned during his battle with Shura, and Chopper musters the courage for a leap of faith. Elsewhere, Luffy and co. finally discover a way to defeat the mantra-wielding Satori, and the Shandians prepare for an all-out attack on God!
+      chapters: Ch. 250-251
+      chapter_range:
+        start: 250
+        end: 251
+      episodes: Ep. 163-164
+      released: "2023-10-21"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 3C665F73
+            length: "20:30"
+            length_seconds: 1230
+    - id: 277573788-008
+      arc: 16
+      episode: 8
+      title: Vearth
+      description: The Shandians’ attack on Upper Yard commences! At the Sacrificial Altar, the crew is finally reunited, and everyone recounts what has happened. Chopper looks after the injured Gan Fall, and the pirates devise a plan to steal the gold on the island.
+      chapters: Ch. 252-254
+      chapter_range:
+        start: 252
+        end: 254
+      episodes: Ep. 165-167
+      released: "2023-10-28"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 236CCF51
+            length: "36:55"
+            length_seconds: 2215
+    - id: 277573788-009
+      arc: 16
+      episode: 9
+      title: Dial Battle
+      description: The crew splits up into Nami's escape team and Luffy's exploration team. Unfortunately, a giant snake attacks and separates Luffy's team. To top it all off, the Priests have set up their ordeals across the whole island.
+      chapters: Ch. 255-257
+      chapter_range:
+        start: 255
+        end: 257
+      episodes: Ep. 168-169
+      released: "2023-11-17"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: CF0B1E5A
+            length: "34:55"
+            length_seconds: 2095
+    - id: 277573788-010
+      arc: 16
+      episode: 10
+      title: Pirate Luffy vs. Berserker Wyper
+      description: Only 80 remain in the Upper Yard survival game. Zoro finds himself face-to-face with the Shandian Braham, Luffy takes on Wyper and his burning bazooka, and Nami’s group on the Merry has the deadliest encounter of all!
+      chapters: Ch. 258-260
+      chapter_range:
+        start: 258
+        end: 260
+      episodes: Ep. 170-171
+      released: "2023-12-02"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: "602704E6"
+            length: "18:57"
+            length_seconds: 1137
+    - id: 277573788-011
+      arc: 16
+      episode: 11
+      title: Pirate Chopper vs. Priest Gedatsu
+      description: Luffy's fight with Wyper lands him in a dark cavern filled with ruins, Enel leaves a deadly pair of new enemies to deal with Nami and Gan Fall, and Chopper comes face to face with Sky Punk Gedatsu.
+      chapters: Ch. 261-263
+      chapter_range:
+        start: 261
+        end: 263
+      episodes: Ep. 171-173
+      released: "2024-04-12"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: F0EF6382
+            length: "32:25"
+            length_seconds: 1945
+    - id: 277573788-012
+      arc: 16
+      episode: 12
+      title: Pirate Robin vs. Commander Yama
+      description: Enel wipes out several fighters regardless of their allegiance. An hour remains until God's deadline, and only twenty-four survivors remain. Meanwhile, after a deadly struggle with the rotund Yama, Robin makes the discovery of a lifetime.
+      chapters: Ch. 264-266,268
+      episodes: Ep. 172-174
+      released: "2024-04-26"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 99260C5A
+            length: "28:24"
+            length_seconds: 1704
+    - id: 277573788-013
+      arc: 16
+      episode: 13
+      title: Concerto
+      description: While Luffy remains lost in a strange, dark cavern, at the Upper Ruins, Priest Ohm confronts Zoro, Gan Fall, and Wyper with his Ordeal of Iron. As the fight wears on, Shandian warriors, Nami, and Aisa make a sudden appearance.
+      chapters: Ch. 266-269
+      chapter_range:
+        start: 266
+        end: 269
+      episodes: Ep. 175-176
+      released: "2024-05-24"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 460CC2CD
+            length: "33:09"
+            length_seconds: 1989
+    - id: 277573788-014
+      arc: 16
+      episode: 14
+      title: Pirate Zoro vs. Priest Ohm
+      description: After being swallowed by the giant snake, Nami, Gan Fall, and Aisa meet someone they never expected would be in the serpent's stomach. As Priest Ohm’s Ordeal of Iron comes to a close in the Upper Ruins, Zoro unleashes a powerful new technique.
+      chapters: Ch. 270-273
+      chapter_range:
+        start: 270
+        end: 273
+      episodes: Ep. 177-179
+      released: "2024-06-22"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: "702231E9"
+            length: "29:01"
+            length_seconds: 1741
+    - id: 277573788-015
+      arc: 16
+      episode: 15
+      title: Quintet
+      description: The lost ruins of Shandora are revealed in a spectacle of lightning, and the remaining survivors of Enel's twisted game begin their showdown with the self-styled deity. As the group faces him, "God" reveals his ultimate goal...
+      chapters: Ch. 273-276
+      chapter_range:
+        start: 273
+        end: 276
+      episodes: Ep. 179-181
+      released: "2024-07-20"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 9863ADF4
+            length: "36:11"
+            length_seconds: 2171
+    - id: 277573788-016
+      arc: 16
+      episode: 16
+      title: Conis
+      description: God Enel reveals his grand masterpiece to the sole survivor of his deadly game, and a certain rubber man finally frees himself of the snake's stomach! Meanwhile, Conis makes a desperate dash to Angel Island to warn its residents of their impending doom.
+      chapters: Ch. 277-279
+      chapter_range:
+        start: 277
+        end: 279
+      episodes: Ep. 181-182
+      released: "2024-09-13"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 088462CB
+            length: "26:38"
+            length_seconds: 1598
+    - id: 277573788-017
+      arc: 16
+      episode: 17
+      title: Deathpiea
+      description: As the citizens of the sky run for their lives, Enel activates Deathpiea! Luffy must discover a way to lay hands on the heinous holy man before he's sent overboard, and Sanji and Usopp mount a midair rescue mission.
+      chapters: Ch. 280-283
+      chapter_range:
+        start: 280
+        end: 283
+      episodes: Ep. 183-185
+      released: "2024-12-07"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: FBEA8001
+            length: "31:36"
+            length_seconds: 1896
+    - id: 277573788-018
+      arc: 16
+      episode: 18
+      title: On the Front Line of Love's Salvation
+      description: Usopp arrives just in time to save Nami from a lethal thunderbolt, and Sanji stealthily searches for a way to sabotage the ark. Despite being slowed by an arm encased in gold, Luffy races up Giant Jack on a mission to settle the score!
+      chapters: Ch. 283-286
+      chapter_range:
+        start: 283
+        end: 286
+      episodes: Ep. 185-186
+      released: "2024-12-13"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 60E51C8A
+            length: "33:34"
+            length_seconds: 2014
+    - id: 277573788-019
+      arc: 16
+      episode: 19
+      title: Godkiller
+      description: As Enel rains destruction upon Skypiea, Wyper remembers the tales passed down by the village elder about when his ancestor the warrior Kalgara met the explorer Mont Blanc Noland.
+      chapters: Ch. 286-289
+      chapter_range:
+        start: 286
+        end: 289
+      episodes: Ep. 187-188
+      released: "2025-01-18"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: "88263203"
+            length: "28:22"
+            length_seconds: 1702
+    - id: 277573788-020
+      arc: 16
+      episode: 20
+      title: The Light of Shandora
+      description: The flashback of the legend of Mont Blanc Noland and Kalgara the warrior continues with the story of how these two very different men suddenly found friendship... and then lost it just as quickly!
+      chapters: Ch. 290-291
+      chapter_range:
+        start: 290
+        end: 291
+      episodes: Ep. 188-189
+      released: "2025-01-18"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 481A9A9D
+            length: "23:46"
+            length_seconds: 1426
+    - id: 277573788-021
+      arc: 16
+      episode: 21
+      title: Raigō
+      description: Mont Blanc Noland's tale ends in tragedy and misunderstanding. In the present, Enel strikes Angel Island with a devastating lightning bolt, and Luffy refuses to halt his climb up the beanstalk until he rings the golden bell!
+      chapters: Ch. 292-295
+      chapter_range:
+        start: 292
+        end: 295
+      episodes: Ep. 189-190
+      released: "2025-02-15"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 9B126B00
+            length: "29:24"
+            length_seconds: 1764
+    - id: 277573788-022
+      arc: 16
+      episode: 22
+      title: Love Song
+      description: While Enel continues his thunderous barrage, Nami hatches a plan to give Luffy one more shot at a grudge match with God. With a nudge from Zoro, Wyper, and a snake, Straw Hat launches himself into the center of a sinister storm!
+      chapters: Ch. 295-298
+      chapter_range:
+        start: 295
+        end: 298
+      episodes: Ep. 191-192
+      released: "2025-02-22"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: "62938616"
+            length: "32:55"
+            length_seconds: 1975
+    - id: 277573788-023
+      arc: 16
+      episode: 23
+      title: Fantasia
+      description: In the aftermath of Luffy's epic battle with Enel, sunny skies chase away the storms, and the cloud-dwelling citizens of Angel Island turn their attention to rebuilding their homeland.
+      chapters: Ch. 299-300
+      chapter_range:
+        start: 299
+        end: 300
+      episodes: Ep. 193
+      released: "2025-03-01"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: D9CD96CA
+            length: "20:13"
+            length_seconds: 1213
+    - id: 277573788-024
+      arc: 16
+      episode: 24
+      title: I Made It Here
+      description: Robin deciphers the message of the poneglyph, ending the Shandians' centuries-long task of guarding the golden bell. Before leaving Skypiea, the Straw Hats embark on their promised gold heist, and the people of the sky see them off on their journey.
+      chapters: Ch. 301
+      episodes: Ep. 194
+      released: "2025-04-26"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 3F695862
+            length: "19:53"
+            length_seconds: 1193
+    - id: 277573788-025
+      arc: 16
+      episode: 25
+      title: Finale
+      description: With a little help from their new friends—and a giant octopus—the Straw Hats bid farewell to Skypiea and begin their descent back to the Blue Sea. Then as night falls, a certain Warlord makes an appearance at Jaya...
+      chapters: Ch. 302-303
+      chapter_range:
+        start: 302
+        end: 303
+      episodes: Ep. 195, 203, 207
+      released: "2025-05-03"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: C951349C
+            length: "20:48"
+            length_seconds: 1248
   gid: "277573788"
 - id: "988886513"
   arc: 17

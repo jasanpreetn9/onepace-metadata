@@ -1137,10 +1137,10 @@
     end: 91
   episodes_adapted: "14"
   filler_episodes: ""
-  time_saved_mins: "62"
-  time_saved_mins_value: 62
-  time_saved_percent: 21.34%
-  time_saved_percent_value: 21.34
+  time_saved_mins: "63"
+  time_saved_mins_value: 63
+  time_saved_percent: 21.43%
+  time_saved_percent_value: 21.43
   status: ""
   episodes:
     - id: 793018827-001
@@ -1261,14 +1261,14 @@
         start: 149
         end: 152
       episodes: Ep. 88-90
-      released: "2023-06-18"
+      released: "2026-09-07"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: B1D913B9
-            length: "33:31"
-            length_seconds: 2011
+            crc32: D549B6DF
+            length: "33:15"
+            length_seconds: 1995
     - id: 793018827-008
       arc: 13
       episode: 8

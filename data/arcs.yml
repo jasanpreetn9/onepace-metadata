@@ -1305,10 +1305,10 @@
     end: 130
   episodes_adapted: "40"
   filler_episodes: 99, 102
-  time_saved_mins: "284"
-  time_saved_mins_value: 284
-  time_saved_percent: 33.83%
-  time_saved_percent_value: 33.83
+  time_saved_mins: "286"
+  time_saved_mins_value: 286
+  time_saved_percent: 34.05%
+  time_saved_percent_value: 34.05
   status: ""
   episodes:
     - id: 209591769-001
@@ -1345,8 +1345,8 @@
         normal:
             version: normal
             crc32: E4BA97D6
-            length: "28:25"
-            length_seconds: 1705
+            length: "28:24"
+            length_seconds: 1704
     - id: 209591769-003
       arc: 14
       episode: 3
@@ -1360,8 +1360,8 @@
         normal:
             version: normal
             crc32: "73003149"
-            length: "25:58"
-            length_seconds: 1558
+            length: "24:16"
+            length_seconds: 1456
     - id: 209591769-004
       arc: 14
       episode: 4
@@ -1378,8 +1378,8 @@
         normal:
             version: normal
             crc32: FF1E1708
-            length: "25:15"
-            length_seconds: 1515
+            length: "25:08"
+            length_seconds: 1508
     - id: 209591769-005
       arc: 14
       episode: 5

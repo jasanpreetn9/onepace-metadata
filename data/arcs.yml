@@ -1139,8 +1139,8 @@
   filler_episodes: ""
   time_saved_mins: "63"
   time_saved_mins_value: 63
-  time_saved_percent: 21.43%
-  time_saved_percent_value: 21.43
+  time_saved_percent: 21.55%
+  time_saved_percent_value: 21.55
   status: ""
   episodes:
     - id: 793018827-001
@@ -1279,14 +1279,14 @@
         start: 153
         end: 156
       episodes: Ep. 90-91
-      released: "2023-07-05"
+      released: "2026-09-12"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: 9794072D
-            length: "29:50"
-            length_seconds: 1790
+            crc32: F8FCF23F
+            length: "29:30"
+            length_seconds: 1770
   gid: "793018827"
 - id: "209591769"
   arc: 14

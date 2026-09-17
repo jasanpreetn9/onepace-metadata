@@ -6171,7 +6171,7 @@
       "magnet_uri": "magnet:?xt=urn:btih:a464ed705df4d6e5c82182720fcb680aff526df9\u0026dn=%5BOne+Pace%5D%5B153-155%2C+142%5D+Drum+Island+08+%5B1080p%5D%5B9794072D%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969\u0026tr=udp%3A%2F%2Fzer0day.ch%3A1337\u0026tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.publicbt.com%3A80\u0026tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969",
       "torrent_url": "https://nyaa.si/download/1700849.torrent"
     },
-    "is_current": true
+    "is_current": false
   },
   "9863ADF4": {
     "arc_id": "277573788",
@@ -9855,6 +9855,25 @@
       "crc32": "F7CB97CD",
       "length": "26:23",
       "url": "https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145"
+    },
+    "is_current": true
+  },
+  "F8FCF23F": {
+    "arc_id": "793018827",
+    "episode_id": "793018827-008",
+    "arc": 13,
+    "episode": 8,
+    "title": "Hiriluk's Cherry Blossoms",
+    "description": "Finally convinced to join the Straw Hat Pirates, Chopper announces his intentions to Dr. Kureha. While she doesn’t receive the news well at first, she decides to give the Straw Hats a fond parting gift while they exit the island.",
+    "chapters": "Ch. 153-156",
+    "episodes": "Ep. 90-91",
+    "released": "2026-09-12",
+    "file": {
+      "version": "normal",
+      "crc32": "F8FCF23F",
+      "length": "29:30",
+      "length_seconds": 1770,
+      "url": "https://nyaa.si/view/2160005"
     },
     "is_current": true
   },

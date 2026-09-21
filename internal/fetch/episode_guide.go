@@ -246,45 +246,17 @@ func slugify(s string) string {
 	return strings.Trim(b.String(), "-")
 }
 
-// normalizeArcIDs fixes fractional arc numbers (6.5 → 7)
-// AND guarantees unique, sequential arc IDs.
+// normalizeArcIDs renumbers arcs sequentially (1, 2, 3, ...) in their
+// existing order. This collapses fractional arc numbers from the sheet
+// (e.g. 6.5) and any gaps in the source numbering into a clean, unique
+// sequence. Arc.ID (derived from GID, not this function) is the stable
+// join key across scrapes — see its doc comment.
 func normalizeArcIDs(arcs []model.Arc) []model.Arc {
-	if len(arcs) == 0 {
-		return arcs
-	}
-
 	normalized := make([]model.Arc, len(arcs))
-
-	nextID := 1
-	lastAssigned := 0
-
 	for i, arc := range arcs {
-
-		// Convert fractional decimals
-		raw := float64(arc.Arc) / 10.0
-
-		// Round fractional arc numbers UP (6.5 → 7)
-		var rounded int
-		if raw == float64(int(raw)) {
-			rounded = int(raw)
-		} else {
-			rounded = int(raw) + 1
-		}
-
-		// Ensure no duplicates:
-		// If rounded ≤ lastAssigned, bump it
-		if rounded <= lastAssigned {
-			rounded = lastAssigned + 1
-		}
-
-		// Assign sequential ID
 		normalized[i] = arc
-		normalized[i].Arc = nextID
-
-		lastAssigned = rounded
-		nextID++
+		normalized[i].Arc = i + 1
 	}
-
 	return normalized
 }
 

@@ -73,8 +73,13 @@ func ExportMetadata(arcs []model.Arc, releases []model.Release, outDir string) e
 	archivePath := outDir + "/episodes.json"
 
 	if util.FileExists(archivePath) {
-		raw, _ := os.ReadFile(archivePath)
-		_ = json.Unmarshal(raw, &archive)
+		raw, err := os.ReadFile(archivePath)
+		if err != nil {
+			return fmt.Errorf("read existing episode archive %s: %w", archivePath, err)
+		}
+		if err := json.Unmarshal(raw, &archive); err != nil {
+			return fmt.Errorf("parse existing episode archive %s: %w", archivePath, err)
+		}
 	}
 
 	// ========================================================
@@ -339,8 +344,13 @@ func ExportMetadata(arcs []model.Arc, releases []model.Release, outDir string) e
 	releasesPath := outDir + "/releases.json"
 
 	if util.FileExists(releasesPath) {
-		raw, _ := os.ReadFile(releasesPath)
-		_ = json.Unmarshal(raw, &releasesArchive)
+		raw, err := os.ReadFile(releasesPath)
+		if err != nil {
+			return fmt.Errorf("read existing releases archive %s: %w", releasesPath, err)
+		}
+		if err := json.Unmarshal(raw, &releasesArchive); err != nil {
+			return fmt.Errorf("parse existing releases archive %s: %w", releasesPath, err)
+		}
 	}
 
 	for _, r := range releases {

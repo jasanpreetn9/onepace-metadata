@@ -89,7 +89,7 @@
   arc: 2
   title: Orange Town
   audio_languages: JA, EN, DE, ES
-  subtitle_languages: EN, AR, CS, DE, ES, FR, IT, JA, PL, PT-BR, RU, TR
+  subtitle_languages: EN, AR, CS, DE, ES, FR, IT, PL, PT-BR, RU, TR
   resolution: 1080p
   manga_chapters: 8 - 21
   manga_chapter_range:
@@ -1124,7 +1124,7 @@
   arc: 13
   title: Drum Island
   audio_languages: JA,EN
-  subtitle_languages: EN, DE, ES(1-6,8), FR(1-6,8), IT, JA(1-4,6-8), RU(6,8), TR
+  subtitle_languages: EN, DE, FR(1-6,8), IT, JA(1-4,6-8), RU(6,8), TR
   resolution: 1080p
   manga_chapters: 129 - 154
   manga_chapter_range:
@@ -1279,12 +1279,12 @@
         start: 153
         end: 156
       episodes: Ep. 90-91
-      released: "2026-09-12"
+      released: "2026-09-20"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: F8FCF23F
+            crc32: FA5C67B1
             length: "29:30"
             length_seconds: 1770
   gid: "793018827"
@@ -7796,7 +7796,7 @@
   arc: 35
   title: Wano
   audio_languages: JA,EN (1-4, 31-)
-  subtitle_languages: EN, AR(1-4,23-24,60), DE(1-4,44-61), ES(1-4,23-24,31-34,36,38-40), FR(1-3,23-24,27-61), HE(4,57), TR(4,59-61)
+  subtitle_languages: EN, AR(1-4,23-24,60), DE(1-4,44-62), ES(1-4,23-24,31-34,36,38-40), FR(1-3,23-24,27-62), HE(4,57), TR(4,59-62)
   resolution: 1080p
   manga_chapters: 909 - 1057
   manga_chapter_range:
@@ -7809,10 +7809,10 @@
     end: 1085
   episodes_adapted: "136"
   filler_episodes: 895-896, 1029 - 1030, 1084
-  time_saved_mins: "1065"
-  time_saved_mins_value: 1065
-  time_saved_percent: 35.60%
-  time_saved_percent_value: 35.6
+  time_saved_mins: "862"
+  time_saved_mins_value: 862
+  time_saved_percent: 28.82%
+  time_saved_percent_value: 28.82
   status: WIP
   episodes:
     - id: 1926352856-000
@@ -8920,6 +8920,29 @@
             crc32: 1EF3F26C
             length: "25:12"
             length_seconds: 1512
+    - id: 1926352856-062
+      arc: 35
+      episode: 62
+      title: Anarchy in the BM
+      description: ""
+      chapters: Ch. 1012-1013
+      chapter_range:
+        start: 1012
+        end: 1013
+      episodes: Ep. 1032-1034
+      released: "2026-09-20"
+      has_extended: true
+      files:
+        normal:
+            version: normal
+            crc32: "562018E8"
+            length: "24:36"
+            length_seconds: 1476
+        extended:
+            version: extended
+            crc32: 3EC45BF1
+            length: "31:27"
+            length_seconds: 1887
   gid: "1926352856"
 - id: "1664435609"
   arc: 36

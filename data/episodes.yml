@@ -902,6 +902,23 @@
         length: "28:55"
         url: https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145
     is_current: true
+3EC45BF1:
+    arc_id: "1926352856"
+    episode_id: 1926352856-062
+    arc: 35
+    episode: 62
+    title: Anarchy in the BM
+    description: ""
+    chapters: Ch. 1012-1013
+    episodes: Ep. 1032-1034
+    released: "2026-09-20"
+    file:
+        version: extended
+        crc32: 3EC45BF1
+        length: "31:27"
+        length_seconds: 1887
+        url: https://nyaa.si/view/2163846
+    is_current: true
 3F5E7FD3:
     arc_id: "1510623527"
     episode_id: 1510623527-018
@@ -5400,6 +5417,23 @@
         magnet_uri: magnet:?xt=urn:btih:2137e92a3febe8d7865fac2b7625d1647f7ef6a7&dn=%5BOne+Pace%5D%5B1075-1076%5D+Egghead+11+%5B1080p%5D%5B448628C9%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
         torrent_url: https://nyaa.si/download/1966910.torrent
     is_current: true
+"562018E8":
+    arc_id: "1926352856"
+    episode_id: 1926352856-062
+    arc: 35
+    episode: 62
+    title: Anarchy in the BM
+    description: ""
+    chapters: Ch. 1012-1013
+    episodes: Ep. 1032-1034
+    released: "2026-09-20"
+    file:
+        version: normal
+        crc32: "562018E8"
+        length: "24:36"
+        length_seconds: 1476
+        url: https://nyaa.si/view/2163847
+    is_current: true
 587689A9:
     arc_id: "1076173334"
     episode_id: 1076173334-005
@@ -6866,7 +6900,7 @@ C060DA73:
         url: https://nyaa.si/view/1920010
         magnet_uri: magnet:?xt=urn:btih:6a094a5b9265993005e8cb789687d23aac5a3caa&dn=%5BOne+Pace%5D%5B74-76%5D+Arlong+Park+03+%5B1080p%5D%5BC060DA73%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
         torrent_url: https://nyaa.si/download/1920010.torrent
-    is_current: true
+    is_current: false
 C63FCD71:
     arc_id: "793018827"
     episode_id: 793018827-006
@@ -7196,7 +7230,7 @@ CC4900AE:
         url: https://nyaa.si/view/2035983
         magnet_uri: magnet:?xt=urn:btih:c6ac0931b41840cec35ff81307899cc4d1e2cb69&dn=%5BOne+Pace%5D%5B74-76%5D+Arlong+Park+03+%5B1080p%5D%5BCC4900AE%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
         torrent_url: https://nyaa.si/download/2035983.torrent
-    is_current: false
+    is_current: true
 CC88315A:
     arc_id: "545721945"
     episode_id: 545721945-006
@@ -8634,7 +8668,7 @@ F8FCF23F:
         length: "29:30"
         length_seconds: 1770
         url: https://nyaa.si/view/2160005
-    is_current: true
+    is_current: false
 F15AFDE0:
     arc_id: "1926352856"
     episode_id: 1926352856-001
@@ -8889,6 +8923,23 @@ FA5B3DCD:
         url: https://nyaa.si/view/1265974
         magnet_uri: magnet:?xt=urn:btih:eacbf73c4965a12fbf2eb97e4db53151ff39788f&dn=%5BOne+Pace%5D%5B589-590%5D+Post-War+05+%5B1080p%5D%5BFA5B3DCD%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce
         torrent_url: https://nyaa.si/download/1265974.torrent
+    is_current: true
+FA5C67B1:
+    arc_id: "793018827"
+    episode_id: 793018827-008
+    arc: 13
+    episode: 8
+    title: Hiriluk's Cherry Blossoms
+    description: Finally convinced to join the Straw Hat Pirates, Chopper announces his intentions to Dr. Kureha. While she doesn’t receive the news well at first, she decides to give the Straw Hats a fond parting gift while they exit the island.
+    chapters: Ch. 153-156
+    episodes: Ep. 90-91
+    released: "2026-09-20"
+    file:
+        version: normal
+        crc32: FA5C67B1
+        length: "29:30"
+        length_seconds: 1770
+        url: https://nyaa.si/view/2163848
     is_current: true
 FA63AC14:
     arc_id: "1340008658"

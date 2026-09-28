@@ -8948,7 +8948,7 @@
   arc: 36
   title: Egghead
   audio_languages: JA, EN
-  subtitle_languages: EN, AR(7-21), DE(3-21), FR
+  subtitle_languages: EN, AR(7-21), DE(3-22), FR
   resolution: 1080p
   manga_chapters: 1058 - 1125
   manga_chapter_range:
@@ -8961,22 +8961,22 @@
     end: 1155
   episodes_adapted: "40"
   filler_episodes: ""
-  time_saved_mins: "216"
-  time_saved_mins_value: 216
-  time_saved_percent: 25.77%
-  time_saved_percent_value: 25.77
+  time_saved_mins: "125"
+  time_saved_mins_value: 125
+  time_saved_percent: 14.94%
+  time_saved_percent_value: 14.94
   status: WIP
   episodes:
     - id: 1664435609-000
       arc: 36
       episode: 0
-      title: Egghead 22 Forward
+      title: Egghead 23 Forward
       description: ""
-      chapters: Ch. 1095-1125
+      chapters: Ch. 1097-1125
       chapter_range:
-        start: 1095
+        start: 1097
         end: 1125
-      episodes: Ep. 1129—1155
+      episodes: Ep. 1131—1155
       released: To Be Released
       has_extended: false
       files: {}
@@ -9377,4 +9377,22 @@
             crc32: 2C16CBB5
             length: "34:46"
             length_seconds: 2086
+    - id: 1664435609-022
+      arc: 36
+      episode: 22
+      title: Kuma Bear
+      description: Born with the rare blood of the Buccaneer people, young Kuma was fated to lead a life of persecution at the hands of the Celestial Dragons, but his father instilled hope within him through the legend of Nika and the Drums of Liberation.
+      chapters: Ch. 1095-1096
+      chapter_range:
+        start: 1095
+        end: 1096
+      episodes: Ep. 1129-1130
+      released: "2026-09-28"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 958F4943
+            length: "33:56"
+            length_seconds: 2036
   gid: "1664435609"

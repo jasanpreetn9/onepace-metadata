@@ -1435,7 +1435,192 @@
     "time_saved_percent": "21.55%",
     "time_saved_percent_value": 21.55,
     "status": "",
-    "episodes": null,
+    "episodes": [
+      {
+        "id": "793018827-001",
+        "arc": 13,
+        "episode": 1,
+        "title": "Tin Plate Wapol",
+        "description": "En route to Arabasta, Nami falls ill. Without a doctor aboard the Going Merry, the Straw Hats must decide whether to stay the course or find more immediate help. As their ship crosses into a frigid area, a figure is seen standing on the water's surface.",
+        "chapters": "Ch. 129-132",
+        "chapter_range": {
+          "start": 129,
+          "end": 132
+        },
+        "episodes": "Ep. 78-80",
+        "released": "2026-07-20",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "056965E8",
+            "length": "29:37",
+            "length_seconds": 1777
+          }
+        }
+      },
+      {
+        "id": "793018827-002",
+        "arc": 13,
+        "episode": 2,
+        "title": "Adventure in a Nameless Country",
+        "description": "If the Straw Hats have any chance of saving Nami, they must carry her up a mountain to see the sole doctor of a nameless, winter island. While Sanji and Luffy fight off the wilderness, a despicable king makes an unwanted return.",
+        "chapters": "Ch. 132-135",
+        "chapter_range": {
+          "start": 132,
+          "end": 135
+        },
+        "episodes": "Ep. 80-81",
+        "released": "2026-07-29",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "42F9FF82",
+            "length": "32:00",
+            "length_seconds": 1920
+          }
+        }
+      },
+      {
+        "id": "793018827-003",
+        "arc": 13,
+        "episode": 3,
+        "title": "The Summit",
+        "description": "A devastating avalanche sweeps Drum Island and puts everyone at risk, but Luffy—step-by-step, hand-over-hand—continues his death-defying ascent up the mountain. Meanwhile, Vivi, Usopp, and Zoro reunite in the wake of the disaster.",
+        "chapters": "Ch. 136-139",
+        "chapter_range": {
+          "start": 136,
+          "end": 139
+        },
+        "episodes": "Ep. 82-83",
+        "released": "2026-07-29",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "01B33C9E",
+            "length": "34:33",
+            "length_seconds": 2073
+          }
+        }
+      },
+      {
+        "id": "793018827-004",
+        "arc": 13,
+        "episode": 4,
+        "title": "Enter: Tony Tony Chopper",
+        "description": "Enter Chopper: a talking, transforming blue-nosed reindeer who was trained by Dr. Kureha in medicine. The Straw Hats immediately see the positives and want him on their crew, but Chopper must first deal with the monstrous pain in his heart.",
+        "chapters": "Ch. 139-141",
+        "chapter_range": {
+          "start": 139,
+          "end": 141
+        },
+        "episodes": "Ep. 83-84",
+        "released": "2026-08-10",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "FD16BA9C",
+            "length": "21:55",
+            "length_seconds": 1315
+          }
+        }
+      },
+      {
+        "id": "793018827-005",
+        "arc": 13,
+        "episode": 5,
+        "title": "Quack Doctor",
+        "description": "Chopper began life as an ordinary reindeer but was shunned by his own kind because of his unusual blue nose. Even after eating the Human-Human Devil Fruit, the islanders wanted nothing to do with him. That is, until Chopper met a certain quack doctor.",
+        "chapters": "Ch. 140-145",
+        "chapter_range": {
+          "start": 140,
+          "end": 145
+        },
+        "episodes": "Ep. 85-86",
+        "released": "2026-08-10",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "3CEF5DD3",
+            "length": "39:46",
+            "length_seconds": 2386
+          }
+        }
+      },
+      {
+        "id": "793018827-006",
+        "arc": 13,
+        "episode": 6,
+        "title": "Unbreakable",
+        "description": "Wapol and his comrades reach the mountaintop castle to wrest control of it back from Dr. Kureha and Chopper. Luffy, Sanji, and Chopper go head-to-head against his Munch-Munch powers, vowing to keep Wapol and his men from bringing down Hiriluk's flag.",
+        "chapters": "Ch. 145-148",
+        "chapter_range": {
+          "start": 145,
+          "end": 148
+        },
+        "episodes": "Ep. 83, 86-88",
+        "released": "2026-08-21",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "C63FCD71",
+            "length": "24:43",
+            "length_seconds": 1483
+          }
+        }
+      },
+      {
+        "id": "793018827-007",
+        "arc": 13,
+        "episode": 7,
+        "title": "The Skies of Drum",
+        "description": "Chopper counters the combined Chessmarimo with an item that expands his zoan fruit abilities. Wapol slips away into his old castle, but Luffy runs after him to force a final showdown.",
+        "chapters": "Ch. 149-152",
+        "chapter_range": {
+          "start": 149,
+          "end": 152
+        },
+        "episodes": "Ep. 88-90",
+        "released": "2026-09-07",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "D549B6DF",
+            "length": "33:15",
+            "length_seconds": 1995
+          }
+        }
+      },
+      {
+        "id": "793018827-008",
+        "arc": 13,
+        "episode": 8,
+        "title": "Hiriluk's Cherry Blossoms",
+        "description": "Finally convinced to join the Straw Hat Pirates, Chopper announces his intentions to Dr. Kureha. While she doesn’t receive the news well at first, she decides to give the Straw Hats a fond parting gift while they exit the island.",
+        "chapters": "Ch. 153-156",
+        "chapter_range": {
+          "start": 153,
+          "end": 156
+        },
+        "episodes": "Ep. 90-91",
+        "released": "2026-09-20",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "FA5C67B1",
+            "length": "29:30",
+            "length_seconds": 1770
+          }
+        }
+      }
+    ],
     "gid": "793018827"
   },
   {
@@ -1463,7 +1648,487 @@
     "time_saved_percent": "34.05%",
     "time_saved_percent_value": 34.05,
     "status": "",
-    "episodes": null,
+    "episodes": [
+      {
+        "id": "209591769-001",
+        "arc": 14,
+        "episode": 1,
+        "title": "Alabasta 01",
+        "description": "",
+        "chapters": "Ch. 155-157",
+        "chapter_range": {
+          "start": 155,
+          "end": 157
+        },
+        "episodes": "Ep. 92",
+        "released": "2023-05-14",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "BB1D093C",
+            "length": "20:28",
+            "length_seconds": 1228
+          }
+        }
+      },
+      {
+        "id": "209591769-002",
+        "arc": 14,
+        "episode": 2,
+        "title": "Alabasta 02",
+        "description": "",
+        "chapters": "Ch. 157-159",
+        "chapter_range": {
+          "start": 157,
+          "end": 159
+        },
+        "episodes": "Ep. 93-95",
+        "released": "2023-09-16",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "E4BA97D6",
+            "length": "28:24",
+            "length_seconds": 1704
+          }
+        }
+      },
+      {
+        "id": "209591769-003",
+        "arc": 14,
+        "episode": 3,
+        "title": "Alabasta 03",
+        "description": "",
+        "chapters": "Ch. 159, 161-162",
+        "episodes": "Ep. 96-98",
+        "released": "2023-07-28",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "73003149",
+            "length": "24:16",
+            "length_seconds": 1456
+          }
+        }
+      },
+      {
+        "id": "209591769-004",
+        "arc": 14,
+        "episode": 4,
+        "title": "Alabasta 04",
+        "description": "",
+        "chapters": "Ch. 159-164",
+        "chapter_range": {
+          "start": 159,
+          "end": 164
+        },
+        "episodes": "Ep. 98, 100-101, 103, 457",
+        "released": "2023-11-25",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "FF1E1708",
+            "length": "25:08",
+            "length_seconds": 1508
+          }
+        }
+      },
+      {
+        "id": "209591769-005",
+        "arc": 14,
+        "episode": 5,
+        "title": "Alabasta 05",
+        "description": "",
+        "chapters": "Ch. 164-166",
+        "chapter_range": {
+          "start": 164,
+          "end": 166
+        },
+        "episodes": "Ep. 100, 103-104",
+        "released": "2021-05-09",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "E9E8604E",
+            "length": "32:08",
+            "length_seconds": 1928
+          }
+        }
+      },
+      {
+        "id": "209591769-006",
+        "arc": 14,
+        "episode": 6,
+        "title": "Alabasta 06",
+        "description": "",
+        "chapters": "Ch. 167-168",
+        "chapter_range": {
+          "start": 167,
+          "end": 168
+        },
+        "episodes": "Ep. 105",
+        "released": "2021-07-06",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "58865EA7",
+            "length": "20:10",
+            "length_seconds": 1210
+          }
+        }
+      },
+      {
+        "id": "209591769-007",
+        "arc": 14,
+        "episode": 7,
+        "title": "Alabasta 07",
+        "description": "",
+        "chapters": "Ch. 169-170",
+        "chapter_range": {
+          "start": 169,
+          "end": 170
+        },
+        "episodes": "Ep. 106",
+        "released": "2021-07-13",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "CFA091A0",
+            "length": "18:00",
+            "length_seconds": 1080
+          }
+        }
+      },
+      {
+        "id": "209591769-008",
+        "arc": 14,
+        "episode": 8,
+        "title": "Alabasta 08",
+        "description": "",
+        "chapters": "Ch. 171-174",
+        "chapter_range": {
+          "start": 171,
+          "end": 174
+        },
+        "episodes": "Ep. 107-108",
+        "released": "2021-09-01",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "726FD61C",
+            "length": "35:34",
+            "length_seconds": 2134
+          }
+        }
+      },
+      {
+        "id": "209591769-009",
+        "arc": 14,
+        "episode": 9,
+        "title": "Alabasta 09",
+        "description": "",
+        "chapters": "Ch. 175-178",
+        "chapter_range": {
+          "start": 175,
+          "end": 178
+        },
+        "episodes": "Ep. 109-110",
+        "released": "2021-11-27",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "A905C964",
+            "length": "36:24",
+            "length_seconds": 2184
+          }
+        }
+      },
+      {
+        "id": "209591769-010",
+        "arc": 14,
+        "episode": 10,
+        "title": "Alabasta 10",
+        "description": "",
+        "chapters": "Ch. 179-182",
+        "chapter_range": {
+          "start": 179,
+          "end": 182
+        },
+        "episodes": "Ep. 111-112",
+        "released": "2022-06-03",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "4B8CC4E7",
+            "length": "36:36",
+            "length_seconds": 2196
+          }
+        }
+      },
+      {
+        "id": "209591769-011",
+        "arc": 14,
+        "episode": 11,
+        "title": "Alabasta 11",
+        "description": "",
+        "chapters": "Ch. 183-186",
+        "chapter_range": {
+          "start": 183,
+          "end": 186
+        },
+        "episodes": "Ep. 113-114",
+        "released": "2022-08-25",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "C51CB284",
+            "length": "35:17",
+            "length_seconds": 2117
+          }
+        }
+      },
+      {
+        "id": "209591769-012",
+        "arc": 14,
+        "episode": 12,
+        "title": "Alabasta 12",
+        "description": "",
+        "chapters": "Ch. 187-189",
+        "chapter_range": {
+          "start": 187,
+          "end": 189
+        },
+        "episodes": "Ep. 115-116",
+        "released": "2022-10-06",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "FF26917C",
+            "length": "25:53",
+            "length_seconds": 1553
+          }
+        }
+      },
+      {
+        "id": "209591769-013",
+        "arc": 14,
+        "episode": 13,
+        "title": "Alabasta 13",
+        "description": "",
+        "chapters": "Ch. 189-192",
+        "chapter_range": {
+          "start": 189,
+          "end": 192
+        },
+        "episodes": "Ep. 113, 116-118",
+        "released": "2022-11-30",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "58649840",
+            "length": "24:38",
+            "length_seconds": 1478
+          }
+        }
+      },
+      {
+        "id": "209591769-014",
+        "arc": 14,
+        "episode": 14,
+        "title": "Alabasta 14",
+        "description": "",
+        "chapters": "Ch. 192-195",
+        "chapter_range": {
+          "start": 192,
+          "end": 195
+        },
+        "episodes": "Ep. 118-119",
+        "released": "2023-02-03",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "0F3017E1",
+            "length": "32:26",
+            "length_seconds": 1946
+          }
+        }
+      },
+      {
+        "id": "209591769-015",
+        "arc": 14,
+        "episode": 15,
+        "title": "Alabasta 15",
+        "description": "",
+        "chapters": "Ch. 196-198",
+        "chapter_range": {
+          "start": 196,
+          "end": 198
+        },
+        "episodes": "Ep. 120-121",
+        "released": "2024-08-10",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "2AD355ED",
+            "length": "29:10",
+            "length_seconds": 1750
+          }
+        }
+      },
+      {
+        "id": "209591769-016",
+        "arc": 14,
+        "episode": 16,
+        "title": "Alabasta 16",
+        "description": "",
+        "chapters": "Ch. 199-201",
+        "chapter_range": {
+          "start": 199,
+          "end": 201
+        },
+        "episodes": "Ep. 121-122",
+        "released": "2024-05-17",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "5E646504",
+            "length": "22:36",
+            "length_seconds": 1356
+          }
+        }
+      },
+      {
+        "id": "209591769-017",
+        "arc": 14,
+        "episode": 17,
+        "title": "Alabasta 17",
+        "description": "",
+        "chapters": "Ch. 202-205",
+        "chapter_range": {
+          "start": 202,
+          "end": 205
+        },
+        "episodes": "Ep. 123-124",
+        "released": "2024-06-14",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "B5A40AD2",
+            "length": "32:38",
+            "length_seconds": 1958
+          }
+        }
+      },
+      {
+        "id": "209591769-018",
+        "arc": 14,
+        "episode": 18,
+        "title": "Alabasta 18",
+        "description": "",
+        "chapters": "Ch. 206-210",
+        "chapter_range": {
+          "start": 206,
+          "end": 210
+        },
+        "episodes": "Ep. 125-126",
+        "released": "2024-07-06",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "E4F68497",
+            "length": "34:39",
+            "length_seconds": 2079
+          }
+        }
+      },
+      {
+        "id": "209591769-019",
+        "arc": 14,
+        "episode": 19,
+        "title": "Alabasta 19",
+        "description": "",
+        "chapters": "Ch. 211-213",
+        "chapter_range": {
+          "start": 211,
+          "end": 213
+        },
+        "episodes": "Ep. 127-128",
+        "released": "2024-08-02",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "845C0D1D",
+            "length": "29:24",
+            "length_seconds": 1764
+          }
+        }
+      },
+      {
+        "id": "209591769-020",
+        "arc": 14,
+        "episode": 20,
+        "title": "Alabasta 20",
+        "description": "",
+        "chapters": "Ch. 214-216",
+        "chapter_range": {
+          "start": 214,
+          "end": 216
+        },
+        "episodes": "Ep. 128-129",
+        "released": "2024-08-09",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "0C5E9A92",
+            "length": "31:24",
+            "length_seconds": 1884
+          }
+        }
+      },
+      {
+        "id": "209591769-021",
+        "arc": 14,
+        "episode": 21,
+        "title": "Alabasta 21",
+        "description": "",
+        "chapters": "Ch. 217-218",
+        "chapter_range": {
+          "start": 217,
+          "end": 218
+        },
+        "episodes": "Ep. 130",
+        "released": "2024-08-16",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "EAA06203",
+            "length": "17:17",
+            "length_seconds": 1037
+          }
+        }
+      }
+    ],
     "gid": "209591769"
   },
   {
@@ -1491,7 +2156,192 @@
     "time_saved_percent": "14.42%",
     "time_saved_percent_value": 14.42,
     "status": "",
-    "episodes": null,
+    "episodes": [
+      {
+        "id": "1386602210-001",
+        "arc": 15,
+        "episode": 1,
+        "title": "Why the Log Pose Is Spherical",
+        "description": "When a galleon-size ship falls from the sky and Nami's log pose begins to point straight up, the Straw Hats sense a new adventure on the horizon. Right after a mysterious map is pulled from the wreckage, a group of salvagers come to claim the fallen ship.",
+        "chapters": "Ch. 218-220",
+        "chapter_range": {
+          "start": 218,
+          "end": 220
+        },
+        "episodes": "Ep.143-144",
+        "released": "2023-01-28",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "2BBCD106",
+            "length": "21:03",
+            "length_seconds": 1263
+          }
+        }
+      },
+      {
+        "id": "1386602210-002",
+        "arc": 15,
+        "episode": 2,
+        "title": "Never Dream",
+        "description": "Mock Town on western Jaya openly welcomes pirates, but that fact is accompanied by constant danger. While asking about the sky island, Luffy and Zoro have a run-in with the loud pirate Bellamy the Hyena who ridicules their dreams.",
+        "chapters": "Ch. 221-224",
+        "chapter_range": {
+          "start": 221,
+          "end": 224
+        },
+        "episodes": "Ep.145-146",
+        "released": "2023-02-10",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "6DAB82A3",
+            "length": "32:35",
+            "length_seconds": 1955
+          }
+        }
+      },
+      {
+        "id": "1386602210-003",
+        "arc": 15,
+        "episode": 3,
+        "title": "People's Dreams",
+        "description": "After a one-sided brawl with Bellamy, the Straw Hats meet a black-haired pirate outside the bar who reaffirms their dreams and insists the sky island is real. As they depart for the other side of Jaya, another salvager of the Saruyama Alliance appears.",
+        "chapters": "Ch. 225-226",
+        "chapter_range": {
+          "start": 225,
+          "end": 226
+        },
+        "episodes": "Ep.147",
+        "released": "2023-03-11",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "B4950266",
+            "length": "20:06",
+            "length_seconds": 1206
+          }
+        }
+      },
+      {
+        "id": "1386602210-004",
+        "arc": 15,
+        "episode": 4,
+        "title": "Noland the Liar",
+        "description": "The Straw Hats meet Montblanc Cricket, whose descendant was none other than Montblanc Noland, an infamous \"liar\" who told of a city of gold on Jaya. Cast out for looking for artifacts from the fabled city, he may just know a way to get to Skypiea.",
+        "chapters": "Ch. 227-228",
+        "chapter_range": {
+          "start": 227,
+          "end": 228
+        },
+        "episodes": "Ep.148",
+        "released": "2023-08-12",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "86DC8F38",
+            "length": "20:03",
+            "length_seconds": 1203
+          }
+        }
+      },
+      {
+        "id": "1386602210-005",
+        "arc": 15,
+        "episode": 5,
+        "title": "Let's Eat",
+        "description": "Cricket explains how the Straw Hats can ride a dangerous vertical sea current to get to Skypiea. However, they must first catch a south bird to steer them toward the point where the stream will erupt from the ocean.",
+        "chapters": "Ch. 229-230",
+        "chapter_range": {
+          "start": 229,
+          "end": 230
+        },
+        "episodes": "Ep.149",
+        "released": "2023-08-20",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "E468A31D",
+            "length": "21:37",
+            "length_seconds": 1297
+          }
+        }
+      },
+      {
+        "id": "1386602210-006",
+        "arc": 15,
+        "episode": 6,
+        "title": "The Hundred Million Man",
+        "description": "While the Straw Hats are in the forest attempting to catch a south bird, Bellamy and his crew attack Masira, Shoujou, and Cricket and steal every gold artifact they had collected over the years from the salvage work of the Saruyama Alliance.",
+        "chapters": "Ch. 231-232",
+        "chapter_range": {
+          "start": 231,
+          "end": 232
+        },
+        "episodes": "Ep.150",
+        "released": "2023-09-08",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "8783E1B0",
+            "length": "17:14",
+            "length_seconds": 1034
+          }
+        }
+      },
+      {
+        "id": "1386602210-007",
+        "arc": 15,
+        "episode": 7,
+        "title": "The Highest Authority in the World",
+        "description": "The duel between Bellamy and Luffy shocks all who look on. More shocking are the movements of fearsome pirates on the Grand Line and the machinations of the Blackbeard Pirates, as their captain vies for a position as a Warlord.",
+        "chapters": "Ch. 232-234",
+        "chapter_range": {
+          "start": 232,
+          "end": 234
+        },
+        "episodes": "Ep.145,151",
+        "released": "2023-09-16",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "580A0C3B",
+            "length": "24:41",
+            "length_seconds": 1481
+          }
+        }
+      },
+      {
+        "id": "1386602210-008",
+        "arc": 15,
+        "episode": 8,
+        "title": "The Knock-Up Stream",
+        "description": "Luffy returns victorious from his showdown with Bellamy, and the Going Merry has been refit by the Saruyama Alliance to handle its upcoming upward flight. The Straw Hats follow their captive south bird and steel themselves for their journey to the sky.",
+        "chapters": "Ch. 235-236",
+        "chapter_range": {
+          "start": 235,
+          "end": 236
+        },
+        "episodes": "Ep.152",
+        "released": "2023-09-30",
+        "has_extended": false,
+        "files": {
+          "normal": {
+            "version": "normal",
+            "crc32": "FA2E5ADD",
+            "length": "19:06",
+            "length_seconds": 1146
+          }
+        }
+      }
+    ],
     "gid": "1386602210"
   },
   {

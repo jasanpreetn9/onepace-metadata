@@ -236,6 +236,23 @@
         length: "35:53"
         url: https://nyaa.si/?q=8eae38e998ff4e537f0974ab4249f89479fb644d
     is_current: true
+0EBD0069:
+    arc_id: "437050304"
+    episode_id: 437050304-002
+    arc: 20
+    episode: 2
+    title: The Extent of the Grand Line and The 600,000,000 Crew!
+    description: In the New World, not even the Marines' best can keep Red-Haired Shanks from meeting Whitebeard with an especially important request. Meanwhile, at Water Seven, the Franky Family comes to the Straw Hats with some "bad" news.
+    chapters: Ch. 433-434
+    episodes: Ep. 315-316, 325
+    released: "2026-10-04"
+    file:
+        version: normal
+        crc32: 0EBD0069
+        length: "25:34"
+        length_seconds: 1534
+        url: https://nyaa.si/view/2169546
+    is_current: true
 0F125E00:
     arc_id: "1510623527"
     episode_id: 1510623527-019
@@ -611,7 +628,7 @@
         crc32: 2C843A0F
         length: "29:34"
         url: https://nyaa.si/?q=59497fc3d9a6dbcdbaced48eaa9f5ba2047614df
-    is_current: true
+    is_current: false
 2CDA8E9D:
     arc_id: "1510623527"
     episode_id: 1510623527-027
@@ -3716,7 +3733,7 @@
         crc32: 344EA844
         length: "39:22"
         url: https://nyaa.si/?q=59497fc3d9a6dbcdbaced48eaa9f5ba2047614df
-    is_current: true
+    is_current: false
 379DD054:
     arc_id: "293688544"
     episode_id: 293688544-007
@@ -6800,6 +6817,23 @@ C6E79353:
         magnet_uri: magnet:?xt=urn:btih:2bd887b544a4061a9b3974597268d7e8434d6212&dn=%5BOne+Pace%5D%5B1064-1065%5D+Egghead+05+%5B1080p%5D%5BC6E79353%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
         torrent_url: https://nyaa.si/download/1920013.torrent
     is_current: true
+C9E0CD24:
+    arc_id: "437050304"
+    episode_id: 437050304-003
+    arc: 20
+    episode: 3
+    title: Forgive Yourself! Franky Departs!
+    description: 'The Straw Hats have barely had time to marvel at their new bounties when a new surprise awaits them: the unveiling of their magnificent new ship. The next step is bringing a shipwright into their ranks, and there is only one man for the job.'
+    chapters: Ch. 435
+    episodes: Ep. 316-320
+    released: "2026-10-04"
+    file:
+        version: normal
+        crc32: C9E0CD24
+        length: "15:48"
+        length_seconds: 948
+        url: https://nyaa.si/view/2169547
+    is_current: true
 C19CADF5:
     arc_id: "401627898"
     episode_id: 401627898-003
@@ -6917,7 +6951,7 @@ C060DA73:
         url: https://nyaa.si/view/1920010
         magnet_uri: magnet:?xt=urn:btih:6a094a5b9265993005e8cb789687d23aac5a3caa&dn=%5BOne+Pace%5D%5B74-76%5D+Arlong+Park+03+%5B1080p%5D%5BC060DA73%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
         torrent_url: https://nyaa.si/download/1920010.torrent
-    is_current: false
+    is_current: true
 C63FCD71:
     arc_id: "793018827"
     episode_id: 793018827-006
@@ -7247,7 +7281,7 @@ CC4900AE:
         url: https://nyaa.si/view/2035983
         magnet_uri: magnet:?xt=urn:btih:c6ac0931b41840cec35ff81307899cc4d1e2cb69&dn=%5BOne+Pace%5D%5B74-76%5D+Arlong+Park+03+%5B1080p%5D%5BCC4900AE%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
         torrent_url: https://nyaa.si/download/2035983.torrent
-    is_current: true
+    is_current: false
 CC88315A:
     arc_id: "545721945"
     episode_id: 545721945-006

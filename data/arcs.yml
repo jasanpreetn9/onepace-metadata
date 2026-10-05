@@ -3340,8 +3340,8 @@
 - id: "437050304"
   arc: 20
   title: Post-Enies Lobby
-  audio_languages: JA
-  subtitle_languages: EN, DE(1), ES(1), FR(1), JA(1), PT(1), TR(1)
+  audio_languages: JA, EN(1-3)
+  subtitle_languages: EN, DE(1-3), ES(1-3), FR(1-3), JA(1-3), PT(1), TR(1-3)
   resolution: 720p,1080p
   manga_chapters: 431 - 441
   manga_chapter_range:
@@ -3354,10 +3354,10 @@
     end: 325
   episodes_adapted: "11"
   filler_episodes: 317 - 318
-  time_saved_mins: "102"
-  time_saved_mins_value: 102
-  time_saved_percent: 43.21%
-  time_saved_percent_value: 43.21
+  time_saved_mins: "108"
+  time_saved_mins_value: 108
+  time_saved_percent: 45.96%
+  time_saved_percent_value: 45.96
   status: TBR
   episodes:
     - id: 437050304-001
@@ -3383,42 +3383,57 @@
       episode: 2
       title: The Extent of the Grand Line and The 600,000,000 Crew!
       description: In the New World, not even the Marines' best can keep Red-Haired Shanks from meeting Whitebeard with an especially important request. Meanwhile, at Water Seven, the Franky Family comes to the Straw Hats with some "bad" news.
-      chapters: Ch. 433-435
+      chapters: Ch. 433-434
       chapter_range:
         start: 433
-        end: 435
-      episodes: Ep. 315-316, 319-320,325
-      released: "2013-06-14"
+        end: 434
+      episodes: Ep. 315-316, 325
+      released: "2026-10-04"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: 344EA844
-            length: "39:22"
-            length_seconds: 2362
+            crc32: 0EBD0069
+            length: "25:34"
+            length_seconds: 1534
     - id: 437050304-003
       arc: 20
       episode: 3
       title: Forgive Yourself! Franky Departs!
       description: 'The Straw Hats have barely had time to marvel at their new bounties when a new surprise awaits them: the unveiling of their magnificent new ship. The next step is bringing a shipwright into their ranks, and there is only one man for the job.'
-      chapters: Ch. 436-437
-      chapter_range:
-        start: 436
-        end: 437
-      episodes: Ep. 321-322
-      released: "2013-06-19"
+      chapters: Ch. 435
+      episodes: Ep. 316-320
+      released: "2026-10-04"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: 2C843A0F
-            length: "29:34"
-            length_seconds: 1774
+            crc32: C9E0CD24
+            length: "15:48"
+            length_seconds: 948
     - id: 437050304-004
       arc: 20
       episode: 4
       title: The Astonishing Thousand Sunny and Usopp's Tearful Apology!
       description: The Straw Hats set sail, but Usopp is conspicuously missing. Zoro soberly reminds Luffy that Usopp's return should not be granted so casually. More immediately, the pirates need to avoid Garp’s barrage of cannon balls!
+      chapters: Ch. 436-437
+      chapter_range:
+        start: 436
+        end: 437
+      episodes: Ep. 321-322
+      released: "2013-06-26"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 2C843A0F
+            length: "23:34"
+            length_seconds: 1414
+    - id: 437050304-005
+      arc: 20
+      episode: 5
+      title: The Circling Bounties and The Duel on Banaro Island!
+      description: The Straw Hats’ new wanted posters begin circulating around the world, but three days earlier, Blackbeard began plotting their pursuit. However, one obstacle stood in his way; Ace had finally caught up to his estranged crewmate!
       chapters: Ch. 438-439
       chapter_range:
         start: 438
@@ -3432,11 +3447,11 @@
             crc32: 659EF70C
             length: "26:58"
             length_seconds: 1618
-    - id: 437050304-005
+    - id: 437050304-006
       arc: 20
-      episode: 5
-      title: The Circling Bounties and The Duel on Banaro Island!
-      description: The Straw Hats’ new wanted posters begin circulating around the world, but three days earlier, Blackbeard began plotting their pursuit. However, one obstacle stood in his way; Ace had finally caught up to his estranged crewmate!
+      episode: 6
+      title: Post-Enies Lobby 06
+      description: ""
       chapters: Ch. 440-441
       chapter_range:
         start: 440

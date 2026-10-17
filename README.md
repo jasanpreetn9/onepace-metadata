@@ -54,7 +54,7 @@ Thanks to `ladyisatis/one-pace-metadata` for the original implementation and ins
 - Injects the proper title + description into each episode after parsing
 
 ### Releases Feed Parsing
-- Fetches the official `onepace.net/en/releases` Atom feed (plain HTTP, no headless Chrome)
+- Fetches the official `onepace.net/es-419/releases` Atom feed (plain HTTP, no headless Chrome)
 - Covers the full release history, not just recent releases
 - Extracts, per release:
   - Title, publish date, BitTorrent infoHash
@@ -84,7 +84,7 @@ Indexed by CRC32:
 
 #### `/data/releases.json` and `/data/releases.yml`
 Indexed by BitTorrent infoHash:
-- Each entry is a single release from the `onepace.net/en/releases` feed, including its changelog
+- Each entry is a single release from the `onepace.net/es-419/releases` feed, including its changelog
 - Append-only, same as the episode archive — history (including past changelogs) is never dropped
 
 ---

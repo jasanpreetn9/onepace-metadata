@@ -17,7 +17,7 @@ import (
 // onePaceReleasesFeed is the official releases feed for onepace.net. It's a
 // plain XML endpoint (no headless Chrome needed) that covers the full
 // release history, keyed by BitTorrent infoHash.
-const onePaceReleasesFeed = "https://onepace.net/en/releases/atom.xml"
+const onePaceReleasesFeed = "https://onepace.net/es-419/releases/atom.xml"
 
 // dnCRCRe pulls the trailing CRC32 bracket out of a release filename, e.g.
 // "[One Pace][1011-1012] Wano 61 [1080p][1EF3F26C].mkv" → "1EF3F26C".

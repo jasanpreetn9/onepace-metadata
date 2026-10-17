@@ -28,6 +28,15 @@
     "torrent_url": "https://nyaa.si/download/1875995.torrent",
     "magnet_uri": "magnet:?xt=urn:btih:01b48276fc39dac7f6d08837353ff67a8556d73a\u0026dn=%5BOne+Pace%5D%5B1062-1063%5D+Egghead+04+%5B1080p%5D%5BB3774055%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce\u0026tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce\u0026tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce\u0026tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce\u0026tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce"
   },
+  "01bdb4e6c4e0854865d84ec129374be69bb3e3c0": {
+    "title": "Reverie",
+    "variant": "outdated",
+    "published_at": "2021-01-04T00:32:49.399Z",
+    "info_hash": "01bdb4e6c4e0854865d84ec129374be69bb3e3c0",
+    "torrent_url": "https://onepace.net/torrents/01bdb4e6c4e0854865d84ec129374be69bb3e3c0.torrent",
+    "magnet_uri": "magnet:?xt=urn:btih:01bdb4e6c4e0854865d84ec129374be69bb3e3c0\u0026dn=%5BOne+Pace%5D%5B903-908%5D+Reverie+%5B1080p%5D\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969\u0026tr=udp%3A%2F%2Fzer0day.ch%3A1337\u0026tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.publicbt.com%3A80\u0026tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969",
+    "normalized_variant": "outdated"
+  },
   "02819eb325abf0147963479bd7320590d6c641de": {
     "title": "Gaimon",
     "variant": "outdated",
@@ -137,6 +146,14 @@
     "nyaa_url": "https://nyaa.si/view/2041112",
     "torrent_url": "https://nyaa.si/download/2041112.torrent",
     "magnet_uri": "magnet:?xt=urn:btih:0a698f048382a10b864450682b7054d9fc1ec4d4\u0026dn=%5BOne+Pace%5D%5B79-81%5D+Arlong+Park+05+Extended+%5B1080p%5D%5BCEDBEA59%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce\u0026tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce\u0026tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce\u0026tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce\u0026tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce"
+  },
+  "0a72a05308af8748b72b9854e5f7d1dd58e86f01": {
+    "title": "Skypiea 06",
+    "variant": "outdated",
+    "published_at": "2023-10-14T12:00:00.000Z",
+    "info_hash": "0a72a05308af8748b72b9854e5f7d1dd58e86f01",
+    "magnet_uri": "magnet:?xt=urn:btih:0a72a05308af8748b72b9854e5f7d1dd58e86f01",
+    "normalized_variant": "outdated"
   },
   "0a9639f371dbd1270c79b058309aeba62d91ebc6": {
     "title": "Wano 26",
@@ -475,6 +492,23 @@
     "nyaa_url": "https://nyaa.si/view/1744030",
     "torrent_url": "https://nyaa.si/download/1744030.torrent",
     "magnet_uri": "magnet:?xt=urn:btih:1ad1d02f115868eacb6852eef0a8e6ca59a3c524\u0026dn=%5BOne+Pace%5D%5B255-257%5D+Skypiea+09+%5B1080p%5D%5BCF0B1E5A%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969\u0026tr=udp%3A%2F%2Fzer0day.ch%3A1337\u0026tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.publicbt.com%3A80\u0026tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969"
+  },
+  "1b3292823bd17a3b571cbddac5d89e632dafab9f": {
+    "title": "Post-Enies Lobby 01",
+    "variant": "regular",
+    "crc32": "C408DA06",
+    "published_at": "2026-09-04T00:00:00.000Z",
+    "changelog": [
+      "Completely re-edited from scratch in 1080p.",
+      "Lightly edited English subtitles.",
+      "Added English dub.",
+      "Added French, German, Japanese, Portuguese, Spanish, and Turkish subtitles."
+    ],
+    "info_hash": "1b3292823bd17a3b571cbddac5d89e632dafab9f",
+    "nyaa_url": "https://pixeldrain.net/u/EcS94X2Q",
+    "torrent_url": "https://onepace.net/torrents/1b3292823bd17a3b571cbddac5d89e632dafab9f.torrent",
+    "magnet_uri": "magnet:?xt=urn:btih:1b3292823bd17a3b571cbddac5d89e632dafab9f\u0026dn=%5BOne+Pace%5D%5B431-432%5D+Post-Enies+Lobby+01+%5B1080p%5D%5BC408DA06%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce\u0026tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce\u0026tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce\u0026tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce\u0026tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce",
+    "normalized_variant": "normal"
   },
   "1cc6de813b6485f292383062fad31ea21f8cf611": {
     "title": "Skypiea 24",
@@ -1677,6 +1711,14 @@
     "torrent_url": "https://nyaa.si/download/1378986.torrent",
     "magnet_uri": "magnet:?xt=urn:btih:555b93c2e368c9f652ff4fff987d5fbc3c3bad6b\u0026dn=%5BOne+Pace%5D%5B941-942%5D+Wano+22+%5B1080p%5D%5B9F63AF78%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80\u0026tr=udp%3A%2F%2Ftracker.publicbt.com%3A80\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969\u0026tr=udp%3A%2F%2Fzer0day.ch%3A1337\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969\u0026tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce"
   },
+  "5615cef4aabc83c3ec3402114d961ad28c932d8e": {
+    "title": "Romance Dawn",
+    "variant": "outdated",
+    "published_at": "2021-05-19T21:25:47.762Z",
+    "info_hash": "5615cef4aabc83c3ec3402114d961ad28c932d8e",
+    "magnet_uri": "magnet:?xt=urn:btih:5615cef4aabc83c3ec3402114d961ad28c932d8e",
+    "normalized_variant": "outdated"
+  },
   "56cd276106efe594f9722a27e63b4de25f6a0248": {
     "title": "Alabasta 09",
     "variant": "regular",
@@ -2030,6 +2072,14 @@
     "nyaa_url": "https://nyaa.si/view/1265255",
     "torrent_url": "https://nyaa.si/download/1265255.torrent",
     "magnet_uri": "magnet:?xt=urn:btih:679f3a126c68708414677326663f1be953a4588c\u0026dn=%5BOne+Pace%5D%5B930-931%5D+Wano+16+%5B1080p%5D%5B9FA61F60%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80\u0026tr=udp%3A%2F%2Ftracker.publicbt.com%3A80\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969\u0026tr=udp%3A%2F%2Fzer0day.ch%3A1337\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969\u0026tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce"
+  },
+  "68f3c17f1e97622d939f76ef5ff6039f7d770f73": {
+    "title": "Skypiea 10",
+    "variant": "outdated",
+    "published_at": "2023-12-01T12:00:00.000Z",
+    "info_hash": "68f3c17f1e97622d939f76ef5ff6039f7d770f73",
+    "magnet_uri": "magnet:?xt=urn:btih:68f3c17f1e97622d939f76ef5ff6039f7d770f73",
+    "normalized_variant": "outdated"
   },
   "690d5226cc25b26dea711ada6f3243ae02582be7": {
     "title": "Arlong Park 09",
@@ -2544,6 +2594,24 @@
     "torrent_url": "https://nyaa.si/download/1995005.torrent",
     "magnet_uri": "magnet:?xt=urn:btih:8148a05d33c5bccb9a11bf98e8c696aebee01d31\u0026dn=%5BOne+Pace%5D%5B996-997%5D+Wano+53+%5B1080p%5D%5BC99E7631%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce\u0026tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce\u0026tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce\u0026tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce\u0026tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce"
   },
+  "8291219fe8bda56a181f8f33052c7e1d258bd90e": {
+    "title": "Post-Enies Lobby 02",
+    "variant": "regular",
+    "crc32": "0EBD0069",
+    "published_at": "2026-10-04T19:00:00.000Z",
+    "changelog": [
+      "Split into two episodes covering chapters 433-434 and 435 respectively.",
+      "Completely re-edited from scratch in 1080p.",
+      "Lightly edited English subtitles.",
+      "Added English dub.",
+      "Added French, German, Japanese, Spanish, and Turkish subtitles."
+    ],
+    "info_hash": "8291219fe8bda56a181f8f33052c7e1d258bd90e",
+    "nyaa_url": "https://pixeldrain.net/u/JmSfa3Mo",
+    "torrent_url": "https://onepace.net/torrents/8291219fe8bda56a181f8f33052c7e1d258bd90e.torrent",
+    "magnet_uri": "magnet:?xt=urn:btih:8291219fe8bda56a181f8f33052c7e1d258bd90e\u0026dn=%5BOne+Pace%5D%5B433-434%5D+Post-Enies+Lobby+02+%5B1080p%5D%5B0EBD0069%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce\u0026tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce\u0026tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce\u0026tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce\u0026tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce",
+    "normalized_variant": "normal"
+  },
   "8363770ec123cdccef45ac98098b866635e0b43d": {
     "title": "Syrup Village 02",
     "variant": "outdated",
@@ -2776,6 +2844,15 @@
     "torrent_url": "https://nyaa.si/download/2066083.torrent",
     "magnet_uri": "magnet:?xt=urn:btih:8ef4ef99b9aed84a0111114f9efd830ced8046ae\u0026dn=%5BOne+Pace%5D%5B42%2C22%5D+Gaimon+01+%5B1080p%5D%5BF4754074%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce\u0026tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce\u0026tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce\u0026tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce\u0026tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce"
   },
+  "8efea5ea54d03e8e9dc1aac4000ab2699e45c606": {
+    "title": "Romance Dawn",
+    "variant": "outdated",
+    "published_at": "2022-01-01T21:39:34.205Z",
+    "info_hash": "8efea5ea54d03e8e9dc1aac4000ab2699e45c606",
+    "torrent_url": "https://onepace.net/torrents/8efea5ea54d03e8e9dc1aac4000ab2699e45c606.torrent",
+    "magnet_uri": "magnet:?xt=urn:btih:8efea5ea54d03e8e9dc1aac4000ab2699e45c606\u0026dn=%5BOne+Pace%5D%5B1-7%5D+Romance+Dawn+%5B1080p%5D\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969\u0026tr=udp%3A%2F%2Fzer0day.ch%3A1337\u0026tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.publicbt.com%3A80\u0026tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969",
+    "normalized_variant": "outdated"
+  },
   "904b90a8508bdfd00fe31a6cd901af116ac838ce": {
     "title": "Wano 37",
     "variant": "regular",
@@ -2953,6 +3030,24 @@
     "nyaa_url": "https://nyaa.si/view/1863827",
     "torrent_url": "https://nyaa.si/download/1863827.torrent",
     "magnet_uri": "magnet:?xt=urn:btih:94a11b62d949a061e51df0d5b13c6a00d64c7d87\u0026dn=%5BOne+Pace%5D%5B1077-1078%5D+Egghead+12+%5B1080p%5D%5B33FFA63D%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce\u0026tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce\u0026tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce\u0026tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce\u0026tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce"
+  },
+  "9505df86859612212ba95ee2d4a4f52422deef7b": {
+    "title": "Post-Enies Lobby 03",
+    "variant": "regular",
+    "crc32": "C9E0CD24",
+    "published_at": "2026-10-04T19:00:00.000Z",
+    "changelog": [
+      "Split into two episodes covering chapters 433-434 and 435 respectively.",
+      "Completely re-edited from scratch in 1080p.",
+      "Lightly edited English subtitles.",
+      "Added English dub.",
+      "Added French, German, Japanese, Spanish, and Turkish subtitles."
+    ],
+    "info_hash": "9505df86859612212ba95ee2d4a4f52422deef7b",
+    "nyaa_url": "https://pixeldrain.net/u/YcdXN1uy",
+    "torrent_url": "https://onepace.net/torrents/9505df86859612212ba95ee2d4a4f52422deef7b.torrent",
+    "magnet_uri": "magnet:?xt=urn:btih:9505df86859612212ba95ee2d4a4f52422deef7b\u0026dn=%5BOne+Pace%5D%5B435%5D+Post-Enies+Lobby+03+%5B1080p%5D%5BC9E0CD24%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce\u0026tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce\u0026tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce\u0026tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce\u0026tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce",
+    "normalized_variant": "normal"
   },
   "95960171eb9041ff76ae18ebc17de1eeb0081353": {
     "title": "Skypiea 19",
@@ -4425,6 +4520,24 @@
     "torrent_url": "https://nyaa.si/download/1731814.torrent",
     "magnet_uri": "magnet:?xt=urn:btih:da97987eb5adeaed1f34269af22cf7202c6ae93c\u0026dn=%5BOne+Pace%5D%5B250-251%5D+Skypiea+07+%5B1080p%5D%5B3C665F73%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969\u0026tr=udp%3A%2F%2Fzer0day.ch%3A1337\u0026tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.publicbt.com%3A80\u0026tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969"
   },
+  "dbe642c56daa3c5e065bc26c11598584c6e6becf": {
+    "title": "Fishman Island 01",
+    "variant": "regular",
+    "crc32": "F69C4922",
+    "published_at": "2026-09-04T00:00:00.000Z",
+    "changelog": [
+      "Completely re-edited from scratch in 1080p.",
+      "Added the ED - \"Sailing\" (from FMI Log).",
+      "Lightly edited English subtitles.",
+      "Added English dub.",
+      "Added Finnish, French, German, Japanese, Portuguese, Russian, Spanish, and Turkish subtitles."
+    ],
+    "info_hash": "dbe642c56daa3c5e065bc26c11598584c6e6becf",
+    "nyaa_url": "https://pixeldrain.net/u/8Vv8wM7R",
+    "torrent_url": "https://onepace.net/torrents/dbe642c56daa3c5e065bc26c11598584c6e6becf.torrent",
+    "magnet_uri": "magnet:?xt=urn:btih:dbe642c56daa3c5e065bc26c11598584c6e6becf\u0026dn=%5BOne+Pace%5D%5B603-604%5D+Fishman+Island+01+%5B1080p%5D%5BF69C4922%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce\u0026tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce\u0026tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce\u0026tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce\u0026tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce",
+    "normalized_variant": "normal"
+  },
   "dce1dcf660fd68d00602bccfdfa5ccb59a6b3ed3": {
     "title": "Skypiea 19",
     "variant": "outdated",
@@ -4510,6 +4623,24 @@
       "start": 93,
       "end": 95
     }
+  },
+  "dff23044c323cf17d83345499dc33ae587362b3c": {
+    "title": "Fishman Island 02",
+    "variant": "regular",
+    "crc32": "9727A1C7",
+    "published_at": "2026-10-11T23:00:00.000Z",
+    "changelog": [
+      "Completely re-edited from scratch in 1080p.",
+      "Added the ED - \"Sailing\" (from FMI Log).",
+      "Lightly edited English subtitles.",
+      "Added English dub.",
+      "Added Finnish, French, German, Japanese, Spanish, and Turkish subtitles."
+    ],
+    "info_hash": "dff23044c323cf17d83345499dc33ae587362b3c",
+    "nyaa_url": "https://pixeldrain.net/u/u5sMBzUP",
+    "torrent_url": "https://onepace.net/torrents/dff23044c323cf17d83345499dc33ae587362b3c.torrent",
+    "magnet_uri": "magnet:?xt=urn:btih:dff23044c323cf17d83345499dc33ae587362b3c\u0026dn=%5BOne+Pace%5D%5B605-606%5D+Fishman+Island+02+%5B1080p%5D%5B9727A1C7%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce\u0026tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce\u0026tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce\u0026tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce\u0026tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce",
+    "normalized_variant": "normal"
   },
   "e0f3e1d51a96441941c30534d0e962c7e1426cb0": {
     "title": "Egghead 17",

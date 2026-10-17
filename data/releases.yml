@@ -1,3 +1,10 @@
+0a72a05308af8748b72b9854e5f7d1dd58e86f01:
+    title: Skypiea 06
+    variant: outdated
+    published_at: "2023-10-14T12:00:00.000Z"
+    info_hash: 0a72a05308af8748b72b9854e5f7d1dd58e86f01
+    magnet_uri: magnet:?xt=urn:btih:0a72a05308af8748b72b9854e5f7d1dd58e86f01
+    normalized_variant: outdated
 0a698f048382a10b864450682b7054d9fc1ec4d4:
     title: Arlong Park 05 Extended Cut
     variant: outdated
@@ -152,6 +159,21 @@
     nyaa_url: https://nyaa.si/view/1744030
     torrent_url: https://nyaa.si/download/1744030.torrent
     magnet_uri: magnet:?xt=urn:btih:1ad1d02f115868eacb6852eef0a8e6ca59a3c524&dn=%5BOne+Pace%5D%5B255-257%5D+Skypiea+09+%5B1080p%5D%5BCF0B1E5A%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969
+1b3292823bd17a3b571cbddac5d89e632dafab9f:
+    title: Post-Enies Lobby 01
+    variant: regular
+    crc32: C408DA06
+    published_at: "2026-09-04T00:00:00.000Z"
+    changelog:
+        - Completely re-edited from scratch in 1080p.
+        - Lightly edited English subtitles.
+        - Added English dub.
+        - Added French, German, Japanese, Portuguese, Spanish, and Turkish subtitles.
+    info_hash: 1b3292823bd17a3b571cbddac5d89e632dafab9f
+    nyaa_url: https://pixeldrain.net/u/EcS94X2Q
+    torrent_url: https://onepace.net/torrents/1b3292823bd17a3b571cbddac5d89e632dafab9f.torrent
+    magnet_uri: magnet:?xt=urn:btih:1b3292823bd17a3b571cbddac5d89e632dafab9f&dn=%5BOne+Pace%5D%5B431-432%5D+Post-Enies+Lobby+01+%5B1080p%5D%5BC408DA06%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+    normalized_variant: normal
 1cc6de813b6485f292383062fad31ea21f8cf611:
     title: Skypiea 24
     variant: regular
@@ -265,6 +287,14 @@
     nyaa_url: https://nyaa.si/view/1875995
     torrent_url: https://nyaa.si/download/1875995.torrent
     magnet_uri: magnet:?xt=urn:btih:01b48276fc39dac7f6d08837353ff67a8556d73a&dn=%5BOne+Pace%5D%5B1062-1063%5D+Egghead+04+%5B1080p%5D%5BB3774055%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+01bdb4e6c4e0854865d84ec129374be69bb3e3c0:
+    title: Reverie
+    variant: outdated
+    published_at: "2021-01-04T00:32:49.399Z"
+    info_hash: 01bdb4e6c4e0854865d84ec129374be69bb3e3c0
+    torrent_url: https://onepace.net/torrents/01bdb4e6c4e0854865d84ec129374be69bb3e3c0.torrent
+    magnet_uri: magnet:?xt=urn:btih:01bdb4e6c4e0854865d84ec129374be69bb3e3c0&dn=%5BOne+Pace%5D%5B903-908%5D+Reverie+%5B1080p%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969
+    normalized_variant: outdated
 2b8ae89cb5efdb0600c14d20a8b9ea38c9e2f21b:
     title: Arlong Park 06
     variant: regular
@@ -1223,6 +1253,14 @@
     nyaa_url: https://nyaa.si/view/2066083
     torrent_url: https://nyaa.si/download/2066083.torrent
     magnet_uri: magnet:?xt=urn:btih:8ef4ef99b9aed84a0111114f9efd830ced8046ae&dn=%5BOne+Pace%5D%5B42%2C22%5D+Gaimon+01+%5B1080p%5D%5BF4754074%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+8efea5ea54d03e8e9dc1aac4000ab2699e45c606:
+    title: Romance Dawn
+    variant: outdated
+    published_at: "2022-01-01T21:39:34.205Z"
+    info_hash: 8efea5ea54d03e8e9dc1aac4000ab2699e45c606
+    torrent_url: https://onepace.net/torrents/8efea5ea54d03e8e9dc1aac4000ab2699e45c606.torrent
+    magnet_uri: magnet:?xt=urn:btih:8efea5ea54d03e8e9dc1aac4000ab2699e45c606&dn=%5BOne+Pace%5D%5B1-7%5D+Romance+Dawn+%5B1080p%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969
+    normalized_variant: outdated
 9a825f40a0a36882a51e221fff3e5b54d342f7f4:
     title: Specials 03
     variant: regular
@@ -1614,6 +1652,13 @@
     nyaa_url: https://nyaa.si/view/1908582
     torrent_url: https://nyaa.si/download/1908582.torrent
     magnet_uri: magnet:?xt=urn:btih:66e680e42cb00d97a60b6ca9d542182ac0b1a61d&dn=%5BOne+Pace%5D%5B280-283%5D+Skypiea+17+%5B1080p%5D%5BFBEA8001%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+68f3c17f1e97622d939f76ef5ff6039f7d770f73:
+    title: Skypiea 10
+    variant: outdated
+    published_at: "2023-12-01T12:00:00.000Z"
+    info_hash: 68f3c17f1e97622d939f76ef5ff6039f7d770f73
+    magnet_uri: magnet:?xt=urn:btih:68f3c17f1e97622d939f76ef5ff6039f7d770f73
+    normalized_variant: outdated
 69ae0463f6c8b9e8a0062faeadd1e9477bc04a0c:
     title: Baratie 01
     variant: outdated
@@ -2335,6 +2380,13 @@
     nyaa_url: https://nyaa.si/view/1913795
     torrent_url: https://nyaa.si/download/1913795.torrent
     magnet_uri: magnet:?xt=urn:btih:5475d0c65461dd1fa3003dd81e4ced1ac9598eff&dn=%5BOne+Pace%5D%5B28-30%5D+Syrup+Village+03+%5B1080p%5D%5B345CF40C%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+5615cef4aabc83c3ec3402114d961ad28c932d8e:
+    title: Romance Dawn
+    variant: outdated
+    published_at: "2021-05-19T21:25:47.762Z"
+    info_hash: 5615cef4aabc83c3ec3402114d961ad28c932d8e
+    magnet_uri: magnet:?xt=urn:btih:5615cef4aabc83c3ec3402114d961ad28c932d8e
+    normalized_variant: outdated
 6441af56098ceb15f3f501c23c1dcf86923c3e82:
     title: Wano 46
     variant: regular
@@ -2449,6 +2501,22 @@
     nyaa_url: https://nyaa.si/view/1958602
     torrent_url: https://nyaa.si/download/1958602.torrent
     magnet_uri: magnet:?xt=urn:btih:9479f6fa2a8bb2c43c558db57161649377d6e7bd&dn=%5BOne+Pace%5D%5B8-11%5D+Orange+Town+01+%5B1080p%5D%5BC23AC8D3%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+9505df86859612212ba95ee2d4a4f52422deef7b:
+    title: Post-Enies Lobby 03
+    variant: regular
+    crc32: C9E0CD24
+    published_at: "2026-10-04T19:00:00.000Z"
+    changelog:
+        - Split into two episodes covering chapters 433-434 and 435 respectively.
+        - Completely re-edited from scratch in 1080p.
+        - Lightly edited English subtitles.
+        - Added English dub.
+        - Added French, German, Japanese, Spanish, and Turkish subtitles.
+    info_hash: 9505df86859612212ba95ee2d4a4f52422deef7b
+    nyaa_url: https://pixeldrain.net/u/YcdXN1uy
+    torrent_url: https://onepace.net/torrents/9505df86859612212ba95ee2d4a4f52422deef7b.torrent
+    magnet_uri: magnet:?xt=urn:btih:9505df86859612212ba95ee2d4a4f52422deef7b&dn=%5BOne+Pace%5D%5B435%5D+Post-Enies+Lobby+03+%5B1080p%5D%5BC9E0CD24%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+    normalized_variant: normal
 40190e3c2d42d65307a05ba9b795ad3a03d5dc9e:
     title: Skypiea 16
     variant: regular
@@ -2695,6 +2763,22 @@
     nyaa_url: https://nyaa.si/view/1987736
     torrent_url: https://nyaa.si/download/1987736.torrent
     magnet_uri: magnet:?xt=urn:btih:7649738b740f660e286a2364114179ec5e0ca997&dn=%5BOne+Pace%5D%5B1079%5D+Egghead+13+%5B1080p%5D%5B6C170189%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+8291219fe8bda56a181f8f33052c7e1d258bd90e:
+    title: Post-Enies Lobby 02
+    variant: regular
+    crc32: 0EBD0069
+    published_at: "2026-10-04T19:00:00.000Z"
+    changelog:
+        - Split into two episodes covering chapters 433-434 and 435 respectively.
+        - Completely re-edited from scratch in 1080p.
+        - Lightly edited English subtitles.
+        - Added English dub.
+        - Added French, German, Japanese, Spanish, and Turkish subtitles.
+    info_hash: 8291219fe8bda56a181f8f33052c7e1d258bd90e
+    nyaa_url: https://pixeldrain.net/u/JmSfa3Mo
+    torrent_url: https://onepace.net/torrents/8291219fe8bda56a181f8f33052c7e1d258bd90e.torrent
+    magnet_uri: magnet:?xt=urn:btih:8291219fe8bda56a181f8f33052c7e1d258bd90e&dn=%5BOne+Pace%5D%5B433-434%5D+Post-Enies+Lobby+02+%5B1080p%5D%5B0EBD0069%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+    normalized_variant: normal
 8363770ec123cdccef45ac98098b866635e0b43d:
     title: Syrup Village 02
     variant: outdated
@@ -3992,6 +4076,22 @@ da97987eb5adeaed1f34269af22cf7202c6ae93c:
     nyaa_url: https://nyaa.si/view/1731814
     torrent_url: https://nyaa.si/download/1731814.torrent
     magnet_uri: magnet:?xt=urn:btih:da97987eb5adeaed1f34269af22cf7202c6ae93c&dn=%5BOne+Pace%5D%5B250-251%5D+Skypiea+07+%5B1080p%5D%5B3C665F73%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969
+dbe642c56daa3c5e065bc26c11598584c6e6becf:
+    title: Fishman Island 01
+    variant: regular
+    crc32: F69C4922
+    published_at: "2026-09-04T00:00:00.000Z"
+    changelog:
+        - Completely re-edited from scratch in 1080p.
+        - Added the ED - "Sailing" (from FMI Log).
+        - Lightly edited English subtitles.
+        - Added English dub.
+        - Added Finnish, French, German, Japanese, Portuguese, Russian, Spanish, and Turkish subtitles.
+    info_hash: dbe642c56daa3c5e065bc26c11598584c6e6becf
+    nyaa_url: https://pixeldrain.net/u/8Vv8wM7R
+    torrent_url: https://onepace.net/torrents/dbe642c56daa3c5e065bc26c11598584c6e6becf.torrent
+    magnet_uri: magnet:?xt=urn:btih:dbe642c56daa3c5e065bc26c11598584c6e6becf&dn=%5BOne+Pace%5D%5B603-604%5D+Fishman+Island+01+%5B1080p%5D%5BF69C4922%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+    normalized_variant: normal
 dce1dcf660fd68d00602bccfdfa5ccb59a6b3ed3:
     title: Skypiea 19
     variant: outdated
@@ -4069,6 +4169,22 @@ ded583101250a3298927d7d018c4e8c7143b3f7d:
     anime_episode_range:
         start: 93
         end: 95
+dff23044c323cf17d83345499dc33ae587362b3c:
+    title: Fishman Island 02
+    variant: regular
+    crc32: 9727A1C7
+    published_at: "2026-10-11T23:00:00.000Z"
+    changelog:
+        - Completely re-edited from scratch in 1080p.
+        - Added the ED - "Sailing" (from FMI Log).
+        - Lightly edited English subtitles.
+        - Added English dub.
+        - Added Finnish, French, German, Japanese, Spanish, and Turkish subtitles.
+    info_hash: dff23044c323cf17d83345499dc33ae587362b3c
+    nyaa_url: https://pixeldrain.net/u/u5sMBzUP
+    torrent_url: https://onepace.net/torrents/dff23044c323cf17d83345499dc33ae587362b3c.torrent
+    magnet_uri: magnet:?xt=urn:btih:dff23044c323cf17d83345499dc33ae587362b3c&dn=%5BOne+Pace%5D%5B605-606%5D+Fishman+Island+02+%5B1080p%5D%5B9727A1C7%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
+    normalized_variant: normal
 e0f3e1d51a96441941c30534d0e962c7e1426cb0:
     title: Egghead 17
     variant: regular

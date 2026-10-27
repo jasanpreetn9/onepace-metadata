@@ -437,6 +437,22 @@
         magnet_uri: magnet:?xt=urn:btih:5a7292f7b9455dbb511a944862f7394f7982b5e9&dn=%5BOne+Pace%5D%5B1011-1012%5D+Wano+61+%5B1080p%5D%5B1EF3F26C%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
         torrent_url: https://nyaa.si/download/2131887.torrent
     is_current: true
+1EFBB55B:
+    arc_id: "702404357"
+    episode_id: 702404357-002
+    arc: 8
+    episode: 2
+    title: Parallels
+    description: Usopp manages to anger the brat daughter of bounty hunter Daddy the Father and finds his own life at stake. When Daddy discovers that Usopp is the son of Red Hair Pirate Yasopp, the only man to beat him, he offers him a risky way out.
+    chapters: Ch. 98-99
+    episodes: Ep. 51-52
+    released: "2026-10-26"
+    file:
+        version: normal
+        crc32: 1EFBB55B
+        length: "19:59"
+        length_seconds: 1199
+    is_current: true
 1FDB8A9C:
     arc_id: "1664435609"
     episode_id: 1664435609-008
@@ -1925,7 +1941,7 @@
         crc32: 06F25D1B
         length: "26:57"
         url: https://nyaa.si/view/1279925
-    is_current: false
+    is_current: true
 7A93DCC5:
     arc_id: "1664435609"
     episode_id: 1664435609-016
@@ -2127,7 +2143,7 @@
         crc32: 8E970FD4
         length: "31:24"
         url: https://nyaa.si/view/1282922
-    is_current: true
+    is_current: false
 8FDCC832:
     arc_id: "793018827"
     episode_id: 793018827-002
@@ -2513,7 +2529,7 @@
         crc32: 23E3E489
         length: "36:13"
         url: https://nyaa.si/view/1282922
-    is_current: true
+    is_current: false
 24DEE374:
     arc_id: "1664435609"
     episode_id: 1664435609-018
@@ -4636,7 +4652,7 @@
         crc32: 4200CE0D
         length: "27:32"
         url: https://nyaa.si/view/1282922
-    is_current: true
+    is_current: false
 "5012E091":
     arc_id: "545721945"
     episode_id: 545721945-020
@@ -4734,6 +4750,22 @@
         crc32: 7149D13F
         length: "24:03"
         url: https://nyaa.si/?q=5c027631a28242814a6cf1fe24f455b70bca14bc
+    is_current: true
+7191C79A:
+    arc_id: "702404357"
+    episode_id: 702404357-001
+    arc: 8
+    episode: 1
+    title: The Town of Beginnings and Endings
+    description: Touting a fresh bounty issued by Marine HQ, Luffy and co. make landfall at Loguetown, the place where Gold Roger was both born and executed. Being the last stop before the Grand Line, the crew stocks up on supplies and sightsees.
+    chapters: Ch. 96-97
+    episodes: Ep. 45,48-49
+    released: "2026-10-26"
+    file:
+        version: extended
+        crc32: 7191C79A
+        length: "39:10"
+        length_seconds: 2350
     is_current: true
 7306EDA1:
     arc_id: "293688544"
@@ -5911,6 +5943,22 @@ A5F0A507:
         length: "37:46"
         url: https://nyaa.si/?q=1f62e2583956c412f8550672bc8066c5e96ab0a8
     is_current: true
+A6C3657B:
+    arc_id: "702404357"
+    episode_id: 702404357-000
+    arc: 8
+    episode: 0
+    title: Loguetown 01.5
+    description: ""
+    chapters: Loguetown Novel
+    episodes: Ep. 48,50
+    released: "2026-10-26"
+    file:
+        version: extended
+        crc32: A6C3657B
+        length: "21:52"
+        length_seconds: 1312
+    is_current: true
 A6CD3EBB:
     arc_id: "1348628353"
     episode_id: 1348628353-001
@@ -6680,6 +6728,22 @@ BD7169C3:
         length: "24:14"
         url: https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e
     is_current: false
+BE8D8724:
+    arc_id: "702404357"
+    episode_id: 702404357-003
+    arc: 8
+    episode: 3
+    title: The Legend Has Begun
+    description: Luffy arrives at the execution platform, only to be caught in Buggy and Alvida's trap. Sanji and Zoro rush to stop Buggy from poetically—and flashily—executing Luffy where Roger died.
+    chapters: Ch. 100
+    episodes: Ep. 52-53
+    released: "2026-10-26"
+    file:
+        version: normal
+        crc32: BE8D8724
+        length: "19:24"
+        length_seconds: 1164
+    is_current: true
 BE72EB0E:
     arc_id: "168502639"
     episode_id: 168502639-020
@@ -8532,6 +8596,22 @@ ECD80B22:
         length: "41:05"
         url: https://nyaa.si/?q=a031cac6baf81b804c4d034dfaef0e5e4a671145
     is_current: true
+ED297337:
+    arc_id: "702404357"
+    episode_id: 702404357-001
+    arc: 8
+    episode: 1
+    title: The Town of Beginnings and Endings
+    description: Touting a fresh bounty issued by Marine HQ, Luffy and co. make landfall at Loguetown, the place where Gold Roger was both born and executed. Being the last stop before the Grand Line, the crew stocks up on supplies and sightsees.
+    chapters: Ch. 96-97
+    episodes: Ep. 45,48-49
+    released: "2026-10-26"
+    file:
+        version: normal
+        crc32: ED297337
+        length: "28:48"
+        length_seconds: 1728
+    is_current: true
 EF1D7B5F:
     arc_id: "836546175"
     episode_id: 836546175-016
@@ -9126,7 +9206,7 @@ FCF6BA63:
         url: https://nyaa.si/view/2062715
         magnet_uri: magnet:?xt=urn:btih:2b8ae89cb5efdb0600c14d20a8b9ea38c9e2f21b&dn=%5BOne+Pace%5D%5B82-84%5D+Arlong+Park+06+%5B1080p%5D%5BFCF6BA63%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce
         torrent_url: https://nyaa.si/download/2062715.torrent
-    is_current: true
+    is_current: false
 FCF7F7E4:
     arc_id: "2070578030"
     episode_id: 2070578030-009

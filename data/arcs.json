@@ -976,9 +976,9 @@
     "id": "702404357",
     "arc": 8,
     "title": "Loguetown",
-    "audio_languages": "JA,EN",
-    "subtitle_languages": "EN, ES",
-    "resolution": "480p",
+    "audio_languages": "JA,EN,DE",
+    "subtitle_languages": "EN, DE, ES, FI, FR, IT, JA, RU, TR",
+    "resolution": "1080p",
     "manga_chapters": "96 - 100",
     "manga_chapter_range": {
       "start": 96,
@@ -988,12 +988,31 @@
     "anime_episodes": "45, 48 - 53",
     "episodes_adapted": "6",
     "filler_episodes": "51",
-    "time_saved_mins": "36",
-    "time_saved_mins_value": 36,
-    "time_saved_percent": "28.85%",
-    "time_saved_percent_value": 28.85,
+    "time_saved_mins": "63",
+    "time_saved_mins_value": 63,
+    "time_saved_percent": "50.25%",
+    "time_saved_percent_value": 50.25,
     "status": "",
     "episodes": [
+      {
+        "id": "702404357-000",
+        "arc": 8,
+        "episode": 0,
+        "title": "Loguetown 01.5",
+        "description": "",
+        "chapters": "Loguetown Novel",
+        "episodes": "Ep. 48,50",
+        "released": "2026-10-26",
+        "has_extended": true,
+        "files": {
+          "extended": {
+            "version": "extended",
+            "crc32": "A6C3657B",
+            "length": "21:52",
+            "length_seconds": 1312
+          }
+        }
+      },
       {
         "id": "702404357-001",
         "arc": 8,
@@ -1006,14 +1025,20 @@
           "end": 97
         },
         "episodes": "Ep. 45,48-49",
-        "released": "2020-09-22",
-        "has_extended": false,
+        "released": "2026-10-26",
+        "has_extended": true,
         "files": {
           "normal": {
             "version": "normal",
-            "crc32": "4200CE0D",
-            "length": "27:32",
-            "length_seconds": 1652
+            "crc32": "ED297337",
+            "length": "28:48",
+            "length_seconds": 1728
+          },
+          "extended": {
+            "version": "extended",
+            "crc32": "7191C79A",
+            "length": "39:10",
+            "length_seconds": 2350
           }
         }
       },
@@ -1023,16 +1048,20 @@
         "episode": 2,
         "title": "Parallels",
         "description": "Usopp manages to anger the brat daughter of bounty hunter Daddy the Father and finds his own life at stake. When Daddy discovers that Usopp is the son of Red Hair Pirate Yasopp, the only man to beat him, he offers him a risky way out.",
-        "chapters": "Ch. 97",
-        "episodes": "Ep. 48, 50",
-        "released": "2020-09-22",
+        "chapters": "Ch. 98-99",
+        "chapter_range": {
+          "start": 98,
+          "end": 99
+        },
+        "episodes": "Ep. 51-52",
+        "released": "2026-10-26",
         "has_extended": false,
         "files": {
           "normal": {
             "version": "normal",
-            "crc32": "8E970FD4",
-            "length": "31:24",
-            "length_seconds": 1884
+            "crc32": "1EFBB55B",
+            "length": "19:59",
+            "length_seconds": 1199
           }
         }
       },
@@ -1042,20 +1071,16 @@
         "episode": 3,
         "title": "The Legend Has Begun",
         "description": "Luffy arrives at the execution platform, only to be caught in Buggy and Alvida's trap. Sanji and Zoro rush to stop Buggy from poetically—and flashily—executing Luffy where Roger died.",
-        "chapters": "Ch. 98-100",
-        "chapter_range": {
-          "start": 98,
-          "end": 100
-        },
+        "chapters": "Ch. 100",
         "episodes": "Ep. 52-53",
-        "released": "2020-09-22",
+        "released": "2026-10-26",
         "has_extended": false,
         "files": {
           "normal": {
             "version": "normal",
-            "crc32": "23E3E489",
-            "length": "36:13",
-            "length_seconds": 2173
+            "crc32": "BE8D8724",
+            "length": "19:24",
+            "length_seconds": 1164
           }
         }
       }

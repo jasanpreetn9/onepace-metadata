@@ -337,7 +337,7 @@
       "length": "26:57",
       "url": "https://nyaa.si/view/1279925"
     },
-    "is_current": false
+    "is_current": true
   },
   "074A4A31": {
     "arc_id": "1348628353",
@@ -5429,6 +5429,25 @@
     },
     "is_current": true
   },
+  "7EDFBC7A": {
+    "arc_id": "209591769",
+    "episode_id": "209591769-001",
+    "arc": 14,
+    "episode": 1,
+    "title": "Alabasta 01",
+    "description": "",
+    "chapters": "Ch. 155-157",
+    "episodes": "Ep. 92, 94",
+    "released": "2026-11-03",
+    "file": {
+      "version": "normal",
+      "crc32": "7EDFBC7A",
+      "length": "24:35",
+      "length_seconds": 1475,
+      "url": "https://nyaa.si/view/2181909"
+    },
+    "is_current": true
+  },
   "7F73DB45": {
     "arc_id": "1146420179",
     "episode_id": "1146420179-006",
@@ -6648,6 +6667,25 @@
     },
     "is_current": true
   },
+  "A4AF9BF1": {
+    "arc_id": "209591769",
+    "episode_id": "209591769-002",
+    "arc": 14,
+    "episode": 2,
+    "title": "Alabasta 02",
+    "description": "",
+    "chapters": "Ch. 157-159",
+    "episodes": "Ep. 93-95",
+    "released": "2026-11-03",
+    "file": {
+      "version": "normal",
+      "crc32": "A4AF9BF1",
+      "length": "27:06",
+      "length_seconds": 1626,
+      "url": "https://nyaa.si/view/2181910"
+    },
+    "is_current": true
+  },
   "A4F76B13": {
     "arc_id": "1146420179",
     "episode_id": "1146420179-004",
@@ -7466,7 +7504,7 @@
       "magnet_uri": "magnet:?xt=urn:btih:5ecc22012328be9e0cc0cc33f4290291effd6a84\u0026dn=%5BOne+Pace%5D%5B155-157%5D+Arabasta+01+%5B1080p%5D%5BBB1D093C%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969\u0026tr=udp%3A%2F%2Fzer0day.ch%3A1337\u0026tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.publicbt.com%3A80\u0026tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969",
       "torrent_url": "https://nyaa.si/download/1672027.torrent"
     },
-    "is_current": true
+    "is_current": false
   },
   "BCE915AA": {
     "arc_id": "1340008658",
@@ -7637,7 +7675,7 @@
       "magnet_uri": "magnet:?xt=urn:btih:6a094a5b9265993005e8cb789687d23aac5a3caa\u0026dn=%5BOne+Pace%5D%5B74-76%5D+Arlong+Park+03+%5B1080p%5D%5BC060DA73%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce\u0026tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce\u0026tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce\u0026tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce\u0026tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce",
       "torrent_url": "https://nyaa.si/download/1920010.torrent"
     },
-    "is_current": true
+    "is_current": false
   },
   "C0B33E05": {
     "arc_id": "1348628353",
@@ -8230,7 +8268,7 @@
       "magnet_uri": "magnet:?xt=urn:btih:c6ac0931b41840cec35ff81307899cc4d1e2cb69\u0026dn=%5BOne+Pace%5D%5B74-76%5D+Arlong+Park+03+%5B1080p%5D%5BCC4900AE%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce\u0026tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce\u0026tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce\u0026tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce\u0026tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce",
       "torrent_url": "https://nyaa.si/download/2035983.torrent"
     },
-    "is_current": false
+    "is_current": true
   },
   "CC88315A": {
     "arc_id": "545721945",
@@ -9129,7 +9167,7 @@
       "magnet_uri": "magnet:?xt=urn:btih:6f145e0cf8063ea47b1fe875c2fad96368ea32cb\u0026dn=%5BOne+Pace%5D%5B157-159%5D+Arabasta+02+%5B1080p%5D%5BE4BA97D6%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969\u0026tr=udp%3A%2F%2Fzer0day.ch%3A1337\u0026tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.publicbt.com%3A80\u0026tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969",
       "torrent_url": "https://nyaa.si/download/1717871.torrent"
     },
-    "is_current": true
+    "is_current": false
   },
   "E4D9E965": {
     "arc_id": "1076173334",
@@ -10290,7 +10328,7 @@
       "magnet_uri": "magnet:?xt=urn:btih:2b8ae89cb5efdb0600c14d20a8b9ea38c9e2f21b\u0026dn=%5BOne+Pace%5D%5B82-84%5D+Arlong+Park+06+%5B1080p%5D%5BFCF6BA63%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce\u0026tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce\u0026tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce\u0026tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce\u0026tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce",
       "torrent_url": "https://nyaa.si/download/2062715.torrent"
     },
-    "is_current": true
+    "is_current": false
   },
   "FCF7F7E4": {
     "arc_id": "2070578030",

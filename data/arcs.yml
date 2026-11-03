@@ -1312,7 +1312,7 @@
   arc: 14
   title: Alabasta
   audio_languages: JA,EN
-  subtitle_languages: EN, ES(1-5,7-21), FR(1-4,7-21)
+  subtitle_languages: EN, EN(CC)[1-2], DE(1-2), ES(1-5,7-21), FR(1-4,7-21), IT(1-2), JA(1-2), TR(1-2)
   resolution: 1080p
   manga_chapters: 155 - 217
   manga_chapter_range:
@@ -1325,10 +1325,10 @@
     end: 130
   episodes_adapted: "40"
   filler_episodes: 99, 102
-  time_saved_mins: "286"
-  time_saved_mins_value: 286
-  time_saved_percent: 34.05%
-  time_saved_percent_value: 34.05
+  time_saved_mins: "283"
+  time_saved_mins_value: 283
+  time_saved_percent: 33.71%
+  time_saved_percent_value: 33.71
   status: ""
   episodes:
     - id: 209591769-001
@@ -1340,15 +1340,15 @@
       chapter_range:
         start: 155
         end: 157
-      episodes: Ep. 92
-      released: "2023-05-14"
+      episodes: Ep. 92, 94
+      released: "2026-11-03"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: BB1D093C
-            length: "20:28"
-            length_seconds: 1228
+            crc32: 7EDFBC7A
+            length: "24:35"
+            length_seconds: 1475
     - id: 209591769-002
       arc: 14
       episode: 2
@@ -1359,14 +1359,14 @@
         start: 157
         end: 159
       episodes: Ep. 93-95
-      released: "2023-09-16"
+      released: "2026-11-03"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: E4BA97D6
-            length: "28:24"
-            length_seconds: 1704
+            crc32: A4AF9BF1
+            length: "27:06"
+            length_seconds: 1626
     - id: 209591769-003
       arc: 14
       episode: 3

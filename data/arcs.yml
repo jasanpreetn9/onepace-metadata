@@ -4821,7 +4821,151 @@
   time_saved_percent: 45.18%
   time_saved_percent_value: 45.18
   status: ""
-  episodes: []
+  episodes:
+    - id: 1001237700-001
+      arc: 27
+      episode: 1
+      title: Creeping Future
+      description: The Summit War has thrown the entire world into chaos. Emboldened by Whitebeard's final words, pirates once again envision a wave they can ride into a new era. At Hancock’s order, Luffy is taken to Amazon Lily to hide from the Marines while he recovers.
+      chapters: Ch. 581-582
+      chapter_range:
+        start: 581
+        end: 582
+      episodes: Ep. 490-491
+      released: "2020-07-24"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: E7B15590
+            length: "30:07"
+            length_seconds: 1807
+    - id: 1001237700-002
+      arc: 27
+      episode: 2
+      title: Gray Terminal
+      description: Before they were brothers, Ace and Luffy lived in the mountains, dreaming of the day when they would take to the sea. In the criminal-infested junkyard known as Gray Terminal, Ace and his partner-in-crime Sabo robbed the thieves and scavengers.
+      chapters: Ch. 583-584
+      chapter_range:
+        start: 583
+        end: 584
+      episodes: Ep. 493-495
+      released: "2020-07-24"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 1A183CBE
+            length: "40:03"
+            length_seconds: 2403
+    - id: 1001237700-003
+      arc: 27
+      episode: 3
+      title: Oath of Brotherhood
+      description: Ace, Sabo, and Luffy made a promise to one another over cups of sake that would shape their futures. Yet while the brothers' adventures continue, Sabo's unfortunate past catches up with him. Meanwhile, a horrific plot unfolds.
+      chapters: Ch. 585-586
+      chapter_range:
+        start: 585
+        end: 586
+      episodes: Ep. 496-498,500-501, Episode of Sabo
+      released: "2020-07-24"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 9DEAD0F3
+            length: "42:28"
+            length_seconds: 2548
+    - id: 1001237700-004
+      arc: 27
+      episode: 4
+      title: Sabo's Sea
+      description: Even as the fires in Gray Terminal threatened to consume them, Ace and Luffy fought Bluejam with all their might! In the wake of the tragedy, Sabo seized freedom in his hands and took to the sea, just as a Celestial Dragon arrived in High Town.
+      chapters: Ch. 587-588
+      chapter_range:
+        start: 587
+        end: 588
+      episodes: Ep. 501-503
+      released: "2020-07-24"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 5FA1920A
+            length: "36:06"
+            length_seconds: 2166
+    - id: 1001237700-005
+      arc: 27
+      episode: 5
+      title: Will of the Winds
+      description: Luffy and Ace buried their sorrow and grew stronger day by day as they trained to be pirates. Time marched on, and they eventually bade farewell to their childhood home and took to the sea, hoping to achieve the dream that Sabo could not.
+      chapters: Ch. 589-590
+      chapter_range:
+        start: 589
+        end: 590
+      episodes: Ep. 503-505
+      released: "2020-07-26"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: FA5B3DCD
+            length: "41:10"
+            length_seconds: 2470
+    - id: 1001237700-006
+      arc: 27
+      episode: 6
+      title: Cheer
+      description: Determined to return to Sabaody and keep his promise to his crew, Luffy prepares for departure. However, when Dark King Rayleigh appears and makes him a surprising offer, Luffy is forced to make a decision that could alter the fate of his entire journey.
+      chapters: Ch. 591-592
+      chapter_range:
+        start: 591
+        end: 592
+      episodes: Ep. 507-510
+      released: "2020-09-17"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 735F9F49
+            length: "39:43"
+            length_seconds: 2383
+    - id: 1001237700-007
+      arc: 27
+      episode: 7
+      title: NEWS
+      description: Although Marine HQ is in ruins after the Summit War, Marines and reporters still stalk its grounds. Luffy, Rayleigh, and Jinbe return to where Ace died to carry out a mysterious plan. If all goes well, Luffy’s crew will understand his actions.
+      chapters: Ch. 593-594
+      chapter_range:
+        start: 593
+        end: 594
+      episodes: Ep. 510-512
+      released: "2020-12-20"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: D85BC22C
+            length: "36:50"
+            length_seconds: 2210
+    - id: 1001237700-008
+      arc: 27
+      episode: 8
+      title: 3D2Y
+      description: The Straw Hat Pirates have interpreted their captain's message to meet up again in two years. During this time, they will prepare themselves for the New World! In the Calm Belt, Luffy arrives in Luscaina to begin training under Rayleigh.
+      chapters: Ch. 595-597
+      chapter_range:
+        start: 595
+        end: 597
+      episodes: Ep. 513-516
+      released: "2021-01-18"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 178190BC
+            length: "1:00:00"
+            length_seconds: 3600
   gid: "1001237700"
 - id: "1999155271"
   arc: 28
@@ -6888,7 +7032,709 @@
   time_saved_percent: 40.59%
   time_saved_percent_value: 40.59
   status: ""
-  episodes: []
+  episodes:
+    - id: 1510623527-001
+      arc: 33
+      episode: 1
+      title: A World Abuzz
+      description: Luffy's team—plus a stowaway—sets out from Zou on their way to win back Sanji. Meanwhile, the leading families and leaders of the world make their way to the Holy Land, Mary Geoise, for a pivotal round table conference.
+      chapters: Ch. 823-824
+      chapter_range:
+        start: 823
+        end: 824
+      episodes: Ep. 777-779,783
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 3F24A1D8
+            length: "31:03"
+            length_seconds: 1863
+    - id: 1510623527-002
+      arc: 33
+      episode: 2
+      title: 0 and 4
+      description: Without Sanji to properly identify safe and edible food, Luffy gets a stomach full of poisonous fish! With no antidotes on board, the Straw Hats must rely on a couple of mysterious—yet somehow familiar—passersby for help.
+      chapters: Ch. 825-826
+      chapter_range:
+        start: 825
+        end: 826
+      episodes: Ep. 783-785
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 6FFCB482
+            length: "33:09"
+            length_seconds: 1989
+    - id: 1510623527-003
+      arc: 33
+      episode: 3
+      title: Totto Land
+      description: Arriving on Cacao Island, Luffy and Chopper are in heaven as everything before their eyes is edible. There, the Straw Hats encounter Sanji’s betrothed, Pudding, but when they challenge her for Sanji's heart, her answer is truly shocking.
+      chapters: Ch. 827-828
+      chapter_range:
+        start: 827
+        end: 828
+      episodes: Ep. 785-788
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 3F6633B5
+            length: "31:57"
+            length_seconds: 1917
+    - id: 1510623527-004
+      arc: 33
+      episode: 4
+      title: Pirate Emperor, Charlotte Linlin
+      description: Big Mom ravages Whole Cake Island in search of sweets, and while a familiar face across the waters has just what she needs, he also brings ill tidings. As the Straw Hats draw closer to the island, Pedro shares his sordid past in Big Mom’s territory.
+      chapters: Ch. 829-830
+      chapter_range:
+        start: 829
+        end: 830
+      episodes: Ep. 788-790
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 02C6FC2B
+            length: "31:17"
+            length_seconds: 1877
+    - id: 1510623527-005
+      arc: 33
+      episode: 5
+      title: Adventure in the Mysterious Forest
+      description: Luffy’s group makes its way toward Sanji, only to be distracted by the endless supply of sweets and a second Luffy. Before they realize it, they are lost in the Seducing Woods! Meanwhile, Sanji confronts his older brother.
+      chapters: Ch. 831-832
+      chapter_range:
+        start: 831
+        end: 832
+      episodes: Ep. 791-793
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 4CF30353
+            length: "32:14"
+            length_seconds: 1934
+    - id: 1510623527-006
+      arc: 33
+      episode: 6
+      title: Vinsmoke Judge
+      description: Sanji faces his father in a duel as the wounds of his childhood are laid bare! Meanwhile, Luffy falls for the illusions of the forest, and Big Mom has Caesar at her whims, ready to use him to continue her maniacal pursuits.
+      chapters: Ch. 833-834
+      chapter_range:
+        start: 833
+        end: 834
+      episodes: Ep. 793-795
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 410C8F0C
+            length: "32:19"
+            length_seconds: 1939
+    - id: 1510623527-007
+      arc: 33
+      episode: 7
+      title: Lola's Vivre Card
+      description: The mysterious half-buried man comes clean about his identity, but this must all be put aside when one of Big Mom's most powerful commanders comes calling. Nami's past exploits, however, hold the key to keeping the baddies at bay.
+      chapters: Ch. 835-836
+      chapter_range:
+        start: 835
+        end: 836
+      episodes: Ep. 796-798
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: FC2376A1
+            length: "31:12"
+            length_seconds: 1872
+    - id: 1510623527-008
+      arc: 33
+      episode: 8
+      title: Luffy vs. Commander Cracker
+      description: Luffy squares off against a commander of Big Mom, Charlotte Cracker, whose powers may prove more troublesome than they appear. Meanwhile, Brook and Pedro infiltrate Whole Cake Island and work out a plan to avoid getting caught.
+      chapters: Ch. 837-838
+      chapter_range:
+        start: 837
+        end: 838
+      episodes: Ep. 798-800
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 31018FCB
+            length: "26:19"
+            length_seconds: 1579
+    - id: 1510623527-009
+      arc: 33
+      episode: 9
+      title: The Iron Mask
+      description: Sanji challenges his entire family, but they have effectively ensured he follows their wedding scheme. The truth of Germa's power and Vinsmoke Judge’s dark history is also revealed. Meanwhile, Nami has recruited the homies and challenges Cracker!
+      chapters: Ch. 839-840
+      chapter_range:
+        start: 839
+        end: 840
+      episodes: Ep. 800-803,807
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 94E3481F
+            length: "32:05"
+            length_seconds: 1925
+    - id: 1510623527-010
+      arc: 33
+      episode: 10
+      title: To the East Blue
+      description: Sanji’s tragic history included a rare moment of compassion that was his only chance at escape, but even then, his father’s cruelty haunted him. In the present, Reiju helps Sanji straighten himself out before he meets with his fiancée.
+      chapters: Ch. 841-842
+      chapter_range:
+        start: 841
+        end: 842
+      episodes: Ep. 804-806
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: E123D314
+            length: "35:45"
+            length_seconds: 2145
+    - id: 1510623527-011
+      arc: 33
+      episode: 11
+      title: Luffy vs. Sanji
+      description: Luffy finishes off Cracker and finally catches up with Sanji, but the Straw Hats’ cook seems far from thrilled about the reunion. A heartbreaking duel commences, but a steadfast Luffy makes a solemn vow to his friend and crewmate.
+      chapters: Ch. 843-844
+      chapter_range:
+        start: 843
+        end: 844
+      episodes: Ep. 806-808
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 8B5E1006
+            length: "26:18"
+            length_seconds: 1578
+    - id: 1510623527-012
+      arc: 33
+      episode: 12
+      title: Forces of Rage
+      description: Luffy stands his ground and waits for Sanji to return, but as the vengeful army washes over him, only a true friend can step in to help. At Big Mom’s castle, Sanji and Pudding discuss their marriage and come to a startling conclusion!
+      chapters: Ch. 845-846
+      chapter_range:
+        start: 845
+        end: 846
+      episodes: Ep. 809-812
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 36D0F622
+            length: "34:17"
+            length_seconds: 2057
+    - id: 1510623527-013
+      arc: 33
+      episode: 13
+      title: Luffy and Big Mom
+      description: Pedro creates a diversion for Brook to put his soulful plan into action. Meanwhile, the captured Luffy continues to goad Big Mom, and Pudding has the beginnings of rebellion stirring up inside her.
+      chapters: Ch. 847-848
+      chapter_range:
+        start: 847
+        end: 848
+      episodes: Ep. 812-815
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: D9EEB564
+            length: "32:25"
+            length_seconds: 1945
+    - id: 1510623527-014
+      arc: 33
+      episode: 14
+      title: A Ray of Light
+      description: When Pudding arrives to meet the captured Luffy and Nami, their hopefulness suddenly turns to shock! To make matters worse, Brook comes face to face with Big Mom herself! At the risk of his own well-being, Luffy desperately tries to free himself.
+      chapters: Ch. 849-850
+      chapter_range:
+        start: 849
+        end: 850
+      episodes: Ep. 814-817
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: CCCBEFC0
+            length: "34:50"
+            length_seconds: 2090
+    - id: 1510623527-015
+      arc: 33
+      episode: 15
+      title: Germa's Failure
+      description: Things are looking grim for Luffy and Nami until an unexpected ally appears. Elsewhere, Sanji confronts his sister about what Pudding plans to do and learns the powerful secret of their mother's undying love.
+      chapters: Ch. 851-852
+      chapter_range:
+        start: 851
+        end: 852
+      episodes: Ep. 817-820
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 0E2022E4
+            length: "35:53"
+            length_seconds: 2153
+    - id: 1510623527-016
+      arc: 33
+      episode: 16
+      title: Not Here
+      description: Luffy fights through more obstacles in search of Sanji, and Brook hears Big Mom's plan firsthand as she shares her intentions with Pudding. While Big Mom's agents believe most of the Straw Hats to be under their control, Mont d'Or has his doubts.
+      chapters: Ch. 853-854
+      chapter_range:
+        start: 853
+        end: 854
+      episodes: Ep. 820-822
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: A8E42FE1
+            length: "29:18"
+            length_seconds: 1758
+    - id: 1510623527-017
+      arc: 33
+      episode: 17
+      title: Liar
+      description: Nami and co. finally locate Brook using the Mirro-world, but he is in the most inopportune of places! Meanwhile, Luffy is waylaid on his way back to the rendezvous, and Jinbe shares the awful truth about the wedding with the other Straw Hat pirates.
+      chapters: Ch. 855-856
+      chapter_range:
+        start: 855
+        end: 856
+      episodes: Ep. 823-825
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 0CF96D5A
+            length: "33:49"
+            length_seconds: 2029
+    - id: 1510623527-018
+      arc: 33
+      episode: 18
+      title: Rook
+      description: Jinbe tells the Straw Hats about Capone “Gang” Bege and proposes a shocking plan to take down Big Mom! But before they are granted an audience with Bege, they must make themselves presentable.
+      chapters: Ch. 857-858
+      chapter_range:
+        start: 857
+        end: 858
+      episodes: Ep. 826-828
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 3F5E7FD3
+            length: "36:10"
+            length_seconds: 2170
+    - id: 1510623527-019
+      arc: 33
+      episode: 19
+      title: Emperor Assassination Plan
+      description: The plan for Big Mom’s assassination is all set. Sanji heads back to his room to avoid suspicion, but Mont d’Or is hot on his trail. The day arrives, and guests from the criminal underground pour in in droves, some with their own agendas to settle.
+      chapters: Ch. 859-860
+      chapter_range:
+        start: 859
+        end: 860
+      episodes: Ep. 828-830
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 0F125E00
+            length: "33:28"
+            length_seconds: 2008
+    - id: 1510623527-020
+      arc: 33
+      episode: 20
+      title: Veteran Actor
+      description: Final preparations abound, plans come together, and Sanji meets his bride on the altar. As the veil is lifted off Pudding's face, emotions run high, and the chaos begins! As the proverbial icing on the cake, all hell breaks loose as Luffy charges in!
+      chapters: Ch. 861-862
+      chapter_range:
+        start: 861
+        end: 862
+      episodes: Ep. 831-832
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 4F38961B
+            length: "29:32"
+            length_seconds: 1772
+    - id: 1510623527-021
+      arc: 33
+      episode: 21
+      title: The Honorable
+      description: The wedding and the precious cake crumble to pieces around Big Mom as a slew of Luffys wreak havoc. The chaos pushes Big Mom past the edge of sanity, so her children make a move against Germa while Pudding takes aim at Sanji.
+      chapters: Ch. 863-864
+      chapter_range:
+        start: 863
+        end: 864
+      episodes: Ep. 831,833-834
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 5FDB702D
+            length: "35:35"
+            length_seconds: 2135
+    - id: 1510623527-022
+      arc: 33
+      episode: 22
+      title: Hey, Mother
+      description: 'Luffy dashes toward Big Mom to show her the broken portrait again, and Sanji attempts to free his family. Here, Big Mom’s tragic and sad history is revealed: from the very beginning, Big Mom''s voracious hunger has brought her into conflict with others.'
+      chapters: Ch. 865-866
+      chapter_range:
+        start: 865
+        end: 866
+      episodes: Ep. 835-836
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 39D94718
+            length: "28:15"
+            length_seconds: 1695
+    - id: 1510623527-023
+      arc: 33
+      episode: 23
+      title: HAPPY BIRTHDAY
+      description: A young Linlin managed to enrage the giants of Elbaph, but Mother Carmel begged for clemency on her behalf. After Carmel’s mysterious disappearance, Linlin fell in with a new cohort and found her reason to go on living.
+      chapters: Ch. 867-868
+      chapter_range:
+        start: 867
+        end: 868
+      episodes: Ep. 837-839
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 437F9E8D
+            length: "33:58"
+            length_seconds: 2038
+    - id: 1510623527-024
+      arc: 33
+      episode: 24
+      title: Under Siege
+      description: The Straw Hats and Germa 66 become cornered in Bege's stronghold, and the full might of the Big Mom Pirates is pinning them down! It is only a matter of time before their defenses crack, so they take the only way out and make a break for it.
+      chapters: Ch. 869-870
+      chapter_range:
+        start: 869
+        end: 870
+      episodes: Ep. 839-841
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 6E422CFB
+            length: "28:41"
+            length_seconds: 1721
+    - id: 1510623527-025
+      arc: 33
+      episode: 25
+      title: You Can Do It, Caesar!!
+      description: Caesar flies the entire alliance, still inside Bege, out of the venue! However, the full might of the Big Mom Pirates proves too much. The alliance’s annihilation is imminent, but something shakes the playing field.
+      chapters: Ch. 870-872
+      chapter_range:
+        start: 870
+        end: 872
+      episodes: Ep. 841-843
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 32CC4AB9
+            length: "35:41"
+            length_seconds: 2141
+    - id: 1510623527-026
+      arc: 33
+      episode: 26
+      title: Become My Servant
+      description: The Straw Hats continue their mad dash to the Sunny, and Pudding puts her plan to rebuild the cake into action. As Zeus pursues the Straw Hats, Nami keeps him occupied with a shocking surprise that might stop Big Mom in her tracks!
+      chapters: Ch. 873-874
+      chapter_range:
+        start: 873
+        end: 874
+      episodes: Ep. 843-846
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 71827EF0
+            length: "34:14"
+            length_seconds: 2054
+    - id: 1510623527-027
+      arc: 33
+      episode: 27
+      title: A Woman's Honor
+      description: Big Mom is relentless in her pursuit of the Straw Hats. Elsewhere, the plan to recreate the wedding cake progresses while Pudding’s unpredictable heart confuses everyone, including herself.
+      chapters: Ch. 875-876
+      chapter_range:
+        start: 875
+        end: 876
+      episodes: Ep. 846-848
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 2CDA8E9D
+            length: "33:11"
+            length_seconds: 1991
+    - id: 1510623527-028
+      arc: 33
+      episode: 28
+      title: Mink Pedro, Captain of the Guardians
+      description: Sandwiched between Big Mom and her advancing fleet, the only hope left to the Sunny is to blast right through it all. Meanwhile, Pedro comes face-to-face with his past and does what he must to ensure the success of his friends.
+      chapters: Ch. 877-878
+      chapter_range:
+        start: 877
+        end: 878
+      episodes: Ep. 848-850
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 22B16322
+            length: "32:15"
+            length_seconds: 1935
+    - id: 1510623527-029
+      arc: 33
+      episode: 29
+      title: Zero Escape
+      description: In the Mirro-world, Luffy confronts the formidable Charlotte Katakuri, Big Mom’s strongest child. Meanwhile, Pudding and Sanji arrive at Cacao Island to remake the cake, but they bicker like a married couple the whole time.
+      chapters: Ch. 879-880
+      chapter_range:
+        start: 879
+        end: 880
+      episodes: Ep. 851-853
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 270A4ABD
+            length: "30:21"
+            length_seconds: 1821
+    - id: 1510623527-030
+      arc: 33
+      episode: 30
+      title: Wave Room
+      description: Nami and Luffy discuss a rendezvous point while the others break the mirrors on the Sunny. Little do they know their plan is overheard, and Luffy’s grueling battle against Katakuri—haki vs. haki, rubber vs. mochi—intensifies.
+      chapters: Ch. 881-883
+      chapter_range:
+        start: 881
+        end: 883
+      episodes: Ep. 853-855,858
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: ABB0AC56
+            length: "33:25"
+            length_seconds: 2005
+    - id: 1510623527-031
+      arc: 33
+      episode: 31
+      title: Merienda
+      description: Katakuri retires to his sanctuary to enjoy a merienda—a sweet chance to replenish his haki! But he is not the only one munching away. A mochi mountain has crushed Luffy, and he has found a delectable way to escape.
+      chapters: Ch. 883-884
+      chapter_range:
+        start: 883
+        end: 884
+      episodes: Ep. 856-858
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 529AE554
+            length: "31:08"
+            length_seconds: 1868
+    - id: 1510623527-032
+      arc: 33
+      episode: 32
+      title: Way of Life
+      description: When Chiffon comes under attack, Sanji must choose between defending her or revealing his whereabouts to his enemies. Elsewhere, Luffy uses Charlotte Brûlée as a human shield to avoid the wrath of Big Mom.
+      chapters: Ch. 885-886
+      chapter_range:
+        start: 885
+        end: 886
+      episodes: Ep. 858-860
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 8313ECE3
+            length: "32:11"
+            length_seconds: 1931
+    - id: 1510623527-033
+      arc: 33
+      episode: 33
+      title: Lion
+      description: Sanji and Bege contend with Charlotte Oven, who boils the sea itself! Meanwhile, a vicious pincer attack bears down on the Straw Hats, but Carrot draws on a deep power within and springs to action under the light of the full moon.
+      chapters: Ch. 887-888
+      chapter_range:
+        start: 887
+        end: 888
+      episodes: Ep. 860-862
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 6FBBD350
+            length: "30:56"
+            length_seconds: 1856
+    - id: 1510623527-034
+      arc: 33
+      episode: 34
+      title: Unknown Mama
+      description: Wielding Napoleon and backed by Zeus and Prometheus, Big Mom wreaks havoc on the Sunny. As the Straw Hats try to kick out the Emperor, their ship catches fire! But then, Jinbe steps up to the plate to take a swing.
+      chapters: Ch. 889-891
+      chapter_range:
+        start: 889
+        end: 891
+      episodes: Ep. 862-865
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: A3939979
+            length: "37:46"
+            length_seconds: 2266
+    - id: 1510623527-035
+      arc: 33
+      episode: 35
+      title: They Believe in Me
+      description: The cake is finally brought before Big Mom. With the end of her vicious rampage in sight, the Straw Hats may just get their chance to flee! Big Mom's crew is forced to decide who to attack, and Luffy grows ever closer to mastering his haki.
+      chapters: Ch. 891-893
+      chapter_range:
+        start: 891
+        end: 893
+      episodes: Ep. 865-868
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 1753F7D1
+            length: "36:19"
+            length_seconds: 2179
+    - id: 1510623527-036
+      arc: 33
+      episode: 36
+      title: Pirate Luffy vs. Commander Katakuri
+      description: Desiring revenge after complete embarrassment, Big Mom’s children band together to smash the Straw Hats. Meanwhile, Luffy and Katakuri are locked in a duel to end all duels, where each blow could be the last.
+      chapters: Ch. 892-895
+      chapter_range:
+        start: 892
+        end: 895
+      episodes: Ep. 865,867-870
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 3AF37912
+            length: "33:49"
+            length_seconds: 2029
+    - id: 1510623527-037
+      arc: 33
+      episode: 37
+      title: One Last Thing
+      description: Luffy's dramatic battle finally draws to a close, and a whole host of the Big Mom Pirates watch the last mirror to see who will come through.
+      chapters: Ch. 896-897
+      chapter_range:
+        start: 896
+        end: 897
+      episodes: Ep. 871-872
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 3C58DD41
+            length: "28:56"
+            length_seconds: 1736
+    - id: 1510623527-038
+      arc: 33
+      episode: 38
+      title: BAD END MUSICAL
+      description: Sanji tries his best to save himself and his captain. Now, the fate of Totto Land rests on the taste of the wedding cake! With the help of Germa and the Sun Pirates, the Straw Hats see their chance to escape!
+      chapters: Ch. 898-900
+      chapter_range:
+        start: 898
+        end: 900
+      episodes: Ep. 873-875
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: E9317CBD
+            length: "41:27"
+            length_seconds: 2487
+    - id: 1510623527-039
+      arc: 33
+      episode: 39
+      title: END ROLL
+      description: As the Big Mom Pirate fleet approaches, Jinbe makes a crucial decision. At a great cost of energy and life, the Straw Hats make it out of Totto Land. Left behind in their wake are allies, friends, and would-be lovers.
+      chapters: Ch. 901-902
+      chapter_range:
+        start: 901
+        end: 902
+      episodes: Ep. 876-877
+      released: "2020-12-11"
+      has_extended: false
+      files:
+        normal:
+            version: normal
+            crc32: 172F5F20
+            length: "34:30"
+            length_seconds: 2070
   gid: "1510623527"
 - id: "1529137639"
   arc: 34

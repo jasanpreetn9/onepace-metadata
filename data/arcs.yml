@@ -3382,7 +3382,7 @@
       files:
         normal:
             version: normal
-            crc32: 1AB80898
+            crc32: C408DA06
             length: "27:48"
             length_seconds: 1668
     - id: 437050304-002
@@ -3400,7 +3400,7 @@
       files:
         normal:
             version: normal
-            crc32: 661FB354
+            crc32: 0EBD0069
             length: "25:34"
             length_seconds: 1534
     - id: 437050304-003
@@ -3415,7 +3415,7 @@
       files:
         normal:
             version: normal
-            crc32: 4FF3DF7A
+            crc32: C9E0CD24
             length: "15:48"
             length_seconds: 948
     - id: 437050304-004
@@ -3433,7 +3433,7 @@
       files:
         normal:
             version: normal
-            crc32: E66DEB11
+            crc32: 2C843A0F
             length: "23:34"
             length_seconds: 1414
     - id: 437050304-005
@@ -3469,7 +3469,7 @@
       files:
         normal:
             version: normal
-            crc32: BC2451B1
+            crc32: CEF78887
             length: "23:06"
             length_seconds: 1386
   gid: "437050304"

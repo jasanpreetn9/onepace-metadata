@@ -717,7 +717,7 @@
       "length_seconds": 1534,
       "url": "https://nyaa.si/view/2169546"
     },
-    "is_current": false
+    "is_current": true
   },
   "0F125E00": {
     "arc_id": "1510623527",
@@ -4370,7 +4370,7 @@
       "length": "25:34",
       "length_seconds": 1534
     },
-    "is_current": true
+    "is_current": false
   },
   "666061E3": {
     "arc_id": "545721945",

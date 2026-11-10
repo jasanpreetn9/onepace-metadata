@@ -2112,17 +2112,18 @@
     episode_id: 437050304-002
     arc: 20
     episode: 2
-    title: The Name of That Sea
-    description: Garp tells Luffy that he's not going to arrest him or his crew, giving Luffy a moment to sit down and catch up with Koby and Helmeppo. As the old friends reminisce about how they met, however, something big is stirring in the New World. Not even the Marines' best can keep "Red-Haired" Shanks from meeting Whitebeard, arriving with his crew, some booze, and a very important request.
+    title: The Extent of the Grand Line and The 600,000,000 Crew!
+    description: In the New World, not even the Marines' best can keep Red-Haired Shanks from meeting Whitebeard with an especially important request. Meanwhile, at Water Seven, the Franky Family comes to the Straw Hats with some "bad" news.
     chapters: Ch. 433-434
     episodes: Ep. 315-316, 325
     released: "2026-10-04"
     files:
         normal:
             version: normal
-            crc32: 661FB354
+            crc32: 0EBD0069
             length: "25:34"
             length_seconds: 1534
+            url: https://nyaa.si/view/2169546
 437050304-003:
     arc_id: "437050304"
     episode_id: 437050304-003

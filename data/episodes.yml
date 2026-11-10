@@ -252,7 +252,7 @@
         length: "25:34"
         length_seconds: 1534
         url: https://nyaa.si/view/2169546
-    is_current: false
+    is_current: true
 0F125E00:
     arc_id: "1510623527"
     episode_id: 1510623527-019
@@ -4154,7 +4154,7 @@
         crc32: 661FB354
         length: "25:34"
         length_seconds: 1534
-    is_current: true
+    is_current: false
 683EDC5C:
     arc_id: "293688544"
     episode_id: 293688544-008

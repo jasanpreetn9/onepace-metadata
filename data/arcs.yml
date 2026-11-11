@@ -3361,10 +3361,10 @@
     end: 325
   episodes_adapted: "11"
   filler_episodes: 317 - 318
-  time_saved_mins: "108"
-  time_saved_mins_value: 108
-  time_saved_percent: 45.96%
-  time_saved_percent_value: 45.96
+  time_saved_mins: "100"
+  time_saved_mins_value: 100
+  time_saved_percent: 42.62%
+  time_saved_percent_value: 42.62
   status: TBR
   episodes:
     - id: 437050304-001
@@ -3428,14 +3428,14 @@
         start: 436
         end: 437
       episodes: Ep. 321-322
-      released: "2013-06-26"
+      released: "2026-11-09"
       has_extended: false
       files:
         normal:
             version: normal
-            crc32: 2C843A0F
-            length: "23:34"
-            length_seconds: 1414
+            crc32: C57AE4F8
+            length: "31:28"
+            length_seconds: 1888
     - id: 437050304-005
       arc: 20
       episode: 5

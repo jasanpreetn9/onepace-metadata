@@ -1173,7 +1173,7 @@
       "length": "27:48",
       "length_seconds": 1668
     },
-    "is_current": false
+    "is_current": true
   },
   "1B5DC33C": {
     "arc_id": "168502639",
@@ -3299,7 +3299,7 @@
       "length": "15:48",
       "length_seconds": 948
     },
-    "is_current": true
+    "is_current": false
   },
   "5012E091": {
     "arc_id": "545721945",
@@ -7990,7 +7990,7 @@
       "length_seconds": 1668,
       "url": "https://nyaa.si/view/2156009"
     },
-    "is_current": true
+    "is_current": false
   },
   "C4106519": {
     "arc_id": "1348628353",
@@ -8241,7 +8241,7 @@
       "length_seconds": 948,
       "url": "https://nyaa.si/view/2169547"
     },
-    "is_current": false
+    "is_current": true
   },
   "CA3683BA": {
     "arc_id": "1664435609",

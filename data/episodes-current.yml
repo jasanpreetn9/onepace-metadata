@@ -2104,10 +2104,9 @@
     files:
         normal:
             version: normal
-            crc32: C408DA06
+            crc32: 1AB80898
             length: "27:48"
             length_seconds: 1668
-            url: https://nyaa.si/view/2156009
 437050304-002:
     arc_id: "437050304"
     episode_id: 437050304-002
@@ -2130,17 +2129,18 @@
     episode_id: 437050304-003
     arc: 20
     episode: 3
-    title: You Have My Sympathies
-    description: The edition of the daily newspaper covering the Enies Lobby incident finally releases, and with it some "bad" news for the Straw Hats. Meanwhile, as Luffy and the gang get some much-needed rest, Franky gets some unexpected help while working on their new ship.
+    title: Forgive Yourself! Franky Departs!
+    description: 'The Straw Hats have barely had time to marvel at their new bounties when a new surprise awaits them: the unveiling of their magnificent new ship. The next step is bringing a shipwright into their ranks, and there is only one man for the job.'
     chapters: Ch. 435
     episodes: Ep. 316-320
     released: "2026-10-04"
     files:
         normal:
             version: normal
-            crc32: 4FF3DF7A
+            crc32: C9E0CD24
             length: "15:48"
             length_seconds: 948
+            url: https://nyaa.si/view/2169547
 437050304-004:
     arc_id: "437050304"
     episode_id: 437050304-004
@@ -4064,7 +4064,7 @@
     description: When a Marine officer under Arlong's pay confiscates all the money Nami accumulated over the years, it becomes clear where Arlong stands on his promise.
     chapters: Ch. 79-81
     episodes: Ep. 36-37
-    released: "2025-11-09"
+    released: "2025-11-10"
     files:
         normal:
             version: normal

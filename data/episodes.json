@@ -1173,7 +1173,7 @@
       "length": "27:48",
       "length_seconds": 1668
     },
-    "is_current": true
+    "is_current": false
   },
   "1B5DC33C": {
     "arc_id": "168502639",
@@ -7990,7 +7990,7 @@
       "length_seconds": 1668,
       "url": "https://nyaa.si/view/2156009"
     },
-    "is_current": false
+    "is_current": true
   },
   "C4106519": {
     "arc_id": "1348628353",

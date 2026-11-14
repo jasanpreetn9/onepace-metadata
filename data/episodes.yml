@@ -336,7 +336,7 @@
         crc32: 1AB80898
         length: "27:48"
         length_seconds: 1668
-    is_current: true
+    is_current: false
 1B5DC33C:
     arc_id: "168502639"
     episode_id: 168502639-035
@@ -7267,7 +7267,7 @@ C408DA06:
         length: "27:48"
         length_seconds: 1668
         url: https://nyaa.si/view/2156009
-    is_current: false
+    is_current: true
 C951349C:
     arc_id: "277573788"
     episode_id: 277573788-025

@@ -2104,9 +2104,10 @@
     files:
         normal:
             version: normal
-            crc32: 1AB80898
+            crc32: C408DA06
             length: "27:48"
             length_seconds: 1668
+            url: https://nyaa.si/view/2156009
 437050304-002:
     arc_id: "437050304"
     episode_id: 437050304-002

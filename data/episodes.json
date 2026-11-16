@@ -337,7 +337,7 @@
       "length": "26:57",
       "url": "https://nyaa.si/view/1279925"
     },
-    "is_current": true
+    "is_current": false
   },
   "074A4A31": {
     "arc_id": "1348628353",
@@ -3299,7 +3299,7 @@
       "length": "15:48",
       "length_seconds": 948
     },
-    "is_current": true
+    "is_current": false
   },
   "5012E091": {
     "arc_id": "545721945",
@@ -3536,7 +3536,7 @@
       "length": "24:05",
       "url": "https://nyaa.si/?q=fd204b5dc346f5458f7f04cf1ad98679aaf9586e"
     },
-    "is_current": true
+    "is_current": false
   },
   "56CFB8B0": {
     "arc_id": "1926352856",
@@ -7973,6 +7973,25 @@
     },
     "is_current": true
   },
+  "C3961CBC": {
+    "arc_id": "2070578030",
+    "episode_id": "2070578030-003",
+    "arc": 29,
+    "episode": 3,
+    "title": "Landing on Fishman Island! The Mermaid Cove and Gyoverly Hills!",
+    "description": "After a near miss with a creepy undersea ship and Fishman Island in sight, Luffy’s crew is halted by a group of fishmen riding atop sea kings. But time is of the essence, so the Straw Hats attempt a desperate maneuver.",
+    "chapters": "Ch. 607-608",
+    "episodes": "Ep. 526-527",
+    "released": "2026-11-15",
+    "file": {
+      "version": "normal",
+      "crc32": "C3961CBC",
+      "length": "27:36",
+      "length_seconds": 1656,
+      "url": "https://nyaa.si/view/2186833"
+    },
+    "is_current": true
+  },
   "C408DA06": {
     "arc_id": "437050304",
     "episode_id": "437050304-001",
@@ -8241,7 +8260,7 @@
       "length_seconds": 948,
       "url": "https://nyaa.si/view/2169547"
     },
-    "is_current": false
+    "is_current": true
   },
   "CA3683BA": {
     "arc_id": "1664435609",
@@ -10455,7 +10474,7 @@
       "magnet_uri": "magnet:?xt=urn:btih:2b8ae89cb5efdb0600c14d20a8b9ea38c9e2f21b\u0026dn=%5BOne+Pace%5D%5B82-84%5D+Arlong+Park+06+%5B1080p%5D%5BFCF6BA63%5D.mkv\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce\u0026tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=http%3A%2F%2Fbt.endpot.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce\u0026tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce\u0026tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce\u0026tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce",
       "torrent_url": "https://nyaa.si/download/2062715.torrent"
     },
-    "is_current": false
+    "is_current": true
   },
   "FCF7F7E4": {
     "arc_id": "2070578030",

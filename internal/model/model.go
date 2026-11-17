@@ -173,6 +173,16 @@ type Release struct {
 	// NormalizedVariant re-expresses Variant in EpisodeFile.Version's
 	// vocabulary ("normal"/"extended") so the two can be joined/compared
 	// directly. See internal/parse.NormalizeVariant.
+	// FileCRC32s lists the CRC32 of every episode file inside a batch
+	// release (one torrent covering a whole arc). Batches have no CRC32 of
+	// their own, so this is what joins them to EpisodeFile.CRC32. Read from
+	// the .torrent once and kept in the archive; empty for single-file
+	// releases, which use CRC32.
+	FileCRC32s []string `json:"file_crc32s,omitempty" yaml:"file_crc32s,omitempty"`
+	// FileCount is the number of files in the release's .torrent; non-zero
+	// once the torrent has been read, so it is never downloaded again.
+	FileCount int `json:"file_count,omitempty" yaml:"file_count,omitempty"`
+
 	NormalizedVariant string        `json:"normalized_variant,omitempty" yaml:"normalized_variant,omitempty"`
 	MangaChapterRange *ChapterRange `json:"manga_chapter_range,omitempty" yaml:"manga_chapter_range,omitempty"`
 	AnimeEpisodeRange *ChapterRange `json:"anime_episode_range,omitempty" yaml:"anime_episode_range,omitempty"`

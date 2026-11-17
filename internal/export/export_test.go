@@ -146,3 +146,89 @@ func TestExportMetadata_IsCurrentAndBackfill(t *testing.T) {
 		t.Errorf("arc1-002 current file = %+v, want CRC32 CCCCCCCC", ep2.Files.Normal)
 	}
 }
+
+func TestNewerArchiveEntry_TieBreaks(t *testing.T) {
+	entry := func(crc, released string) model.EpisodeArchiveEntry {
+		return model.EpisodeArchiveEntry{Released: released, File: model.EpisodeFile{CRC32: crc}}
+	}
+	none := map[string]bool{}
+	noPub := map[string]string{}
+
+	tests := []struct {
+		name   string
+		a, b   model.EpisodeArchiveEntry
+		listed map[string]bool
+		pub    map[string]string
+		want   bool
+	}{
+		{"newer released wins over listed", entry("AAAAAAAA", "2025-02-01"), entry("BBBBBBBB", "2025-01-01"), map[string]bool{"BBBBBBBB": true}, noPub, true},
+		{"older released loses", entry("AAAAAAAA", "2025-01-01"), entry("BBBBBBBB", "2025-02-01"), none, noPub, false},
+		{"tie: sheet-listed wins", entry("AAAAAAAA", "2025-01-11"), entry("BBBBBBBB", "2025-01-11"), map[string]bool{"AAAAAAAA": true}, map[string]string{"BBBBBBBB": "2025-10-27T12:00:00.000Z"}, true},
+		{"tie: newer publish wins", entry("AAAAAAAA", "2025-01-11"), entry("BBBBBBBB", "2025-01-11"), none, map[string]string{"AAAAAAAA": "2025-10-27T12:00:00.000Z", "BBBBBBBB": "2025-01-10T12:00:00.000Z"}, true},
+		{"tie: published beats unpublished", entry("AAAAAAAA", "2025-01-11"), entry("BBBBBBBB", "2025-01-11"), none, map[string]string{"AAAAAAAA": "2025-01-10T12:00:00.000Z"}, true},
+		{"tie: falls back to CRC order", entry("AAAAAAAA", "2025-01-11"), entry("BBBBBBBB", "2025-01-11"), none, noPub, false},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := newerArchiveEntry(tt.a, tt.b, tt.listed, tt.pub); got != tt.want {
+				t.Errorf("newerArchiveEntry(%s, %s) = %v, want %v", tt.a.File.CRC32, tt.b.File.CRC32, got, tt.want)
+			}
+			// Antisymmetry: swapping the arguments must flip the answer for
+			// distinct CRCs, otherwise the winner depends on scan order.
+			if got := newerArchiveEntry(tt.b, tt.a, tt.listed, tt.pub); got == tt.want {
+				t.Errorf("newerArchiveEntry not antisymmetric for %s/%s", tt.a.File.CRC32, tt.b.File.CRC32)
+			}
+		})
+	}
+}
+
+// TestExportMetadata_IsCurrentStableOnTie reproduces the flip-flop seen in
+// the auto-update commits: two CRCs for the same episode share a Released
+// date. The CRC the sheet currently lists must win, on every run.
+func TestExportMetadata_IsCurrentStableOnTie(t *testing.T) {
+	dir := t.TempDir()
+
+	seed := EpisodesArchive{
+		"C060DA73": model.EpisodeArchiveEntry{
+			ArcID: "arc1", EpisodeID: "arc1-003", Arc: 1, Episode: 3,
+			Released:  "2025-01-11",
+			File:      model.EpisodeFile{Version: "normal", CRC32: "C060DA73"},
+			IsCurrent: true,
+		},
+	}
+	seedJSON, err := json.MarshalIndent(seed, "", "  ")
+	if err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(filepath.Join(dir, "episodes.json"), seedJSON, 0644); err != nil {
+		t.Fatal(err)
+	}
+
+	arcs := []model.Arc{{
+		ID: "arc1", Arc: 1,
+		Episodes: []model.Episode{{
+			ID: "arc1-003", Arc: 1, Episode: 3, Released: "2025-01-11",
+			Files: model.EpisodeFileVariants{
+				Normal: &model.EpisodeFile{Version: "normal", CRC32: "CC4900AE", URL: "https://example.invalid"},
+			},
+		}},
+	}}
+
+	for run := 0; run < 20; run++ {
+		if err := ExportMetadata(arcs, nil, dir); err != nil {
+			t.Fatalf("run %d: ExportMetadata: %v", run, err)
+		}
+		raw, err := os.ReadFile(filepath.Join(dir, "episodes.json"))
+		if err != nil {
+			t.Fatal(err)
+		}
+		var archive EpisodesArchive
+		if err := json.Unmarshal(raw, &archive); err != nil {
+			t.Fatal(err)
+		}
+		if !archive["CC4900AE"].IsCurrent || archive["C060DA73"].IsCurrent {
+			t.Fatalf("run %d: want CC4900AE current, got CC4900AE=%v C060DA73=%v",
+				run, archive["CC4900AE"].IsCurrent, archive["C060DA73"].IsCurrent)
+		}
+	}
+}

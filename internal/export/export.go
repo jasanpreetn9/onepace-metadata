@@ -83,6 +83,35 @@ func ExportMetadata(arcs []model.Arc, releases []model.Release, outDir string) e
 	}
 
 	// ========================================================
+	// 2b) LOAD + MERGE RELEASES ARCHIVE (append-only)
+	// ========================================================
+	// Loaded before the episode steps so 3d can use the full release
+	// history (not just this run's feed) when breaking is_current ties.
+
+	releasesArchive := ReleasesArchive{}
+	releasesPath := outDir + "/releases.json"
+
+	if util.FileExists(releasesPath) {
+		raw, err := os.ReadFile(releasesPath)
+		if err != nil {
+			return fmt.Errorf("read existing releases archive %s: %w", releasesPath, err)
+		}
+		if err := json.Unmarshal(raw, &releasesArchive); err != nil {
+			return fmt.Errorf("parse existing releases archive %s: %w", releasesPath, err)
+		}
+	}
+
+	for _, r := range releases {
+		if r.InfoHash == "" {
+			continue
+		}
+		if _, exists := releasesArchive[r.InfoHash]; !exists {
+			releasesArchive[r.InfoHash] = r
+			metadataChanged = true
+		}
+	}
+
+	// ========================================================
 	// 3) MERGE NEW EPISODES — ALWAYS APPEND, NEVER REMOVE
 	// ========================================================
 
@@ -224,6 +253,29 @@ func ExportMetadata(arcs []model.Arc, releases []model.Release, outDir string) e
 	// historical CRC itself. Groups by EpisodeID when known, falling back
 	// to the raw (Arc, Episode) numbers for any entry the backfill above
 	// couldn't resolve.
+	//
+	// Released only has day precision, and a re-release can land on the same
+	// date as the CRC it replaces, so ties are broken deterministically (see
+	// newerArchiveEntry). Without this the winner depended on map iteration
+	// order and flipped between runs.
+	listedCRCs := make(map[string]bool)
+	for _, arc := range arcs {
+		for _, ep := range arc.Episodes {
+			if ep.Files.Normal != nil && ep.Files.Normal.CRC32 != "" {
+				listedCRCs[ep.Files.Normal.CRC32] = true
+			}
+			if ep.Files.Extended != nil && ep.Files.Extended.CRC32 != "" {
+				listedCRCs[ep.Files.Extended.CRC32] = true
+			}
+		}
+	}
+	publishedAt := make(map[string]string)
+	for _, r := range releasesArchive {
+		if r.CRC32 != "" && r.PublishedAt > publishedAt[r.CRC32] {
+			publishedAt[r.CRC32] = r.PublishedAt
+		}
+	}
+
 	type versionKey struct {
 		Episode string
 		Variant string
@@ -240,7 +292,7 @@ func ExportMetadata(arcs []model.Arc, releases []model.Release, outDir string) e
 	for _, crcs := range groups {
 		latest := crcs[0]
 		for _, crc := range crcs[1:] {
-			if archive[crc].Released > archive[latest].Released {
+			if newerArchiveEntry(archive[crc], archive[latest], listedCRCs, publishedAt) {
 				latest = crc
 			}
 		}
@@ -337,31 +389,8 @@ func ExportMetadata(arcs []model.Arc, releases []model.Release, outDir string) e
 	}
 
 	// ========================================================
-	// 5) LOAD + MERGE + WRITE RELEASES ARCHIVE (append-only)
+	// 5) WRITE RELEASES ARCHIVE (loaded + merged in step 2b)
 	// ========================================================
-
-	releasesArchive := ReleasesArchive{}
-	releasesPath := outDir + "/releases.json"
-
-	if util.FileExists(releasesPath) {
-		raw, err := os.ReadFile(releasesPath)
-		if err != nil {
-			return fmt.Errorf("read existing releases archive %s: %w", releasesPath, err)
-		}
-		if err := json.Unmarshal(raw, &releasesArchive); err != nil {
-			return fmt.Errorf("parse existing releases archive %s: %w", releasesPath, err)
-		}
-	}
-
-	for _, r := range releases {
-		if r.InfoHash == "" {
-			continue
-		}
-		if _, exists := releasesArchive[r.InfoHash]; !exists {
-			releasesArchive[r.InfoHash] = r
-			metadataChanged = true
-		}
-	}
 
 	releasesJSON, err := json.MarshalIndent(releasesArchive, "", "  ")
 	if err != nil {
@@ -405,6 +434,27 @@ func ExportMetadata(arcs []model.Arc, releases []model.Release, outDir string) e
 	}
 
 	return nil
+}
+
+// newerArchiveEntry reports whether a should replace b as the current entry
+// of an (episode, variant) group. The order is a total order on distinct
+// CRCs, so the result never depends on map iteration order:
+//  1. newer Released date (ISO YYYY-MM-DD, lexicographic == chronological)
+//  2. the CRC the episode guide sheet lists right now
+//  3. newer release publish time from the releases feed (RFC3339)
+//  4. greater CRC32 string — arbitrary, but stable across runs
+func newerArchiveEntry(a, b model.EpisodeArchiveEntry, listedCRCs map[string]bool, publishedAt map[string]string) bool {
+	if a.Released != b.Released {
+		return a.Released > b.Released
+	}
+	aCRC, bCRC := a.File.CRC32, b.File.CRC32
+	if listedCRCs[aCRC] != listedCRCs[bCRC] {
+		return listedCRCs[aCRC]
+	}
+	if pa, pb := publishedAt[aCRC], publishedAt[bCRC]; pa != pb {
+		return pa > pb
+	}
+	return aCRC > bCRC
 }
 
 // enrichFileFromRelease fills in an episode file's download links, preferring

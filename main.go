@@ -14,7 +14,10 @@ func main() {
 
 	releases, err := fetch.FetchReleases()
 	if err != nil {
-		fmt.Println("Warning: failed to fetch releases feed:", err)
+		// The run continues on the archived releases, but say so loudly:
+		// "::warning::" surfaces as an annotation on the GitHub Actions run
+		// summary, where a plain log line went unnoticed for months.
+		fmt.Println("::warning title=Releases feed unavailable::failed to fetch releases feed:", err)
 	}
 
 	err = export.ExportMetadata(arcs, releases, "./data")

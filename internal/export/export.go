@@ -29,14 +29,6 @@ func ExportMetadata(arcs []model.Arc, releases []model.Release, outDir string) e
 	}
 	metadataChanged := false
 
-	// Index releases by CRC32 so the episode archive can be enriched with
-	// magnet/torrent links without a per-CRC Nyaa search.
-	releasesByCRC := make(map[string]model.Release, len(releases))
-	for _, r := range releases {
-		if r.CRC32 != "" {
-			releasesByCRC[r.CRC32] = r
-		}
-	}
 	// ========================================================
 	// 1) EXPORT ARCS (modern structure)
 	// ========================================================
@@ -112,6 +104,22 @@ func ExportMetadata(arcs []model.Arc, releases []model.Release, outDir string) e
 	}
 
 	// ========================================================
+	// 2c) READ BATCH TORRENTS' FILE LISTS
+	// ========================================================
+	// Batch releases (a whole arc in one torrent) carry no CRC32 of their
+	// own, so they can't be joined to episodes by CRC like single-file
+	// releases. The episode files inside each batch do carry one: read the
+	// .torrent once, record the CRCs in the archive, and never fetch it
+	// again (FileCount != 0).
+	if fillBatchFileCRCs(releasesArchive) {
+		metadataChanged = true
+	}
+
+	// Index the whole releases archive, not just this run's feed, so links
+	// still resolve on runs where the feed fetch fails.
+	releaseIdx := newReleaseIndex(releasesArchive)
+
+	// ========================================================
 	// 3) MERGE NEW EPISODES — ALWAYS APPEND, NEVER REMOVE
 	// ========================================================
 
@@ -126,7 +134,7 @@ func ExportMetadata(arcs []model.Arc, releases []model.Release, outDir string) e
 					if _, exists := archive[key]; !exists {
 
 						file := *ep.Files.Normal
-						enrichFileFromRelease(&file, releasesByCRC)
+						enrichFileFromRelease(&file, releaseIdx)
 
 						archive[key] = model.EpisodeArchiveEntry{
 							ArcID:       arc.ID,
@@ -153,7 +161,7 @@ func ExportMetadata(arcs []model.Arc, releases []model.Release, outDir string) e
 					if _, exists := archive[key]; !exists {
 
 						file := *ep.Files.Extended
-						enrichFileFromRelease(&file, releasesByCRC)
+						enrichFileFromRelease(&file, releaseIdx)
 
 						archive[key] = model.EpisodeArchiveEntry{
 							ArcID:       arc.ID,
@@ -179,13 +187,14 @@ func ExportMetadata(arcs []model.Arc, releases []model.Release, outDir string) e
 	// ========================================================
 	// The releases feed was added after most of the archive already existed,
 	// so entries created before this feature won't have magnet_uri/torrent_url
-	// from the "new episode" path above. Fill in only what's missing —
-	// additive, never overwrites an entry's existing data.
+	// from the "new episode" path above. Likewise an episode first seen
+	// before its release (or its batch's file list) was known. Fill in only
+	// what's missing — additive, never overwrites an entry's existing data.
 	for crc, entry := range archive {
 		if entry.File.MagnetURI != "" && entry.File.TorrentURL != "" {
 			continue
 		}
-		release, ok := releasesByCRC[crc]
+		release, ok := releaseIdx.find(crc, entry.File.Version)
 		if !ok {
 			continue
 		}
@@ -458,11 +467,13 @@ func newerArchiveEntry(a, b model.EpisodeArchiveEntry, listedCRCs map[string]boo
 }
 
 // enrichFileFromRelease fills in an episode file's download links, preferring
-// the onepace.net releases feed (exact CRC match, no network round-trip)
-// over the Nyaa RSS search fallback used when a CRC isn't in the feed.
-func enrichFileFromRelease(file *model.EpisodeFile, releasesByCRC map[string]model.Release) {
-	if release, ok := releasesByCRC[file.CRC32]; ok {
-		file.URL = release.NyaaURL
+// a known release (exact CRC match, or a batch torrent containing the CRC;
+// no network round-trip) over the Nyaa RSS search fallback.
+func enrichFileFromRelease(file *model.EpisodeFile, idx releaseIndex) {
+	if release, ok := idx.find(file.CRC32, file.Version); ok {
+		if release.NyaaURL != "" {
+			file.URL = release.NyaaURL
+		}
 		file.MagnetURI = release.MagnetURI
 		file.TorrentURL = release.TorrentURL
 		file.ReleaseInfoHash = release.InfoHash

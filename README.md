@@ -64,6 +64,7 @@ Thanks to `ladyisatis/one-pace-metadata` for the original implementation and ins
   - Manga chapters / anime episodes
   - Changelog entries, when the release notes list any
 - Used to enrich the episode archive's download links (magnet/torrent) by CRC32 match, without needing a Nyaa search
+- Batch releases (a whole arc in one torrent, no CRC32 in the release name) are matched through their file list: each `.torrent` is read once and the CRC32s of the episode files inside are stored as `file_crc32s` in `releases.json`. An episode with no single-file release gets its links from a batch containing its CRC32, preferring one of the same cut
 - Falls back to the existing Nyaa RSS search only for CRCs the feed doesn't cover
 
 ### ✔ Export System

@@ -3,9 +3,7 @@ package fetch
 import (
 	"encoding/xml"
 	"fmt"
-	"net/http"
 	"net/url"
-	"regexp"
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
@@ -18,10 +16,6 @@ import (
 // plain XML endpoint (no headless Chrome needed) that covers the full
 // release history, keyed by BitTorrent infoHash.
 const onePaceReleasesFeed = "https://onepace.net/en/releases/atom.xml"
-
-// dnCRCRe pulls the trailing CRC32 bracket out of a release filename, e.g.
-// "[One Pace][1011-1012] Wano 61 [1080p][1EF3F26C].mkv" → "1EF3F26C".
-var dnCRCRe = regexp.MustCompile(`\[([0-9A-Fa-f]{8})\](?:\.\w+)?$`)
 
 //
 // ===== ATOM FEED SHAPE =====
@@ -60,15 +54,11 @@ type atomContent struct {
 
 // FetchReleases downloads and parses the onepace.net releases feed.
 func FetchReleases() ([]model.Release, error) {
-	resp, err := http.Get(onePaceReleasesFeed)
+	resp, err := get(onePaceReleasesFeed)
 	if err != nil {
 		return nil, fmt.Errorf("fetch releases feed: %w", err)
 	}
 	defer resp.Body.Close()
-
-	if resp.StatusCode != http.StatusOK {
-		return nil, fmt.Errorf("fetch releases feed: status %d", resp.StatusCode)
-	}
 
 	var feed atomFeed
 	if err := xml.NewDecoder(resp.Body).Decode(&feed); err != nil {
@@ -99,7 +89,7 @@ func parseAtomEntry(entry atomEntry) model.Release {
 		switch {
 		case strings.HasPrefix(link.Href, "magnet:"):
 			release.MagnetURI = link.Href
-			release.CRC32 = crcFromMagnet(link.Href)
+			release.CRC32 = parse.FilenameCRC(dnFromMagnet(link.Href))
 		case link.Rel == "enclosure":
 			release.TorrentURL = link.Href
 		case link.Rel == "related":
@@ -136,23 +126,14 @@ func parseAtomEntry(entry atomEntry) model.Release {
 	return release
 }
 
-// crcFromMagnet extracts the CRC32 embedded in a magnet URI's "dn" filename.
-func crcFromMagnet(magnetURI string) string {
-	raw := strings.TrimPrefix(magnetURI, "magnet:?")
-	values, err := url.ParseQuery(raw)
+// dnFromMagnet returns a magnet URI's "dn" (display name): the release
+// filename for single-file releases, e.g.
+// "[One Pace][1011-1012] Wano 61 [1080p][1EF3F26C].mkv", or the folder name
+// for batch releases, which carries no CRC.
+func dnFromMagnet(magnetURI string) string {
+	values, err := url.ParseQuery(strings.TrimPrefix(magnetURI, "magnet:?"))
 	if err != nil {
 		return ""
 	}
-
-	dn := values.Get("dn")
-	if dn == "" {
-		return ""
-	}
-
-	match := dnCRCRe.FindStringSubmatch(dn)
-	if len(match) < 2 {
-		return ""
-	}
-
-	return strings.ToUpper(match[1])
+	return values.Get("dn")
 }

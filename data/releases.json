@@ -922,6 +922,20 @@
     "info_hash": "223c03b59b75bafcd4d4cf722319fbf6b7e0de08",
     "torrent_url": "https://onepace.net/torrents/223c03b59b75bafcd4d4cf722319fbf6b7e0de08.torrent",
     "magnet_uri": "magnet:?xt=urn:btih:223c03b59b75bafcd4d4cf722319fbf6b7e0de08\u0026dn=%5BOne+Pace%5D%5B525-548%5D+Impel+Down+%5B720p%5D\u0026tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80\u0026tr=udp%3A%2F%2Ftracker.publicbt.com%3A80\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337\u0026tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969\u0026tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969\u0026tr=udp%3A%2F%2Fzer0day.ch%3A1337\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969\u0026tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce\u0026tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce",
+    "file_crc32s": [
+      "C1FA3347",
+      "7306EDA1",
+      "ECA0E5A1",
+      "38C7B3F3",
+      "17883DE5",
+      "EA320238",
+      "710A0767",
+      "CCB84D29",
+      "683EDC5C",
+      "F0C33425",
+      "540A9642"
+    ],
+    "file_count": 11,
     "normalized_variant": "outdated"
   },
   "22b7b193c5354584a48966995c3966fdb2c1d338": {
